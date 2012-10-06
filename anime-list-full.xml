@@ -16131,6 +16131,18 @@
   <anime anidbid="5737" tvdbid="hentai" defaulttvdbseason="1">
     <name>Binetsu Hime</name>
   </anime>
+  <anime anidbid="5739" tvdbid="84911" defaulttvdbseason="1">
+    <name>Yuu Gi Ou 5D's</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="1">;1-1;2-2;3-3;4-4;5-5;6-6;7-7;8-8;9-9;10-10;11-11;12-12;13-13;14-14;15-15;16-16;17-17;18-18;19-19;20-20;21-21;22-22;23-23;24-24;25-25;26-26;</mapping>
+      <mapping anidbseason="1" tvdbseason="2">;27-1;28-2;29-3;30-4;31-5;32-6;33-7;34-8;35-9;36-10;37-11;38-12;39-13;10-14;41-15;42-16;43-17;44-18;45-19;46-20;47-21;48-22;49-23;50-24;51-25;52-26;53-27;54-28;55-29;56-30;57-31;58-32;59-33;60-34;61-35;62-36;63-37;64-38;</mapping>
+      <mapping anidbseason="1" tvdbseason="3">;65-1;66-2;67-3;68-4;69-5;70-6;71-7;72-8;73-9;74-10;75-11;76-12;77-13;78-14;79-15;80-16;81-17;82-18;83-19;84-20;85-21;86-22;87-23;88-24;89-25;90-26;91-27;92-28;</mapping>
+      <mapping anidbseason="1" tvdbseason="4">;93-1;94-2;95-3;96-4;97-5;98-6;99-7;100-8;101-9;102-10;103-11;104-12;105-13;106-14;107-15;108-16;109-17;110-18;111-19;112-20;113-21;114-22;115-23;116-24;117-25;118-26;119-27;120-28;121-29;122-30;123-31;124-32;125-33;126-34;127-35;128-36;129-37;130-38;131-39;132-40;133-41;134-42;135-43;136-44;137-45;138-46;139-47;140-48;141-49;142-50;143-51;144-52;145-53;146-54;147-55;148-56;149-57;150-58;151-59;152-60;153-61;154-62;</mapping>
+    </mapping-list>
+  </anime>
+  <anime anidbid="5742" tvdbid="tv special" defaulttvdbseason="1">
+    <name>Ginga Tansa 2100-nen: Border Planet</name>
+  </anime>
   <anime anidbid="5745" tvdbid="79194" defaulttvdbseason="0">
     <name>School Rumble San Gakki</name>
     <mapping-list>
@@ -16139,6 +16151,9 @@
   </anime>
   <anime anidbid="5746" tvdbid="81849" defaulttvdbseason="1">
     <name>Golgo 13 (2008)</name>
+  </anime>
+  <anime anidbid="5747" tvdbid="unknown" defaulttvdbseason="1">
+    <name>Koala Boy Kocky</name>
   </anime>
   <anime anidbid="5749" tvdbid="80158" defaulttvdbseason="3">
     <name>Ikkitousen: Great Guardians</name>
@@ -16152,8 +16167,23 @@
       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
 	</mapping-list>
   </anime>
+  <anime anidbid="5751" tvdbid="249865" defaulttvdbseason="0">
+    <name>The Idolmaster: Live for You!</name>
+  </anime>
+  <anime anidbid="5754" tvdbid="unknown" defaulttvdbseason="3">
+    <name>Catman Series 3</name>
+  </anime>
+  <anime anidbid="5755" tvdbid="227501" defaulttvdbseason="0">
+    <name>Mashin Eiyuuden Wataru: Owarinaki Toki no Monogatari</name>
+  </anime>
   <anime anidbid="5756" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0202966">
     <name>Kappa no Sanpei</name>
+  </anime>
+  <anime anidbid="5760" tvdbid="OVA" defaulttvdbseason="1" imdbid="unknown">
+    <name>Meisou-Ou Border</name>
+  </anime>
+  <anime anidbid="5764" tvdbid="hentai" defaulttvdbseason="1">
+    <name>In'youchuu Shoku: Ryoushokutou Taimaroku</name>
   </anime>
   <anime anidbid="5770" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Kankara Sanshin</name>
@@ -16167,8 +16197,17 @@
       <mapping anidbseason="1" tvdbseason="0">;1-15;</mapping>
     </mapping-list>
   </anime>
+  <anime anidbid="5773" tvdbid="227751" defaulttvdbseason="1">
+    <name>Net Ghost Pipopa</name>
+  </anime>
   <anime anidbid="5774" tvdbid="83807" defaulttvdbseason="3">
     <name>Masuda Kousuke Gekijou Gag Manga Biyori 3</name>
+  </anime>
+  <anime anidbid="5775" tvdbid="tv special" defaulttvdbseason="1" imdbid="unknown">
+    <name>Jean Valjean Monogatari</name>
+  </anime>
+  <anime anidbid="5778" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Chounouryoku Shoujo Barabanba</name>
   </anime>
   <anime anidbid="5779" tvdbid="83475" defaulttvdbseason="1">
     <name>Michiko to Hatchin</name>
@@ -16187,6 +16226,9 @@
   </anime>
   <anime anidbid="5787" tvdbid="82788" defaulttvdbseason="1">
     <name>Natsume Yuujinchou</name>
+  </anime>
+  <anime anidbid="5788" tvdbid="unknown" defaulttvdbseason="1">
+    <name>Momotarou Densetsu</name>
   </anime>
   <anime anidbid="5789" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Isewan Taifuu Monogatari</name>
@@ -17720,6 +17762,9 @@
       <mapping anidbseason="0" tvdbseason="0">;13-1;</mapping>
     </mapping-list>
   </anime>
+  <anime anidbid="6775" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Injuu Seisen XX</name>
+  </anime>
   <anime anidbid="6777" tvdbid="93281" defaulttvdbseason="2">
     <name>Tentai Senshi Sunred 2</name>
   </anime>
@@ -18527,7 +18572,7 @@
   <anime anidbid="7056" tvdbid="119781" defaulttvdbseason="1">
     <name>Aoi Bungaku Series</name>
   </anime>
-  <anime anidbid="7057" tvdbid="unknown" defaulttvdbseason="1">
+  <anime anidbid="7057" tvdbid="unknown" defaulttvdbseason="2">
     <name>Peach Command Shin Momotarou Densetsu</name>
   </anime>
   <anime anidbid="7058" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
@@ -23224,6 +23269,9 @@
   </anime>
   <anime anidbid="9298" tvdbid="262106" defaulttvdbseason="1">
     <name>Kami-sama Hajimemashita</name>
+  </anime>
+  <anime anidbid="9304" tvdbid="262954" defaulttvdbseason="1">
+    <name>JoJo no Kimyou na Bouken (2012)</name>
   </anime>
   <anime anidbid="9354" tvdbid="web" defaulttvdbseason="1">
     <name>Shake-chan</name>

@@ -393,8 +393,8 @@
   <anime anidbid="87" tvdbid="71444" defaulttvdbseason="1">
     <name>Fushigi Yuugi</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="1">;1-1;2-2;3-3;4-4;5-5;6-6;7-7;8-8;9-9;10-10;11-11;12-12;13-13;14-14;15-15;16-16;17-17;18-18;19-19;20-20;21-21;22-22;23-23;24-24;25-25;26-26;</mapping>
-      <mapping anidbseason="1" thetvdbseason="2">;27-1;28-2;29-3;30-4;31-5;32-6;33-7;34-8;35-9;36-10;37-11;38-12;39-13;40-14;41-15;42-16;43-17;44-18;45-19;46-20;47-21;48-22;49-23;50-24;51-25;52-26;</mapping>
+      <mapping anidbseason="1" tvdbseason="1">;1-1;2-2;3-3;4-4;5-5;6-6;7-7;8-8;9-9;10-10;11-11;12-12;13-13;14-14;15-15;16-16;17-17;18-18;19-19;20-20;21-21;22-22;23-23;24-24;25-25;26-26;</mapping>
+      <mapping anidbseason="1" tvdbseason="2">;27-1;28-2;29-3;30-4;31-5;32-6;33-7;34-8;35-9;36-10;37-11;38-12;39-13;40-14;41-15;42-16;43-17;44-18;45-19;46-20;47-21;48-22;49-23;50-24;51-25;52-26;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="88" tvdbid="80790" defaulttvdbseason="1">
@@ -418,9 +418,9 @@
   <anime anidbid="92" tvdbid="79857" defaulttvdbseason="1">
     <name>Shaman King</name>
     <mapping-list>
-      <mapping anidbseason="0" thetvdbseason="0">;1-1;2-2;3-3;4-0;5-4;</mapping>
-      <mapping anidbseason="1" thetvdbseason="1">;1-1;2-2;3-3;4-4;5-5;6-6;7-7;8-8;9-9;10-10;11-11;12-12;13-13;14-14;15-15;16-16;17-17;18-18;19-19;20-20;21-21;22-22;23-23;24-24;25-25;26-26;27-27;28-28;29-29;30-30;31-31;32-32;33-33;34-34;</mapping>
-      <mapping anidbseason="1" thetvdbseason="2">;35-1;36-2;37-3;38-4;39-5;40-6;41-7;42-8;43-9;44-10;45-11;46-12;47-13;48-14;49-15;50-16;51-17;52-18;53-19;54-20;55-21;56-22;57-23;58-24;59-25;60-26;61-27;62-28;63-29;64-30;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-1;2-2;3-3;4-0;5-4;</mapping>
+      <mapping anidbseason="1" tvdbseason="1">;1-1;2-2;3-3;4-4;5-5;6-6;7-7;8-8;9-9;10-10;11-11;12-12;13-13;14-14;15-15;16-16;17-17;18-18;19-19;20-20;21-21;22-22;23-23;24-24;25-25;26-26;27-27;28-28;29-29;30-30;31-31;32-32;33-33;34-34;</mapping>
+      <mapping anidbseason="1" tvdbseason="2">;35-1;36-2;37-3;38-4;39-5;40-6;41-7;42-8;43-9;44-10;45-11;46-12;47-13;48-14;49-15;50-16;51-17;52-18;53-19;54-20;55-21;56-22;57-23;58-24;59-25;60-26;61-27;62-28;63-29;64-30;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="93" tvdbid="72792" defaulttvdbseason="1">
@@ -636,8 +636,8 @@
   <anime anidbid="146" tvdbid="71682" defaulttvdbseason="1">
     <name>Rockman.EXE</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="1">;1-1;2-2;3-3;4-4;5-5;6-6;7-7;8-8;9-9;10-10;11-11;12-12;13-13;14-14;15-15;16-16;17-17;18-18;19-19;20-20;21-21;22-22;23-23;24-24;25-25;</mapping>
-      <mapping anidbseason="1" thetvdbseason="2">;26-1;27-2;28-3;29-4;30-5;31-6;32-7;33-8;34-9;35-10;36-11;37-12;38-13;39-14;40-15;41-16;42-17;43-18;44-19;45-20;46-21;47-22;48-23;49-24;50-25;51-26;52-27;53-28;54-29;55-30;56-31;</mapping>
+      <mapping anidbseason="1" tvdbseason="1">;1-1;2-2;3-3;4-4;5-5;6-6;7-7;8-8;9-9;10-10;11-11;12-12;13-13;14-14;15-15;16-16;17-17;18-18;19-19;20-20;21-21;22-22;23-23;24-24;25-25;</mapping>
+      <mapping anidbseason="1" tvdbseason="2">;26-1;27-2;28-3;29-4;30-5;31-6;32-7;33-8;34-9;35-10;36-11;37-12;38-13;39-14;40-15;41-16;42-17;43-18;44-19;45-20;46-21;47-22;48-23;49-24;50-25;51-26;52-27;53-28;54-29;55-30;56-31;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="147" tvdbid="79295" defaulttvdbseason="1" imdbid="tt0107061">
@@ -698,13 +698,13 @@
   <anime anidbid="164" tvdbid="71444" defaulttvdbseason="3">
     <name>Fushigi Yuugi: Dai Ni Bu</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="3">;1-4;2-5;3-6;4-7;5-8;6-9;</mapping>
+      <mapping anidbseason="1" tvdbseason="3">;1-4;2-5;3-6;4-7;5-8;6-9;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="165" tvdbid="71444" defaulttvdbseason="3">
     <name>Fushigi Yuugi: Eikouden</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="3">;1-10;2-11;3-12;4-13;</mapping>
+      <mapping anidbseason="1" tvdbseason="3">;1-10;2-11;3-12;4-13;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="166" tvdbid="OVA" defaulttvdbseason="1" imdbid="tt0094668">
@@ -841,7 +841,7 @@
   <anime anidbid="197" tvdbid="82706" defaulttvdbseason="1">
     <name>Iria: Zeiram the Animation</name>
     <mapping-list>
-      <mapping anidbseason="0" thetvdbseason="0">;1-1;2-1;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-1;2-1;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="198" tvdbid="120031" defaulttvdbseason="1">
@@ -895,19 +895,19 @@
   <anime anidbid="210" tvdbid="75534" defaulttvdbseason="0">
     <name>Street Fighter Zero: The Animation</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-2;2-2;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-2;2-2;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="211" tvdbid="79156" defaulttvdbseason="0" imdbid="tt0142371">
     <name>Hokuto no Ken (1986)</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-1;2-1;3-1;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-1;2-1;3-1;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="213" tvdbid="72445" defaulttvdbseason="0">
     <name>Chivas 1-2-3</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-4;2-5;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-4;2-5;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="214" tvdbid="79446" defaulttvdbseason="0">
@@ -1298,7 +1298,7 @@
   <anime anidbid="304" tvdbid="72454" defaulttvdbseason="0" imdbid="tt0131479">
     <name>Meitantei Conan: Tokei Jikake no Matenrou</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-1;2-1;3-1;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-1;2-1;3-1;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="305" tvdbid="255580" defaulttvdbseason="2">
@@ -1334,7 +1334,7 @@
   <anime anidbid="313" tvdbid="75534" defaulttvdbseason="0" imdbid="tt0114563">
     <name>Street Fighter II: The Movie</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-1;2-1;3-1;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-1;2-1;3-1;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="314" tvdbid="82950" defaulttvdbseason="0">
@@ -1376,8 +1376,8 @@
   <anime anidbid="326" tvdbid="75534" defaulttvdbseason="0" imdbid="tt0169880">
     <name>Shinseiki Evangelion Gekijouban: Shi to Shinsei</name>
     <mapping-list>
-      <mapping anidbseason="0" thetvdbseason="0">;1-0;2-0;</mapping>
-      <mapping anidbseason="1" thetvdbseason="0">;1-1;2-1;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-1;2-1;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="327" tvdbid="76968" defaulttvdbseason="1">
@@ -1535,13 +1535,13 @@
   <anime anidbid="367" tvdbid="76932" defaulttvdbseason="0" imdbid="tt0101583">
     <name>Ranma 1/2: Chuugoku Nekonron Daikessen! Okite Yaburi no Gekitou Hen!!</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-1;2-1;3-1;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-1;2-1;3-1;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="368" tvdbid="76932" defaulttvdbseason="0" imdbid="tt0104604">
     <name>Ranma 1/2: Kessen Tougenkyou! Hanayome o Torimodose!</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-2;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="369" tvdbid="71313" defaulttvdbseason="0" imdbid="tt0407924">
@@ -1795,7 +1795,7 @@
   <anime anidbid="415" tvdbid="82029" defaulttvdbseason="0" imdbid="tt0237687">
     <name>Sakura Taisen: Katsudou Shashin</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-1;2-1;3-1;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-1;2-1;3-1;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="416" tvdbid="76664" defaulttvdbseason="1">
@@ -1831,7 +1831,7 @@
   <anime anidbid="423" tvdbid="71634" defaulttvdbseason="0">
     <name>Rayearth</name>
     <mapping-list>
-      <mapping anidbseason="0" thetvdbseason="0">;1-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="424" tvdbid="84509" defaulttvdbseason="1">
@@ -2455,19 +2455,19 @@
   <anime anidbid="601" tvdbid="71776" defaulttvdbseason="0">
     <name>Maison Ikkoku: Bangaihen Ikkokujima Nanpa Shimatsuki</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-3;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="602" tvdbid="81432" defaulttvdbseason="0">
     <name>Maze Bakunetsu Jikuu</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-2;2-3;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-2;2-3;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="603" tvdbid="81789" defaulttvdbseason="0" imdbid="tt0160558">
     <name>Fushigi no Umi no Nadia Gekijou you Original Han</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-12;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-12;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="604" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0311618">
@@ -2497,7 +2497,7 @@
   <anime anidbid="612" tvdbid="81003" defaulttvdbseason="1">
     <name>Hungry Heart: Wild Striker</name>
     <mapping-list>
-      <mapping anidbseason="0" thetvdbseason="0">;1-0;2-1;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-1;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="613" tvdbid="hentai" defaulttvdbseason="1">
@@ -3407,7 +3407,7 @@
   <anime anidbid="867" tvdbid="72454" defaulttvdbseason="0" imdbid="tt0990372">
     <name>Meitantei Conan: Baker Street no Bourei</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-8;2-8;3-8;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-8;2-8;3-8;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="868" tvdbid="79453" defaulttvdbseason="1">
@@ -3425,7 +3425,7 @@
   <anime anidbid="872" tvdbid="79654" defaulttvdbseason="0" imdbid="tt1149379">
     <name>Crayon Shin-chan: Arashi o Yobu Eikou no Yakiniku Road</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-11;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-11;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="873" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0109872">
@@ -3467,7 +3467,7 @@
   <anime anidbid="884" tvdbid="72025" defaulttvdbseason="0">
     <name>Seikai no Senki Tokubetsu Hen</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-2;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="885" tvdbid="hentai" defaulttvdbseason="1">
@@ -4134,7 +4134,7 @@
   <anime anidbid="1065" tvdbid="72454" defaulttvdbseason="0" imdbid="tt1073223">
     <name>Meitantei Conan: Tengoku e no Count Down</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-6;2-6;3-6;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-6;2-6;3-6;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="1066" tvdbid="hentai" defaulttvdbseason="1">
@@ -5104,8 +5104,8 @@
   <anime anidbid="1382" tvdbid="73315" defaulttvdbseason="1">
     <name>Zoids</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="1">;1-1;2-2;3-3;4-4;5-5;6-6;7-7;8-8;9-9;10-10;11-11;12-12;13-13;14-14;15-15;16-16;17-17;18-18;19-19;20-20;21-21;22-22;23-23;24-24;25-25;26-26;27-27;28-28;29-29;30-30;31-31;32-32;33-33;34-34;</mapping>
-      <mapping anidbseason="1" thetvdbseason="2">;35-1;36-2;37-3;38-4;39-5;40-6;41-7;42-8;43-9;44-10;45-11;46-12;47-13;48-14;49-15;50-16;51-17;52-18;53-19;54-20;55-21;56-22;57-23;58-24;59-25;60-26;61-27;62-28;63-29;64-30;65-31;66-32;67-33;</mapping>
+      <mapping anidbseason="1" tvdbseason="1">;1-1;2-2;3-3;4-4;5-5;6-6;7-7;8-8;9-9;10-10;11-11;12-12;13-13;14-14;15-15;16-16;17-17;18-18;19-19;20-20;21-21;22-22;23-23;24-24;25-25;26-26;27-27;28-28;29-29;30-30;31-31;32-32;33-33;34-34;</mapping>
+      <mapping anidbseason="1" tvdbseason="2">;35-1;36-2;37-3;38-4;39-5;40-6;41-7;42-8;43-9;44-10;45-11;46-12;47-13;48-14;49-15;50-16;51-17;52-18;53-19;54-20;55-21;56-22;57-23;58-24;59-25;60-26;61-27;62-28;63-29;64-30;65-31;66-32;67-33;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="1383" tvdbid="137801" defaulttvdbseason="1">
@@ -7142,7 +7142,7 @@
   <anime anidbid="2052" tvdbid="72454" defaulttvdbseason="0" imdbid="tt1133935">
     <name>Meitantei Conan: Meikyuu no Crossroad</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-10;2-10;3-10;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-10;2-10;3-10;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="2053" tvdbid="hentai" defaulttvdbseason="1">
@@ -8092,7 +8092,7 @@
   <anime anidbid="2328" tvdbid="72454" defaulttvdbseason="0" imdbid="tt1133559">
     <name>Meitantei Conan: Gin'yoku no Magician</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-12;2-12;3-12;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-12;2-12;3-12;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="2329" tvdbid="unknown" defaulttvdbseason="1">
@@ -9013,19 +9013,19 @@
   <anime anidbid="2645" tvdbid="72454" defaulttvdbseason="0" imdbid="tt0965649">
     <name>Meitantei Conan: Juuyonbanme no Target</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-2;2-2;3-2;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-2;2-2;3-2;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="2646" tvdbid="72454" defaulttvdbseason="0" imdbid="tt1067920">
     <name>Meitantei Conan: Seikimatsu no Majutsushi</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-3;2-3;3-3;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-3;2-3;3-3;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="2647" tvdbid="72454" defaulttvdbseason="0" imdbid="tt1068773">
     <name>Meitantei Conan: Hitomi no Naka no Ansatsusha</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-5;2-5;3-5;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-5;2-5;3-5;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="2648" tvdbid="OVA" defaulttvdbseason="1">
@@ -9319,8 +9319,8 @@
   <anime anidbid="2763" tvdbid="72454" defaulttvdbseason="0" imdbid="tt1133936">
     <name>Meitantei Conan: Suihei Senjou no Strategy</name>
     <mapping-list>
-      <mapping anidbseason="0" thetvdbseason="0">;1-0;</mapping>
-      <mapping anidbseason="1" thetvdbseason="0">;1-14;2-14;3-14;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-14;2-14;3-14;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="2764" tvdbid="84743" defaulttvdbseason="0" imdbid="tt1345460">
@@ -10747,7 +10747,7 @@
   <anime anidbid="3374" tvdbid="81432" defaulttvdbseason="0" imdbid="unknown">
     <name>Maze Bakunetsu Jikuu: Tenpen Kyoui no Giant</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="3375" tvdbid="unknown" defaulttvdbseason="1">
@@ -10759,13 +10759,13 @@
   <anime anidbid="3379" tvdbid="70516" defaulttvdbseason="0">
     <name>Yoroiden Samurai Troopers Kikoutei Densetsu</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-3;2-4;3-5;4-6;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-3;2-4;3-5;4-6;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="3380" tvdbid="70516" defaulttvdbseason="0">
     <name>Yoroiden Samurai Troopers Message</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-7;2-8;3-9;4-10;5-11;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-7;2-8;3-9;4-10;5-11;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="3381" tvdbid="160431" defaulttvdbseason="1">
@@ -10786,7 +10786,7 @@
   <anime anidbid="3386" tvdbid="75967" defaulttvdbseason="0">
     <name>Bakuretsu Tenshi: Infinity</name>
     <mapping-list>
-      <mapping anidbseason="0" thetvdbseason="0">;1-2;2-0;3-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;2-0;3-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="3388" tvdbid="unknown" defaulttvdbseason="1">
@@ -10798,7 +10798,7 @@
   <anime anidbid="3390" tvdbid="72454" defaulttvdbseason="0" imdbid="tt1339463">
     <name>Meitantei Conan: Conan vs Kid vs Yaiba</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-4;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="3392" tvdbid="81832" defaulttvdbseason="0" tmdbid="18837">
@@ -11383,7 +11383,7 @@
   <anime anidbid="3591" tvdbid="72454" defaulttvdbseason="0">
     <name>Meitantei Conan: 16 Nin no Yougisha</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-7</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-7</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="3592" tvdbid="unknown" defaulttvdbseason="1">
@@ -11398,19 +11398,19 @@
   <anime anidbid="3596" tvdbid="72454" defaulttvdbseason="0">
     <name>Meitantei Conan: Conan to Heiji to Kieta Shounen</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-9;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-9;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="3597" tvdbid="72454" defaulttvdbseason="0">
     <name>Meitantei Conan: Conan to Kid to Crystal Mother</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-11;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-11;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="3598" tvdbid="72454" defaulttvdbseason="0">
     <name>Meitantei Conan: Hyouteki wa Kogoro! Shounen Tanteidan Maruhi Chousa</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-13;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-13;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="3599" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0422608">
@@ -11588,7 +11588,7 @@
   <anime anidbid="3658" tvdbid="75534" defaulttvdbseason="0">
     <name>Street Fighter Alpha: Generations</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-3;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="3659" tvdbid="unknown" defaulttvdbseason="1">
@@ -12464,8 +12464,8 @@
   <anime anidbid="4187" tvdbid="72454" defaulttvdbseason="0" imdbid="tt0498536">
     <name>Meitantei Conan: Tantei-tachi no Requiem</name>
     <mapping-list>
-      <mapping anidbseason="0" thetvdbseason="0">;1-0;</mapping>
-      <mapping anidbseason="1" thetvdbseason="0">;1-16;2-16;3-16;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-16;2-16;3-16;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="4188" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
@@ -12824,7 +12824,7 @@
   <anime anidbid="4319" tvdbid="128411" defaulttvdbseason="0" imdbid="unknown">
     <name>Majime ni Fumajime Kaiketsu Zorori Nazo no Otakara Daisakusen</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-3;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="4320" tvdbid="unknown" defaulttvdbseason="1">
@@ -12923,7 +12923,7 @@
   <anime anidbid="4366" tvdbid="81466" defaulttvdbseason="1">
     <name>Kidou Senshi Gundam SEED C.E. 73 Stargazer</name>
     <mapping-list>
-      <mapping anidbseason="0" thetvdbseason="0">;1-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="4367" tvdbid="207081" defaulttvdbseason="1">
@@ -13192,7 +13192,7 @@
   <anime anidbid="4504" tvdbid="72454" defaulttvdbseason="0">
     <name>Meitantei Conan: Kieta Daiya o Oe! Conan &amp; Heiji VS Kid!</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-15;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-15;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="4509" tvdbid="159551" defaulttvdbseason="1">
@@ -13494,7 +13494,7 @@
   <anime anidbid="4622" tvdbid="79654" defaulttvdbseason="0" imdbid="tt0831848">
     <name>Crayon Shin-chan: Arashi o Yobu Mouretsu! Otona Teikoku Gyakushuu</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-9;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-9;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="4623" tvdbid="unknown" defaulttvdbseason="1">
@@ -13506,19 +13506,19 @@
   <anime anidbid="4625" tvdbid="79654" defaulttvdbseason="0" imdbid="tt0477602">
     <name>Crayon Shin-chan: Buriburi Oukoku no Hihou</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-2;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="4626" tvdbid="79654" defaulttvdbseason="0" imdbid="tt2098658">
     <name>Eiga Crayon Shin-chan: Unkokusai no Yabou</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-3;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="4627" tvdbid="79654" defaulttvdbseason="0" imdbid="tt1033485">
     <name>Eiga Crayon Shin-chan: Densetsu o Yobu Odore! Amigo!</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-14;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-14;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="4628" tvdbid="unknown" defaulttvdbseason="2">
@@ -13539,7 +13539,7 @@
   <anime anidbid="4636" tvdbid="72454" defaulttvdbseason="0">
     <name>Aoyama Goushou Tanpenshuu</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-44;2-45;3-46;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-44;2-45;3-46;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="4637" tvdbid="80814" defaulttvdbseason="1">
@@ -13737,31 +13737,31 @@
   <anime anidbid="4703" tvdbid="79654" defaulttvdbseason="0" imdbid="unknown">
     <name>Eiga Crayon Shin-chan: Henderland no Daibouken</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-4;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="4704" tvdbid="79654" defaulttvdbseason="0" imdbid="tt0406672">
     <name>Crayon Shin-chan: Ankoku Tamatama Daitsuiseki</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-5;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-5;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="4705" tvdbid="79654" defaulttvdbseason="0" imdbid="unknown">
     <name>Eiga Crayon Shin-chan: Dengeki! Buta no Hizume Daisakusen</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-6;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-6;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="4706" tvdbid="79654" defaulttvdbseason="0" imdbid="unknown">
     <name>Eiga Crayon Shin-chan: Bakuhatsu! Onsen Wakuwaku Daikessen</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-7;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-7;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="4707" tvdbid="79654" defaulttvdbseason="0" imdbid="tt2180441">
     <name>Crayon Shin-chan: Arashi o Yobu Jungle</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-8;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-8;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="4708" tvdbid="79878" defaulttvdbseason="1">
@@ -14346,7 +14346,7 @@
   <anime anidbid="4937" tvdbid="72454" defaulttvdbseason="0" imdbid="tt1146290">
     <name>Meitantei Conan: Konpeki no Jolly Roger</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-19;2-19;3-19;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-19;2-19;3-19;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="4938" tvdbid="81100" defaulttvdbseason="0" imdbid="tt0984049">
@@ -14619,8 +14619,8 @@
   <anime anidbid="5044" tvdbid="80147" defaulttvdbseason="1">
     <name>Blue Dragon</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="1">;1-1;2-2;3-3;4-4;5-5;6-6;7-7;8-8;9-9;10-10;11-11;12-12;13-13;14-14;15-15;16-16;17-17;18-18;19-19;20-20;21-21;22-22;23-23;24-24;25-25;</mapping>
-      <mapping anidbseason="1" thetvdbseason="2">;26-1;27-2;28-3;29-4;30-5;31-6;32-7;33-8;34-9;35-10;36-11;37-12;38-13;39-14;40-15;41-16;42-17;43-18;44-19;45-20;46-21;47-22;48-23;49-24;50-25;51-26;</mapping>
+      <mapping anidbseason="1" tvdbseason="1">;1-1;2-2;3-3;4-4;5-5;6-6;7-7;8-8;9-9;10-10;11-11;12-12;13-13;14-14;15-15;16-16;17-17;18-18;19-19;20-20;21-21;22-22;23-23;24-24;25-25;</mapping>
+      <mapping anidbseason="1" tvdbseason="2">;26-1;27-2;28-3;29-4;30-5;31-6;32-7;33-8;34-9;35-10;36-11;37-12;38-13;39-14;40-15;41-16;42-17;43-18;44-19;45-20;46-21;47-22;48-23;49-24;50-25;51-26;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="5046" tvdbid="252696" defaulttvdbseason="0" imdbid="tt1147522">
@@ -15567,7 +15567,7 @@
   <anime anidbid="5444" tvdbid="72454" defaulttvdbseason="0">
     <name>Meitantei Conan: Agasa-sensei no Chousenjou! Agasa vs Conan &amp; Shounen Tanteidan</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-17;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-17;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="5446" tvdbid="82847" defaulttvdbseason="1">
@@ -15588,7 +15588,7 @@
   <anime anidbid="5454" tvdbid="79882" defaulttvdbseason="0">
     <name>Haruka Naru Toki no Naka de 3: Kurenai no Tsuki</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-7;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-7;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="5456" tvdbid="unknown" defaulttvdbseason="1">
@@ -16386,8 +16386,8 @@
   <anime anidbid="5869" tvdbid="80147" defaulttvdbseason="1">
     <name>Blue Dragon: Tenkai no Shichi Ryuu</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="1">;1-1;2-2;3-3;4-4;5-5;6-6;7-7;8-8;9-9;10-10;11-11;12-12;13-13;14-14;15-15;16-16;17-17;18-18;19-19;20-20;21-21;22-22;23-23;24-24;25-25;</mapping>
-      <mapping anidbseason="1" thetvdbseason="2">;26-1;27-2;28-3;29-4;30-5;31-6;32-7;33-8;34-9;35-10;36-11;37-12;38-13;39-14;40-15;41-16;42-17;43-18;44-19;45-20;46-21;47-22;48-23;49-24;50-25;51-26;</mapping>
+      <mapping anidbseason="1" tvdbseason="1">;1-1;2-2;3-3;4-4;5-5;6-6;7-7;8-8;9-9;10-10;11-11;12-12;13-13;14-14;15-15;16-16;17-17;18-18;19-19;20-20;21-21;22-22;23-23;24-24;25-25;</mapping>
+      <mapping anidbseason="1" tvdbseason="2">;26-1;27-2;28-3;29-4;30-5;31-6;32-7;33-8;34-9;35-10;36-11;37-12;38-13;39-14;40-15;41-16;42-17;43-18;44-19;45-20;46-21;47-22;48-23;49-24;50-25;51-26;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="5870" tvdbid="80320" defaulttvdbseason="2">
@@ -16531,7 +16531,7 @@
   <anime anidbid="5934" tvdbid="72454" defaulttvdbseason="0" imdbid="tt1155696">
     <name>Meitantei Conan: Senritsu no Full Score</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-22;2-22;3-22;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-22;2-22;3-22;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="5935" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0419152">
@@ -16992,19 +16992,19 @@
   <anime anidbid="6240" tvdbid="72454" defaulttvdbseason="0">
     <name>Meitantei Conan: Joshikousei Tantei Suzuki Sonoko no Jikenbo</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-20;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-20;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="6242" tvdbid="72454" defaulttvdbseason="0" imdbid="unknown">
     <name>Meitantei Conan: Conan vs Kid - Shark &amp; Jewel</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="6243" tvdbid="72454" defaulttvdbseason="0" imdbid="unknown">
     <name>Meitantei Conan: Conan vs Kid - Shikkoku no Sniper</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="6244" tvdbid="87851" defaulttvdbseason="1">
@@ -17013,7 +17013,7 @@
   <anime anidbid="6245" tvdbid="72454" defaulttvdbseason="0" imdbid="tt1343046">
     <name>Meitantei Conan: Shikkoku no Chaser</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-25;2-25;3-25;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-25;2-25;3-25;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="6246" tvdbid="87841" defaulttvdbseason="1">
@@ -17229,7 +17229,7 @@
   <anime anidbid="6393" tvdbid="76932" defaulttvdbseason="0">
     <name>Ranma 1/2: Nettou Uta Gassen</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-0;2-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-0;2-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="6395" tvdbid="movie" defaulttvdbseason="1" imdbid="tt1361566">
@@ -17289,7 +17289,7 @@
   <anime anidbid="6432" tvdbid="72454" defaulttvdbseason="0" imdbid="tt1397219">
     <name>Lupin Sansei vs Meitantei Conan</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-23</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-23</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="6433" tvdbid="unknown" defaulttvdbseason="0" imdbid="tt1401235">
@@ -17726,7 +17726,7 @@
   <anime anidbid="6650" tvdbid="72454" defaulttvdbseason="0">
     <name>Meitantei Conan: 10 Nengo no Stranger</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-26;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-26;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="6651" tvdbid="movie" defaulttvdbseason="1" imdbid="tt1397147">
@@ -19084,8 +19084,8 @@
   <anime anidbid="7191" tvdbid="72454" defaulttvdbseason="0">
     <name>Aoyama Goushou Tanpenshuu 2</name>
     <mapping-list>
-      <mapping anidbseason="0" thetvdbseason="0">;1-50;</mapping>
-      <mapping anidbseason="1" thetvdbseason="0">;1-47;2-48;3-49;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-50;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-47;2-48;3-49;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="7193" tvdbid="movie" defaulttvdbseason="1" imdbid="tt1092363">
@@ -19145,7 +19145,7 @@
   <anime anidbid="7232" tvdbid="72454" defaulttvdbseason="0">
     <name>Meitantei Conan Magic File 3: Shin'ichi to Ran Mahjong Pai to Tanabata no Omoide</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-24;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-24;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="7233" tvdbid="193841" defaulttvdbseason="1">
@@ -19196,7 +19196,7 @@
   <anime anidbid="7250" tvdbid="72454" defaulttvdbseason="0" imdbid="tt1636815">
     <name>Meitantei Conan: Tenkuu no Lost Ship</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-28;2-28;3-28;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-28;2-28;3-28;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="7251" tvdbid="193811" defaulttvdbseason="1">
@@ -19205,7 +19205,7 @@
   <anime anidbid="7252" tvdbid="72454" defaulttvdbseason="0">
     <name>Meitantei Conan Magic File 2: Kudou Shin'ichi Nazo no Kabe to Kuro Lab Jiken</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-21;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-21;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="7254" tvdbid="79654" defaulttvdbseason="0" imdbid="tt1623674">
@@ -19220,7 +19220,7 @@
   <anime anidbid="7256" tvdbid="72454" defaulttvdbseason="0">
     <name>Meitantei Conan Magic File</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-18;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-18;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="7257" tvdbid="76703" defaulttvdbseason="0" imdbid="tt1690470">
@@ -19305,7 +19305,7 @@
   <anime anidbid="7288" tvdbid="72454" defaulttvdbseason="0" imdbid="tt1577867">
     <name>Lupin Sansei: The Last Job</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-33</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-33</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="7290" tvdbid="unknown" defaulttvdbseason="0" imdbid="tt1630601">
@@ -19637,13 +19637,13 @@
   <anime anidbid="7494" tvdbid="72454" defaulttvdbseason="0">
     <name>Meitantei Conan: Kid in Trap Island</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-30;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-30;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="7496" tvdbid="72454" defaulttvdbseason="0">
     <name>Mameushi-kun</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-29;2-37;3-38;4-41;5-42;6-43;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-29;2-37;3-38;4-41;5-42;6-43;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="7497" tvdbid="167921" defaulttvdbseason="0" imdbid="tt1685648">
@@ -19727,7 +19727,7 @@
   <anime anidbid="7537" tvdbid="72454" defaulttvdbseason="0">
     <name>Meitantei Conan Magic File 4: Osaka Okonomiyaki Odyssey</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-27;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-27;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="7538" tvdbid="81797" defaulttvdbseason="0">
@@ -20960,7 +20960,7 @@
   <anime anidbid="8121" tvdbid="72454" defaulttvdbseason="0" imdbid="tt1840372">
     <name>Meitantei Conan: Chinmoku no Quarter</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-40;2-40;3-40;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-40;2-40;3-40;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="8122" tvdbid="unknown" defaulttvdbseason="1">
@@ -21542,7 +21542,7 @@
   <anime anidbid="8384" tvdbid="79824" defaulttvdbseason="0" imdbid="unknown">
     <name>Honoo no Chuunin Shiken! Naruto vs Konohamaru!!</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="8385" tvdbid="music video" defaulttvdbseason="1">
@@ -21584,7 +21584,7 @@
   <anime anidbid="8399" tvdbid="72454" defaulttvdbseason="0">
     <name>Meitantei Conan Magic File 2011: Niigata - Tokyo Omiyage Capriccio</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-33;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-33;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="8400" tvdbid="music video" defaulttvdbseason="1">
@@ -21844,7 +21844,7 @@
   <anime anidbid="8501" tvdbid="72454" defaulttvdbseason="0">
     <name>Meitantei Conan: London kara no Maru Hi Shirei</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-35;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-35;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="8505" tvdbid="173301" defaulttvdbseason="0">
@@ -21917,7 +21917,7 @@
   <anime anidbid="8534" tvdbid="72454" defaulttvdbseason="0">
     <name>Meitantei Conan vs. Wooo</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-34;2-36;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-34;2-36;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="8538" tvdbid="251982" defaulttvdbseason="1">
@@ -21926,7 +21926,7 @@
   <anime anidbid="8539" tvdbid="73038" defaulttvdbseason="0">
     <name>Macross XX</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="8541" tvdbid="257746" defaulttvdbseason="1">
@@ -22394,7 +22394,7 @@
   <anime anidbid="8718" tvdbid="241301" defaulttvdbseason="0" imdbid="unknown">
     <name>Futari wa Precure Splash Star: Maji Doki 3D Theater</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="8719" tvdbid="257521" defaulttvdbseason="1">
@@ -22415,7 +22415,7 @@
   <anime anidbid="8724" tvdbid="128411" defaulttvdbseason="0" imdbid="unknown">
     <name>Majime ni Fumajime Kaiketsu Zorori Uchuu Tanken Taisakusen</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-4;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="8725" tvdbid="hentai" defaulttvdbseason="1">
@@ -22664,7 +22664,7 @@
   <anime anidbid="8806" tvdbid="72454" defaulttvdbseason="0" imdbid="tt2369099">
     <name>Meitantei Conan: 11-ninme no Striker</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-51;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-51;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="8807" tvdbid="unknown" defaulttvdbseason="1">
@@ -22697,7 +22697,7 @@
   <anime anidbid="8818" tvdbid="81115" defaulttvdbseason="0">
     <name>Mahou Shoujo Lyrical Nanoha A's Portable: The Gears of Destiny</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="8819" tvdbid="255904" defaulttvdbseason="1">
@@ -23190,7 +23190,7 @@
   <anime anidbid="9021" tvdbid="76703" defaulttvdbseason="0" imdbid="unknown">
     <name>Meloetta to Kirakira Recital</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="9022" tvdbid="260070" defaulttvdbseason="1">
@@ -23235,8 +23235,8 @@
   <anime anidbid="9038" tvdbid="76547" defaulttvdbseason="0">
     <name>Ring of Gundam</name>
     <mapping-list>
-      <mapping anidbseason="1" thetvdbseason="0">;1-0;</mapping>
-      <mapping anidbseason="0" thetvdbseason="0">;1-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="9043" tvdbid="261249" defaulttvdbseason="1">

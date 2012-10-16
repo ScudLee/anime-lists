@@ -1912,6 +1912,7 @@
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="1">;1-27;2-28;3-29;4-30;</mapping>
     </mapping-list>
+    <before>;1-27;2-28;3-29;4-30;</before>
   </anime>
   <anime anidbid="450" tvdbid="83635" defaulttvdbseason="1">
     <name>Mouse</name>
@@ -15317,6 +15318,7 @@
   </anime>
   <anime anidbid="6671" tvdbid="133341" defaulttvdbseason="1">
     <name>Durarara!!</name>
+    <before>;2-25;</before>
   </anime>
   <anime anidbid="6672" tvdbid="88391" defaulttvdbseason="2">
     <name>Natsu no Arashi! Akinai-chuu</name>

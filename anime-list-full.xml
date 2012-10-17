@@ -439,7 +439,7 @@
     </supplemental-info>
   </anime>
   <anime anidbid="97" tvdbid="190281" defaulttvdbseason="1">
-    <name>Sol Bianca the Legacy</name>
+    <name>Sol Bianca: Taiyou no Fune</name>
   </anime>
   <anime anidbid="98" tvdbid="73752" defaulttvdbseason="1">
     <name>Kenpuu Denki Berserk</name>
@@ -644,7 +644,7 @@
     <name>Hyper Future Vision: Gunnm</name>
   </anime>
   <anime anidbid="148" tvdbid="79658" defaulttvdbseason="1">
-    <name>Shen Diao Xia Lu</name>
+    <name>Shin Chou Kyou Ryo: Condor Hero</name>
   </anime>
   <anime anidbid="149" tvdbid="91911" defaulttvdbseason="1">
     <name>Dragon Half</name>
@@ -8334,16 +8334,16 @@
     <name>End of the World</name>
   </anime>
   <anime anidbid="2395" tvdbid="70817" defaulttvdbseason="0" imdbid="tt1164584">
-    <name>Tottoko Hamtarou: Ham-Ham Land Daibouken</name>
+    <name>Gekijouban Tottoko Hamtarou: Ham-Ham Land Daibouken</name>
   </anime>
   <anime anidbid="2396" tvdbid="70817" defaulttvdbseason="0" imdbid="tt1625545">
-    <name>Tottoko Hamtarou: Ham-Ham Hamuuja! Maboroshi no Princess</name>
+    <name>Gekijouban Tottoko Hamtarou: Ham-Ham Hamuuja! Maboroshi no Princess</name>
   </anime>
   <anime anidbid="2397" tvdbid="70817" defaulttvdbseason="0" imdbid="tt1186219">
-    <name>Tottoko Hamtarou: Ham-Ham Grand Prix Aurora Tani no Kiseki - Ribbon-chan Kiki Ippatsu</name>
+    <name>Gekijouban Tottoko Hamtarou: Ham-Ham Grand Prix Aurora Tani no Kiseki - Ribbon-chan Kiki Ippatsu</name>
   </anime>
   <anime anidbid="2398" tvdbid="70817" defaulttvdbseason="0" imdbid="tt1186220">
-    <name>Tottoko Hamtarou: Hamtarou to Fushigi no Oni no Emon Tou</name>
+    <name>Gekijouban Tottoko Hamtarou: Hamtarou to Fushigi no Oni no Emon Tou</name>
   </anime>
   <anime anidbid="2400" tvdbid="78916" defaulttvdbseason="1">
     <name>Gantz</name>
@@ -11168,7 +11168,7 @@
     <name>Nikuyome: Takayanagi Ke no Hitobito</name>
   </anime>
   <anime anidbid="3525" tvdbid="hentai" defaulttvdbseason="1">
-    <name>Rinkan Gakuen: "Yamete! ...Okaa-san, Minai de!"</name>
+    <name>Rinkan Gakuen: "Yamete! ...Okaa-san, Minaide!"</name>
   </anime>
   <anime anidbid="3526" tvdbid="74924" defaulttvdbseason="0">
     <name>Sentou Yousei Yukikaze FAF Koukuu Senshi</name>
@@ -16462,7 +16462,7 @@
   </anime>
   <anime anidbid="5909" tvdbid="83277" defaulttvdbseason="1">
     <name>Toradora!</name>
-	<mapping-list>
+    <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;10-5;</mapping>
     </mapping-list>
   </anime>
@@ -20463,7 +20463,7 @@
     <name>Dorami-chan: Aoi Straw Hat</name>
   </anime>
   <anime anidbid="7773" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
-    <name>Hello Kitty no Mahou no Mori no Ohime-sama</name>
+    <name>Hello Kitty: Mahou no Mori no Ohime-sama</name>
   </anime>
   <anime anidbid="7776" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Hello Kitty no Minna no Mori o Mamore!</name>
@@ -22099,7 +22099,7 @@
   </anime>
   <anime anidbid="8573" tvdbid="172921" defaulttvdbseason="2">
     <name>Amagami SS Plus</name>
-	<mapping-list>
+    <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-8;2-9;3-10;4-11;5-12;6-13;</mapping>
     </mapping-list>
   </anime>
@@ -22311,7 +22311,7 @@
     <name>Tensai Eri-chan Kingyo o Tabeta</name>
   </anime>
   <anime anidbid="8655" tvdbid="244061" defaulttvdbseason="0" tmdbid="83380">
-    <name>Gekijouban Steins;Gate</name>
+    <name>Gekijouban Steins;Gate: Fuka Ryouiki no Deja vu</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
@@ -23372,7 +23372,7 @@
     <name>Rakuen Tsuihou: Expelled From Paradise</name>
   </anime>
   <anime anidbid="9090" tvdbid="116001" defaulttvdbseason="2">
-    <name>Seitokai no Ichizon: Shin Anime (Kari)</name>
+    <name>Seitokai no Ichizon Lv.2</name>
   </anime>
   <anime anidbid="9092" tvdbid="252471" defaulttvdbseason="0">
     <name>Guilty Crown: Lost Christmas - An Episode of Port Town</name>
@@ -23502,7 +23502,7 @@
     <name>Girls und Panzer</name>
   </anime>
   <anime anidbid="9230" tvdbid="262092" defaulttvdbseason="1">
-    <name>Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne!</name>
+    <name>Onii-chan Dakedo Ai Sae Areba Kankei Nai yo ne!</name>
   </anime>
   <anime anidbid="9235" tvdbid="262107" defaulttvdbseason="1">
     <name>Tonari no Kaibutsu-kun</name>
@@ -23685,7 +23685,7 @@
     <name>Maken-ki! 2</name>
   </anime>
   <anime anidbid="9409" tvdbid="254653" defaulttvdbseason="2">
-    <name>High School DxD Dai 2-ki</name>
+    <name>High School DxD New</name>
   </anime>
   <anime anidbid="9410" tvdbid="194951" defaulttvdbseason="0">
     <name>Star Driver The Movie</name>
@@ -23706,7 +23706,7 @@
     <name>Rekka no Honoo: Final Burning</name>
   </anime>
   <anime anidbid="9427" tvdbid="79895" defaulttvdbseason="6">
-    <name>Kintama</name>
+    <name>Kintama'</name>
   </anime>
   <anime anidbid="9430" tvdbid="hentai" defaulttvdbseason="1">
     <name>Tsun Tsun Maid wa Ero Ero Desu</name>
@@ -23742,13 +23742,13 @@
     <name>Glass no Chikyuu wo Sukue Unico Tokubetsu-hen</name>
   </anime>
   <anime anidbid="9449" tvdbid="79252" defaulttvdbseason="0" imdbid="unknown">
-    <name>Tetsuwan Atom: Chikyuu Saigo no Nichi</name>
+    <name>Tetsuwan Atom: Chikyuu Saigo no Hi</name>
   </anime>
   <anime anidbid="9450" tvdbid="79252" defaulttvdbseason="0" imdbid="unknown">
-    <name>Astro Boy Tetsuwan Atom Tokubetsu-hen: Kagayakeru Chikyuu - Anata wa Aoku, Utsukushii...</name>
+    <name>Tetsuwan Atom Tokubetsu Hen: Kagayakeru Hoshi - Anata wa Aoku, Utsukushii...</name>
   </anime>
   <anime anidbid="9451" tvdbid="79252" defaulttvdbseason="0" imdbid="unknown">
-    <name>Astro Boy Tetsuwan Atom Tokubetsu-hen: Iwan no Wakusei - Robot to Ningen no Yuujou</name>
+    <name>Tetsuwan Atom Tokubetsu Hen: Ivan no Wakusei - Robot to Ningen no Yuujou</name>
   </anime>
   <anime anidbid="9458" tvdbid="71863" defaulttvdbseason="0">
     <name>Lupin Sansei: Touhou Kenbunroku - Another Page</name>

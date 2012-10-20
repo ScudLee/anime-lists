@@ -58,6 +58,7 @@
       <mapping anidbseason="1" tvdbseason="0">;9-2;18-3;</mapping>
       <mapping anidbseason="0" tvdbseason="0">;1-4;2-1;</mapping>
     </mapping-list>
+	<before>;1-27;2-28;</before>
   </anime>
   <anime anidbid="13" tvdbid="78947" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Noir</name>
@@ -4015,6 +4016,7 @@
       <mapping anidbseason="1" tvdbseason="1">;1-1;2-2;3-3;4-4;5-5;6-6;7-7;8-8;9-9;10-10;11-11;12-12;13-13;14-14;15-15;16-16;17-17;18-18;19-19;20-20;21-21;22-22;23-23;24-24;25-25;26-26;27-27;</mapping>
       <mapping anidbseason="1" tvdbseason="2">;28-1;29-2;30-3;31-4;32-5;33-6;34-7;35-8;36-9;37-10;38-11;39-12;40-13;41-14;42-15;43-16;44-17;45-18;46-19;47-20;48-21;49-22;</mapping>
     </mapping-list>
+	<before>;1-50;2-51;3-52;</before>
   </anime>
   <anime anidbid="1035" tvdbid="OVA" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>The Supergal</name>
@@ -9259,6 +9261,7 @@
   </anime>
   <anime anidbid="2710" tvdbid="78914" defaulttvdbseason="3" tmdbid="" imdbid="">
     <name>Fullmetal Panic! The Second Raid</name>
+	<before>;2-14;</before>
   </anime>
   <anime anidbid="2711" tvdbid="120041" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Angelique: Shiroi Tsubasa no Memoire</name>
@@ -12335,6 +12338,7 @@
   </anime>
   <anime anidbid="4113" tvdbid="80050" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Yomigaeru Sora: Rescue Wings</name>
+	<before>;1-13;</before>
   </anime>
   <anime anidbid="4114" tvdbid="unknown" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Youyou no Neko Tsumami</name>
@@ -14352,6 +14356,7 @@
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="1">;1-14;2-15;3-16;</mapping>
     </mapping-list>
+	<before>;1-14;2-15;3-16;</before>
   </anime>
   <anime anidbid="4898" tvdbid="OVA" defaulttvdbseason="1" tmdbid="" imdbid="unknown">
     <name>Katte ni Shirokuma</name>
@@ -14421,6 +14426,7 @@
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="1">;1-26;</mapping>
     </mapping-list>
+	<before>;1-26;</before>
   </anime>
   <anime anidbid="4924" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Tsuma to Mama to Boin</name>
@@ -15344,6 +15350,7 @@
   </anime>
   <anime anidbid="5276" tvdbid="81624" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>KimiKiss Pure Rouge</name>
+	<before>;1-25;</before>
   </anime>
   <anime anidbid="5277" tvdbid="82086" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Kamen no Maid Guy</name>
@@ -16027,6 +16034,7 @@
   </anime>
   <anime anidbid="5587" tvdbid="82855" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Detroit Metal City</name>
+	<before>;1-13;</before>
   </anime>
   <anime anidbid="5588" tvdbid="unknown" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>A Piece of Phantasmagoria</name>
@@ -16591,6 +16599,7 @@
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;10-5;</mapping>
     </mapping-list>
+	<before>;10-26;</before>
   </anime>
   <anime anidbid="5910" tvdbid="83317" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Hyakko</name>
@@ -17523,6 +17532,7 @@
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="1">;2-13;3-14;4-15;</mapping>
     </mapping-list>
+	<before>;2-13;3-14;4-15;</before>
   </anime>
   <anime anidbid="6329" tvdbid="88661" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Hanasakeru Seishounen</name>
@@ -19308,6 +19318,7 @@
   </anime>
   <anime anidbid="7008" tvdbid="148151" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Kaichou wa Maid-sama!</name>
+	<before>;2-27;</before>
   </anime>
   <anime anidbid="7009" tvdbid="131471" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Ladies versus Butlers!</name>
@@ -19990,6 +20001,7 @@
   </anime>
   <anime anidbid="7243" tvdbid="140751" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Yojouhan Shinwa Taikei</name>
+	<before>;1-12;2-13;3-14;</before>
   </anime>
   <anime anidbid="7244" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="tt1645129">
     <name>Planzet</name>
@@ -20117,6 +20129,7 @@
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-2;2-1;4-5;5-4;</mapping>
     </mapping-list>
+	<before>;5-14;4-15;</before>
   </anime>
   <anime anidbid="7279" tvdbid="90521" defaulttvdbseason="4" tmdbid="" imdbid="">
     <name>Soukou Kihei Votoms: Gen-ei Hen</name>
@@ -20755,6 +20768,7 @@
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-7;</mapping>
     </mapping-list>
+	<before>;1-26;</before>
   </anime>
   <anime anidbid="7507" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="tt1686865">
     <name>Tezuka Osamu no Buddha: Akai Sabaku yo! Utsukushiku</name>
@@ -21403,6 +21417,7 @@
   </anime>
   <anime anidbid="7729" tvdbid="244061" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Steins;Gate</name>
+	<before>;1-25;</before>
   </anime>
   <anime anidbid="7730" tvdbid="unknown" defaulttvdbseason="2" tmdbid="" imdbid="">
     <name>Peeping Life: The Perfect Emotion</name>

@@ -2543,6 +2543,12 @@
   <anime anidbid="6102" tvdbid="unknown" defaulttvdbseason="1">
     <name>Gakkou no Yuurei</name>
   </anime>
+  <anime anidbid="6151" tvdbid="unknown" defaulttvdbseason="1">
+    <name>Negibouzu no Asatarou</name>
+  </anime>
+  <anime anidbid="6157" tvdbid="unknown" defaulttvdbseason="1">
+    <name>Live On Cardliver Kakeru</name>
+  </anime>
   <anime anidbid="6202" tvdbid="unknown" defaulttvdbseason="1">
     <name>Sugar Bunnies</name>
   </anime>
@@ -3202,5 +3208,11 @@
   </anime>
   <anime anidbid="9443" tvdbid="unknown" defaulttvdbseason="2">
     <name>Unko-san: Tsuiteru Hito ni Shika Mienai Yousei Junjou Ha</name>
+  </anime>
+  <anime anidbid="9461" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
+    <name>Osomatsu-kun: Suika no Hoshi kara Konnichiwa zansu!</name>
+  </anime>
+  <anime anidbid="9463" tvdbid="unknown" defaulttvdbseason="1">
+    <name>Elecking the Animation</name>
   </anime>
 </anime-list>

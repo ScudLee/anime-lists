@@ -17068,14 +17068,29 @@
   <anime anidbid="6180" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0419954">
     <name>Mak Dau BoloYao WongZi</name>
   </anime>
+  <anime anidbid="6181" tvdbid="unknown" defaulttvdbseason="3">
+    <name>Shin Kyojin no Hoshi II</name>
+  </anime>
   <anime anidbid="6182" tvdbid="84654" defaulttvdbseason="1">
     <name>Akikan!</name>
+  </anime>
+  <anime anidbid="6183" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Manga Edo Ero Banashi</name>
+  </anime>
+  <anime anidbid="6184" tvdbid="162261" defaulttvdbseason="1">
+    <name>Puchi Eva: Evangelion@School</name>
   </anime>
   <anime anidbid="6185" tvdbid="82788" defaulttvdbseason="2">
     <name>Zoku Natsume Yuujinchou</name>
   </anime>
+  <anime anidbid="6186" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Honoo no Haramase Doukyuusei</name>
+  </anime>
   <anime anidbid="6187" tvdbid="111501" defaulttvdbseason="1">
     <name>Kemono no Souja Erin</name>
+  </anime>
+  <anime anidbid="6189" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Mizugi Kanojo: The Animation</name>
   </anime>
   <anime anidbid="6191" tvdbid="76023" defaulttvdbseason="4">
     <name>Tsubasa Shunraiki</name>
@@ -17089,20 +17104,44 @@
   <anime anidbid="6193" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0443232">
     <name>Shisha no Sho</name>
   </anime>
+  <anime anidbid="6196" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Sukeban Shokai Cutie Lemon</name>
+  </anime>
   <anime anidbid="6199" tvdbid="81797" defaulttvdbseason="0">
     <name>One Piece: Romance Dawn Story</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-18;</mapping>
     </mapping-list>
   </anime>
+  <anime anidbid="6200" tvdbid="tv special" defaulttvdbseason="1" imdbid="unknown">
+    <name>Umigame to Shounen</name>
+  </anime>
+  <anime anidbid="6201" tvdbid="tv special" defaulttvdbseason="1" imdbid="unknown">
+    <name>Tako ni Natta Okaa-san</name>
+  </anime>
   <anime anidbid="6202" tvdbid="unknown" defaulttvdbseason="1">
     <name>Sugar Bunnies</name>
+  </anime>
+  <anime anidbid="6203" tvdbid="unknown" defaulttvdbseason="1">
+    <name>Yasai no Yousei - N.Y. Salad</name>
+  </anime>
+  <anime anidbid="6204" tvdbid="unknown" defaulttvdbseason="1">
+    <name>Mori no Senshi Bonolon</name>
+  </anime>
+  <anime anidbid="6205" tvdbid="unknown" defaulttvdbseason="1">
+    <name>Little Penguin</name>
   </anime>
   <anime anidbid="6206" tvdbid="unknown" defaulttvdbseason="2">
     <name>Sugar Bunnies Chocolate!</name>
   </anime>
   <anime anidbid="6207" tvdbid="movie" defaulttvdbseason="1" imdbid="tt1888591">
     <name>Sougen no Ko Tenguri</name>
+  </anime>
+  <anime anidbid="6208" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Ecchi de Happy! Pin! Pin! Pin!</name>
+  </anime>
+  <anime anidbid="6209" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Ome-1</name>
   </anime>
   <anime anidbid="6211" tvdbid="84561" defaulttvdbseason="1">
     <name>Kurokami The Animation</name>
@@ -17113,8 +17152,14 @@
       <mapping anidbseason="1" tvdbseason="0">;1-5;2-6;</mapping>
     </mapping-list>
   </anime>
+  <anime anidbid="6213" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Classical Sex-Zone</name>
+  </anime>
   <anime anidbid="6219" tvdbid="81463" defaulttvdbseason="3">
     <name>Minami-ke Okaeri</name>
+  </anime>
+  <anime anidbid="6221" tvdbid="unknown" defaulttvdbseason="1">
+    <name>Stray Sheep Poe no Chicchana Daibouken</name>
   </anime>
   <anime anidbid="6224" tvdbid="90341" defaulttvdbseason="2">
     <name>Shinkyoku Soukai Polyphonica: Crimson S</name>
@@ -17131,6 +17176,18 @@
   </anime>
   <anime anidbid="6229" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0202393">
     <name>Hokkyoku no Mushka Mishka</name>
+  </anime>
+  <anime anidbid="6230" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Mahou Shoujo Ai San: The Anime</name>
+  </anime>
+  <anime anidbid="6231" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Jinkou Shoujo: Henshin Sex Android</name>
+  </anime>
+  <anime anidbid="6232" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Helter Skelter: Hakudaku no Mura</name>
+  </anime>
+  <anime anidbid="6233" tvdbid="tvspecial" defaulttvdbseason="1" imdbid="tt1654078">
+    <name>Tezuka Osamu Monogatari: Boku wa Songokuu</name>
   </anime>
   <anime anidbid="6234" tvdbid="88161" defaulttvdbseason="1">
     <name>Hetalia: Axis Powers</name>
@@ -19025,6 +19082,9 @@
   </anime>
   <anime anidbid="7076" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Itoshi no Betty Mamonogatari</name>
+  </anime>
+  <anime anidbid="7077" tvdbid="unknown" defaulttvdbseason="2">
+    <name>Yasai no Yousei - N.Y. Salad 2nd Series</name>
   </anime>
   <anime anidbid="7079" tvdbid="98661" defaulttvdbseason="2">
     <name>Stitch! Itazura Alien no Daibouken</name>
@@ -23882,5 +23942,26 @@
   </anime>
   <anime anidbid="9476" tvdbid="OVA" defaulttvdbseason="1" imdbid="unknown">
     <name>Vassalord</name>
+  </anime>
+  <anime anidbid="9480" tvdbid="unknown" defaulttvdbseason="1">
+    <name>Miracle Psychicer Seizan</name>
+  </anime>
+  <anime anidbid="9483" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Aku no Onna Kanbu: Full Moon Night</name>
+  </anime>
+  <anime anidbid="9484" tvdbid="114921" defaulttvdbseason="2">
+    <name>Toaru Kagaku no Railgun Dai 2-ki</name>
+  </anime>
+  <anime anidbid="9485" tvdbid="249869" defaulttvdbseason="2">
+    <name>Rou Kyuu Bu! SS</name>
+  </anime>
+  <anime anidbid="9486" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Mouryou no Nie</name>
+  </anime>
+  <anime anidbid="9488" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0446497">
+    <name>Utsu-Musume Sayuri</name>
+  </anime>
+  <anime anidbid="9489" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
+    <name>Robotica * Robotics</name>
   </anime>
 </anime-list>

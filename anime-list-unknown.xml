@@ -2549,11 +2549,26 @@
   <anime anidbid="6157" tvdbid="unknown" defaulttvdbseason="1">
     <name>Live On Cardliver Kakeru</name>
   </anime>
+  <anime anidbid="6181" tvdbid="unknown" defaulttvdbseason="3">
+    <name>Shin Kyojin no Hoshi II</name>
+  </anime>
   <anime anidbid="6202" tvdbid="unknown" defaulttvdbseason="1">
     <name>Sugar Bunnies</name>
   </anime>
+  <anime anidbid="6203" tvdbid="unknown" defaulttvdbseason="1">
+    <name>Yasai no Yousei - N.Y. Salad</name>
+  </anime>
+  <anime anidbid="6204" tvdbid="unknown" defaulttvdbseason="1">
+    <name>Mori no Senshi Bonolon</name>
+  </anime>
+  <anime anidbid="6205" tvdbid="unknown" defaulttvdbseason="1">
+    <name>Little Penguin</name>
+  </anime>
   <anime anidbid="6206" tvdbid="unknown" defaulttvdbseason="2">
     <name>Sugar Bunnies Chocolate!</name>
+  </anime>
+  <anime anidbid="6221" tvdbid="unknown" defaulttvdbseason="1">
+    <name>Stray Sheep Poe no Chicchana Daibouken</name>
   </anime>
   <anime anidbid="6273" tvdbid="unknown" defaulttvdbseason="0" imdbid="tt1158246">
     <name>Esper Mami: Hoshizora no Dancing Doll</name>
@@ -2674,6 +2689,9 @@
   </anime>
   <anime anidbid="7057" tvdbid="unknown" defaulttvdbseason="2">
     <name>Peach Command Shin Momotarou Densetsu</name>
+  </anime>
+  <anime anidbid="7077" tvdbid="unknown" defaulttvdbseason="2">
+    <name>Yasai no Yousei - N.Y. Salad 2nd Series</name>
   </anime>
   <anime anidbid="7085" tvdbid="unknown" defaulttvdbseason="0">
     <name>Captain (1983)</name>
@@ -3214,5 +3232,8 @@
   </anime>
   <anime anidbid="9463" tvdbid="unknown" defaulttvdbseason="1">
     <name>Elecking the Animation</name>
+  </anime>
+  <anime anidbid="9480" tvdbid="unknown" defaulttvdbseason="1">
+    <name>Miracle Psychicer Seizan</name>
   </anime>
 </anime-list>

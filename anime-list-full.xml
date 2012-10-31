@@ -10533,11 +10533,10 @@
   <anime anidbid="3293" tvdbid="unknown" defaulttvdbseason="1">
     <name>Play Ball</name>
   </anime>
-  <anime anidbid="3296" tvdbid="71278" defaulttvdbseason="0">
+  <anime anidbid="3296" tvdbid="263688" defaulttvdbseason="1">
     <name>Hellsing (2006)</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;8-9;9-11;10-13;</mapping>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;6-0;7-0;8-0;9-0;10-0;11-0;12-0;13-0;14-0;15-8;16-10;17-12;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;6-0;7-0;8-0;9-0;10-0;11-0;12-0;13-0;14-0;15-1;16-2;17-3;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="3297" tvdbid="247827" defaulttvdbseason="1">

@@ -3,9 +3,6 @@
   <anime anidbid="183" tvdbid="unknown" defaulttvdbseason="1">
     <name>RUN=DIM</name>
   </anime>
-  <anime anidbid="220" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Battle Fighters Garou Densetsu</name>
-  </anime>
   <anime anidbid="265" tvdbid="unknown" defaulttvdbseason="1">
     <name>Time Travel Tondekeman!</name>
   </anime>
@@ -453,7 +450,7 @@
   <anime anidbid="1895" tvdbid="unknown" defaulttvdbseason="3">
     <name>Himitsu no Akko-chan (1998)</name>
   </anime>
-  <anime anidbid="1896" tvdbid="unknown" defaulttvdbseason="0" tmdbid="unknown">
+  <anime anidbid="1896" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
     <name>Himitsu no Akko-chan (1989)</name>
   </anime>
   <anime anidbid="1897" tvdbid="unknown" defaulttvdbseason="1">
@@ -628,9 +625,6 @@
   </anime>
   <anime anidbid="2108" tvdbid="unknown" defaulttvdbseason="1">
     <name>Chousoku Spinner</name>
-  </anime>
-  <anime anidbid="2121" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Battle Fighters Garou Densetsu 2</name>
   </anime>
   <anime anidbid="2129" tvdbid="unknown" defaulttvdbseason="1">
     <name>Nono-chan</name>
@@ -2720,7 +2714,7 @@
   <anime anidbid="7163" tvdbid="unknown" defaulttvdbseason="0" imdbid="tt1344107">
     <name>Gekijouban Gegege no Kitarou: Nippon Bakuretsu!!</name>
   </anime>
-  <anime anidbid="7165" tvdbid="unknown" defaulttvdbseason="1">
+  <anime anidbid="7165" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
     <name>Captain</name>
   </anime>
   <anime anidbid="7166" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
@@ -3218,6 +3212,21 @@
   <anime anidbid="9278" tvdbid="unknown" defaulttvdbseason="1">
     <name>Nontan to Issho</name>
   </anime>
+  <anime anidbid="9308" tvdbid="unknown" defaulttvdbseason="1">
+    <name>PiNMeN</name>
+  </anime>
+  <anime anidbid="9317" tvdbid="unknown" defaulttvdbseason="1">
+    <name>Hanayaka Nari, Waga Ichizoku: Kinetograph</name>
+  </anime>
+  <anime anidbid="9329" tvdbid="unknown" defaulttvdbseason="5">
+    <name>Battle Spirits: Sword Eyes</name>
+  </anime>
+  <anime anidbid="9338" tvdbid="unknown" defaulttvdbseason="1">
+    <name>Pacusi</name>
+  </anime>
+  <anime anidbid="9364" tvdbid="unknown" defaulttvdbseason="1">
+    <name>Watashi-tachi no Kurashi to Doboku Series</name>
+  </anime>
   <anime anidbid="9415" tvdbid="unknown" defaulttvdbseason="1">
     <name>Efficus: Kono Omoi o Kimi ni...</name>
   </anime>
@@ -3235,5 +3244,8 @@
   </anime>
   <anime anidbid="9480" tvdbid="unknown" defaulttvdbseason="1">
     <name>Miracle Psychicer Seizan</name>
+  </anime>
+  <anime anidbid="9500" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
+    <name>Gekijouban Shimajirou to Fufu no Daibouken: Sukue! Nana-iro no Hana</name>
   </anime>
 </anime-list>

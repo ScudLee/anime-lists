@@ -16828,6 +16828,13 @@
   <anime anidbid="7198" tvdbid="movie" defaulttvdbseason="1" imdbid="tt1092357">
     <name>Hinomaru Hatanosuke: Inazuma-gumi Toubatsu no Maki</name>
   </anime>
+  <anime anidbid="7206" tvdbid="79151" defaulttvdbseason="0">
+    <name>Fate/Stay Night TV Reproduction</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-2;2-3;</mapping>
+    </mapping-list>
+  </anime>
   <anime anidbid="7207" tvdbid="141691" defaulttvdbseason="2">
     <name>Weiss Survive R</name>
   </anime>
@@ -16879,8 +16886,14 @@
   <anime anidbid="7234" tvdbid="139631" defaulttvdbseason="1">
     <name>Giant Killing</name>
   </anime>
+  <anime anidbid="7235" tvdbid="music video" defaulttvdbseason="1">
+    <name>Purple Eyes in the Dark</name>
+  </anime>
   <anime anidbid="7236" tvdbid="76013" defaulttvdbseason="6">
     <name>Major 6th Season</name>
+  </anime>
+  <anime anidbid="7237" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Machi Gurumi no Wana: Hakudaku ni Mamireta Shitai</name>
   </anime>
   <anime anidbid="7238" tvdbid="143271" defaulttvdbseason="1">
     <name>Arakawa Under the Bridge</name>
@@ -21205,6 +21218,39 @@
   <anime anidbid="9499" tvdbid="264529" defaulttvdbseason="1">
     <name>Bakumatsu Gijinden Roman</name>
   </anime>
+  <anime anidbid="9501" tvdbid="247911" defaulttvdbseason="2">
+    <name>Yondemasu yo, Azazel-san. 2</name>
+  </anime>
+  <anime anidbid="9503" tvdbid="259655" defaulttvdbseason="0">
+    <name>Chitose Get You!! (2013)</name>
+  </anime>
+  <anime anidbid="9504" tvdbid="web" defaulttvdbseason="1">
+    <name>Next A-Class</name>
+  </anime>
+  <anime anidbid="9508" tvdbid="75411" defaulttvdbseason="3">
+    <name>Rozen Maiden 3</name>
+  </anime>
+  <anime anidbid="9511" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Soushi Souai: Junai Mellow yori</name>
+  </anime>
+  <anime anidbid="9514" tvdbid="movie" defaulttvdbseason="1" imdbid="tt2013293">
+    <name>Kaze Tachinu</name>
+  </anime>
+  <anime anidbid="9515" tvdbid="movie" defaulttvdbseason="1" imdbid="tt2576852">
+    <name>Kaguya-hime no Monogatari</name>
+  </anime>
+  <anime anidbid="9517" tvdbid="247836" defaulttvdbseason="3">
+    <name>Dog Days 3</name>
+  </anime>
+  <anime anidbid="9518" tvdbid="web" defaulttvdbseason="1">
+    <name>Kyoukai no Kanata</name>
+  </anime>
+  <anime anidbid="9519" tvdbid="264531" defaulttvdbseason="0">
+    <name>Mondai-Ji-tachi ga Isekai kara Kuru Sou Desu yo? (2013)</name>
+  </anime>
+  <anime anidbid="9522" tvdbid="264972" defaulttvdbseason="1">
+    <name>Boku no Imouto wa "Oosaka Okan"</name>
+  </anime>
   <anime anidbid="9525" tvdbid="264534" defaulttvdbseason="1">
     <name>Tamako Market</name>
   </anime>
@@ -21213,5 +21259,74 @@
   </anime>
   <anime anidbid="9533" tvdbid="hentai" defaulttvdbseason="1">
     <name>Sei Yariman Gakuen Enkou Nikki</name>
+  </anime>
+  <anime anidbid="9584" tvdbid="80554" defaulttvdbseason="4">
+    <name>Hayate no Gotoku! (2013)</name>
+  </anime>
+  <anime anidbid="9585" tvdbid="249827" defaulttvdbseason="0">
+    <name>Mirai Nikki Redial</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
+    </mapping-list>
+  </anime>
+  <anime anidbid="9592" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
+    <name>Cheorin Samchongsa</name>
+  </anime>
+  <anime anidbid="9593" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
+    <name>77 Danui Bimil</name>
+  </anime>
+  <anime anidbid="9594" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
+    <name>Haedori Daemoheom</name>
+  </anime>
+  <anime anidbid="9595" tvdbid="movie" defaulttvdbseason="1" imdbid="tt1454628">
+    <name>Computer Haekjeonham Pokpadaejakjeon</name>
+  </anime>
+  <anime anidbid="9596" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
+    <name>David Gwa Goliath</name>
+  </anime>
+  <anime anidbid="9597" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
+    <name>Ttori wa Zeta Robot</name>
+  </anime>
+  <anime anidbid="9598" tvdbid="movie" defaulttvdbseason="1" imdbid="tt1993354">
+    <name>Jeonjaingan 337</name>
+  </anime>
+  <anime anidbid="9599" tvdbid="262107" defaulttvdbseason="0">
+    <name>Tonari no Kaibutsu-kun (2013)</name>
+  </anime>
+  <anime anidbid="9600" tvdbid="262112" defaulttvdbseason="0">
+    <name>Sukitte Ii na yo. (2013)</name>
+  </anime>
+  <anime anidbid="9601" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Koukai Benjo The Animation</name>
+  </anime>
+  <anime anidbid="9603" tvdbid="257765" defaulttvdbseason="2">
+    <name>Kuroko no Basuke 2</name>
+  </anime>
+  <anime anidbid="9605" tvdbid="261249" defaulttvdbseason="2">
+    <name>K 2</name>
+  </anime>
+  <anime anidbid="9607" tvdbid="other" defaulttvdbseason="1">
+    <name>Chocotan!</name>
+  </anime>
+  <anime anidbid="9608" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
+    <name>Narara! Ujujeonham Geobukseon</name>
+  </anime>
+  <anime anidbid="9609" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
+    <name>Narara Wondergongju</name>
+  </anime>
+  <anime anidbid="9610" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
+    <name>Miraesonyeon Kunta Bermuda 5000 Nyeon</name>
+  </anime>
+  <anime anidbid="9611" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
+    <name>Eunhahamdae Jiguho</name>
+  </anime>
+  <anime anidbid="9612" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
+    <name>Hong Gildong Janggun</name>
+  </anime>
+  <anime anidbid="9613" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
+    <name>Giga Tribe (2008)</name>
+  </anime>
+  <anime anidbid="9614" tvdbid="257098" defaulttvdbseason="0">
+    <name>Hiiro no Kakera Taizen: Totsugeki! Tonari no Ikemens</name>
   </anime>
 </anime-list>

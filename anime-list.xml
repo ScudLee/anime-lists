@@ -1022,7 +1022,7 @@
     </supplemental-info>
   </anime>
   <anime anidbid="238" tvdbid="232991" defaulttvdbseason="1">
-    <name>Shoubushi Densetsu Tetsuya</name>
+    <name>Gambler Densetsu Tetsuya</name>
   </anime>
   <anime anidbid="239" tvdbid="78857" defaulttvdbseason="1">
     <name>Naruto</name>
@@ -1408,13 +1408,13 @@
     <name>Shin Tenchi Muyou!</name>
   </anime>
   <anime anidbid="338" tvdbid="106641" defaulttvdbseason="1">
-    <name>Soreyuke! Uchuu Senkan Yamamoto Yooko</name>
+    <name>Soreyuke! Uchuu Senkan Yamamoto Youko</name>
   </anime>
   <anime anidbid="339" tvdbid="106641" defaulttvdbseason="2">
-    <name>Soreyuke! Uchuu Senkan Yamamoto Yooko II</name>
+    <name>Soreyuke! Uchuu Senkan Yamamoto Youko II</name>
   </anime>
   <anime anidbid="340" tvdbid="127451" defaulttvdbseason="1">
-    <name>Soreyuke! Uchuu Senkan Yamamoto Yooko (1999)</name>
+    <name>Soreyuke! Uchuu Senkan Yamamoto Youko (1999)</name>
   </anime>
   <anime anidbid="343" tvdbid="72775" defaulttvdbseason="4">
     <name>Saint Seiya: Meiou Hades Juuni Kyuu Hen</name>
@@ -5160,7 +5160,7 @@
     <name>Genma Taisen</name>
   </anime>
   <anime anidbid="1473" tvdbid="141751" defaulttvdbseason="1">
-    <name>Genma Taisen: Shinwa Zenya no Shou</name>
+    <name>Genma Taisen: Shinwa Zen'ya no Shou</name>
   </anime>
   <anime anidbid="1474" tvdbid="81472" defaulttvdbseason="0" imdbid="tt0142247">
     <name>Dragon Ball Z: Zetsubou e no Hankou!! Nokosareta Chousenshi - Gohan to Trunks</name>
@@ -10488,7 +10488,7 @@
     <name>xxxHOLiC</name>
   </anime>
   <anime anidbid="4033" tvdbid="160981" defaulttvdbseason="0" imdbid="tt0295667">
-    <name>Uchuu Senshi Baldios Movie</name>
+    <name>Uchuu Senshi Baldios (1981)</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
@@ -15522,7 +15522,7 @@
     <name>Happy Birthday Inochi Kagayaku Toki</name>
   </anime>
   <anime anidbid="6633" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0829134">
-    <name>Inochi No Chikyuu: Dioxin No Natsu</name>
+    <name>Inochi no Chikyuu: Dioxin no Natsu</name>
   </anime>
   <anime anidbid="6634" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0087202">
     <name>Grick no Bouken</name>
@@ -16051,7 +16051,7 @@
     <name>Chagama Ondo</name>
   </anime>
   <anime anidbid="6855" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0418858">
-    <name>Chinkoro Heihei Tamatebako</name>
+    <name>Chinkoroheibei Tamatebako</name>
   </anime>
   <anime anidbid="6856" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0418919">
     <name>Maabou no Shounen Koukuu Tsuwamono</name>
@@ -19056,9 +19056,6 @@
   <anime anidbid="8367" tvdbid="252467" defaulttvdbseason="1">
     <name>Kimi to Boku.</name>
   </anime>
-  <anime anidbid="8369" tvdbid="hentai" defaulttvdbseason="1">
-    <name>Naisho no Wakana-san</name>
-  </anime>
   <anime anidbid="8370" tvdbid="249876" defaulttvdbseason="1">
     <name>Kami-sama no Memo-chou: It's the Only NEET Thing to Do.</name>
   </anime>
@@ -19204,13 +19201,13 @@
     <name>Sojunghan Nal-ui Kkum</name>
   </anime>
   <anime anidbid="8426" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0223391">
-    <name>Mo fa a ma</name>
+    <name>Mo Fa A Ma</name>
   </anime>
   <anime anidbid="8430" tvdbid="movie" defaulttvdbseason="1" imdbid="tt2193273">
-    <name>Xi Yang Yang Yu Hui Tai Lang: Zhi Niu Qi Chong Tian</name>
+    <name>Xi Yang Yang Yu Hui Tai Lang Zhi Niu Qi Chong Tian</name>
   </anime>
   <anime anidbid="8431" tvdbid="movie" defaulttvdbseason="1" imdbid="tt2193269">
-    <name>Xi Yang Yang Yu Hui Tai Lang: Zhi Hu Hu Sheng Wei</name>
+    <name>Xi Yang Yang Yu Hui Tai Lang Zhi Hu Hu Sheng Wei</name>
   </anime>
   <anime anidbid="8432" tvdbid="music video" defaulttvdbseason="1">
     <name>Perfect Day</name>
@@ -20107,12 +20104,6 @@
   <anime anidbid="8817" tvdbid="unknown" defaulttvdbseason="0" imdbid="tt2368783">
     <name>Eiga Precure All Stars New Stage: Mirai no Tomodachi</name>
   </anime>
-  <anime anidbid="8818" tvdbid="81115" defaulttvdbseason="0">
-    <name>Mahou Shoujo Lyrical Nanoha A's Portable: The Gears of Destiny</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
-    </mapping-list>
-  </anime>
   <anime anidbid="8819" tvdbid="255904" defaulttvdbseason="1">
     <name>Smile Precure!</name>
   </anime>
@@ -20553,7 +20544,7 @@
     <name>Kuromajo-san ga Tooru!!</name>
   </anime>
   <anime anidbid="9021" tvdbid="76703" defaulttvdbseason="0" imdbid="unknown">
-    <name>Meloetta to Kirakira Recital</name>
+    <name>Meloetta no Kirakira Recital</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
@@ -20699,10 +20690,10 @@
     <name>Watashi no Coffee Samurai: Jihanki Teki na Kareshi</name>
   </anime>
   <anime anidbid="9142" tvdbid="movie" defaulttvdbseason="1" imdbid="tt2193271">
-    <name>Xi Yang Yang Yu Hui Tai Lang: Zhi Kaixin Chuang Long Nian</name>
+    <name>Xi Yang Yang Yu Hui Tai Lang Zhi Kaixin Chuang Long Nian</name>
   </anime>
   <anime anidbid="9143" tvdbid="movie" defaulttvdbseason="1" imdbid="tt1997607">
-    <name>Xi Yang Yang Yu Hui Tai Lang: Zhi Tu Nian Ding Gua Gua</name>
+    <name>Xi Yang Yang Yu Hui Tai Lang Zhi Tu Nian Ding Gua Gua</name>
   </anime>
   <anime anidbid="9144" tvdbid="255848" defaulttvdbseason="0">
     <name>Yurumates (2012)</name>
@@ -20747,7 +20738,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="9183" tvdbid="102261" defaulttvdbseason="3">
-    <name>Zenmonogatari</name>
+    <name>Monogatari Series: Second Season</name>
   </anime>
   <anime anidbid="9187" tvdbid="257516" defaulttvdbseason="0">
     <name>Accel World OVA</name>
@@ -20861,7 +20852,7 @@
     <name>Wonderful Rush</name>
   </anime>
   <anime anidbid="9271" tvdbid="264533" defaulttvdbseason="1">
-    <name>Love Live!</name>
+    <name>Love Live! School Idol Project</name>
   </anime>
   <anime anidbid="9272" tvdbid="257522" defaulttvdbseason="2">
     <name>Medaka Box: Abnormal</name>
@@ -20954,7 +20945,7 @@
     <name>Gogo no Kouchou: Junai Mellow yori</name>
   </anime>
   <anime anidbid="9332" tvdbid="264531" defaulttvdbseason="1">
-    <name>Mondai-Ji-tachi ga Isekai kara Kuru Sou Desu yo?</name>
+    <name>Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?</name>
   </anime>
   <anime anidbid="9335" tvdbid="82029" defaulttvdbseason="0">
     <name>Sakura Taisen: Kanadegumi</name>
@@ -21089,7 +21080,7 @@
     <name>Namanaka Hyaku Percent!</name>
   </anime>
   <anime anidbid="9421" tvdbid="264528" defaulttvdbseason="1">
-    <name>Zettai Karen Children: The Unlimited - Hyoubu Kyousuke</name>
+    <name>Courtesy of Zettai Karen Children: The Unlimited - Hyoubu Kyousuke</name>
   </anime>
   <anime anidbid="9426" tvdbid="81011" defaulttvdbseason="0">
     <name>Rekka no Honoo: Final Burning</name>
@@ -21251,7 +21242,7 @@
     <name>Kyoukai no Kanata</name>
   </anime>
   <anime anidbid="9519" tvdbid="264531" defaulttvdbseason="0">
-    <name>Mondai-Ji-tachi ga Isekai kara Kuru Sou Desu yo? (2013)</name>
+    <name>Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo? (2013)</name>
   </anime>
   <anime anidbid="9522" tvdbid="264972" defaulttvdbseason="1">
     <name>Boku no Imouto wa "Oosaka Okan"</name>

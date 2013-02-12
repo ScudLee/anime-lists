@@ -2663,6 +2663,9 @@
   <anime anidbid="6573" tvdbid="unknown" defaulttvdbseason="1">
     <name>Gorillaman</name>
   </anime>
+  <anime anidbid="6578" tvdbid="unknown" defaulttvdbseason="1">
+    <name>Ojamanga Yamada-kun</name>
+  </anime>
   <anime anidbid="6600" tvdbid="unknown" defaulttvdbseason="1">
     <name>Bug tte Honey</name>
   </anime>
@@ -3334,5 +3337,17 @@
   </anime>
   <anime anidbid="9581" tvdbid="unknown" defaulttvdbseason="1">
     <name>Charmmy Kitty 3: Fushigi no Kuni no Charmmy</name>
+  </anime>
+  <anime anidbid="9626" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
+    <name>Ojamanga Yamada-kun (1981)</name>
+  </anime>
+  <anime anidbid="9662" tvdbid="unknown" defaulttvdbseason="5">
+    <name>Peeping Life: The Perfect Explosion</name>
+  </anime>
+  <anime anidbid="9679" tvdbid="unknown" defaulttvdbseason="2">
+    <name>Ocha-ken: Hotto Monogatari</name>
+  </anime>
+  <anime anidbid="9680" tvdbid="unknown" defaulttvdbseason="3">
+    <name>Ocha-ken: Ryokutto Monogatari</name>
   </anime>
 </anime-list>

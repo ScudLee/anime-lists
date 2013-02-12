@@ -20761,6 +20761,9 @@
   <anime anidbid="9214" tvdbid="262109" defaulttvdbseason="1">
     <name>Zetsuen no Tempest: The Civilization Blaster</name>
   </anime>
+  <anime anidbid="9216" tvdbid="76703" defaulttvdbseason="15">
+    <name>Pocket Monsters: Best Wishes Season 2</name>
+  </anime>
   <anime anidbid="9227" tvdbid="262098" defaulttvdbseason="1">
     <name>Girls und Panzer</name>
   </anime>
@@ -21247,6 +21250,9 @@
   <anime anidbid="9522" tvdbid="264972" defaulttvdbseason="1">
     <name>Boku no Imouto wa "Oosaka Okan"</name>
   </anime>
+  <anime anidbid="9523" tvdbid="266581" defaulttvdbseason="1">
+    <name>Dokidoki! Precure</name>
+  </anime>
   <anime anidbid="9525" tvdbid="264534" defaulttvdbseason="1">
     <name>Tamako Market</name>
   </anime>
@@ -21264,6 +21270,9 @@
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
+  </anime>
+  <anime anidbid="9589" tvdbid="movie" defaulttvdbseason="1" imdbid="tt2591814">
+    <name>Kotonoha no Niwa</name>
   </anime>
   <anime anidbid="9592" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Cheorin Samchongsa</name>
@@ -21324,5 +21333,74 @@
   </anime>
   <anime anidbid="9614" tvdbid="257098" defaulttvdbseason="0">
     <name>Hiiro no Kakera Taizen: Totsugeki! Tonari no Ikemens</name>
+  </anime>
+  <anime anidbid="9628" tvdbid="music video" defaulttvdbseason="1">
+    <name>Touhou PVD 4</name>
+  </anime>
+  <anime anidbid="9641" tvdbid="web" defaulttvdbseason="1">
+    <name>Hotaru no Mure</name>
+  </anime>
+  <anime anidbid="9653" tvdbid="76703" defaulttvdbseason="16">
+    <name>Pocket Monsters: Best Wishes Season 2 Episode N</name>
+  </anime>
+  <anime anidbid="9655" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
+    <name>Dareka no Manazashi</name>
+  </anime>
+  <anime anidbid="9657" tvdbid="257951" defaulttvdbseason="2">
+    <name>Gakkatsu! 2nd Season</name>
+  </anime>
+  <anime anidbid="9660" tvdbid="tv special" defaulttvdbseason="1" imdbid="unknown">
+    <name>Neo Faust</name>
+  </anime>
+  <anime anidbid="9664" tvdbid="255925" defaulttvdbseason="3">
+    <name>Pretty Rhythm: Rainbow Live</name>
+  </anime>
+  <anime anidbid="9668" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Kotowari: Kimi no Kokoro no Koboreta Kakera</name>
+  </anime>
+  <anime anidbid="9672" tvdbid="259635" defaulttvdbseason="2">
+    <name>Kingdom 2</name>
+  </anime>
+  <anime anidbid="9674" tvdbid="253182" defaulttvdbseason="2">
+    <name>DD Hokuto no Ken (2013)</name>
+  </anime>
+  <anime anidbid="9678" tvdbid="197261" defaulttvdbseason="1">
+    <name>Tantei Opera Milky Holmes: Sisters</name>
+  </anime>
+  <anime anidbid="9681" tvdbid="web" defaulttvdbseason="1">
+    <name>Yonhyaku-Nijuu Renpai Girl</name>
+  </anime>
+  <anime anidbid="9682" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Garden The Animation</name>
+  </anime>
+  <anime anidbid="9683" tvdbid="web" defaulttvdbseason="1">
+    <name>Chiruri</name>
+  </anime>
+  <anime anidbid="9687" tvdbid="100151" defaulttvdbseason="0" imdbid="tt2668134">
+    <name>Captain Harlock (2013)</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
+    </mapping-list>
+  </anime>
+  <anime anidbid="9690" tvdbid="266581" defaulttvdbseason="0">
+    <name>Eiga Dokidoki! Precure</name>
+  </anime>
+  <anime anidbid="9694" tvdbid="167921" defaulttvdbseason="0" imdbid="unknown">
+    <name>Sore Ike! Anpanman: Tobase! Kibou no Handkerchief</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-52;</mapping>
+    </mapping-list>
+  </anime>
+  <anime anidbid="9697" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Ryou Seibai! Gakuen Bishoujo Seisai Hiroku</name>
+  </anime>
+  <anime anidbid="9699" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Natsuyasumi.</name>
+  </anime>
+  <anime anidbid="9701" tvdbid="249865" defaulttvdbseason="0">
+    <name>The Idolmaster Movie</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
+    </mapping-list>
   </anime>
 </anime-list>

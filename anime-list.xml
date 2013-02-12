@@ -885,14 +885,14 @@
     </mapping-list>
   </anime>
   <anime anidbid="207" tvdbid="152531" defaulttvdbseason="1">
-    <name>El Hazard: The Alternative World</name>
+    <name>Ijigen no Sekai El Hazard</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="1">;1-13;</mapping>
     </mapping-list>
     <before>;1-13;</before>
   </anime>
   <anime anidbid="208" tvdbid="255580" defaulttvdbseason="1">
-    <name>El Hazard: The Magnificent World</name>
+    <name>Shinpi no Sekai El Hazard</name>
   </anime>
   <anime anidbid="209" tvdbid="82970" defaulttvdbseason="1">
     <name>Pet Shop of Horrors</name>
@@ -2767,7 +2767,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="698" tvdbid="72491" defaulttvdbseason="0" imdbid="unknown">
-    <name>Slam Dunk: Hoero Basketman Tamashii!! Hanamichi to Rukawa no Atsuki Natsu</name>
+    <name>Slam Dunk: Hoero Basketman-damashii! Hanamichi to Rukawa no Atsuki Natsu</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
     </mapping-list>
@@ -9097,7 +9097,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="3107" tvdbid="79654" defaulttvdbseason="0" imdbid="unknown">
-    <name>Eiga Crayon Shin-chan: Densetsu o Yobu Buriburi 3 Pun Dai Shingeki</name>
+    <name>Eiga Crayon Shin-chan: Densetsu o Yobu Buriburi 3-punpokkiri Daishingeki</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-13;2-13;3-13;</mapping>
     </mapping-list>
@@ -10852,7 +10852,7 @@
     <name>Aoi Kioku: Manmou Kaitaku to Shounen-tachi</name>
   </anime>
   <anime anidbid="4182" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
-    <name>Ajin senshi</name>
+    <name>Ajin Senshi</name>
   </anime>
   <anime anidbid="4184" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0829089">
     <name>5-tou ni Naritai.</name>
@@ -10929,7 +10929,7 @@
     <name>Cream Lemon: Lemon Angel</name>
   </anime>
   <anime anidbid="4211" tvdbid="hentai" defaulttvdbseason="1">
-    <name>Lemon Angel (1988)</name>
+    <name>Lemon Angel</name>
   </anime>
   <anime anidbid="4212" tvdbid="hentai" defaulttvdbseason="1">
     <name>Lemon Angel (1988/II)</name>
@@ -11865,7 +11865,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="4706" tvdbid="79654" defaulttvdbseason="0" imdbid="unknown">
-    <name>Eiga Crayon Shin-chan: Bakuhatsu! Onsen Wakuwaku Daikessen</name>
+    <name>Crayon Shin-chan: Bakuhatsu! Onsen Wakuwaku Daikessen</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-7;</mapping>
     </mapping-list>
@@ -12317,7 +12317,7 @@
     <name>Kishin Taisen Gigantic Formula</name>
   </anime>
   <anime anidbid="4910" tvdbid="79654" defaulttvdbseason="0" imdbid="unknown">
-    <name>Eiga Crayon Shin-chan: Arashi o Yobu Utau Ketsu dake Bakudan!</name>
+    <name>Crayon Shin-chan: Arashi o Yobu Utau Ketsu dake Bakudan!</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-15;</mapping>
     </mapping-list>
@@ -13734,7 +13734,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="5703" tvdbid="hentai" defaulttvdbseason="1">
-    <name>Bouken Shitemoii Goro</name>
+    <name>Bouken Shite mo Ii Koro</name>
   </anime>
   <anime anidbid="5704" tvdbid="hentai" defaulttvdbseason="1">
     <name>You Bishoujo Miruku-chan</name>
@@ -13987,7 +13987,7 @@
     <before>;1-1;</before>
   </anime>
   <anime anidbid="5858" tvdbid="79654" defaulttvdbseason="0" imdbid="tt1220673">
-    <name>Crayon Shin-chan: Chou Arashi o Yobu Kinpoko no Yuusha</name>
+    <name>Eiga Crayon Shin-chan: Chou Arashi o Yobu Kinpoko no Yuusha</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-16;</mapping>
     </mapping-list>
@@ -15300,7 +15300,7 @@
     <name>Mesu Kyoushi: Injoku no Kyoushitsu</name>
   </anime>
   <anime anidbid="6550" tvdbid="79654" defaulttvdbseason="0" imdbid="tt1388333">
-    <name>Crayon Shin-chan: Otakebe! Kasukabe Yasei Oukoku</name>
+    <name>Eiga Crayon Shin-chan: Otakebe! Kasukabe Yasei Oukoku</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
@@ -18979,7 +18979,7 @@
     <name>Mashiro-iro Symphony: The Color of Lovers</name>
   </anime>
   <anime anidbid="8321" tvdbid="202241" defaulttvdbseason="1">
-    <name>Digimon Xros Wars: Aku no Death General to Shichinin no Oukoku</name>
+    <name>Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="1">;1-31;2-32;3-33;4-34;5-35;6-36;7-37;8-38;9-39;10-40;11-41;12-42;13-43;14-44;15-45;16-46;17-47;18-48;19-49;20-50;21-51;22-52;23-53;24-54;25-55;26-56;27-57;28-58;29-59;30-60;</mapping>
     </mapping-list>
@@ -20990,7 +20990,7 @@
     <name>Litchi De Hikari Club</name>
   </anime>
   <anime anidbid="9360" tvdbid="tv special" defaulttvdbseason="1" imdbid="unknown">
-    <name>Kitaro Shinigami Picture Book Rakugo</name>
+    <name>Ehon Yose</name>
   </anime>
   <anime anidbid="9363" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Little Polar Bear: Shirokuma-kun, Doko e?</name>
@@ -21044,7 +21044,7 @@
     <name>Chuuzumou</name>
   </anime>
   <anime anidbid="9393" tvdbid="264050" defaulttvdbseason="1">
-    <name>Senyuu.</name>
+    <name>Sen'yuu.</name>
   </anime>
   <anime anidbid="9394" tvdbid="264049" defaulttvdbseason="1">
     <name>Kotoura-san</name>
@@ -21296,7 +21296,7 @@
     <name>Koukai Benjo The Animation</name>
   </anime>
   <anime anidbid="9603" tvdbid="257765" defaulttvdbseason="2">
-    <name>Kuroko no Basuke 2</name>
+    <name>Kuroko no Baske 2</name>
   </anime>
   <anime anidbid="9605" tvdbid="261249" defaulttvdbseason="2">
     <name>K 2</name>

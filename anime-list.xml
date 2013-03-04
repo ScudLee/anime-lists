@@ -2244,10 +2244,10 @@
     <name>Haou Daikei Ryuu Knight</name>
   </anime>
   <anime anidbid="543" tvdbid="91391" defaulttvdbseason="0">
-    <name>Super Milk-Chan</name>
+    <name>Super Milk-chan</name>
   </anime>
   <anime anidbid="544" tvdbid="91391" defaulttvdbseason="1">
-    <name>Oh! Super Milk-Chan</name>
+    <name>Oh! Super Milk-chan</name>
   </anime>
   <anime anidbid="545" tvdbid="79076" defaulttvdbseason="3">
     <name>Hunter x Hunter: Greed Island</name>
@@ -2356,7 +2356,7 @@
     <name>Memories Off 2nd</name>
   </anime>
   <anime anidbid="575" tvdbid="79179" defaulttvdbseason="1">
-    <name>Kino no Tabi: the Beautiful World</name>
+    <name>Kino no Tabi: The Beautiful World</name>
   </anime>
   <anime anidbid="576" tvdbid="78923" defaulttvdbseason="0" imdbid="tt0095448">
     <name>Kimagure Orange Road: Ano Hi ni Kaeritai</name>
@@ -2395,7 +2395,7 @@
     <name>Narue no Sekai</name>
   </anime>
   <anime anidbid="587" tvdbid="movie" defaulttvdbseason="1" imdbid="tt1863338">
-    <name>Nitaboh: Tsugaru Shamisen Shiso Gaibun</name>
+    <name>Nitabou: Tsugaru Shamisen Shiso Gaibun</name>
   </anime>
   <anime anidbid="588" tvdbid="72436" defaulttvdbseason="1">
     <name>Virus</name>
@@ -7371,7 +7371,7 @@
     <name>Gekitou! Crush Gear Turbo: Kaizabaan no Chousen</name>
   </anime>
   <anime anidbid="2324" tvdbid="73038" defaulttvdbseason="0" imdbid="tt0159356">
-    <name>Choujikuu Yousai Macross - Flash Back 2012</name>
+    <name>Choujikuu Yousai Macross: Flash Back 2012</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
@@ -10542,7 +10542,7 @@
     <name>Samurider: Nazo no Tenkousei</name>
   </anime>
   <anime anidbid="4067" tvdbid="81426" defaulttvdbseason="1">
-    <name>Joshikousei</name>
+    <name>Joshikousei: Girl's High</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-1;2-2;3-4;4-5;5-6;6-3;</mapping>
     </mapping-list>
@@ -10704,7 +10704,7 @@
     <name>Gakuen Utopia Manabi Straight!</name>
   </anime>
   <anime anidbid="4131" tvdbid="unknown" defaulttvdbseason="0" imdbid="tt1158253">
-    <name>Gekijouban Kabutomushi Ouja Mushiking: Greatest Champion e no Michi</name>
+    <name>Kouchuu Ouja Mushiking: Greatest Champion e no Michi Gekijouban</name>
   </anime>
   <anime anidbid="4132" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Kuroi Ame ni Utarete</name>
@@ -10789,7 +10789,7 @@
     </supplemental-info>
   </anime>
   <anime anidbid="4161" tvdbid="OVA" defaulttvdbseason="1" imdbid="unknown">
-    <name>Machikado no Meruhen</name>
+    <name>Radio City Fantasy: Machikado no Maerchen</name>
   </anime>
   <anime anidbid="4165" tvdbid="74474" defaulttvdbseason="0">
     <name>Kidou Senshi Gundam SEED Special Edition Kanketsuhen: Meidou no Sora</name>
@@ -11110,7 +11110,7 @@
     <name>Donbe Monogatari</name>
   </anime>
   <anime anidbid="4298" tvdbid="OVA" defaulttvdbseason="1" imdbid="unknown">
-    <name>Pants no Ana</name>
+    <name>Pants no Ana: Mambo de Ganbo!</name>
   </anime>
   <anime anidbid="4300" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Kikan Kuruma Sensei</name>
@@ -11727,7 +11727,7 @@
     <name>Highway Jenny</name>
   </anime>
   <anime anidbid="4610" tvdbid="OVA" defaulttvdbseason="1" imdbid="unknown">
-    <name>You Shoumei Bijutsukan Line</name>
+    <name>Line</name>
   </anime>
   <anime anidbid="4611" tvdbid="OVA" defaulttvdbseason="1" imdbid="unknown">
     <name>Gendai Kibunroku Kaii Monogatari</name>
@@ -12387,7 +12387,7 @@
     <name>Inukami! The Movie: Tokumei Reiteki Sousakan Karina Shirou!</name>
   </anime>
   <anime anidbid="4939" tvdbid="79179" defaulttvdbseason="0" imdbid="tt0994793">
-    <name>Kino no Tabi: the Beautiful World - Byouki no Kuni -For You-</name>
+    <name>Kino no Tabi: The Beautiful World - Byouki no Kuni -For You-</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
     </mapping-list>
@@ -13143,7 +13143,7 @@
     <name>Aries: Shinwa no Seizakyuu</name>
   </anime>
   <anime anidbid="5328" tvdbid="hentai" defaulttvdbseason="1">
-    <name>Denki Musou Hana</name>
+    <name>Denki Musoubana: Electric Full Flower Garden</name>
   </anime>
   <anime anidbid="5331" tvdbid="hentai" defaulttvdbseason="1">
     <name>Eisai Kyoiku</name>
@@ -15189,7 +15189,7 @@
     <name>Higepiyo</name>
   </anime>
   <anime anidbid="6481" tvdbid="103291" defaulttvdbseason="1">
-    <name>Fight Ippatsu! Juuden-Chan!!</name>
+    <name>Fight Ippatsu! Juuden-chan!!</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;2-1;3-2;4-3;5-4;6-5;7-6;</mapping>
     </mapping-list>
@@ -15610,7 +15610,7 @@
     <name>Kampfer</name>
   </anime>
   <anime anidbid="6687" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
-    <name>Chikyuu Monogatari Telepath 2500</name>
+    <name>Chikyuu Monogatari: Telepath 2500</name>
   </anime>
   <anime anidbid="6688" tvdbid="movie" defaulttvdbseason="1" imdbid="tt1024717">
     <name>Chou no Sainan</name>
@@ -18901,7 +18901,7 @@
     <name>Kami-sama Dolls</name>
   </anime>
   <anime anidbid="8279" tvdbid="72775" defaulttvdbseason="0" imdbid="tt2231489">
-    <name>Saint Seiya (2012)</name>
+    <name>Saint Seiya (2014)</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-99;</mapping>
     </mapping-list>
@@ -20286,7 +20286,7 @@
     <name>Binbougami ga!</name>
   </anime>
   <anime anidbid="8889" tvdbid="264051" defaulttvdbseason="1">
-    <name>Sasami-san at Ganbaranai</name>
+    <name>Sasami-san Ganbaranai</name>
   </anime>
   <anime anidbid="8890" tvdbid="257888" defaulttvdbseason="1">
     <name>Acchi Kocchi</name>
@@ -21218,7 +21218,7 @@
     <name>Bakumatsu Gijinden Roman</name>
   </anime>
   <anime anidbid="9501" tvdbid="247911" defaulttvdbseason="2">
-    <name>Yondemasu yo, Azazel-san. 2</name>
+    <name>Yondemasu yo, Azazel-san. Z</name>
   </anime>
   <anime anidbid="9503" tvdbid="259655" defaulttvdbseason="0">
     <name>Chitose Get You!! (2013)</name>
@@ -21251,7 +21251,7 @@
     <name>Boku no Imouto wa "Oosaka Okan"</name>
   </anime>
   <anime anidbid="9523" tvdbid="266581" defaulttvdbseason="1">
-    <name>Dokidoki! Precure</name>
+    <name>DokiDoki! Precure</name>
   </anime>
   <anime anidbid="9525" tvdbid="264534" defaulttvdbseason="1">
     <name>Tamako Market</name>

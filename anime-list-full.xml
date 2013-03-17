@@ -23196,7 +23196,7 @@
   <anime anidbid="8807" tvdbid="unknown" defaulttvdbseason="1">
     <name>Yanase Takashi Maerchen Gekijou</name>
   </anime>
-  <anime anidbid="8808" tvdbid="unknown" defaulttvdbseason="1">
+  <anime anidbid="8808" tvdbid="264663 " defaulttvdbseason="1">
     <name>Date a Live</name>
   </anime>
   <anime anidbid="8809" tvdbid="81472" defaulttvdbseason="0" tmdbid="91787">
@@ -23928,6 +23928,9 @@
   <anime anidbid="9183" tvdbid="102261" defaulttvdbseason="3">
     <name>Monogatari Series: Second Season</name>
   </anime>
+  <anime anidbid="9186" tvdbid="267438" defaulttvdbseason="1">
+    <name>Karneval (2013)</name>
+  </anime>
   <anime anidbid="9187" tvdbid="257516" defaulttvdbseason="0">
     <name>Accel World OVA</name>
   </anime>
@@ -24099,6 +24102,9 @@
   <anime anidbid="9308" tvdbid="unknown" defaulttvdbseason="1">
     <name>PiNMeN</name>
   </anime>
+  <anime anidbid="9310" tvdbid="267435" defaulttvdbseason="1">
+    <name>Yahari Ore no Seishun Love Come wa Machigatteiru.</name>
+  </anime>
   <anime anidbid="9311" tvdbid="264055" defaulttvdbseason="1">
     <name>GJ-bu</name>
   </anime>
@@ -24140,6 +24146,9 @@
   </anime>
   <anime anidbid="9327" tvdbid="79295" defaulttvdbseason="0">
     <name>Gunnm 3D Special</name>
+  </anime>
+  <anime anidbid="9328" tvdbid="267433" defaulttvdbseason="1">
+    <name>RDG: Red Data Girl</name>
   </anime>
   <anime anidbid="9329" tvdbid="unknown" defaulttvdbseason="5">
     <name>Battle Spirits: Sword Eyes</name>
@@ -24375,6 +24384,9 @@
   <anime anidbid="9465" tvdbid="254667" defaulttvdbseason="2">
     <name>Senki Zesshou Symphogear 2</name>
   </anime>
+  <anime anidbid="9466" tvdbid="267441" defaulttvdbseason="1">
+    <name>Hataraku Maou-sama!</name>
+  </anime>
   <anime anidbid="9467" tvdbid="249869" defaulttvdbseason="0">
     <name>Rou Kyuu Bu! (2013)</name>
   </anime>
@@ -24444,7 +24456,7 @@
   <anime anidbid="9499" tvdbid="264529" defaulttvdbseason="1">
     <name>Bakumatsu Gijinden Roman</name>
   </anime>
-  <anime anidbid="9500" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
+  <anime anidbid="9500" tvdbid="unknown" defaulttvdbseason="0" imdbid="tt2506390">
     <name>Gekijouban Shimajirou to Fufu no Daibouken: Sukue! Nana-iro no Hana</name>
   </anime>
   <anime anidbid="9501" tvdbid="247911" defaulttvdbseason="2">
@@ -24465,6 +24477,12 @@
   <anime anidbid="9511" tvdbid="hentai" defaulttvdbseason="1">
     <name>Soushi Souai: Junai Mellow yori</name>
   </anime>
+  <anime anidbid="9513" tvdbid="87491" defaulttvdbseason="0">
+    <name>Vanquished Queens</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-29;2-30;</mapping>
+    </mapping-list>
+  </anime>
   <anime anidbid="9514" tvdbid="movie" defaulttvdbseason="1" imdbid="tt2013293">
     <name>Kaze Tachinu</name>
   </anime>
@@ -24480,6 +24498,9 @@
   <anime anidbid="9519" tvdbid="264531" defaulttvdbseason="0">
     <name>Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo? (2013)</name>
   </anime>
+  <anime anidbid="9520" tvdbid="267436" defaulttvdbseason="1">
+    <name>Photo Kano</name>
+  </anime>
   <anime anidbid="9522" tvdbid="264972" defaulttvdbseason="1">
     <name>Boku no Imouto wa "Oosaka Okan"</name>
   </anime>
@@ -24489,6 +24510,9 @@
   <anime anidbid="9525" tvdbid="264534" defaulttvdbseason="1">
     <name>Tamako Market</name>
   </anime>
+  <anime anidbid="9526" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Mesu Nochi Torare</name>
+  </anime>
   <anime anidbid="9532" tvdbid="hentai" defaulttvdbseason="1">
     <name>Soushisouai Note The Animation</name>
   </anime>
@@ -24497,6 +24521,15 @@
   </anime>
   <anime anidbid="9539" tvdbid="unknown" defaulttvdbseason="1">
     <name>Monchicchiisu</name>
+  </anime>
+  <anime anidbid="9554" tvdbid="267434" defaulttvdbseason="1">
+    <name>Devil Survivor 2 The Animation</name>
+  </anime>
+  <anime anidbid="9556" tvdbid="267432" defaulttvdbseason="1">
+    <name>Suisei no Gargantia</name>
+  </anime>
+  <anime anidbid="9559" tvdbid="tv special" defaulttvdbseason="2">
+    <name>Otona Joshi no Anime Time 2</name>
   </anime>
   <anime anidbid="9581" tvdbid="unknown" defaulttvdbseason="1">
     <name>Charmmy Kitty 3: Fushigi no Kuni no Charmmy</name>
@@ -24585,6 +24618,9 @@
   <anime anidbid="9653" tvdbid="76703" defaulttvdbseason="16">
     <name>Pocket Monsters: Best Wishes Season 2 Episode N</name>
   </anime>
+  <anime anidbid="9654" tvdbid="266840" defaulttvdbseason="1">
+    <name>Chokkyuu Hyoudai Robot Anime: Straight Title</name>
+  </anime>
   <anime anidbid="9655" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Dareka no Manazashi</name>
   </anime>
@@ -24653,5 +24689,11 @@
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
     </mapping-list>
+  </anime>
+  <anime anidbid="9705" tvdbid="hentai" defaulttvdbseason="1">
+    <name>D-spray</name>
+  </anime>
+  <anime anidbid="9738" tvdbid="260946" defaulttvdbseason="3">
+    <name>Danball Senki Wars</name>
   </anime>
 </anime-list>

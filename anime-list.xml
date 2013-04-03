@@ -20113,7 +20113,7 @@
   <anime anidbid="8820" tvdbid="259641" defaulttvdbseason="1">
     <name>Koi to Senkyo to Chocolate</name>
   </anime>
-  <anime anidbid="8821" tvdbid="81115" defaulttvdbseason="0" imdbid="unknown">
+  <anime anidbid="8821" tvdbid="81115" defaulttvdbseason="0" tmdbid="181522">
     <name>Magical Girl Lyrical Nanoha The Movie 2nd A's</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-11;</mapping>
@@ -20438,6 +20438,15 @@
   <anime anidbid="8953" tvdbid="web" defaulttvdbseason="1" imdbid="unknown">
     <name>Rui no Masaiban</name>
   </anime>
+  <anime anidbid="8954" tvdbid="255898" defaulttvdbseason="1">
+    <name>Qin Shiming Yue Zhi Bai Bu Fei Jian</name>
+  </anime>
+  <anime anidbid="8955" tvdbid="255898" defaulttvdbseason="2">
+    <name>Qin Shiming Yue Zhi Ye Jin Tianming</name>
+  </anime>
+  <anime anidbid="8956" tvdbid="255898" defaulttvdbseason="3">
+    <name>Qin Shiming Yue Zhi Zhu Zi Bai Jia</name>
+  </anime>
   <anime anidbid="8962" tvdbid="254662" defaulttvdbseason="1">
     <name>Rinne no Lagrange: Flower Declaration of Your Heart - Season 2</name>
     <mapping-list>
@@ -20585,6 +20594,12 @@
   <anime anidbid="9022" tvdbid="260070" defaulttvdbseason="1">
     <name>Juusen Battle Monsuno</name>
   </anime>
+  <anime anidbid="9023" tvdbid="79824" defaulttvdbseason="0" imdbid="tt2290828">
+    <name>Naruto the Movie: Road to Ninja</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-10;</mapping>
+    </mapping-list>
+  </anime>
   <anime anidbid="9025" tvdbid="164741" defaulttvdbseason="0" imdbid="unknown">
     <name>Ninja Hattori-kun Plus Paaman: Ninja Kaijuu Jippou VS Miracle Tamago</name>
   </anime>
@@ -20616,11 +20631,41 @@
       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
+  <anime anidbid="9039" tvdbid="OVA" defaulttvdbseason="1" imdbid="tt2091238">
+    <name>Bakusou Circuit Roman Twin</name>
+  </anime>
+  <anime anidbid="9042" tvdbid="79151" defaulttvdbseason="4">
+    <name>Fate/Kaleid Liner Prisma Illya</name>
+  </anime>
   <anime anidbid="9043" tvdbid="261249" defaulttvdbseason="1">
     <name>K</name>
   </anime>
+  <anime anidbid="9044" tvdbid="other" defaulttvdbseason="1" tmdbid="178618">
+    <name>Blossom</name>
+  </anime>
+  <anime anidbid="9045" tvdbid="146401" defaulttvdbseason="3">
+    <name>Inazuma Eleven GO: Chrono Stone</name>
+  </anime>
+  <anime anidbid="9046" tvdbid="195721" defaulttvdbseason="0">
+    <name>Shinryaku!! Ika Musume</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-3;2-4;</mapping>
+    </mapping-list>
+  </anime>
+  <anime anidbid="9047" tvdbid="other" defaulttvdbseason="1">
+    <name>Neko no Sumu Shima</name>
+  </anime>
   <anime anidbid="9048" tvdbid="70799" defaulttvdbseason="7">
     <name>Metal Fight Beyblade Zero G</name>
+  </anime>
+  <anime anidbid="9050" tvdbid="261484" defaulttvdbseason="1">
+    <name>One Off</name>
+  </anime>
+  <anime anidbid="9052" tvdbid="OVA" defaulttvdbseason="1">
+    <name>Ano Yama ni Noborou yo</name>
+  </anime>
+  <anime anidbid="9053" tvdbid="OVA">
+    <name>Kagayake! Yuujou no V Sign</name>
   </anime>
   <anime anidbid="9063" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Yukiguni no Oujisama</name>
@@ -20794,6 +20839,21 @@
   <anime anidbid="9207" tvdbid="264054" defaulttvdbseason="1">
     <name>Mangirl!</name>
   </anime>
+  <anime anidbid="9208" tvdbid="movie" defaulttvdbseason="1" imdbid="tt2399537">
+    <name>Nerawareta Gakuen</name>
+  </anime>
+  <anime anidbid="9209" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Starless: 21st Century Nymphomaniacs.</name>
+  </anime>
+  <anime anidbid="9210" tvdbid="music video" defaulttvdbseason="1">
+    <name>Christmas</name>
+  </anime>
+  <anime anidbid="9211" tvdbid="260408" defaulttvdbseason="1">
+    <name>Tanken Driland</name>
+  </anime>
+  <anime anidbid="9213" tvdbid="music video" defaulttvdbseason="1">
+    <name>Shadow Love</name>
+  </anime>
   <anime anidbid="9214" tvdbid="262109" defaulttvdbseason="1">
     <name>Zetsuen no Tempest: The Civilization Blaster</name>
   </anime>
@@ -20928,6 +20988,12 @@
   </anime>
   <anime anidbid="9298" tvdbid="262106" defaulttvdbseason="1">
     <name>Kami-sama Hajimemashita</name>
+  </anime>
+  <anime anidbid="9302" tvdbid="259642" defaulttvdbseason="0">
+    <name>Dakara Boku wa, H ga Dekinai. (2013)</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="9304" tvdbid="262954" defaulttvdbseason="1">
     <name>JoJo no Kimyou na Bouken (2012)</name>
@@ -21130,6 +21196,9 @@
   <anime anidbid="9411" tvdbid="hentai" defaulttvdbseason="1">
     <name>Namanaka Hyaku Percent!</name>
   </anime>
+  <anime anidbid="9418" tvdbid="268287" defaulttvdbseason="1">
+    <name>Aiura</name>
+  </anime>
   <anime anidbid="9421" tvdbid="264528" defaulttvdbseason="1">
     <name>Courtesy of Zettai Karen Children: The Unlimited - Hyoubu Kyousuke</name>
   </anime>
@@ -21163,8 +21232,14 @@
   <anime anidbid="9442" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Kaseki Dorobou to Kyouryuuseki</name>
   </anime>
+  <anime anidbid="9445" tvdbid="265386" defaulttvdbseason="1">
+    <name>Puchimas! Petit Idolmaster</name>
+  </anime>
   <anime anidbid="9446" tvdbid="252423" defaulttvdbseason="3">
     <name>Phi Brain: Kami no Puzzle (2013)</name>
+  </anime>
+  <anime anidbid="9447" tvdbid="tv special" defaulttvdbseason="1">
+    <name>Kuma Seijin to Boku</name>
   </anime>
   <anime anidbid="9448" tvdbid="movie" defaulttvdbseason="1" imdbid="tt1619027">
     <name>Glass no Chikyuu o Sukue Unico Tokubetsu Hen</name>
@@ -21178,11 +21253,26 @@
   <anime anidbid="9451" tvdbid="79252" defaulttvdbseason="0" imdbid="unknown">
     <name>Tetsuwan Atom Tokubetsu Hen: Ivan no Wakusei - Robot to Ningen no Yuujou</name>
   </anime>
+  <anime anidbid="9452" tvdbid="268284" defaulttvdbseason="1">
+    <name>Ginga Kikoutai Majestic Prince</name>
+  </anime>
   <anime anidbid="9453" tvdbid="102261" defaulttvdbseason="0">
     <name>Nekomonogatari (Kuro)</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-3;2-4;3-5;4-6;</mapping>
     </mapping-list>
+  </anime>
+  <anime anidbid="9454" tvdbid="267754" defaulttvdbseason="0" imdbid="tt2431934">
+    <name>Saint Oniisan</name>
+  </anime>
+  <anime anidbid="9455" tvdbid="265386" defaulttvdbseason="0">
+    <name>Puchimas! Wakku Waku!!</name>
+  </anime>
+  <anime anidbid="9456" tvdbid="267754" defaulttvdbseason="1">
+    <name>Saint Oniisan (2012)</name>
+  </anime>
+  <anime anidbid="9457" tvdbid="OVA" defaulttvdbseason="1">
+    <name>Nozoki Ana</name>
   </anime>
   <anime anidbid="9458" tvdbid="71863" defaulttvdbseason="0" imdbid="tt2438634">
     <name>Lupin Sansei: Touhou Kenbunroku - Another Page</name>
@@ -21280,6 +21370,12 @@
   <anime anidbid="9504" tvdbid="web" defaulttvdbseason="1">
     <name>Next A-Class</name>
   </anime>
+  <anime anidbid="9505" tvdbid="72454" defaulttvdbseason="0">
+    <name>Meitantei Conan: Zekkai no Private Eye</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-58;</mapping>
+    </mapping-list>
+  </anime>
   <anime anidbid="9508" tvdbid="75411" defaulttvdbseason="3">
     <name>Rozen Maiden (2013)</name>
   </anime>
@@ -21342,6 +21438,9 @@
   </anime>
   <anime anidbid="9559" tvdbid="tv special" defaulttvdbseason="2">
     <name>Otona Joshi no Anime Time 2</name>
+  </anime>
+  <anime anidbid="9568" tvdbid="268289" defaulttvdbseason="1">
+    <name>Kakumeiki Valvrave</name>
   </anime>
   <anime anidbid="9584" tvdbid="80554" defaulttvdbseason="4">
     <name>Hayate no Gotoku! Cuties</name>
@@ -21505,13 +21604,67 @@
       <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
   </anime>
+  <anime anidbid="9729" tvdbid="tv special" defaulttvdbseason="1">
+    <name>Koitabi: True Tours Nanto</name>
+  </anime>
+  <anime anidbid="9731" tvdbid="260822" defaulttvdbseason="1">
+    <name>Robocar Poli</name>
+  </anime>
   <anime anidbid="9734" tvdbid="264663" defaulttvdbseason="0">
     <name>Date a Live OAD</name>
+  </anime>
+  <anime anidbid="9735" tvdbid="173271" defaulttvdbseason="0">
+    <name>Seitokai Yakuindomo Shin OVA</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-6;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="9738" tvdbid="260946" defaulttvdbseason="3">
     <name>Danball Senki Wars</name>
   </anime>
+  <anime anidbid="9741" tvdbid="268286" defaulttvdbseason="1">
+    <name>Zettai Bouei Leviathan</name>
+  </anime>
   <anime anidbid="9747" tvdbid="262110" defaulttvdbseason="1">
     <name>Haitai Nanafa (2013)</name>
+  </anime>
+  <anime anidbid="9752" tvdbid="82154" defaulttvdbseason="0">
+    <name>Hidamari Sketch: Sae Hiro Sotsugyou Hen</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-10;</mapping>
+    </mapping-list>
+  </anime>
+  <anime anidbid="9753" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Kakushi Dere</name>
+  </anime>
+  <anime anidbid="9784" tvdbid="260408" defaulttvdbseason="2">
+    <name>Tanken Driland: 1000-nen no Mahou</name>
+  </anime>
+  <anime anidbid="9785" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Saimin Jutsu Zero</name>
+  </anime>
+  <anime anidbid="9788" tvdbid="81115" defaulttvdbseason="0">
+    <name>Mahou Shoujo Lyrical Nanoha The Movie 3rd Reflection</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-12;</mapping>
+    </mapping-list>
+  </anime>
+  <anime anidbid="9789" tvdbid="219701" defaulttvdbseason="2">
+    <name>Freezing Vibration</name>
+  </anime>
+  <anime anidbid="9795" tvdbid="260070" defaulttvdbseason="2">
+    <name>Juusen Battle Monsuno (2013)</name>
+  </anime>
+  <anime anidbid="9802" tvdbid="254652" defaulttvdbseason="3">
+    <name>Recorder to Ransel Mi</name>
+  </anime>
+  <anime anidbid="9805" tvdbid="262856" defaulttvdbseason="2">
+    <name>Teekyuu 2</name>
+  </anime>
+  <anime anidbid="9807" tvdbid="262094" defaulttvdbseason="2">
+    <name>Magi (2013)</name>
+  </anime>
+  <anime anidbid="9808" tvdbid="264050" defaulttvdbseason="2">
+    <name>Sen'yuu. 2</name>
   </anime>
 </anime-list>

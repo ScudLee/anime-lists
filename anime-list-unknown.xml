@@ -3320,6 +3320,9 @@
   <anime anidbid="9443" tvdbid="unknown" defaulttvdbseason="2">
     <name>Unko-san: Tsuiteru Hito ni Shika Mienai Yousei Junjou Ha</name>
   </anime>
+  <anime anidbid="9444" tvdbid="unknown" defaulttvdbseason="3">
+    <name>Picchipichi Shizuku-chan</name>
+  </anime>
   <anime anidbid="9461" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
     <name>Osomatsu-kun: Suika no Hoshi kara Konnichiwa zansu!</name>
   </anime>
@@ -3355,5 +3358,8 @@
   </anime>
   <anime anidbid="9740" tvdbid="unknown" defaulttvdbseason="1">
     <name>Naked Wolves</name>
+  </anime>
+  <anime anidbid="9744" tvdbid="unknown" defaulttvdbseason="1">
+    <name>Neon The Animation</name>
   </anime>
 </anime-list>

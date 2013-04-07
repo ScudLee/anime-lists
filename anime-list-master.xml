@@ -13530,7 +13530,7 @@
     <name>Kyoushirou to Towa no Sora</name>
   </anime>
   <anime anidbid="4584" tvdbid="154101" defaulttvdbseason="1" tmdbid="" imdbid="">
-    <name>Lovely Idol</name>
+    <name>Lovedol: Lovely Idol</name>
   </anime>
   <anime anidbid="4585" tvdbid="82720" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Gift: Eternal Rainbow</name>
@@ -17679,7 +17679,7 @@
     <name>Zoo no Inai Doubutsuen</name>
   </anime>
   <anime anidbid="6389" tvdbid="80554" defaulttvdbseason="0" tmdbid="" imdbid="">
-    <name>Hayate no Gotoku!! OVA</name>
+    <name>Hayate no Gotoku!! Hayate the Combat Butler 2nd Season: Atsu ga Natsui ze - Mizugi Hen!</name>
   </anime>
   <anime anidbid="6391" tvdbid="256347" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Mainichi Kaa-san</name>
@@ -25450,7 +25450,7 @@
     <name>Penguin no Mondai POW</name>
   </anime>
   <anime anidbid="9147" tvdbid="79360" defaulttvdbseason="0" tmdbid="" imdbid="">
-    <name>Eureka Seven Ao: Jungfrau no Hana-tachi</name>
+    <name>Eureka Seven Ao: Jungfrau no Hanabana-tachi</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
     </mapping-list>
@@ -26263,7 +26263,7 @@
     <name>Majokko Shimai no Yoyo to Nene</name>
   </anime>
   <anime anidbid="9465" tvdbid="254667" defaulttvdbseason="2" tmdbid="" imdbid="">
-    <name>Senki Zesshou Symphogear G</name>
+    <name>Senki Zesshou Symphogear G: In the Distance, That Day, When the Star Became Music...</name>
   </anime>
   <anime anidbid="9466" tvdbid="267441" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Hataraku Maou-sama!</name>
@@ -26761,7 +26761,7 @@
     <name>Dareka no Manazashi</name>
   </anime>
   <anime anidbid="9657" tvdbid="257951" defaulttvdbseason="2" tmdbid="" imdbid="">
-    <name>Gakkatsu! 2nd Season</name>
+    <name>Gakkatsu! (2013)</name>
   </anime>
   <anime anidbid="9658" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Koukaku Kidoutai Arise: Ghost in the Shell</name>
@@ -27146,5 +27146,29 @@
   </anime>
   <anime anidbid="9808" tvdbid="264050" defaulttvdbseason="2" tmdbid="" imdbid="">
     <name>Sen'yuu. 2</name>
+  </anime>
+  <anime anidbid="9809" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Tonari no Seki-kun</name>
+  </anime>
+  <anime anidbid="9816" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Yozakura Quartet (2013)</name>
+  </anime>
+  <anime anidbid="9817" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Yozakura Quartet: Tsuki ni Naku</name>
+  </anime>
+  <anime anidbid="9818" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Duel Masters Victory V3</name>
+  </anime>
+  <anime anidbid="9819" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Bakushishi Gasshin Ziguru Hazeru</name>
+  </anime>
+  <anime anidbid="9820" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Gatchaman Crowds</name>
+  </anime>
+  <anime anidbid="9821" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Ohayou Ninja-tai Gatchaman</name>
+  </anime>
+  <anime anidbid="9822" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Little Busters! Refrain</name>
   </anime>
 </anime-list>

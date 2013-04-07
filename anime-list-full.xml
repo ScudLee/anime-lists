@@ -22883,6 +22883,9 @@
   </anime>
   <anime anidbid="8701" tvdbid="87841" defaulttvdbseason="2">
     <name>Saki: Achiga-hen - Episode of Side-A</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="2">;1-12;2-14;3-15;4-16;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="8702" tvdbid="web" defaulttvdbseason="1">
     <name>Nekketsu Uchuujin</name>
@@ -23954,6 +23957,9 @@
   </anime>
   <anime anidbid="9133" tvdbid="81831" defaulttvdbseason="3">
     <name>To Love-Ru: Trouble - Darkness</name>
+  </anime>
+  <anime anidbid="9134" tvdbid="194961" defaulttvdbseason="2">
+    <name>Ore no Imouto ga Konna ni Kawaii Wake ga Nai.</name>
   </anime>
   <anime anidbid="9140" tvdbid="tv special" defaulttvdbseason="1" tmdbid="85842">
     <name>Watashi no Coffee Samurai: Jihanki Teki na Kareshi</name>

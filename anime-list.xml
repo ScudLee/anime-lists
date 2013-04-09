@@ -20959,6 +20959,12 @@
   <anime anidbid="9242" tvdbid="264530" defaulttvdbseason="1">
     <name>Vividred Operation</name>
   </anime>
+  <anime anidbid="9243" tvdbid="81961" defaulttvdbseason="0">
+    <name>Kita e: Pure Session</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
+    </mapping-list>
+  </anime>
   <anime anidbid="9245" tvdbid="259656" defaulttvdbseason="0">
     <name>Ebiten: Kouritsu Ebi Sugawa Koukou Tenmonbu OAD</name>
   </anime>
@@ -20967,6 +20973,12 @@
   </anime>
   <anime anidbid="9247" tvdbid="tv special" defaulttvdbseason="1">
     <name>Computer Kakumei</name>
+  </anime>
+  <anime anidbid="9248" tvdbid="248458" defaulttvdbseason="0">
+    <name>Kindaichi Shounen no Jikenbo (2012)</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-0;2-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="9249" tvdbid="262095" defaulttvdbseason="1">
     <name>Btooom!</name>
@@ -20989,11 +21001,23 @@
   <anime anidbid="9257" tvdbid="264523" defaulttvdbseason="1">
     <name>Yama no Susume</name>
   </anime>
+  <anime anidbid="9259" tvdbid="OVA" defaulttvdbseason="1" tmdbid="162975">
+    <name>Arata-naru Sekai: World's/Start/Load/End</name>
+  </anime>
   <anime anidbid="9260" tvdbid="255848" defaulttvdbseason="2">
     <name>Yurumates 3D Plus</name>
   </anime>
   <anime anidbid="9261" tvdbid="251982" defaulttvdbseason="2">
     <name>Chihayafuru 2</name>
+  </anime>
+  <anime anidbid="9262" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
+    <name>Monster ni Natta Domerika</name>
+  </anime>
+  <anime anidbid="9263" tvdbid="music video" defaulttvdbseason="1">
+    <name>Yasashii March: The Tender March</name>
+  </anime>
+  <anime anidbid="9264" tvdbid="OVA" defaulttvdbseason="1" imdbid="tt1619815">
+    <name>Byulbyul Iyagi 2</name>
   </anime>
   <anime anidbid="9265" tvdbid="146401" defaulttvdbseason="0">
     <name>Gekijouban Inazuma Eleven GO vs Danball Senki W</name>
@@ -21037,11 +21061,29 @@
   <anime anidbid="9280" tvdbid="hentai" defaulttvdbseason="1">
     <name>Netorarezuma</name>
   </anime>
+  <anime anidbid="9281" tvdbid="261755" defaulttvdbseason="1">
+    <name>Maji de Otaku na English! Ribbon-chan: Eigo de Tatakau Mahou Shoujo</name>
+  </anime>
+  <anime anidbid="9283" tvdbid="249865" defaulttvdbseason="0">
+    <name>Idolmaster (2012)</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-0;2-0;3-0;</mapping>
+    </mapping-list>
+  </anime>
   <anime anidbid="9284" tvdbid="257098" defaulttvdbseason="2">
     <name>Hiiro no Kakera Dai Ni Shou</name>
   </anime>
+  <anime anidbid="9286" tvdbid="264081" defaulttvdbseason="1">
+    <name>Kyou no Asuka Show</name>
+  </anime>
   <anime anidbid="9287" tvdbid="264056" defaulttvdbseason="1">
     <name>Maoyuu Maou Yuusha</name>
+  </anime>
+  <anime anidbid="9289" tvdbid="76703" defaulttvdbseason="0">
+    <name>Utae Meloetta: Rinka no Mi o Sagase</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="9290" tvdbid="hentai" defaulttvdbseason="1">
     <name>Kindan no Byoutou The Animation</name>
@@ -21052,11 +21094,20 @@
   <anime anidbid="9292" tvdbid="264527" defaulttvdbseason="1">
     <name>Hakkenden: Touhou Hakken Ibun</name>
   </anime>
+  <anime anidbid="9293" tvdbid="254663" defaulttvdbseason="0">
+    <name>Gekijouban Mouretsu Pirates</name>
+  </anime>
+  <anime anidbid="9294" tvdbid="movie" defaulttvdbseason="1" imdbid="tt2487126">
+    <name>Aura: Maryuuinkouga Saigo no Tatakai</name>
+  </anime>
   <anime anidbid="9295" tvdbid="262110" defaulttvdbseason="1">
     <name>Haitai Nanafa</name>
   </anime>
   <anime anidbid="9298" tvdbid="262106" defaulttvdbseason="1">
     <name>Kami-sama Hajimemashita</name>
+  </anime>
+  <anime anidbid="9299" tvdbid="81490" defaulttvdbseason="0">
+    <name>Persona 3 the Movie</name>
   </anime>
   <anime anidbid="9302" tvdbid="259642" defaulttvdbseason="0">
     <name>Dakara Boku wa, H ga Dekinai. (2013)</name>
@@ -21086,6 +21137,12 @@
     <name>Dragon Ball Z: Kami to Kami</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-22;</mapping>
+    </mapping-list>
+  </anime>
+  <anime anidbid="9316" tvdbid="252696" imdbid="tt2768084">
+    <name>Eiga Doraemon: Nobita no Himitsu Dougu Museum</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="9320" tvdbid="257321" defaulttvdbseason="1">
@@ -21127,11 +21184,17 @@
   <anime anidbid="9332" tvdbid="264531" defaulttvdbseason="1">
     <name>Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?</name>
   </anime>
+  <anime anidbid="9334" tvdbid="267438" defaulttvdbseason="1">
+    <name>Karneval</name>
+  </anime>
   <anime anidbid="9335" tvdbid="82029" defaulttvdbseason="0">
     <name>Sakura Taisen: Kanadegumi</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
+  </anime>
+  <anime anidbid="9339" tvdbid="88161" defaulttvdbseason="5">
+    <name>Hetalia: The Beautiful World</name>
   </anime>
   <anime anidbid="9340" tvdbid="hentai" defaulttvdbseason="1">
     <name>Harem Time The Animation</name>
@@ -21492,6 +21555,12 @@
   </anime>
   <anime anidbid="9526" tvdbid="hentai" defaulttvdbseason="1">
     <name>Mesu Nochi Torare</name>
+  </anime>
+  <anime anidbid="9528" tvdbid="252696" defaulttvdbseason="0">
+    <name>Doraemon: Nobita to Mirai Note</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="9532" tvdbid="hentai" defaulttvdbseason="1">
     <name>Soushisouai Note The Animation</name>

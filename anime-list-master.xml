@@ -429,7 +429,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="93" tvdbid="72792" defaulttvdbseason="1" tmdbid="" imdbid="">
-    <name>I My Me! Strawberry Egg</name>
+    <name>I My Me! Strawberry Eggs</name>
   </anime>
   <anime anidbid="94" tvdbid="80456" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Gravitation (2000)</name>
@@ -534,7 +534,7 @@
     <name>Furi Kuri</name>
   </anime>
   <anime anidbid="118" tvdbid="115891" defaulttvdbseason="1" tmdbid="" imdbid="">
-    <name>Ajimu Kaigan Monogatari</name>
+    <name>Ajimu: Kaigan Monogatari</name>
   </anime>
   <anime anidbid="119" tvdbid="103941" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Canvas: Sepia-iro no Motif</name>
@@ -9920,7 +9920,7 @@
     <name>Sodan Brothers</name>
   </anime>
   <anime anidbid="2966" tvdbid="262210" defaulttvdbseason="1" tmdbid="" imdbid="">
-    <name>Onegai my Melody</name>
+    <name>Onegai My Melody</name>
   </anime>
   <anime anidbid="2968" tvdbid="178281" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>CB Chara Nagai Gou World</name>
@@ -12981,7 +12981,7 @@
     <name>Cosmic Fantasy: Ginga Mehyou no Wana</name>
   </anime>
   <anime anidbid="4333" tvdbid="unknown" defaulttvdbseason="2" tmdbid="" imdbid="">
-    <name>Onegai my Melody: Kuru Kuru Shuffle!</name>
+    <name>Onegai My Melody: Kurukuru Shuffle!</name>
   </anime>
   <anime anidbid="4334" tvdbid="120501" defaulttvdbseason="2" tmdbid="" imdbid="">
     <name>Youkai Ningen Bem (2006)</name>
@@ -20034,7 +20034,7 @@
     <name>Major (2010)</name>
   </anime>
   <anime anidbid="7237" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
-    <name>Machi Gurumi no Wana: Hakudaku ni Mamireta Shitai</name>
+    <name>Machigurumi no Wana: Hakudaku ni Mamireta Shitai</name>
   </anime>
   <anime anidbid="7238" tvdbid="143271" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Arakawa Under the Bridge</name>
@@ -26359,7 +26359,7 @@
     <name>Kick-Heart</name>
   </anime>
   <anime anidbid="9494" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Lupan Shanshei</name>
+    <name>Lupin Shanshei</name>
   </anime>
   <anime anidbid="9495" tvdbid="264522" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Ai Mai Mii</name>
@@ -26443,7 +26443,7 @@
     <name>Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo? (2013)</name>
   </anime>
   <anime anidbid="9520" tvdbid="267436" defaulttvdbseason="1" tmdbid="" imdbid="">
-    <name>Photo Kano</name>
+    <name>Photokano</name>
   </anime>
   <anime anidbid="9521" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Idol Kouhosei</name>
@@ -26958,12 +26958,6 @@
   <anime anidbid="9723" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>30th Gundam Perfect Mission</name>
   </anime>
-  <anime anidbid="9724" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Mameshiba Animation Short</name>
-  </anime>
-  <anime anidbid="9726" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Okore!! Nonkuro Pilot Film</name>
-  </anime>
   <anime anidbid="9727" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Glass no Kamen Desu ga</name>
   </anime>
@@ -27172,7 +27166,7 @@
     <name>Tonari no Seki-kun</name>
   </anime>
   <anime anidbid="9816" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Yozakura Quartet (2013)</name>
+    <name>Yozakura Quartet: Hana no Uta</name>
   </anime>
   <anime anidbid="9817" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Yozakura Quartet: Tsuki ni Naku</name>
@@ -27191,5 +27185,29 @@
   </anime>
   <anime anidbid="9822" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Little Busters! Refrain</name>
+  </anime>
+  <anime anidbid="9823" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>White Album 2</name>
+  </anime>
+  <anime anidbid="9825" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Kami nomi zo Shiru Sekai: Magical Star Kanon 100%</name>
+  </anime>
+  <anime anidbid="9826" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Shingeki no Kyojin OAD</name>
+  </anime>
+  <anime anidbid="9828" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Okore!! Nonkuro Pilot Film</name>
+  </anime>
+  <anime anidbid="9829" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Mameshiba Animation Short</name>
+  </anime>
+  <anime anidbid="9830" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Gaist Crusher</name>
+  </anime>
+  <anime anidbid="9831" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Heisei Policemen!!</name>
+  </anime>
+  <anime anidbid="9832" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Miyakawa-ke no Kuufuku OAD</name>
   </anime>
 </anime-list>

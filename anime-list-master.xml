@@ -25608,8 +25608,11 @@
   <anime anidbid="9205" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Junkers Come Here: Memories of You</name>
   </anime>
-  <anime anidbid="9206" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="9206" tvdbid="251908" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Boku wa Tomodachi ga Sukunai: Relay Shousetsu wa Ketsumatsu ga Hanpanai</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="9207" tvdbid="264054" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Mangirl!</name>

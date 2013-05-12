@@ -2939,7 +2939,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="729" tvdbid="76547" defaulttvdbseason="0" imdbid="tt0159509">
-    <name>Kidou Senshi Gundam I: Tokubetsu Hen</name>
+    <name>Kidou Senshi Gundam (1981)</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-1;2-1;3-1;</mapping>
     </mapping-list>
@@ -4440,7 +4440,7 @@
     <name>Idol Project</name>
   </anime>
   <anime anidbid="1155" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Tanjou Debut</name>
+    <name>Tanjou: Debut</name>
   </anime>
   <anime anidbid="1156" tvdbid="250643" defaulttvdbseason="1">
     <name>Twin Signal: Family Game</name>
@@ -5110,7 +5110,7 @@
     <name>Shusaku Liberty</name>
   </anime>
   <anime anidbid="1381" tvdbid="72442" defaulttvdbseason="0" imdbid="tt0434908">
-    <name>WWWA Dirty Pair no Daishoubu: Nolandia no Nazo</name>
+    <name>WWWA Dirty Pair no Ooshoubu: Nolandia no Nazo</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-11;</mapping>
     </mapping-list>
@@ -7590,7 +7590,7 @@
     <name>Hana no Joshi Announcer: Newscaster Etsuko</name>
   </anime>
   <anime anidbid="2172" tvdbid="81780" defaulttvdbseason="0">
-    <name>Honoo no Shinkirou: Minagiwa no Hangyakusha</name>
+    <name>Honoo no Mirage: Minagiwa no Hangyakusha</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;</mapping>
     </mapping-list>
@@ -12332,7 +12332,7 @@
     <name>Shippuu! Iron Leaguer: Silver no Hata no Moto ni</name>
   </anime>
   <anime anidbid="4141" tvdbid="80759" defaulttvdbseason="0">
-    <name>Ichigo 100% Original DVD Animation</name>
+    <name>Ichigo 100%: Original DVD Anime</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-3;2-4;3-5;4-6;</mapping>
     </mapping-list>
@@ -14290,7 +14290,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="4906" tvdbid="80042" defaulttvdbseason="1">
-    <name>Darker than Black: Kuro no Keiyakusha</name>
+    <name>Darker Than Black: Kuro no Keiyakusha</name>
   </anime>
   <anime anidbid="4907" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Sun Ukun: The Monkey King Conquers the Demon</name>
@@ -14604,7 +14604,7 @@
     <name>Heroic Age</name>
   </anime>
   <anime anidbid="5026" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
-    <name>Something Great Chizu ni nai Machi</name>
+    <name>Something Great Chizu ni Nai Machi</name>
   </anime>
   <anime anidbid="5027" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Norabbits' Minutes</name>
@@ -14782,13 +14782,13 @@
     <name>Shining Tears X Wind</name>
   </anime>
   <anime anidbid="5085" tvdbid="72471" defaulttvdbseason="0" imdbid="tt1521839">
-    <name>Kiddy Grade: Ignition</name>
+    <name>Kiddy Grade I: Ignition</name>
     <supplemental-info replace="true">
       <studio>Gonzo Digimation</studio>
     </supplemental-info>
   </anime>
   <anime anidbid="5086" tvdbid="72471" defaulttvdbseason="0" tmdbid="55880">
-    <name>Kiddy Grade: Maelstrom</name>
+    <name>Kiddy Grade II: Maelstrom</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
@@ -14797,7 +14797,7 @@
     </supplemental-info>
   </anime>
   <anime anidbid="5087" tvdbid="72471" defaulttvdbseason="0" tmdbid="55881">
-    <name>Kiddy Grade: Truth Dawn</name>
+    <name>Kiddy Grade III: Truth Dawn</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
     </mapping-list>
@@ -18140,13 +18140,13 @@
     <name>Grick no Bouken</name>
   </anime>
   <anime anidbid="6636" tvdbid="88721" defaulttvdbseason="0" imdbid="tt1460738">
-    <name>Higashi no Eden: Gekijouban I The King of Eden</name>
+    <name>Higashi no Eden: Gekijouban I - The King of Eden</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="6637" tvdbid="88721" defaulttvdbseason="0" imdbid="tt1468321">
-    <name>Higashi no Eden: Gekijouban II Paradise Lost</name>
+    <name>Higashi no Eden: Gekijouban II - Paradise Lost</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
     </mapping-list>
@@ -18155,7 +18155,7 @@
     <name>Himitsukessha Taka no Tsume The Movie II: Watashi o Aishita Kuro Oolong-Cha</name>
   </anime>
   <anime anidbid="6644" tvdbid="80042" defaulttvdbseason="2">
-    <name>Darker than Black: Ryuusei no Gemini</name>
+    <name>Darker Than Black: Ryuusei no Gemini</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-2;2-3;3-4;4-5;</mapping>
     </mapping-list>
@@ -20935,7 +20935,7 @@
     <name>Fractale</name>
   </anime>
   <anime anidbid="7874" tvdbid="246521" defaulttvdbseason="1">
-    <name>Hana-Saku Iroha</name>
+    <name>Hanasaku Iroha</name>
   </anime>
   <anime anidbid="7877" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Natsu no Yoru no Dekigoto</name>
@@ -20965,7 +20965,7 @@
     <name>Fortune Arterial: Akai Yakusoku</name>
   </anime>
   <anime anidbid="7891" tvdbid="76703" defaulttvdbseason="14">
-    <name>Pocket Monsters: Best Wishes</name>
+    <name>Pocket Monsters: Best Wishes!</name>
     <supplemental-info>
       <studio>OLM</studio>
     </supplemental-info>
@@ -21180,7 +21180,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="8012" tvdbid="76703" defaulttvdbseason="0" imdbid="tt1739212">
-    <name>Gekijouban Pocket Monsters: Best Wishes - Victini to Kuroki Eiyuu Zekrom</name>
+    <name>Gekijouban Pocket Monsters: Best Wishes! - Victini to Kuroki Eiyuu Zekrom</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-22;</mapping>
     </mapping-list>
@@ -21819,7 +21819,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="8266" tvdbid="248018" defaulttvdbseason="1">
-    <name>Softenni</name>
+    <name>Softenni!</name>
   </anime>
   <anime anidbid="8268" tvdbid="151281" defaulttvdbseason="0">
     <name>Hakuouki Sekkaroku</name>
@@ -21828,7 +21828,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="8269" tvdbid="76703" defaulttvdbseason="0" imdbid="tt1961324">
-    <name>Gekijouban Pocket Monsters: Best Wishes - Victini to Shiroki Eiyuu Reshiram</name>
+    <name>Gekijouban Pocket Monsters: Best Wishes! - Victini to Shiroki Eiyuu Reshiram</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-29;</mapping>
     </mapping-list>
@@ -23249,13 +23249,13 @@
     <name>Peace Hame!</name>
   </anime>
   <anime anidbid="8826" tvdbid="76703" defaulttvdbseason="0" imdbid="unknown">
-    <name>Gekijouban Pocket Monsters: Best Wishes - Kyurem vs Seikenshi Keldeo</name>
+    <name>Gekijouban Pocket Monsters: Best Wishes! - Kyurem vs Seikenshi Keldeo</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-30;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="8827" tvdbid="246521" defaulttvdbseason="0" imdbid="tt2404237">
-    <name>Gekijouban Hana-Saku Iroha: Home Sweet Home</name>
+    <name>Gekijouban Hanasaku Iroha: Home Sweet Home</name>
   </anime>
   <anime anidbid="8828" tvdbid="unknown" defaulttvdbseason="1">
     <name>Sylvanian Families</name>
@@ -23309,7 +23309,7 @@
     <name>Ai Mai! Moe Can Change!</name>
   </anime>
   <anime anidbid="8851" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Sekai no Hikari: Shinran Seijin</name>
+    <name>Sekai no Hikari: Shinran Shounin</name>
   </anime>
   <anime anidbid="8852" tvdbid="257852" defaulttvdbseason="1">
     <name>Tasogare Otome x Amnesia</name>
@@ -23768,7 +23768,7 @@
     <name>Juusen Battle Monsuno</name>
   </anime>
   <anime anidbid="9023" tvdbid="79824" defaulttvdbseason="0" imdbid="tt2290828">
-    <name>Naruto the Movie: Road to Ninja</name>
+    <name>Road to Ninja: Naruto the Movie</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-10;</mapping>
     </mapping-list>
@@ -24058,7 +24058,7 @@
     <name>Zetsuen no Tempest: The Civilization Blaster</name>
   </anime>
   <anime anidbid="9216" tvdbid="76703" defaulttvdbseason="15">
-    <name>Pocket Monsters: Best Wishes Season 2</name>
+    <name>Pocket Monsters: Best Wishes! Season 2</name>
   </anime>
   <anime anidbid="9227" tvdbid="262098" defaulttvdbseason="1">
     <name>Girls und Panzer</name>
@@ -24472,7 +24472,7 @@
     <name>Joshiraku (2013)</name>
   </anime>
   <anime anidbid="9406" tvdbid="252474" defaulttvdbseason="2">
-    <name>Maken-ki! 2</name>
+    <name>Maken-ki! Two</name>
   </anime>
   <anime anidbid="9409" tvdbid="254653" defaulttvdbseason="2">
     <name>High School DxD New</name>
@@ -24745,7 +24745,7 @@
     <name>Soushisouai Note The Animation</name>
   </anime>
   <anime anidbid="9533" tvdbid="hentai" defaulttvdbseason="1">
-    <name>Sei Yariman Gakuen Enkou Nikki</name>
+    <name>Sei Yariman Gakuen Enkou Nikki The Animation</name>
   </anime>
   <anime anidbid="9539" tvdbid="unknown" defaulttvdbseason="1">
     <name>Monchicchiisu</name>
@@ -24850,7 +24850,7 @@
     <name>Hotaru no Mure</name>
   </anime>
   <anime anidbid="9653" tvdbid="76703" defaulttvdbseason="16">
-    <name>Pocket Monsters: Best Wishes Season 2 Episode N</name>
+    <name>Pocket Monsters: Best Wishes! Season 2 - Episode N</name>
   </anime>
   <anime anidbid="9654" tvdbid="266840" defaulttvdbseason="1">
     <name>Chokkyuu Hyoudai Robot Anime: Straight Title</name>
@@ -24880,7 +24880,7 @@
     <name>DD Hokuto no Ken (2013)</name>
   </anime>
   <anime anidbid="9678" tvdbid="197261" defaulttvdbseason="3">
-    <name>Tantei Opera Milky Holmes: Sisters</name>
+    <name>Futari wa Milky Holmes</name>
   </anime>
   <anime anidbid="9679" tvdbid="unknown" defaulttvdbseason="2">
     <name>Ocha-ken: Hotto Monogatari</name>

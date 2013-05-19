@@ -7447,7 +7447,7 @@
     <name>Kinnikuman II Sei</name>
   </anime>
   <anime anidbid="2132" tvdbid="71419" defaulttvdbseason="0" imdbid="tt0339256">
-    <name>Kinnikuman II Sei Muscle-ninjin Soudatsu sen! Choujin-daisensou</name>
+    <name>Kinnikuman II Sei: Muscle Ninjin Soudatsu! Choujin Daisensou</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
@@ -7929,7 +7929,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="2283" tvdbid="250848" defaulttvdbseason="0" imdbid="tt0312874">
-    <name>Kinnikuman: Dai Abareru! Seigi Choujin</name>
+    <name>Kinnikuman: Ooabare! Seigi Choujin</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
     </mapping-list>
@@ -8833,7 +8833,7 @@
     <name>Aoi Blink</name>
   </anime>
   <anime anidbid="2560" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Maeterlinck's Blue Bird</name>
+    <name>Maeterlinck no Aoi Tori: Tyltyl Mytyl no Bouken Ryokou</name>
   </anime>
   <anime anidbid="2561" tvdbid="hentai" defaulttvdbseason="1">
     <name>Matou Kitan Zankan</name>
@@ -9234,7 +9234,7 @@
     <name>Del Power X Bakuhatsu Miracle Genki!</name>
   </anime>
   <anime anidbid="2719" tvdbid="OVA" defaulttvdbseason="1">
-    <name>Makeru na! Makendo</name>
+    <name>Makeruna! Makendou</name>
   </anime>
   <anime anidbid="2722" tvdbid="hentai" defaulttvdbseason="1">
     <name>Bishoujo Comic Lolikon Angel: Mitsu no Aji</name>
@@ -11221,7 +11221,7 @@
     <name>Yunyun Paradise</name>
   </anime>
   <anime anidbid="3535" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Kouryuu no Mimi</name>
+    <name>Kouryuu no Mimi: Mina no Shou</name>
   </anime>
   <anime anidbid="3536" tvdbid="OVA" defaulttvdbseason="1">
     <name>Neko Neko Fantasia</name>
@@ -14977,7 +14977,7 @@
     <name>Spider Riders: Yomigaeru Taiyou</name>
   </anime>
   <anime anidbid="5147" tvdbid="82168" defaulttvdbseason="1">
-    <name>Kenkoo Zenrakei Suieibu Umishou</name>
+    <name>Kenkou Zenrakei Suieibu Umishou</name>
   </anime>
   <anime anidbid="5150" tvdbid="tv special" defaulttvdbseason="1" imdbid="tt0390889">
     <name>Bavel no Hon</name>
@@ -15616,7 +15616,7 @@
     <name>Ikoku Irokoi Romantan</name>
   </anime>
   <anime anidbid="5454" tvdbid="79882" defaulttvdbseason="0">
-    <name>Haruka Naru Toki no Naka de 3: Kurenai no Tsuki</name>
+    <name>Harukanaru Toki no Naka de 3: Kurenai no Tsuki</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-7;</mapping>
     </mapping-list>
@@ -17123,7 +17123,7 @@
     <name>Sugar Bunnies</name>
   </anime>
   <anime anidbid="6203" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Yasai no Yousei - N.Y. Salad</name>
+    <name>Yasai no Yousei: N.Y. Salad</name>
   </anime>
   <anime anidbid="6204" tvdbid="unknown" defaulttvdbseason="1">
     <name>Mori no Senshi Bonolon</name>
@@ -19307,7 +19307,7 @@
     <name>Itoshi no Betty Mamonogatari</name>
   </anime>
   <anime anidbid="7077" tvdbid="unknown" defaulttvdbseason="2">
-    <name>Yasai no Yousei - N.Y. Salad 2nd Series</name>
+    <name>Yasai no Yousei: N.Y. Salad 2nd Series</name>
   </anime>
   <anime anidbid="7079" tvdbid="98661" defaulttvdbseason="2">
     <name>Stitch! Itazura Alien no Daibouken</name>
@@ -19319,7 +19319,7 @@
     <name>Captain (1983)</name>
   </anime>
   <anime anidbid="7086" tvdbid="79882" defaulttvdbseason="0">
-    <name>Haruka Naru Toki no Naka de 3: Owari Naki Unmei</name>
+    <name>Harukanaru Toki no Naka de 3: Owarinaki Unmei</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-8;</mapping>
     </mapping-list>
@@ -24959,12 +24959,6 @@
   </anime>
   <anime anidbid="9734" tvdbid="264663" defaulttvdbseason="0">
     <name>Date a Live OAD</name>
-  </anime>
-  <anime anidbid="9735" tvdbid="173271" defaulttvdbseason="0">
-    <name>Seitokai Yakuindomo Shin OVA</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-6;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="9738" tvdbid="260946" defaulttvdbseason="3">
     <name>Danball Senki Wars</name>

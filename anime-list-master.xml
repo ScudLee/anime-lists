@@ -419,6 +419,9 @@
   </anime>
   <anime anidbid="91" tvdbid="78918" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Gate Keepers</name>
+    <supplemental-info>
+      <studio>Gonzo</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="92" tvdbid="79857" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Shaman King</name>
@@ -1796,6 +1799,9 @@
   </anime>
   <anime anidbid="412" tvdbid="79174" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Z.O.E Dolores,i</name>
+    <supplemental-info>
+      <studio>Sunrise</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="413" tvdbid="79447" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Najica Dengeki Sakusen</name>
@@ -2118,6 +2124,9 @@
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-4;2-4;3-4;</mapping>
     </mapping-list>
+    <supplemental-info>
+      <studio>Sunrise</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="497" tvdbid="72347" defaulttvdbseason="3" tmdbid="" imdbid="">
     <name>Macross Dynamite 7</name>
@@ -2468,6 +2477,9 @@
   </anime>
   <anime anidbid="600" tvdbid="OVA" defaulttvdbseason="1" tmdbid="134879" imdbid="">
     <name>Mahou no Chocolate</name>
+    <supplemental-info>
+      <studio>Ishikawa Pro</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="601" tvdbid="71776" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Maison Ikkoku: Bangaihen Ikkokujima Nanpa Shimatsuki</name>
@@ -3584,6 +3596,9 @@
   </anime>
   <anime anidbid="908" tvdbid="79327" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Gundam-W: Endless Waltz</name>
+    <supplemental-info>
+      <studio>Sunrise</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="909" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="tt0348121">
     <name>Steamboy</name>
@@ -4892,6 +4907,9 @@
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-28;2-29;3-30;4-31;5-32;6-33;7-34;8-35;9-36;10-37;11-38;12-39;13-40;14-41;15-42;16-43;17-44;18-45;19-46;20-47;21-48;22-49;23-50;24-51;25-52;26-53;27-54;28-55;</mapping>
     </mapping-list>
+    <supplemental-info>
+      <studio>Kitty Film Mitaka Studio</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="1312" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="tt0401233">
     <name>Appleseed (2004)</name>
@@ -6024,6 +6042,9 @@
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-3;2-3;3-3;4-3;5-3;6-3;</mapping>
     </mapping-list>
+    <supplemental-info>
+      <studio>Toei Animation</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="1669" tvdbid="unknown" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Aqua Kids</name>
@@ -12457,6 +12478,9 @@
   </anime>
   <anime anidbid="4147" tvdbid="80059" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Kami-sama Kazoku</name>
+    <supplemental-info>
+      <studio>Toei Animation</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="4148" tvdbid="79713" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Ouran Koukou Host Club</name>
@@ -13138,6 +13162,9 @@
   </anime>
   <anime anidbid="4402" tvdbid="80644" defaulttvdbseason="0" tmdbid="" imdbid="tt0997274">
     <name>Gekijouban Clannad</name>
+    <supplemental-info>
+      <studio>Toei Animation</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="4403" tvdbid="80044" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Seirei no Moribito</name>
@@ -15471,6 +15498,9 @@
   </anime>
   <anime anidbid="5315" tvdbid="OVA" defaulttvdbseason="1" tmdbid="" imdbid="unknown">
     <name>Anime Tenchou</name>
+    <supplemental-info>
+      <studio>Gainax</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="5316" tvdbid="76013" defaulttvdbseason="4" tmdbid="" imdbid="">
     <name>Major (2008)</name>
@@ -17928,6 +17958,9 @@
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
     </mapping-list>
+    <supplemental-info>
+      <studio>Studio Pierrot</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="6504" tvdbid="91431" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Issho ni Training: Training with Hinako</name>
@@ -18238,8 +18271,14 @@
   <anime anidbid="6608" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="unknown">
     <name>Pro Yakyuu o 10-bai Tanoshiku Miru Houhou Part 2</name>
   </anime>
-  <anime anidbid="6609" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="6609" tvdbid="80096" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Tengen Toppa Gurren Lagann Kirameki Youko Box: Pieces of Sweet Stars</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
+    <supplemental-info>
+      <studio>Gainax</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="6611" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Tsuki ga Noboru made ni</name>
@@ -18424,6 +18463,9 @@
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-6;</mapping>
     </mapping-list>
+    <supplemental-info>
+      <studio>Enagio</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="6682" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Otoko wa Tsurai yo: Torajirou Wasurenagusa</name>
@@ -19877,12 +19919,18 @@
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
     </mapping-list>
+    <supplemental-info>
+      <studio>Sunrise</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="7184" tvdbid="80675" defaulttvdbseason="0" tmdbid="27837" imdbid="">
     <name>Kidou Senshi Gundam 00 Special Edition II: End of World</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
     </mapping-list>
+    <supplemental-info>
+      <studio>Sunrise</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="7185" tvdbid="129811" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>TO</name>
@@ -19948,6 +19996,9 @@
       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
       <mapping anidbseason="1" tvdbseason="0">;1-2;2-3;</mapping>
     </mapping-list>
+    <supplemental-info>
+      <studio>Studio Deen</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="7207" tvdbid="141691" defaulttvdbseason="2" tmdbid="" imdbid="">
     <name>Weiss Survive R</name>
@@ -20529,6 +20580,9 @@
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-5;</mapping>
     </mapping-list>
+    <supplemental-info>
+      <studio>Sunrise</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="7404" tvdbid="171731" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Nurarihyon no Mago</name>
@@ -20760,6 +20814,9 @@
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
     </mapping-list>
+    <supplemental-info>
+      <studio>Studio Pierrot</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="7484" tvdbid="133031" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Aki Sora: Yume no Naka</name>
@@ -21010,6 +21067,9 @@
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-5;</mapping>
     </mapping-list>
+    <supplemental-info>
+      <studio>Studio Khara</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="7566" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Rei Zero</name>
@@ -22473,6 +22533,9 @@
       <mapping anidbseason="0" tvdbseason="1">;1-4;</mapping>
     </mapping-list>
     <before>;1-4;</before>
+    <supplemental-info>
+      <studio>Primastea</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="8069" tvdbid="219181" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Mahou Shoujo Madoka Magica</name>
@@ -23506,6 +23569,9 @@
   </anime>
   <anime anidbid="8432" tvdbid="music video" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Perfect Day</name>
+    <supplemental-info>
+      <studio>Madhouse</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="8433" tvdbid="music video" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Shoukichi Monogatari</name>
@@ -24065,6 +24131,9 @@
   </anime>
   <anime anidbid="8632" tvdbid="music video" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Nonstop!! Hunters</name>
+    <supplemental-info>
+      <studio>Manglobe</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="8633" tvdbid="OVA" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Bavi Stock II: The Revenge of Eyesman - Ai no Kodou no Kanata ni</name>
@@ -24128,6 +24197,9 @@
   </anime>
   <anime anidbid="8659" tvdbid="music video" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Natsu-iro Surprise</name>
+    <supplemental-info>
+      <studio>Manglobe</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="8660" tvdbid="254653" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>High School DxD</name>
@@ -24203,6 +24275,9 @@
   </anime>
   <anime anidbid="8685" tvdbid="music video" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Sekiranun Graffiti</name>
+    <supplemental-info>
+      <studio>Studio Deen</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="8686" tvdbid="254654" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Papa no Iukoto o Kikinasai!</name>
@@ -24545,6 +24620,9 @@
   </anime>
   <anime anidbid="8804" tvdbid="257519" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Natsu-iro Kiseki</name>
+    <supplemental-info>
+      <studio>Sunrise</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="8805" tvdbid="246381" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Gekijouban Tiger &amp; Bunny</name>
@@ -24873,6 +24951,9 @@
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-8;</mapping>
     </mapping-list>
+    <supplemental-info>
+      <studio>TNK</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="8926" tvdbid="unknown" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Zoobles!</name>
@@ -25053,6 +25134,9 @@
   </anime>
   <anime anidbid="8991" tvdbid="257887" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Upotte!!: Miatte Waratte</name>
+    <supplemental-info>
+      <studio>Xebec</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="8992" tvdbid="255848" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Yurumates 3D</name>
@@ -25213,6 +25297,9 @@
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-3;2-4;</mapping>
     </mapping-list>
+    <supplemental-info>
+      <studio>Diomedea</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="9047" tvdbid="other" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Neko no Sumu Shima</name>
@@ -25348,6 +25435,9 @@
   </anime>
   <anime anidbid="9102" tvdbid="257764" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Hyouka: Motsubeki Mono wa</name>
+    <supplemental-info>
+      <studio>Kyoto Animation</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="9105" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Wild Adapter</name>
@@ -25409,6 +25499,9 @@
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
     </mapping-list>
+    <supplemental-info>
+      <studio>Studio Deen</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="9130" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Junjou Romantica (2012)</name>
@@ -25451,6 +25544,9 @@
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
     </mapping-list>
+    <supplemental-info>
+      <studio>Bones</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="9148" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Takanotsume.jp</name>
@@ -25559,6 +25655,9 @@
   </anime>
   <anime anidbid="9187" tvdbid="257516" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Accel World OVA</name>
+    <supplemental-info>
+      <studio>Sunrise</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="9189" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Yama ni Kagayaku: Guide-ken Heiji Gou</name>
@@ -25670,6 +25769,9 @@
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
+    <supplemental-info>
+      <studio>Studio Deen</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="9242" tvdbid="264530" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Vividred Operation</name>
@@ -25925,6 +26027,9 @@
   </anime>
   <anime anidbid="9330" tvdbid="257890" defaulttvdbseason="2" tmdbid="" imdbid="">
     <name>AKB0048 Next Stage</name>
+    <supplemental-info>
+      <studio>Satelight</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="9331" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Gogo no Kouchou: Junai Mellow yori</name>
@@ -26531,6 +26636,9 @@
   </anime>
   <anime anidbid="9556" tvdbid="267432" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Suisei no Gargantia</name>
+    <supplemental-info>
+      <studio>Production I.G</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="9557" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Hal</name>

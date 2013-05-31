@@ -169,6 +169,7 @@
     <anime anidbid="8806">Meitantei Conan: 11-ninme no Striker</anime>
     <anime anidbid="9152">Meitantei Conan: Excalibur no Kiseki</anime>
     <anime anidbid="9181">Meitantei Conan Bonus File: Fantasista no Hana</anime>
+    <anime anidbid="9505">Meitantei Conan: Zekkai no Private Eye</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Meitantei Conan Collection</title>
       <title type="official" xml:lang="en">Case Closed Collection</title>
@@ -507,11 +508,13 @@
     <anime anidbid="7254">Crayon Shin-chan: Chou Jikuu! Arashi o Yobu Ora no Hanayome</anime>
     <anime anidbid="8115">Eiga Crayon Shin-chan: Arashi o Yobu Ougon no Spy Daisakusen</anime>
     <anime anidbid="8780">Eiga Crayon Shin-chan: Arashi o Yobu! Ora to Uchuu no Princess</anime>
+    <anime anidbid="9542">Eiga Crayon Shin-chan: Bakauma! B-Kyuu Gourmet Survival Battle!!</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Crayon Shin-chan Collection</title>
     </titles>
   </set>
   <set>
+    <anime anidbid="411">One Piece (2000)</anime>
     <anime anidbid="893">One Piece: Nejimaki Jima no Bouken</anime>
     <anime anidbid="1253">One Piece: Chinjuujima no Chopper Oukoku</anime>
     <anime anidbid="1254">One Piece: Dead End no Bouken</anime>
@@ -527,6 +530,7 @@
     <anime anidbid="8010">One Piece 3D: Mugiwara Chase</anime>
     <anime anidbid="8762">One Piece 3D: Gekisou! Trap Coaster</anime>
     <anime anidbid="8940">One Piece Film Z</anime>
+    <anime anidbid="9432">One Piece: Romance Dawn</anime>
     <titles>
       <title type="main" xml:lang="x-jat">One Piece Collection</title>
     </titles>
@@ -2207,6 +2211,36 @@
     <anime anidbid="9299">Persona 3</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Persona Collection</title>
+    </titles>
+  </set>
+  <set>
+    <anime anidbid="7">Mononoke Hime</anime>
+    <anime anidbid="112">Sen to Chihiro no Kamikakushi</anime>
+    <anime anidbid="286">Majo no Takkyuubin</anime>
+    <anime anidbid="303">Tonari no Totoro</anime>
+    <anime anidbid="306">Kurenai no Buta</anime>
+    <anime anidbid="331">Tenkuu no Shiro Laputa</anime>
+    <anime anidbid="332">Hotaru no Haka</anime>
+    <anime anidbid="333">Omoide Poro-poro</anime>
+    <anime anidbid="334">Heisei Tanuki Gassen Ponpoko</anime>
+    <anime anidbid="335">Umi ga Kikoeru</anime>
+    <anime anidbid="336">Mimi o Sumaseba</anime>
+    <anime anidbid="370">Houhokekyo Tonari no Yamada-kun</anime>
+    <anime anidbid="679">Neko no Ongaeshi</anime>
+    <anime anidbid="1218">Howl no Ugoku Shiro</anime>
+    <anime anidbid="4193">Ged Senki: Tales from Earthsea</anime>
+    <anime anidbid="5107">Gake no Ue no Ponyo</anime>
+    <anime anidbid="7258">Karigurashi no Arrietty</anime>
+    <anime anidbid="8141">Coquelicot-zaka kara</anime>
+    <titles>
+      <title type="main" xml:lang="x-jat">Studio Ghibli Collection</title>
+    </titles>
+  </set>  
+  <set>
+    <anime anidbid="369">Kidou Senkan Nadesico: The Prince of Darkness</anime>
+    <anime anidbid="666">Gekiganger 3: Nekketsu Daikessen!!</anime>
+    <titles>
+      <title type="main" xml:lang="x-jat">Nadesico Collection</title>
     </titles>
   </set>
 </anime-set-list>

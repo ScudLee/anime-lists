@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <anime-set-list>
   <set>
+    <anime anidbid="7">Mononoke Hime</anime>
+    <anime anidbid="112">Sen to Chihiro no Kamikakushi</anime>
+    <anime anidbid="286">Majo no Takkyuubin</anime>
+    <anime anidbid="303">Tonari no Totoro</anime>
+    <anime anidbid="306">Kurenai no Buta</anime>
+    <anime anidbid="331">Tenkuu no Shiro Laputa</anime>
+    <anime anidbid="332">Hotaru no Haka</anime>
+    <anime anidbid="333">Omoide Poro-poro</anime>
+    <anime anidbid="334">Heisei Tanuki Gassen Ponpoko</anime>
+    <anime anidbid="335">Umi ga Kikoeru</anime>
+    <anime anidbid="336">Mimi o Sumaseba</anime>
+    <anime anidbid="370">Houhokekyo Tonari no Yamada-kun</anime>
+    <anime anidbid="679">Neko no Ongaeshi</anime>
+    <anime anidbid="1218">Howl no Ugoku Shiro</anime>
+    <anime anidbid="4193">Ged Senki: Tales from Earthsea</anime>
+    <anime anidbid="5107">Gake no Ue no Ponyo</anime>
+    <anime anidbid="7258">Karigurashi no Arrietty</anime>
+    <anime anidbid="8141">Coquelicot-zaka kara</anime>
+    <titles>
+      <title type="main" xml:lang="x-jat">Studio Ghibli Collection</title>
+    </titles>
+  </set>  
+  <set>
     <anime anidbid="11">Initial D Battle Stage</anime>
     <anime anidbid="625">Initial D Third Stage</anime>
     <anime anidbid="5298">Initial D Battle Stage 2</anime>
@@ -243,6 +266,13 @@
     </titles>
   </set>
   <set>
+    <anime anidbid="369">Kidou Senkan Nadesico: The Prince of Darkness</anime>
+    <anime anidbid="666">Gekiganger 3: Nekketsu Daikessen!!</anime>
+    <titles>
+      <title type="main" xml:lang="x-jat">Nadesico Collection</title>
+    </titles>
+  </set>
+  <set>
     <anime anidbid="378">Urusei Yatsura: Only You</anime>
     <anime anidbid="379">Urusei Yatsura 2: Beautiful Dreamer</anime>
     <anime anidbid="380">Urusei Yatsura 3: Remember My Love</anime>
@@ -261,15 +291,6 @@
     <titles>
       <title type="main" xml:lang="x-jat">Kidou Keisatsu Patlabor Collection</title>
       <title type="official" xml:lang="en">Mobile Police Patlabor Collection</title>
-    </titles>
-  </set>
-  <set>
-    <anime anidbid="1129">Dragon Ball: Saikyou e no Michi</anime>
-    <anime anidbid="1141">Dragon Ball: Shen Long no Densetsu</anime>
-    <anime anidbid="1142">Dragon Ball: Makafushigi Daibouken</anime>
-    <anime anidbid="1954">Dragon Ball: Majinjou no Nemuri Hime</anime>
-    <titles>
-      <title type="main" xml:lang="x-jat">Dragon Ball Collection</title>
     </titles>
   </set>
   <set>
@@ -295,6 +316,28 @@
     <anime anidbid="9314">Dragon Ball Z (2013)</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Dragon Ball Z Collection</title>
+    </titles>
+  </set>
+  <set>
+    <anime anidbid="411">One Piece (2000)</anime>
+    <anime anidbid="893">One Piece: Nejimaki Jima no Bouken</anime>
+    <anime anidbid="1253">One Piece: Chinjuujima no Chopper Oukoku</anime>
+    <anime anidbid="1254">One Piece: Dead End no Bouken</anime>
+    <anime anidbid="2036">One Piece: Norowareta Seiken</anime>
+    <anime anidbid="2644">One Piece: Omatsuri Danshaku to Himitsu no Shima</anime>
+    <anime anidbid="2736">One Piece: Taose! Kaizoku Ganzack</anime>
+    <anime anidbid="4097">One Piece: Karakurijou no Mecha Kyohei</anime>
+    <anime anidbid="4851">One Piece: Episode of Arabasta - Sabaku no Oujo to Kaizoku-tachi</anime>
+    <anime anidbid="5691">One Piece: Episode of Chopper Plus - Fuyu ni Saku, Kiseki no Sakura</anime>
+    <anime anidbid="6199">One Piece: Romance Dawn Story</anime>
+    <anime anidbid="6537">One Piece: Strong World</anime>
+    <anime anidbid="7538">One Piece Film: Strong World - Episode 0</anime>
+    <anime anidbid="8010">One Piece 3D: Mugiwara Chase</anime>
+    <anime anidbid="8762">One Piece 3D: Gekisou! Trap Coaster</anime>
+    <anime anidbid="8940">One Piece Film Z</anime>
+    <anime anidbid="9432">One Piece: Romance Dawn</anime>
+    <titles>
+      <title type="main" xml:lang="x-jat">One Piece Collection</title>
     </titles>
   </set>
   <set>
@@ -514,28 +557,6 @@
     </titles>
   </set>
   <set>
-    <anime anidbid="411">One Piece (2000)</anime>
-    <anime anidbid="893">One Piece: Nejimaki Jima no Bouken</anime>
-    <anime anidbid="1253">One Piece: Chinjuujima no Chopper Oukoku</anime>
-    <anime anidbid="1254">One Piece: Dead End no Bouken</anime>
-    <anime anidbid="2036">One Piece: Norowareta Seiken</anime>
-    <anime anidbid="2644">One Piece: Omatsuri Danshaku to Himitsu no Shima</anime>
-    <anime anidbid="2736">One Piece: Taose! Kaizoku Ganzack</anime>
-    <anime anidbid="4097">One Piece: Karakurijou no Mecha Kyohei</anime>
-    <anime anidbid="4851">One Piece: Episode of Arabasta - Sabaku no Oujo to Kaizoku-tachi</anime>
-    <anime anidbid="5691">One Piece: Episode of Chopper Plus - Fuyu ni Saku, Kiseki no Sakura</anime>
-    <anime anidbid="6199">One Piece: Romance Dawn Story</anime>
-    <anime anidbid="6537">One Piece: Strong World</anime>
-    <anime anidbid="7538">One Piece Film: Strong World - Episode 0</anime>
-    <anime anidbid="8010">One Piece 3D: Mugiwara Chase</anime>
-    <anime anidbid="8762">One Piece 3D: Gekisou! Trap Coaster</anime>
-    <anime anidbid="8940">One Piece Film Z</anime>
-    <anime anidbid="9432">One Piece: Romance Dawn</anime>
-    <titles>
-      <title type="main" xml:lang="x-jat">One Piece Collection</title>
-    </titles>
-  </set>
-  <set>
     <anime anidbid="921">Pocket Monsters: Mizu no Miyako no Mamorigami Latias to Latios</anime>
     <anime anidbid="990">Gekijouban Pocket Monsters: Mewtwo no Gyakushuu</anime>
     <anime anidbid="991">Pocket Monsters: Celebi Toki o Koeta Deai</anime>
@@ -639,14 +660,12 @@
     </titles>
   </set>
   <set>
-    <anime anidbid="1148">Digimon Adventure Gekijouban</anime>
-    <anime anidbid="1149">Digimon Adventure: Bokura no War Game</anime>
-    <anime anidbid="1150">Digimon Adventure 02: Zenpen Digimon Hurricane Jouriku!! - Kouhen Chouzetsu Shinka!! Ougon no Digimental</anime>
-    <anime anidbid="1151">Digimon Adventure 02: Diablomon no Gyakushuu</anime>
-    <anime anidbid="2390">Digital Monster X-evolution</anime>
-    <anime anidbid="7444">Digimon Adventure 3D: Digimon Grand Prix!</anime>
+    <anime anidbid="1129">Dragon Ball: Saikyou e no Michi</anime>
+    <anime anidbid="1141">Dragon Ball: Shen Long no Densetsu</anime>
+    <anime anidbid="1142">Dragon Ball: Makafushigi Daibouken</anime>
+    <anime anidbid="1954">Dragon Ball: Majinjou no Nemuri Hime</anime>
     <titles>
-      <title type="main" xml:lang="x-jat">Digimon Adventure Collection</title>
+      <title type="main" xml:lang="x-jat">Dragon Ball Collection</title>
     </titles>
   </set>
   <set>
@@ -656,6 +675,17 @@
     <anime anidbid="8606">.hack//Sekai no Mukou ni</anime>
     <titles>
       <title type="main" xml:lang="x-jat">.hack// Collection</title>
+    </titles>
+  </set>
+  <set>
+    <anime anidbid="1148">Digimon Adventure Gekijouban</anime>
+    <anime anidbid="1149">Digimon Adventure: Bokura no War Game</anime>
+    <anime anidbid="1150">Digimon Adventure 02: Zenpen Digimon Hurricane Jouriku!! - Kouhen Chouzetsu Shinka!! Ougon no Digimental</anime>
+    <anime anidbid="1151">Digimon Adventure 02: Diablomon no Gyakushuu</anime>
+    <anime anidbid="2390">Digital Monster X-evolution</anime>
+    <anime anidbid="7444">Digimon Adventure 3D: Digimon Grand Prix!</anime>
+    <titles>
+      <title type="main" xml:lang="x-jat">Digimon Adventure Collection</title>
     </titles>
   </set>
   <set>
@@ -828,6 +858,20 @@
     <titles>
       <title type="main" xml:lang="x-jat">Ashita no Joe Collection</title>
       <title type="official" xml:lang="en">Tomorrow's Joe Collection</title>
+    </titles>
+  </set>
+  <set>
+    <anime anidbid="1649">Hamtarou no Otanjoubi: Mama o Tasunete Sanzen Techi Techi</anime>
+    <anime anidbid="2395">Gekijouban Tottoko Hamtarou: Ham-Ham Land Daibouken</anime>
+    <anime anidbid="2396">Gekijouban Tottoko Hamtarou: Ham-Ham Hamuuja! Maboroshi no Princess</anime>
+    <anime anidbid="2397">Gekijouban Tottoko Hamtarou: Ham-Ham Grand Prix Aurora Tani no Kiseki - Ribbon-chan Kiki Ippatsu</anime>
+    <anime anidbid="2398">Gekijouban Tottoko Hamtarou: Hamtarou to Fushigi no Oni no Emon Tou</anime>
+    <anime anidbid="3328">Ham-chanz no Takara Sagashi Daisakusen: Ham wa! Suteki na Umi no Natsuyasumi</anime>
+    <anime anidbid="3329">Ham-chanz to Niji no Kuni no Ouji-sama: Sekai de Ichiban no Takaramono</anime>
+    <anime anidbid="3330">Ham-chanz no Mezase! Ham-Ham Kin Medal: Hashire! Hashire! Daisakusen!</anime>
+    <titles>
+      <title type="main" xml:lang="x-jat">Tottoko Hamtarou Collection</title>
+      <title type="official" xml:lang="en">Hamtaro Collection</title>
     </titles>
   </set>
   <set>
@@ -1142,20 +1186,6 @@
     <titles>
       <title type="main" xml:lang="x-jat">Hashire Melos Collection</title>
       <title type="official" xml:lang="en">Run Melos! Collection</title>
-    </titles>
-  </set>
-  <set>
-    <anime anidbid="1649">Hamtarou no Otanjoubi: Mama o Tasunete Sanzen Techi Techi</anime>
-    <anime anidbid="2395">Gekijouban Tottoko Hamtarou: Ham-Ham Land Daibouken</anime>
-    <anime anidbid="2396">Gekijouban Tottoko Hamtarou: Ham-Ham Hamuuja! Maboroshi no Princess</anime>
-    <anime anidbid="2397">Gekijouban Tottoko Hamtarou: Ham-Ham Grand Prix Aurora Tani no Kiseki - Ribbon-chan Kiki Ippatsu</anime>
-    <anime anidbid="2398">Gekijouban Tottoko Hamtarou: Hamtarou to Fushigi no Oni no Emon Tou</anime>
-    <anime anidbid="3328">Ham-chanz no Takara Sagashi Daisakusen: Ham wa! Suteki na Umi no Natsuyasumi</anime>
-    <anime anidbid="3329">Ham-chanz to Niji no Kuni no Ouji-sama: Sekai de Ichiban no Takaramono</anime>
-    <anime anidbid="3330">Ham-chanz no Mezase! Ham-Ham Kin Medal: Hashire! Hashire! Daisakusen!</anime>
-    <titles>
-      <title type="main" xml:lang="x-jat">Tottoko Hamtarou Collection</title>
-      <title type="official" xml:lang="en">Hamtaro Collection</title>
     </titles>
   </set>
   <set>
@@ -1816,19 +1846,19 @@
     </titles>
   </set>
   <set>
+    <anime anidbid="6654">Minami-ke Betsubara</anime>
+    <anime anidbid="9267">Minami-ke Omatase</anime>
+    <titles>
+      <title type="main" xml:lang="x-jat">Minami-ke Collection</title>
+    </titles>
+  </set>
+  <set>
     <anime anidbid="6655">Gekijouban Macross F: Itsuwari no Utahime</anime>
     <anime anidbid="7959">Gekijouban Macross F: Sayonara no Tsubasa</anime>
     <anime anidbid="9337">Macross FB7: Ginga Rukon Ore no Uta o Kike!</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Macross F Collection</title>
       <title type="official" xml:lang="en">Macross Frontier Collection</title>
-    </titles>
-  </set>
-  <set>
-    <anime anidbid="6654">Minami-ke Betsubara</anime>
-    <anime anidbid="9267">Minami-ke Omatase</anime>
-    <titles>
-      <title type="main" xml:lang="x-jat">Minami-ke Collection</title>
     </titles>
   </set>
   <set>
@@ -2211,36 +2241,6 @@
     <anime anidbid="9299">Persona 3</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Persona Collection</title>
-    </titles>
-  </set>
-  <set>
-    <anime anidbid="7">Mononoke Hime</anime>
-    <anime anidbid="112">Sen to Chihiro no Kamikakushi</anime>
-    <anime anidbid="286">Majo no Takkyuubin</anime>
-    <anime anidbid="303">Tonari no Totoro</anime>
-    <anime anidbid="306">Kurenai no Buta</anime>
-    <anime anidbid="331">Tenkuu no Shiro Laputa</anime>
-    <anime anidbid="332">Hotaru no Haka</anime>
-    <anime anidbid="333">Omoide Poro-poro</anime>
-    <anime anidbid="334">Heisei Tanuki Gassen Ponpoko</anime>
-    <anime anidbid="335">Umi ga Kikoeru</anime>
-    <anime anidbid="336">Mimi o Sumaseba</anime>
-    <anime anidbid="370">Houhokekyo Tonari no Yamada-kun</anime>
-    <anime anidbid="679">Neko no Ongaeshi</anime>
-    <anime anidbid="1218">Howl no Ugoku Shiro</anime>
-    <anime anidbid="4193">Ged Senki: Tales from Earthsea</anime>
-    <anime anidbid="5107">Gake no Ue no Ponyo</anime>
-    <anime anidbid="7258">Karigurashi no Arrietty</anime>
-    <anime anidbid="8141">Coquelicot-zaka kara</anime>
-    <titles>
-      <title type="main" xml:lang="x-jat">Studio Ghibli Collection</title>
-    </titles>
-  </set>  
-  <set>
-    <anime anidbid="369">Kidou Senkan Nadesico: The Prince of Darkness</anime>
-    <anime anidbid="666">Gekiganger 3: Nekketsu Daikessen!!</anime>
-    <titles>
-      <title type="main" xml:lang="x-jat">Nadesico Collection</title>
     </titles>
   </set>
 </anime-set-list>

@@ -22,7 +22,7 @@
     <titles>
       <title type="main" xml:lang="x-jat">Studio Ghibli Collection</title>
     </titles>
-  </set>  
+  </set>
   <set>
     <anime anidbid="11">Initial D Battle Stage</anime>
     <anime anidbid="625">Initial D Third Stage</anime>
@@ -57,7 +57,7 @@
     </titles>
   </set>
   <set>
-    <anime anidbid="66">Vampire Hunter D - Bloodlust</anime>
+    <anime anidbid="66">Vampire Hunter D (2001)</anime>
     <anime anidbid="204">Vampire Hunter D</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Vampire Hunter D Collection</title>
@@ -165,7 +165,7 @@
     <anime anidbid="2763">Meitantei Conan: Suihei Senjou no Strategy</anime>
     <anime anidbid="3390">Meitantei Conan: Conan vs Kid vs Yaiba</anime>
     <anime anidbid="3591">Meitantei Conan: 16 Nin no Yougisha</anime>
-    <anime anidbid="3596">Meitantei Conan: Conan to Heiji to Kieta Shounenv</anime>
+    <anime anidbid="3596">Meitantei Conan: Conan to Heiji to Kieta Shounen</anime>
     <anime anidbid="3597">Meitantei Conan: Conan to Kid to Crystal Mother</anime>
     <anime anidbid="3598">Meitantei Conan: Hyouteki wa Kogoro! Shounen Tanteidan Maruhi Chousa</anime>
     <anime anidbid="4187">Meitantei Conan: Tantei-tachi no Requiem</anime>
@@ -220,7 +220,7 @@
     <anime anidbid="976">Lupin Sansei: Walther P38 - In Gedenken an die Walther P38</anime>
     <anime anidbid="977">Lupin Sansei: Fuuma Ichizoku no Inbou</anime>
     <anime anidbid="986">Lupin Sansei: Lupin Ansatsu Shirei</anime>
-    <anime anidbid="987">Lupin Sansei: Russia Yori Ai o Komete</anime>
+    <anime anidbid="987">Lupin Sansei: Russia yori Ai o Komete</anime>
     <anime anidbid="989">Lupin Sansei: Babylon no Ougon Densetsu</anime>
     <anime anidbid="1024">Lupin Sansei: Bye Bye Liberty - Kiki Ippatsu!</anime>
     <anime anidbid="1421">Lupin Sansei: Ai no da capo - Fujiko's Unlucky Days</anime>
@@ -313,7 +313,7 @@
     <anime anidbid="6540">Dragon Ball Z: Atsumare! Gokuu's World</anime>
     <anime anidbid="8172">Dragon Ball: Super Saiya-jin Zetsumetsu Keikaku</anime>
     <anime anidbid="8809">Dragon Ball: Episode of Bardock</anime>
-    <anime anidbid="9314">Dragon Ball Z (2013)</anime>
+    <anime anidbid="9314">Dragon Ball Z: Kami to Kami</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Dragon Ball Z Collection</title>
     </titles>
@@ -388,7 +388,7 @@
   <set>
     <anime anidbid="501">Choujikuu Yousai Macross II: Lovers Again</anime>
     <anime anidbid="996">Choujikuu Yousai Macross: Ai Oboete Imasuka</anime>
-    <anime anidbid="2324">Choujikuu Yousai Macross - Flash Back 2012</anime>
+    <anime anidbid="2324">Choujikuu Yousai Macross: Flash Back 2012</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Choujikuu Yousai Macross Collection</title>
       <title type="official" xml:lang="en">Super Dimension Fortress Macross Collection</title>
@@ -427,8 +427,8 @@
   <set>
     <anime anidbid="626">Kidou Senshi Gundam F91</anime>
     <anime anidbid="720">Kidou Senshi Gundam: Gyakushuu no Char</anime>
-    <anime anidbid="729">Kidou Senshi Gundam I: Tokubetsu Hen</anime>
-    <anime anidbid="1425">Kidou Senshi Gundam: Dai 08 MS Shoutai: Miller's Report</anime>
+    <anime anidbid="729">Kidou Senshi Gundam (1981)</anime>
+    <anime anidbid="1425">Kidou Senshi Gundam: Dai 08 MS Shoutai - Miller's Report</anime>
     <anime anidbid="2009">Kidou Senshi Gundam 0083: Zeon no Zankou</anime>
     <anime anidbid="2187">Kidou Senshi Z Gundam I: Hoshi o Tsugu Mono</anime>
     <anime anidbid="2440">Gundam Neo Experience: 0087- Green Divers</anime>
@@ -465,7 +465,7 @@
     <anime anidbid="695">Slam Dunk (1994)</anime>
     <anime anidbid="696">Slam Dunk: Zenkoku Seiha da! Sakuragi Hanamichi</anime>
     <anime anidbid="697">Slam Dunk: Shouhoku Saidai no Kiki! Moero Sakuragi Hanamichi</anime>
-    <anime anidbid="698">Slam Dunk: Hoero Basketman Tamashii!! Hanamichi to Rukawa no Atsuki Natsu</anime>
+    <anime anidbid="698">Slam Dunk: Hoero Basketman-damashii! Hanamichi to Rukawa no Atsuki Natsu</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Slam Dunk Collection</title>
     </titles>
@@ -533,7 +533,7 @@
   <set>
     <anime anidbid="872">Crayon Shin-chan: Arashi o Yobu Eikou no Yakiniku Road</anime>
     <anime anidbid="3106">Crayon Shin-chan: Arashi o Yobu Yuuhi no Kasukabe Boys</anime>
-    <anime anidbid="3107">Eiga Crayon Shin-chan: Densetsu o Yobu Buriburi 3 Pun Dai Shingeki</anime>
+    <anime anidbid="3107">Eiga Crayon Shin-chan: Densetsu o Yobu Buriburi 3-punpokkiri Daishingeki</anime>
     <anime anidbid="3316">Crayon Shin-chan: Arashi o Yobu Appare! Sengoku Daikassen</anime>
     <anime anidbid="4622">Crayon Shin-chan: Arashi o Yobu Mouretsu! Otona Teikoku Gyakushuu</anime>
     <anime anidbid="4624">Crayon Shin-chan: Action Kamen vs Haigure Maou</anime>
@@ -543,11 +543,11 @@
     <anime anidbid="4703">Eiga Crayon Shin-chan: Henderland no Daibouken</anime>
     <anime anidbid="4704">Crayon Shin-chan: Ankoku Tamatama Daitsuiseki</anime>
     <anime anidbid="4705">Eiga Crayon Shin-chan: Dengeki! Buta no Hizume Daisakusen</anime>
-    <anime anidbid="4706">Eiga Crayon Shin-chan: Bakuhatsu! Onsen Wakuwaku Daikessen</anime>
+    <anime anidbid="4706">Crayon Shin-chan: Bakuhatsu! Onsen Wakuwaku Daikessen</anime>
     <anime anidbid="4707">Crayon Shin-chan: Arashi o Yobu Jungle</anime>
-    <anime anidbid="4910">Eiga Crayon Shin-chan: Arashi o Yobu Utau Ketsu dake Bakudan!</anime>
-    <anime anidbid="5858">Crayon Shin-chan: Chou Arashi o Yobu Kinpoko no Yuusha</anime>
-    <anime anidbid="6550">Crayon Shin-chan: Otakebe! Kasukabe Yasei Oukoku</anime>
+    <anime anidbid="4910">Crayon Shin-chan: Arashi o Yobu Utau Ketsu dake Bakudan!</anime>
+    <anime anidbid="5858">Eiga Crayon Shin-chan: Chou Arashi o Yobu Kinpoko no Yuusha</anime>
+    <anime anidbid="6550">Eiga Crayon Shin-chan: Otakebe! Kasukabe Yasei Oukoku</anime>
     <anime anidbid="7254">Crayon Shin-chan: Chou Jikuu! Arashi o Yobu Ora no Hanayome</anime>
     <anime anidbid="8115">Eiga Crayon Shin-chan: Arashi o Yobu Ougon no Spy Daisakusen</anime>
     <anime anidbid="8780">Eiga Crayon Shin-chan: Arashi o Yobu! Ora to Uchuu no Princess</anime>
@@ -587,14 +587,14 @@
     <anime anidbid="7109">Pocket Monsters: Mewtwo! Ware wa Koko ni Ari</anime>
     <anime anidbid="7117">Pocket Monsters Crystal: Raikou Ikazuchi no Densetsu</anime>
     <anime anidbid="7257">Gekijouban Pocket Monsters Diamond &amp; Pearl: Gen'ei no Hasha Zoroark</anime>
-    <anime anidbid="8012">Gekijouban Pocket Monsters: Best Wishes - Victini to Kuroki Eiyuu Zekrom</anime>
+    <anime anidbid="8012">Gekijouban Pocket Monsters: Best Wishes! - Victini to Kuroki Eiyuu Zekrom</anime>
     <anime anidbid="8139">Pikachu no Fushigi na Fushigi na Daibouken</anime>
-    <anime anidbid="8269">Gekijouban Pocket Monsters: Best Wishes - Victini to Shiroki Eiyuu Reshiram</anime>
+    <anime anidbid="8269">Gekijouban Pocket Monsters: Best Wishes! - Victini to Shiroki Eiyuu Reshiram</anime>
     <anime anidbid="8671">Pokemon 3D Adventure: Mew o Sagase!</anime>
     <anime anidbid="8672">Pokemon 3D Adventure 2: Pikachu no Kaitei Daibouken</anime>
     <anime anidbid="8735">Pikachu no Summer Bridge Story</anime>
-    <anime anidbid="8826">Gekijouban Pocket Monsters: Best Wishes - Kyurem vs Seikenshi Keldeo</anime>
-    <anime anidbid="9021">Meloetta to Kirakira Recital</anime>
+    <anime anidbid="8826">Gekijouban Pocket Monsters: Best Wishes! - Kyurem vs Seikenshi Keldeo</anime>
+    <anime anidbid="9021">Meloetta no Kirakira Recital</anime>
     <anime anidbid="9289">Utae Meloetta: Rinka no Mi o Sagase</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Pocket Monsters Collection</title>
@@ -620,7 +620,7 @@
   </set>
   <set>
     <anime anidbid="968">Rokushin Gattai GodMars (1982)</anime>
-    <anime anidbid="1784">Rokushin Gattai God Mars Juunanasai no Densetsu</anime>
+    <anime anidbid="1784">Rokushin Gattai GodMars: Juunanasai no Densetsu</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Rokushin Gattai GodMars Collection</title>
       <title type="official" xml:lang="en">God Mars	Collection</title>
@@ -637,7 +637,7 @@
   <set>
     <anime anidbid="1032">Dirty Pair: Project EDEN</anime>
     <anime anidbid="1174">Dirty Pair: Bouryaku no 005-bin</anime>
-    <anime anidbid="1381">WWWA Dirty Pair no Daishoubu: Nolandia no Nazo</anime>
+    <anime anidbid="1381">WWWA Dirty Pair no Ooshoubu: Nolandia no Nazo</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Dirty Pair Collection</title>
     </titles>
@@ -699,7 +699,7 @@
     <anime anidbid="1216">Kidou Senshi SD Gundam no Gyakushuu: SD Sengokuden - Abaowakuujou no Shou</anime>
     <anime anidbid="3344">Musha Knight Commando: SD Gundam Scramble</anime>
     <anime anidbid="4722">Kidou Senshi SD Gundam no Gyakushuu: Arashi o Yobu Gakuensai</anime>
-    <anime anidbid="7245">Chou Denei-ban SD Gundam Sangokuden Brave Battle Warriors</anime>
+    <anime anidbid="7245">Chou Den'ei-ban SD Gundam Sangokuden Brave Battle Warriors</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Kidou Senshi SD Gundam Collection</title>
       <title type="official" xml:lang="en">Mobile Suit SD Gundam Collection</title>
@@ -727,7 +727,7 @@
     <anime anidbid="1267">Unico</anime>
     <anime anidbid="1361">Unico: Mahou no Shima e</anime>
     <anime anidbid="1379">Tanpen Unico: Kuroi Kumo to Shiroi Hane</anime>
-    <anime anidbid="9448">Glass no Chikyuu wo Sukue Unico Tokubetsu-hen</anime>
+    <anime anidbid="9448">Glass no Chikyuu o Sukue Unico Tokubetsu Hen</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Unico Collection</title>
     </titles>
@@ -779,7 +779,7 @@
     <anime anidbid="1886">Saint Seiya: Kamigami no Atsuki Tatakai</anime>
     <anime anidbid="1887">Saint Seiya: Shinku no Shounen Densetsu</anime>
     <anime anidbid="1889">Saint Seiya: Saishuu Seisen no Senshi-tachi</anime>
-    <anime anidbid="8279">Saint Seiya (2012)</anime>
+    <anime anidbid="8279">Saint Seiya (2014)</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Saint Seiya Collection</title>
     </titles>
@@ -835,10 +835,10 @@
   <set>
     <anime anidbid="1566">City Hunter: Ai to Shukumei no Magnum</anime>
     <anime anidbid="1567">City Hunter: Bay City Wars</anime>
-    <anime anidbid="1568">City Hunter: Hyakuman Doru no Inbou</anime>
-    <anime anidbid="1569">City Hunter: The Secret Service</anime>
-    <anime anidbid="1570">City Hunter: Goodbye My Sweetheart</anime>
-    <anime anidbid="1571">City Hunter: Kinkyu Namachukei!? Kyouakuhan Saeba Ryo no Saigo</anime>
+    <anime anidbid="1568">City Hunter: Hyakuman Dollar no Inbou</anime>
+    <anime anidbid="1569">City Hunter Special: The Secret Service</anime>
+    <anime anidbid="1570">City Hunter Special: Goodbye My Sweetheart</anime>
+    <anime anidbid="1571">City Hunter Special: Kinkyuu Namachuukei!? Kyouakuhan Saeba Ryou no Saigo</anime>
     <titles>
       <title type="main" xml:lang="x-jat">City Hunter Collection</title>
     </titles>
@@ -978,7 +978,7 @@
     <anime anidbid="6383">Eiga Doraemon: Shin Nobita no Uchuu Kaitakushi</anime>
     <anime anidbid="6582">Doraemon: Nobita to Robot Kingdom</anime>
     <anime anidbid="6583">Doraemon: Nobita no Taiyou Ou Densetsu</anime>
-    <anime anidbid="6584">Doraemon: Nobita no Nejimaki Shitei Boukenki</anime>
+    <anime anidbid="6584">Doraemon: Nobita no Nejimaki City Boukenki</anime>
     <anime anidbid="6585">Doraemon: Nobita no Sousei Nikki</anime>
     <anime anidbid="6586">Doraemon: Nobita to Mugen Sankenshi</anime>
     <anime anidbid="6587">Doraemon: Nobita to Buriki no Labyrinth</anime>
@@ -1049,15 +1049,15 @@
   </set>
   <set>
     <anime anidbid="2131">Kinnikuman II Sei</anime>
-    <anime anidbid="2132">Kinnikuman II Sei Muscle-ninjin Soudatsu sen! Choujin-daisensou</anime>
+    <anime anidbid="2132">Kinnikuman II Sei: Muscle Ninjin Soudatsu! Choujin Daisensou</anime>
     <anime anidbid="2133">Kinnikuman (1984)</anime>
-    <anime anidbid="2283">Kinnikuman: Dai Abareru! Seigi Choujin</anime>
+    <anime anidbid="2283">Kinnikuman: Ooabare! Seigi Choujin</anime>
     <anime anidbid="2285">Kinnikuman: Seigi Choujin vs Kodai Choujin</anime>
     <anime anidbid="2287">Kinnikuman: Gyakushuu! Uchuu Kakure Choujin</anime>
     <anime anidbid="2305">Kinnikuman: Haresugata! Seigi Choujin</anime>
     <anime anidbid="2308">Kinnikuman: New York Kikiippatsu!</anime>
     <anime anidbid="2313">Kinnikuman: Seigi Choujin vs Senshi Choujin</anime>
-    <anime anidbid="6714">Kinnikuman: Kessen! Shichinin no Seigi Choujin vs Uchuu Nobushi</anime>
+    <anime anidbid="6714">Kinnikuman: Kessen!! Shichinin no Choujin Tai Uchuu Nobushi</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Kinnikuman Collection</title>
     </titles>
@@ -1199,7 +1199,7 @@
   </set>
   <set>
     <anime anidbid="2651">Kino no Tabi: Nanika o Suru Tame ni - Life Goes On.</anime>
-    <anime anidbid="4939">Kino no Tabi: the Beautiful World - Byouki no Kuni -For You-</anime>
+    <anime anidbid="4939">Kino no Tabi: The Beautiful World - Byouki no Kuni -For You-</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Kino no Tabi Collection</title>
       <title type="official" xml:lang="en">Kino's Journey Collection</title>
@@ -1380,7 +1380,7 @@
     </titles>
   </set>
   <set>
-    <anime anidbid="3624">Tekkamen o Oe "d'Artagnan Monogatari" Yori</anime>
+    <anime anidbid="3624">Tekkamen o Oe "d'Artagnan Monogatari" yori</anime>
     <anime anidbid="3639">Anime Sanjuushi - Aramis no Bouken</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Anime Sanjuushi Collection</title>
@@ -1428,8 +1428,8 @@
   </set>
   <set>
     <anime anidbid="4058">Gekijouban Haruka Naru Toki no Naka de: Maihitoyo</anime>
-    <anime anidbid="5454">Haruka Naru Toki no Naka de 3: Kurenai no Tsuki</anime>
-    <anime anidbid="7086">Haruka Naru Toki no Naka de 3: Owari Naki Unmei</anime>
+    <anime anidbid="5454">Harukanaru Toki no Naka de 3: Kurenai no Tsuki</anime>
+    <anime anidbid="7086">Harukanaru Toki no Naka de 3: Owarinaki Unmei</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Haruka Naru Toki no Naka de Collection</title>
       <title type="official" xml:lang="en">Haruka -Beyond the Stream of Time- Collection</title>
@@ -1444,7 +1444,7 @@
     </titles>
   </set>
   <set>
-    <anime anidbid="4131">Gekijouban Kabutomushi Ouja Mushiking: Greatest Champion e no Michi</anime>
+    <anime anidbid="4131">Kouchuu Ouja Mushiking: Greatest Champion e no Michi Gekijouban</anime>
     <anime anidbid="4998">Kouchuu Ouja Mushiking Super Battle Movie: Yami no Kaizou Kouchuu</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Kabutomushi Ouja Mushiking Collection</title>
@@ -1452,9 +1452,9 @@
     </titles>
   </set>
   <set>
-    <anime anidbid="4165">Kidou Senshi Gundam SEED Special Edition Kanketsuhen: Meidou no Sora</anime>
-    <anime anidbid="4168">Kidou Senshi Gundam SEED Special Edition II: Harukanaru Akatsuki</anime>
-    <anime anidbid="4169">Kidou Senshi Gundam SEED Special Edition I: Kokuu no Senjou</anime>
+    <anime anidbid="4165">Kidou Senshi Gundam SEED: Meidou no Sora</anime>
+    <anime anidbid="4168">Kidou Senshi Gundam SEED: Harukanaru Akatsuki</anime>
+    <anime anidbid="4169">Kidou Senshi Gundam SEED: Kokuu no Senjou</anime>
     <anime anidbid="4170">Kidou Senshi Gundam SEED Destiny Final Plus: The Chosen Future</anime>
     <anime anidbid="4457">Kidou Senshi Gundam SEED Destiny Special Edition I: Kudakareta Sekai</anime>
     <anime anidbid="4466">Kidou Senshi Gundam SEED Destiny Special Edition II: Sorezore no Ken</anime>
@@ -1562,7 +1562,7 @@
     <anime anidbid="4847">Evangelion Shin Gekijouban: Jo</anime>
     <anime anidbid="6171">Evangelion Shin Gekijouban: Ha</anime>
     <anime anidbid="7565">Evangelion Shin Gekijouban: Q</anime>
-    <anime anidbid="8895">Evangelion Shin Gekijouban: ?</anime>
+    <anime anidbid="8895">Shin Evangelion Gekijouban:||</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Evangelion Shin Collection</title>
       <title type="official" xml:lang="en">Rebuild of Evangelion Collection</title>
@@ -1591,9 +1591,9 @@
     </titles>
   </set>
   <set>
-    <anime anidbid="5085">Kiddy Grade: Ignition</anime>
-    <anime anidbid="5086">Kiddy Grade: Maelstrom</anime>
-    <anime anidbid="5087">Kiddy Grade: Truth Dawn</anime>
+    <anime anidbid="5085">Kiddy Grade I: Ignition</anime>
+    <anime anidbid="5086">Kiddy Grade II: Maelstrom</anime>
+    <anime anidbid="5087">Kiddy Grade III: Truth Dawn</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Kiddy Grade Collection</title>
     </titles>
@@ -1605,7 +1605,7 @@
     <anime anidbid="7483">Gekijouban Naruto Shippuuden: The Lost Tower</anime>
     <anime anidbid="8312">Gekijouban Naruto: Blood Prison</anime>
     <anime anidbid="8384">Honoo no Chuunin Shiken! Naruto vs Konohamaru!!</anime>
-    <anime anidbid="9023">Naruto the Movie: Road to Ninja</anime>
+    <anime anidbid="9023">Road to Ninja: Naruto the Movie</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Naruto Shippuuden Collection</title>
     </titles>
@@ -1659,9 +1659,9 @@
     </titles>
   </set>
   <set>
-    <anime anidbid="5812">Sore Ike! Anpanman: Kirakira Boshi no Namida</anime>
+    <anime anidbid="5812">Sore Ike! Anpanman: Kirakiraboshi no Namida</anime>
     <anime anidbid="6078">Sore Ike! Anpanman: Yousei Rinrin no Himitsu</anime>
-    <anime anidbid="6079">Sore Ike! Anpanman: Hiya Hiya Hiyariko to Bafu Bafu Baikinman</anime>
+    <anime anidbid="6079">Hiya Hiya Hiyariko to Babu Babu Baikinman</anime>
     <anime anidbid="7392">Sore Ike! Anpanman: Ruby no Negai</anime>
     <anime anidbid="7396">Sore Ike! Anpanman: Baikinman no Gyakushuu</anime>
     <anime anidbid="7397">Sore Ike! Anpanman: Dadandan to Futago no Hoshi</anime>
@@ -1682,29 +1682,29 @@
     <anime anidbid="7560">Sore Ike! Anpanman: Yuureisen o Yattsukero!!</anime>
     <anime anidbid="7561">Sore Ike! Anpanman: Happy no Daibouken</anime>
     <anime anidbid="7562">Sore Ike! Anpanman: Tenohira o Taiyou ni</anime>
-    <anime anidbid="7737">Sore Ike! Anpanman: Dokin-chan no Dokidoki Calendar</anime>
+    <anime anidbid="7737">Dokin-chan no Dokidoki Calendar</anime>
     <anime anidbid="7739">Sore Ike! Anpanman: Keito no Shiro no Christmas</anime>
-    <anime anidbid="7740">Sore Ike! Anpanman: Baikinman vs Baikinman!?</anime>
-    <anime anidbid="7741">Sore Ike! Anpanman: Minna Atsumare! Anpanman World</anime>
-    <anime anidbid="7742">Sore Ike! Anpanman: Kuruyuki-hime to Motemote Baikinman</anime>
-    <anime anidbid="7743">Sore Ike! Anpanman: Horrorman to Hora Horako</anime>
-    <anime anidbid="7744">Sore Ike! Anpanman: Kokin-chan to Aoi Namida</anime>
+    <anime anidbid="7740">Baikinman Tai Baikinman!?</anime>
+    <anime anidbid="7741">Minna Atsumare! Anpanman World</anime>
+    <anime anidbid="7742">Kuroyuki-hime to Motemote Baikinman</anime>
+    <anime anidbid="7743">Horrorman to Hora Horako</anime>
+    <anime anidbid="7744">Kokin-chan to Aoi Namida</anime>
     <anime anidbid="7745">Sore Ike! Anpanman: Otanjoubi Series</anime>
     <anime anidbid="7746">Sore Ike! Anpanman: Omusubiman</anime>
-    <anime anidbid="7747">Sore Ike! Anpanman: Tsuki Koto Shiratama - Tokimeki Dancing</anime>
-    <anime anidbid="7748">Sore Ike! Anpanman: Baikinman to 3 Bai Punch</anime>
+    <anime anidbid="7747">Tsukiko to Shiratama: Tokimeki Dancing</anime>
+    <anime anidbid="7748">Baikinman to 3-bai Punch</anime>
     <anime anidbid="7749">Sore Ike! Anpanman: Bokura wa Hero</anime>
     <anime anidbid="7750">Sore Ike! Anpanman: Minami no Umi o Sukue!</anime>
-    <anime anidbid="7751">Sore Ike! Anpanman: Yakisoba Pan Man to Black Sabotenman</anime>
+    <anime anidbid="7751">Yakisobapanman to Black Sabotenman</anime>
     <anime anidbid="7752">Sore Ike! Anpanman: Anpanman to Okashi na Nakama</anime>
     <anime anidbid="7753">Sore Ike! Anpanman: Anpanman to Tanoshii Nakama-tachi</anime>
-    <anime anidbid="7754">Sore Ike! Anpanman: Anpanman to Yukai na Nakama-tachi</anime>
-    <anime anidbid="7755">Sore Ike! Anpanman: Anpanman to Happy Otanjoubi</anime>
+    <anime anidbid="7754">Anpanman to Yukai na Nakama-tachi</anime>
+    <anime anidbid="7755">Anpanman to Happy Otanjoubi</anime>
     <anime anidbid="7756">Sore Ike! Anpanman: Anpanman to Kaizoku Lobster</anime>
     <anime anidbid="7757">Sore Ike! Anpanman: Kaiketsu Naganegiman to Yakisoba Panman</anime>
     <anime anidbid="7758">Sore Ike! Anpanman: Kaiketsu Naganegiman to Doremi-hime</anime>
     <anime anidbid="7759">Sore Ike! Anpanman: Kieta Jam Oji-san</anime>
-    <anime anidbid="7760">Sore Ike! Anpanman: Tekka no Maki-chan to Kin no Kamame Shidon</anime>
+    <anime anidbid="7760">Tekka no Maki-chan to Kin no Kamameshidon</anime>
     <anime anidbid="7761">Sore Ike! Anpanman: Yuuki to Honoo to Christmas</anime>
     <anime anidbid="8329">Sore Ike! Anpanman Sukue! Kokorin to Kiseki no Hoshi</anime>
     <anime anidbid="8330">Utatte Teasobi! Anpanman to Mori no Takara</anime>
@@ -1729,7 +1729,7 @@
   </set>
   <set>
     <anime anidbid="5880">Koukyoushihen: Eureka Seven - Pocket ga Niji de Ippai</anime>
-    <anime anidbid="9147">Eureka Seven Ao: Jungfrau no Hana-tachi</anime>
+    <anime anidbid="9147">Eureka Seven Ao: Jungfrau no Hanabana-tachi</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Eureka Seven Collection</title>
     </titles>
@@ -1759,8 +1759,8 @@
     </titles>
   </set>
   <set>
-    <anime anidbid="6075">Mahou Shoujo Lyrical Nanoha The Movie 1st</anime>
-    <anime anidbid="8821">Mahou Shoujo Lyrical Nanoha The Movie 2nd A's</anime>
+    <anime anidbid="6075">Magical Girl Lyrical Nanoha The Movie 1st</anime>
+    <anime anidbid="8821">Magical Girl Lyrical Nanoha The Movie 2nd A's</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Mahou Shoujo Lyrical Nanoha Collection</title>
       <title type="official" xml:lang="en">Magical Girl Lyrical Nanoha Collection</title>
@@ -1784,14 +1784,14 @@
     </titles>
   </set>
   <set>
-    <anime anidbid="6389">Hayate no Gotoku!! OVA</anime>
+    <anime anidbid="6389">Hayate no Gotoku!! Hayate the Combat Butler 2nd Season: Atsu ga Natsui ze - Mizugi Hen!</anime>
     <anime anidbid="8130">Gekijouban Hayate no Gotoku! Heaven is a Place on Earth</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Hayate no Gotoku Collection</title>
     </titles>
   </set>
   <set>
-    <anime anidbid="6433">Eiga Precure All Stars DX: Minna Tomodachi - Kiseki no Zen'in Daishuugou</anime>
+    <anime anidbid="6433">Eiga Precure All Stars DX: Minna Tomodachi - Kiseki no Zen'in Daishuugou!</anime>
     <anime anidbid="7290">Eiga Precure All Stars DX2: Kibou no Hikari - Rainbow Jewel o Mamore!</anime>
     <anime anidbid="8074">Eiga Precure All Stars DX3: Mirai ni Todoke! Sekai o Tsunagu Niji-iro no Hana</anime>
     <anime anidbid="8817">Eiga Precure All Stars New Stage: Mirai no Tomodachi</anime>
@@ -1838,8 +1838,8 @@
     </titles>
   </set>
   <set>
-    <anime anidbid="6636">Higashi no Eden: Gekijouban I The King of Eden</anime>
-    <anime anidbid="6637">Higashi no Eden: Gekijouban II Paradise Lost</anime>
+    <anime anidbid="6636">Higashi no Eden: Gekijouban I - The King of Eden</anime>
+    <anime anidbid="6637">Higashi no Eden: Gekijouban II - Paradise Lost</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Higashi no Eden Collection</title>
       <title type="official" xml:lang="en">Eden of the East Collection</title>
@@ -1968,7 +1968,7 @@
   </set>
   <set>
     <anime anidbid="7177">Gekijouban Gintama: Shinyaku Benizakura Hen</anime>
-    <anime anidbid="9384">Gintama (2013)</anime>
+    <anime anidbid="9384">Gekijouban Gintama Kanketsuhen: Yorozuya yo Eien Nare</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Gintama Collection</title>
     </titles>
@@ -2183,17 +2183,17 @@
     </titles>
   </set>
   <set>
-    <anime anidbid="8358">Hayabusa: Back to the Earth - Kikan</anime>
-    <anime anidbid="8359">Hayabusa Back to the Earth</anime>
+    <anime anidbid="8358">Hayabusa: Back to the Earth (2011)</anime>
+    <anime anidbid="8359">Hayabusa: Back to the Earth</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Hayabusa Collection</title>
     </titles>
   </set>
   <set>
-    <anime anidbid="8430">Xi Yang Yang Yu Hui Tai Lang: Zhi Niu Qi Chong Tian</anime>
-    <anime anidbid="8431">Xi Yang Yang Yu Hui Tai Lang: Zhi Hu Hu Sheng Wei</anime>
-    <anime anidbid="9142">Xi Yang Yang Yu Hui Tai Lang: Zhi Kaixin Chuang Long Nian</anime>
-    <anime anidbid="9143">Xi Yang Yang Yu Hui Tai Lang: Zhi Tu Nian Ding Gua Gua</anime>
+    <anime anidbid="8430">Xi Yang Yang Yu Hui Tai Lang Zhi Niu Qi Chong Tian</anime>
+    <anime anidbid="8431">Xi Yang Yang Yu Hui Tai Lang Zhi Hu Hu Sheng Wei</anime>
+    <anime anidbid="9142">Xi Yang Yang Yu Hui Tai Lang Zhi Kaixin Chuang Long Nian</anime>
+    <anime anidbid="9143">Xi Yang Yang Yu Hui Tai Lang Zhi Tu Nian Ding Gua Gua</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Xi Yang Yang Yu Hui Tai Lang Collection</title>
     </titles>
@@ -2238,7 +2238,7 @@
   </set>
   <set>
     <anime anidbid="9240">Persona 4 the Animation: The Factor of Hope</anime>
-    <anime anidbid="9299">Persona 3</anime>
+    <anime anidbid="9299">Persona 3 the Movie</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Persona Collection</title>
     </titles>

@@ -111,7 +111,7 @@
   <anime anidbid="1173" tvdbid="unknown" defaulttvdbseason="3">
     <name>Bakusou Kyoudai Lets &amp; Go Max</name>
   </anime>
-  <anime anidbid="1179" tvdbid="unknown" defaulttvdbseason="1">
+  <anime anidbid="1179" tvdbid="unknown" defaulttvdbseason="1" imdbid="tt0294399">
     <name>Bounty Dog: Getsumen no Ibu</name>
   </anime>
   <anime anidbid="1185" tvdbid="unknown" defaulttvdbseason="1" imdbid="tt0243560">
@@ -179,9 +179,6 @@
   </anime>
   <anime anidbid="1460" tvdbid="unknown" defaulttvdbseason="1">
     <name>Babel Nisei</name>
-  </anime>
-  <anime anidbid="1468" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Dallos</name>
   </anime>
   <anime anidbid="1476" tvdbid="unknown" defaulttvdbseason="1">
     <name>Megami Paradise</name>
@@ -661,12 +658,6 @@
   </anime>
   <anime anidbid="2310" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
     <name>Gegege no Kitarou: Saikyou Youkai Gundan! Nihon Jouriku!!</name>
-  </anime>
-  <anime anidbid="2311" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Yamato Takeru</name>
-  </anime>
-  <anime anidbid="2312" tvdbid="unknown" defaulttvdbseason="2">
-    <name>Yamato Takeru: After War</name>
   </anime>
   <anime anidbid="2314" tvdbid="unknown" defaulttvdbseason="1">
     <name>Andersen Monogatari (1971)</name>
@@ -1942,9 +1933,6 @@
   </anime>
   <anime anidbid="4798" tvdbid="unknown" defaulttvdbseason="1">
     <name>Duel Masters Charge</name>
-  </anime>
-  <anime anidbid="4805" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
-    <name>Dallos Special</name>
   </anime>
   <anime anidbid="4816" tvdbid="unknown" defaulttvdbseason="1">
     <name>Oishinbo Nichibei Kome Sensou</name>

@@ -4412,6 +4412,9 @@
   <anime anidbid="1177" tvdbid="89091" defaulttvdbseason="1">
     <name>Choujikuu Kidan Southern Cross</name>
   </anime>
+  <anime anidbid="1179" tvdbid="unknown" defaulttvdbseason="1" imdbid="tt0294399">
+    <name>Bounty Dog: Getsumen no Ibu</name>
+  </anime>
   <anime anidbid="1180" tvdbid="79355" defaulttvdbseason="1">
     <name>Boboboubo Boubobo</name>
   </anime>
@@ -4439,7 +4442,7 @@
   <anime anidbid="1187" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0302758">
     <name>Mari Iyagi</name>
   </anime>
-  <anime anidbid="1189" tvdbid="258463" defaulttvdbseason="1">
+  <anime anidbid="1189" tvdbid="258463" defaulttvdbseason="0" imdbid="tt0303104">
     <name>Shin Kaitei Gunkan</name>
   </anime>
   <anime anidbid="1190" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0306474">
@@ -5221,6 +5224,12 @@
   </anime>
   <anime anidbid="1467" tvdbid="OVA" defaulttvdbseason="1" imdbid="tt0159387">
     <name>Kindan no Mokushiroku Crystal Triangle</name>
+  </anime>
+  <anime anidbid="1468" tvdbid="262312" defaulttvdbseason="1">
+    <name>Dallos</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="1">;1-2;2-1;3-3;4-4;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="1469" tvdbid="158991" defaulttvdbseason="1">
     <name>Uchuu Kaizoku Mito no Daibouken</name>
@@ -7420,6 +7429,12 @@
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-7;</mapping>
     </mapping-list>
+  </anime>
+  <anime anidbid="2311" tvdbid="269072" defaulttvdbseason="1">
+    <name>Yamato Takeru</name>
+  </anime>
+  <anime anidbid="2312" tvdbid="269072" defaulttvdbseason="0">
+    <name>Yamato Takeru: After War</name>
   </anime>
   <anime anidbid="2313" tvdbid="250848" defaulttvdbseason="0" imdbid="tt0390165">
     <name>Kinnikuman: Seigi Choujin vs Senshi Choujin</name>
@@ -12169,6 +12184,9 @@
   </anime>
   <anime anidbid="4802" tvdbid="90741" defaulttvdbseason="1">
     <name>Rocket Girls</name>
+  </anime>
+  <anime anidbid="4805" tvdbid="262312" defaulttvdbseason="0" imdbid="unknown">
+    <name>Dallos Special</name>
   </anime>
   <anime anidbid="4806" tvdbid="81768" defaulttvdbseason="2">
     <name>To Heart 2 OVA</name>

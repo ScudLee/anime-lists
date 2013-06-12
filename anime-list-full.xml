@@ -20224,6 +20224,9 @@
       <mapping anidbseason="1" tvdbseason="0">;1-47;</mapping>
     </mapping-list>
   </anime>
+  <anime anidbid="7499" tvdbid="261667" defaulttvdbseason="6">
+    <name>Duel Masters Cross Shock</name>
+  </anime>
   <anime anidbid="7501" tvdbid="80397" defaulttvdbseason="2">
     <name>Barbapapa (1977)</name>
   </anime>
@@ -22076,6 +22079,9 @@
   <anime anidbid="8362" tvdbid="web" defaulttvdbseason="1">
     <name>Mahou Shoujo Sonico Magica</name>
   </anime>
+  <anime anidbid="8363" tvdbid="261667" defaulttvdbseason="7">
+    <name>Duel Masters Victory</name>
+  </anime>
   <anime anidbid="8364" tvdbid="145211" defaulttvdbseason="2">
     <name>Working'!!</name>
   </anime>
@@ -22922,6 +22928,9 @@
   </anime>
   <anime anidbid="8686" tvdbid="254654" defaulttvdbseason="1">
     <name>Papa no Iukoto o Kikinasai!</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-1;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="8689" tvdbid="248035" defaulttvdbseason="0">
     <name>Gekijouban Ao no Exorcist</name>
@@ -23912,7 +23921,7 @@
   <anime anidbid="9039" tvdbid="OVA" defaulttvdbseason="1" imdbid="tt2091238">
     <name>Bakusou Circuit Roman Twin</name>
   </anime>
-  <anime anidbid="9042" tvdbid="79151" defaulttvdbseason="4">
+  <anime anidbid="9042" tvdbid="269319" defaulttvdbseason="1">
     <name>Fate/Kaleid Liner Prisma Illya</name>
   </anime>
   <anime anidbid="9043" tvdbid="261249" defaulttvdbseason="1">
@@ -24083,6 +24092,9 @@
     <supplemental-info>
       <studio>Bones</studio>
     </supplemental-info>
+  </anime>
+  <anime anidbid="9149" tvdbid="261667" defaulttvdbseason="8">
+    <name>Duel Masters Victory V</name>
   </anime>
   <anime anidbid="9152" tvdbid="72454" defaulttvdbseason="0">
     <name>Meitantei Conan: Excalibur no Kiseki</name>
@@ -24510,6 +24522,9 @@
   <anime anidbid="9364" tvdbid="unknown" defaulttvdbseason="1">
     <name>Watashi-tachi no Kurashi to Doboku Series</name>
   </anime>
+  <anime anidbid="9365" tvdbid="269874" defaulttvdbseason="1">
+    <name>Fantasista Doll</name>
+  </anime>
   <anime anidbid="9366" tvdbid="267437" defaulttvdbseason="1">
     <name>Yuyushiki</name>
   </anime>
@@ -24543,7 +24558,7 @@
   <anime anidbid="9381" tvdbid="OVA" defaulttvdbseason="1">
     <name>Kira Kira 5th Anniversary Live Anime: Kick Start Generation</name>
   </anime>
-  <anime anidbid="9384" tvdbid="79895" defaulttvdbseason="0">
+  <anime anidbid="9384" tvdbid="79895" defaulttvdbseason="0" imdbid="tt2374144">
     <name>Gekijouban Gintama Kanketsuhen: Yorozuya yo Eien Nare</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-5;</mapping>
@@ -24566,6 +24581,9 @@
   </anime>
   <anime anidbid="9394" tvdbid="264049" defaulttvdbseason="1">
     <name>Kotoura-san</name>
+  </anime>
+  <anime anidbid="9395" tvdbid="270067" defaulttvdbseason="1">
+    <name>Choujigen Game Neptune The Animation</name>
   </anime>
   <anime anidbid="9396" tvdbid="other" defaulttvdbseason="1">
     <name>Pony Metal U-GAIM Promotion Film</name>
@@ -24623,6 +24641,9 @@
   </anime>
   <anime anidbid="9434" tvdbid="262663" defaulttvdbseason="1">
     <name>Gokicha!! Cockroach Girls</name>
+  </anime>
+  <anime anidbid="9436" tvdbid="270059" defaulttvdbseason="1">
+    <name>Brothers Conflict</name>
   </anime>
   <anime anidbid="9437" tvdbid="245821" defaulttvdbseason="3">
     <name>Cardfight!! Vanguard: Link Joker Hen</name>
@@ -24807,6 +24828,9 @@
   <anime anidbid="9508" tvdbid="75411" defaulttvdbseason="3">
     <name>Rozen Maiden (2013)</name>
   </anime>
+  <anime anidbid="9509" tvdbid="269877" defaulttvdbseason="1">
+    <name>Love Lab</name>
+  </anime>
   <anime anidbid="9510" tvdbid="267649" defaulttvdbseason="1">
     <name>Dansai Bunri no Crime Edge</name>
   </anime>
@@ -24870,6 +24894,9 @@
   <anime anidbid="9554" tvdbid="267434" defaulttvdbseason="1">
     <name>Devil Survivor 2 The Animation</name>
   </anime>
+  <anime anidbid="9555" tvdbid="270058" defaulttvdbseason="1">
+    <name>Danganronpa Kibou no Gakuen to Zetsubou no Koukousei The Animation</name>
+  </anime>
   <anime anidbid="9556" tvdbid="267432" defaulttvdbseason="1">
     <name>Suisei no Gargantia</name>
     <supplemental-info>
@@ -24881,6 +24908,9 @@
   </anime>
   <anime anidbid="9568" tvdbid="268289" defaulttvdbseason="1">
     <name>Kakumeiki Valvrave</name>
+  </anime>
+  <anime anidbid="9579" tvdbid="269872" defaulttvdbseason="1">
+    <name>Kin'iro Mosaic</name>
   </anime>
   <anime anidbid="9581" tvdbid="unknown" defaulttvdbseason="1">
     <name>Charmmy Kitty 3: Fushigi no Kuni no Charmmy</name>
@@ -24896,6 +24926,9 @@
   </anime>
   <anime anidbid="9589" tvdbid="movie" defaulttvdbseason="1" imdbid="tt2591814">
     <name>Kotonoha no Niwa</name>
+  </anime>
+  <anime anidbid="9590" tvdbid="270066" defaulttvdbseason="1">
+    <name>Makai Ouji: Devils and Realist</name>
   </anime>
   <anime anidbid="9592" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Cheorin Samchongsa</name>
@@ -24996,6 +25029,9 @@
   <anime anidbid="9674" tvdbid="253182" defaulttvdbseason="2">
     <name>DD Hokuto no Ken (2013)</name>
   </anime>
+  <anime anidbid="9676" tvdbid="78919" defaulttvdbseason="3">
+    <name>Genshiken Nidaime</name>
+  </anime>
   <anime anidbid="9678" tvdbid="197261" defaulttvdbseason="3">
     <name>Futari wa Milky Holmes</name>
   </anime>
@@ -25077,6 +25113,9 @@
   <anime anidbid="9734" tvdbid="264663" defaulttvdbseason="0">
     <name>Date a Live OAD</name>
   </anime>
+  <anime anidbid="9736" tvdbid="269681" defaulttvdbseason="1">
+    <name>Gen'ei o Kakeru Taiyou</name>
+  </anime>
   <anime anidbid="9738" tvdbid="260946" defaulttvdbseason="3">
     <name>Danball Senki Wars</name>
   </anime>
@@ -25125,6 +25164,9 @@
   <anime anidbid="9797" tvdbid="264527" defaulttvdbseason="2">
     <name>Hakkenden: Touhou Hakken Ibun 2</name>
   </anime>
+  <anime anidbid="9798" tvdbid="269682" defaulttvdbseason="1">
+    <name>Servant x Service</name>
+  </anime>
   <anime anidbid="9802" tvdbid="254652" defaulttvdbseason="3">
     <name>Recorder to Ransel Mi</name>
   </anime>
@@ -25136,5 +25178,164 @@
   </anime>
   <anime anidbid="9808" tvdbid="264050" defaulttvdbseason="2">
     <name>Sen'yuu. 2</name>
+  </anime>
+  <anime anidbid="9816" tvdbid="83588" defaulttvdbseason="2">
+    <name>Yozakura Quartet: Hana no Uta</name>
+  </anime>
+  <anime anidbid="9817" tvdbid="83588" defaulttvdbseason="0">
+    <name>Yozakura Quartet: Tsuki ni Naku</name>
+  </anime>
+  <anime anidbid="9818" tvdbid="261667" defaulttvdbseason="9">
+    <name>Duel Masters Victory V3</name>
+  </anime>
+  <anime anidbid="9825" tvdbid="195711" defaulttvdbseason="0">
+    <name>Kami nomi zo Shiru Sekai: Magical Star Kanon 100%</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-5;</mapping>
+    </mapping-list>
+  </anime>
+  <anime anidbid="9842" tvdbid="90521" defaulttvdbseason="0">
+    <name>Soukou Kihei Votoms: Woodo</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-8;</mapping>
+    </mapping-list>
+  </anime>
+  <anime anidbid="9843" tvdbid="90521" defaulttvdbseason="0">
+    <name>Soukou Kihei Votoms: Kummen</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
+  </anime>
+  <anime anidbid="9844" tvdbid="90521" defaulttvdbseason="0">
+    <name>Soukou Kihei Votoms: Quaint</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
+  </anime>
+  <anime anidbid="9845" tvdbid="90521" defaulttvdbseason="0">
+    <name>Soukou Kihei Votoms: Sunsa</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
+  </anime>
+  <anime anidbid="9846" tvdbid="90521" defaulttvdbseason="0">
+    <name>Soukou Kihei Votoms Vol. I: Stories of the "AT Votoms"</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
+  </anime>
+  <anime anidbid="9847" tvdbid="90521" defaulttvdbseason="0">
+    <name>Soukou Kihei Votoms Vol. II: Highlights from the "AT Votoms"</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
+  </anime>
+  <anime anidbid="9848" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Koikishi Purely Kiss The Animation</name>
+  </anime>
+  <anime anidbid="9849" tvdbid="219131" defaulttvdbseason="2">
+    <name>IS: Infinite Stratos 2</name>
+  </anime>
+  <anime anidbid="9851" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
+    <name>Kick no Oni (1971)</name>
+  </anime>
+  <anime anidbid="9853" tvdbid="hentai" defaulttvdbseason="1">
+    <name>M Okui Last Order</name>
+  </anime>
+  <anime anidbid="9856" tvdbid="270540" defaulttvdbseason="1">
+    <name>Ikeike! Momon-chan</name>
+  </anime>
+  <anime anidbid="9857" tvdbid="270064" defaulttvdbseason="1">
+    <name>Kitakubu Katsudou Kiroku</name>
+  </anime>
+  <anime anidbid="9858" tvdbid="270065" defaulttvdbseason="1">
+    <name>Free!</name>
+  </anime>
+  <anime anidbid="9862" tvdbid="75534" defaulttvdbseason="0">
+    <name>Street Fighter II: Yomigaeru Fujiwara-kyou - Toki o Kaketa Fighter-tachi</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
+  </anime>
+  <anime anidbid="9863" tvdbid="web" defaulttvdbseason="1">
+    <name>Soul Reviver</name>
+  </anime>
+  <anime anidbid="9867" tvdbid="146401" defaulttvdbseason="4">
+    <name>Inazuma Eleven GO: Galaxy</name>
+  </anime>
+  <anime anidbid="9868" tvdbid="hentai" defaulttvdbseason="1">
+    <name>JK to Orc Heidan: Aku Buta Oni ni Ryougyaku Sareta Seijo Gakuen</name>
+  </anime>
+  <anime anidbid="9869" tvdbid="tv special" defaulttvdbseason="1">
+    <name>Visitor</name>
+  </anime>
+  <anime anidbid="9871" tvdbid="76703" defaulttvdbseason="0">
+    <name>TV-ban Pocket Monsters Special Masara Town Hen Soushuuhen</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-0;2-0;3-0;</mapping>
+    </mapping-list>
+  </anime>
+  <anime anidbid="9873" tvdbid="262106" defaulttvdbseason="0">
+    <name>Kami-sama Hajimemashita (2013)</name>
+  </anime>
+  <anime anidbid="9874" tvdbid="261862" defaulttvdbseason="2">
+    <name>Chuunibyou demo Koi ga Shitai! 2</name>
+  </anime>
+  <anime anidbid="9877" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Joshikousei no Koshitsuki</name>
+  </anime>
+  <anime anidbid="9878" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Tenioha!</name>
+  </anime>
+  <anime anidbid="9879" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Toriko no Chigiri</name>
+  </anime>
+  <anime anidbid="9885" tvdbid="OVA" defaulttvdbseason="1" imdbid="unknown">
+    <name>Star Dust</name>
+  </anime>
+  <anime anidbid="9887" tvdbid="251982" defaulttvdbseason="0">
+    <name>Chihayafuru OAD</name>
+  </anime>
+  <anime anidbid="9889" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
+    <name>Donyatsu</name>
+  </anime>
+  <anime anidbid="9890" tvdbid="267435" defaulttvdbseason="0">
+    <name>Yahari Ore no Seishun Lovecome wa Machigatte Iru. OAD</name>
+  </anime>
+  <anime anidbid="9891" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
+    <name>Yasai no Yousei: Quiz Gekijou</name>
+  </anime>
+  <anime anidbid="9897" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Mesu Saga: Persona</name>
+  </anime>
+  <anime anidbid="9898" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Imouto Paradise! 2</name>
+  </anime>
+  <anime anidbid="9900" tvdbid="269319" defaulttvdbseason="0">
+    <name>Fate/Kaleid Liner Prisma Illya (2014)</name>
+  </anime>
+  <anime anidbid="9904" tvdbid="82788" defaulttvdbseason="0">
+    <name>Natsume Yuujinchou (2013)</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
+    </mapping-list>
+  </anime>
+  <anime anidbid="9909" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Waisetsu Missile The Animation</name>
+  </anime>
+  <anime anidbid="9910" tvdbid="unknown" defaulttvdbseason="1">
+    <name>Ikemen Kyuugo-tai Nurse Angels</name>
+  </anime>
+  <anime anidbid="9911" tvdbid="web" defaulttvdbseason="1">
+    <name>Hitotsubu ni Kawaranu Ai o Komete</name>
+  </anime>
+  <anime anidbid="9913" tvdbid="OVA" defaulttvdbseason="1">
+    <name>Hotaru Kagayaku</name>
+  </anime>
+  <anime anidbid="9914" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Shin Hitou Meguri</name>
+  </anime>
+  <anime anidbid="9917" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Zecchou Rocket</name>
   </anime>
 </anime-list>

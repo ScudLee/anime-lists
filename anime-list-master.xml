@@ -16910,8 +16910,11 @@
   <anime anidbid="6030" tvdbid="unknown" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Jim Button</name>
   </anime>
-  <anime anidbid="6031" tvdbid="80327" defaulttvdbseason="3" tmdbid="" imdbid="">
+  <anime anidbid="6031" tvdbid="80327" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Goku Sayonara Zetsubou Sensei</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-3;2-4;3-5;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="6032" tvdbid="83316" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Casshern Sins</name>
@@ -17981,7 +17984,7 @@
   <anime anidbid="6508" tvdbid="music video" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Universe</name>
   </anime>
-  <anime anidbid="6509" tvdbid="80327" defaulttvdbseason="4" tmdbid="" imdbid="">
+  <anime anidbid="6509" tvdbid="80327" defaulttvdbseason="3" tmdbid="" imdbid="">
     <name>Zan Sayonara Zetsubou Sensei</name>
   </anime>
   <anime anidbid="6512" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
@@ -20025,8 +20028,11 @@
   <anime anidbid="7213" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Kotonakare Hero Gingerman</name>
   </anime>
-  <anime anidbid="7214" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7214" tvdbid="80327" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Zan Sayonara Zetsubou Sensei Bangaichi</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-6;2-7;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="7215" tvdbid="84768" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>KissXSis (2010)</name>

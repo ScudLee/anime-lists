@@ -3952,7 +3952,7 @@
   <anime anidbid="1006" tvdbid="78783" defaulttvdbseason="1">
     <name>Taiyou no Ko Esteban</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;40-0;41-0;42-0;43-0;47-42;50-43;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;40-44;41-45;42-46;43-47;44-49;45-50;46-54;47-42;48-51;49-52;50-43;51-48;52-55;53-56;54-53;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="1007" tvdbid="unknown" defaulttvdbseason="1">
@@ -5510,7 +5510,7 @@
   <anime anidbid="1501" tvdbid="OVA" defaulttvdbseason="1">
     <name>The Hard: Bounty Hunter</name>
   </anime>
-  <anime anidbid="1503" tvdbid="unknown" defaulttvdbseason="1">
+  <anime anidbid="1503" tvdbid="270233" defaulttvdbseason="1">
     <name>Choushin Hime Dangaizer 3</name>
   </anime>
   <anime anidbid="1504" tvdbid="OVA" defaulttvdbseason="1" tmdbid="49402">
@@ -12726,8 +12726,12 @@
   <anime anidbid="4260" tvdbid="259219" defaulttvdbseason="1">
     <name>Koguma no Misha</name>
   </anime>
-  <anime anidbid="4261" tvdbid="unknown" defaulttvdbseason="1">
+  <anime anidbid="4261" tvdbid="115841" defaulttvdbseason="1">
     <name>Moero! Top Striker</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="1">;1-50;2-51;3-52;</mapping>
+    </mapping-list>
+    <before>;1-50;2-51;3-52;</before>
   </anime>
   <anime anidbid="4263" tvdbid="hentai" defaulttvdbseason="1">
     <name>Hitou Meguri The Animation</name>
@@ -14158,7 +14162,7 @@
   <anime anidbid="4844" tvdbid="241301" defaulttvdbseason="0" imdbid="unknown">
     <name>Futari wa Precure Splash Star Tick Tack Kiki Ippatsu!</name>
   </anime>
-  <anime anidbid="4845" tvdbid="unknown" defaulttvdbseason="1">
+  <anime anidbid="4845" tvdbid="258961" defaulttvdbseason="1">
     <name>Nanako SOS</name>
   </anime>
   <anime anidbid="4847" tvdbid="70350" defaulttvdbseason="0" imdbid="tt0923811">
@@ -15887,7 +15891,7 @@
     </mapping-list>
     <before>;1-13;</before>
   </anime>
-  <anime anidbid="5551" tvdbid="unknown" defaulttvdbseason="1">
+  <anime anidbid="5551" tvdbid="270183" defaulttvdbseason="1">
     <name>Amada Anime Series: Super Mario Brothers</name>
   </anime>
   <anime anidbid="5552" tvdbid="250806" defaulttvdbseason="1">
@@ -23395,6 +23399,9 @@
   <anime anidbid="8845" tvdbid="72281" defaulttvdbseason="2">
     <name>Black Jack Final</name>
   </anime>
+  <anime anidbid="8847" tvdbid="263259" defaulttvdbseason="1">
+    <name>Chousoku Henkei Gyrozetter</name>
+  </anime>
   <anime anidbid="8848" tvdbid="257557" defaulttvdbseason="1">
     <name>Sengoku Collection</name>
   </anime>
@@ -24507,6 +24514,9 @@
   <anime anidbid="9356" tvdbid="247958" defaulttvdbseason="0" imdbid="tt2323836">
     <name>Gekijouban Ano Hi Mita Hana no Namae o Bokutachi wa Mada Shiranai.</name>
   </anime>
+  <anime anidbid="9357" tvdbid="267810" defaulttvdbseason="1">
+    <name>Aku no Hana</name>
+  </anime>
   <anime anidbid="9358" tvdbid="264532" defaulttvdbseason="1">
     <name>Amnesia</name>
   </anime>
@@ -24891,6 +24901,9 @@
   <anime anidbid="9541" tvdbid="267440" defaulttvdbseason="1">
     <name>Shingeki no Kyojin</name>
   </anime>
+  <anime anidbid="9551" tvdbid="268059" defaulttvdbseason="1">
+    <name>Arata Kangatari</name>
+  </anime>
   <anime anidbid="9554" tvdbid="267434" defaulttvdbseason="1">
     <name>Devil Survivor 2 The Animation</name>
   </anime>
@@ -25019,6 +25032,9 @@
   </anime>
   <anime anidbid="9664" tvdbid="255925" defaulttvdbseason="3">
     <name>Pretty Rhythm: Rainbow Live</name>
+  </anime>
+  <anime anidbid="9666" tvdbid="267439" defaulttvdbseason="1">
+    <name>Mushibugyou</name>
   </anime>
   <anime anidbid="9668" tvdbid="hentai" defaulttvdbseason="1">
     <name>Kotowari: Kimi no Kokoro no Koboreta Kakera</name>

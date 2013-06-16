@@ -12785,7 +12785,7 @@
   <anime anidbid="5083" tvdbid="80327" defaulttvdbseason="1">
     <name>Sayonara Zetsubou Sensei</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;2-1;3-0;4-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;2-1;3-0;4-8;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="5084" tvdbid="80237" defaulttvdbseason="1">
@@ -14415,8 +14415,11 @@
   <anime anidbid="6026" tvdbid="84553" defaulttvdbseason="1">
     <name>White Album</name>
   </anime>
-  <anime anidbid="6031" tvdbid="80327" defaulttvdbseason="3">
+  <anime anidbid="6031" tvdbid="80327" defaulttvdbseason="0">
     <name>Goku Sayonara Zetsubou Sensei</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-3;2-4;3-5;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="6032" tvdbid="83316" defaulttvdbseason="1">
     <name>Casshern Sins</name>
@@ -15369,7 +15372,7 @@
   <anime anidbid="6508" tvdbid="music video" defaulttvdbseason="1">
     <name>Universe</name>
   </anime>
-  <anime anidbid="6509" tvdbid="80327" defaulttvdbseason="4">
+  <anime anidbid="6509" tvdbid="80327" defaulttvdbseason="3">
     <name>Zan Sayonara Zetsubou Sensei</name>
   </anime>
   <anime anidbid="6512" tvdbid="hentai" defaulttvdbseason="1">
@@ -16998,6 +17001,12 @@
   </anime>
   <anime anidbid="7209" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Yume Miru Kikai</name>
+  </anime>
+  <anime anidbid="7214" tvdbid="80327" defaulttvdbseason="0">
+    <name>Zan Sayonara Zetsubou Sensei Bangaichi</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-6;2-7;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="7215" tvdbid="84768" defaulttvdbseason="1">
     <name>KissXSis (2010)</name>

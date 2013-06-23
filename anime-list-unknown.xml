@@ -2678,9 +2678,6 @@
   <anime anidbid="7085" tvdbid="unknown" defaulttvdbseason="0">
     <name>Captain (1983)</name>
   </anime>
-  <anime anidbid="7092" tvdbid="unknown" defaulttvdbseason="0" imdbid="tt1511371">
-    <name>Gekijouban Penguin no Mondai: Shiawase no Aoi Tori de Go-Pen-nasai</name>
-  </anime>
   <anime anidbid="7094" tvdbid="unknown" defaulttvdbseason="1">
     <name>Otokogi</name>
   </anime>
@@ -2747,6 +2744,9 @@
   <anime anidbid="7390" tvdbid="unknown" defaulttvdbseason="1" imdbid="unknown">
     <name>Yasai no Yousei: N.Y. Salad The Movie</name>
   </anime>
+  <anime anidbid="7415" tvdbid="unknown" defaulttvdbseason="1">
+    <name>Hanakappa</name>
+  </anime>
   <anime anidbid="7455" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
     <name>Gegege no Kitarou: Kitarou no Yuurei Densha</name>
   </anime>
@@ -2774,6 +2774,9 @@
   <anime anidbid="7546" tvdbid="unknown" defaulttvdbseason="2">
     <name>Gokujou!! Mecha Mote Iinchou Second Collection</name>
   </anime>
+  <anime anidbid="7567" tvdbid="unknown" defaulttvdbseason="1">
+    <name>SOS TV Walpurgis Night Fever</name>
+  </anime>
   <anime anidbid="7573" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
     <name>Obake no Q-Tarou: Tobidase! Bake Bake Daisakusen</name>
   </anime>
@@ -2785,6 +2788,12 @@
   </anime>
   <anime anidbid="7576" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
     <name>Pro Golfer Saru: Kouga Hikyou! Kage no Ninpou Golfer Sanjou!</name>
+  </anime>
+  <anime anidbid="7580" tvdbid="unknown" defaulttvdbseason="1">
+    <name>Kouha Ginjirou</name>
+  </anime>
+  <anime anidbid="7601" tvdbid="unknown" defaulttvdbseason="1">
+    <name>Bousou Sengokushi</name>
   </anime>
   <anime anidbid="7611" tvdbid="unknown" defaulttvdbseason="1">
     <name>MonHun Nikki Girigiri Airu Mura: Airu Kiki Ippatsu</name>
@@ -2863,6 +2872,9 @@
   </anime>
   <anime anidbid="7706" tvdbid="unknown" defaulttvdbseason="1" imdbid="unknown">
     <name>Cynical Hysterie Hour</name>
+  </anime>
+  <anime anidbid="7707" tvdbid="unknown" defaulttvdbseason="1">
+    <name>Yokohama Meibutsu Otoko Katayama Gumi!</name>
   </anime>
   <anime anidbid="7710" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
     <name>Huckleberry no Bouken (1991)</name>
@@ -3188,7 +3200,7 @@
   <anime anidbid="9027" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
     <name>Pa-Pa-Pa the Movie: Paaman - Tako de Pon! Ashi wa Pon!</name>
   </anime>
-  <anime anidbid="9028" tvdbid="unknown" defaulttvdbseason="2">
+  <anime anidbid="9028" tvdbid="unknown" defaulttvdbseason="3">
     <name>Shimajirou Hesoka</name>
   </anime>
   <anime anidbid="9036" tvdbid="unknown" defaulttvdbseason="1">
@@ -3199,6 +3211,9 @@
   </anime>
   <anime anidbid="9100" tvdbid="unknown" defaulttvdbseason="1">
     <name>Zumomo to Nupepe</name>
+  </anime>
+  <anime anidbid="9131" tvdbid="unknown" defaulttvdbseason="4">
+    <name>Shimajirou no Wow!</name>
   </anime>
   <anime anidbid="9275" tvdbid="unknown" defaulttvdbseason="1">
     <name>Surprise 4 U.</name>
@@ -3242,6 +3257,9 @@
   <anime anidbid="9463" tvdbid="unknown" defaulttvdbseason="1">
     <name>Elecking the Animation</name>
   </anime>
+  <anime anidbid="9478" tvdbid="unknown" defaulttvdbseason="1">
+    <name>Kuro to Kin no Hirakanai Kagi.</name>
+  </anime>
   <anime anidbid="9480" tvdbid="unknown" defaulttvdbseason="1">
     <name>Miracle Psychicer Seizan</name>
   </anime>
@@ -3250,6 +3268,9 @@
   </anime>
   <anime anidbid="9502" tvdbid="unknown" defaulttvdbseason="1">
     <name>Pyuu to Fuku! Jaguar</name>
+  </anime>
+  <anime anidbid="9527" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
+    <name>Eiga Hana Kappa Hana-sake! Pakkaan Chou no Kuni no Daibouken</name>
   </anime>
   <anime anidbid="9539" tvdbid="unknown" defaulttvdbseason="1">
     <name>Monchicchiisu</name>
@@ -3268,6 +3289,9 @@
   </anime>
   <anime anidbid="9680" tvdbid="unknown" defaulttvdbseason="3">
     <name>Ocha-ken: Ryokutto Monogatari</name>
+  </anime>
+  <anime anidbid="9707" tvdbid="unknown" defaulttvdbseason="1">
+    <name>2020 Nyeon Ujuui Wonder Kiddy</name>
   </anime>
   <anime anidbid="9740" tvdbid="unknown" defaulttvdbseason="1">
     <name>Naked Wolves</name>

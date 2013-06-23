@@ -891,14 +891,14 @@
     </mapping-list>
   </anime>
   <anime anidbid="207" tvdbid="152531" defaulttvdbseason="1">
-    <name>Ijigen no Sekai El Hazard</name>
+    <name>Ijigen no Sekai El-Hazard</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="1">;1-13;</mapping>
     </mapping-list>
     <before>;1-13;</before>
   </anime>
   <anime anidbid="208" tvdbid="255580" defaulttvdbseason="1">
-    <name>Shinpi no Sekai El Hazard</name>
+    <name>El-Hazard: The Magnificent World</name>
   </anime>
   <anime anidbid="209" tvdbid="82970" defaulttvdbseason="1">
     <name>Pet Shop of Horrors</name>
@@ -1314,7 +1314,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="305" tvdbid="255580" defaulttvdbseason="2">
-    <name>El Hazard: The Magnificent World 2</name>
+    <name>El-Hazard: The Magnificent World 2</name>
   </anime>
   <anime anidbid="306" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0104652">
     <name>Kurenai no Buta</name>
@@ -2331,7 +2331,7 @@
     <name>Ou Dorobou Jing</name>
   </anime>
   <anime anidbid="556" tvdbid="79241" defaulttvdbseason="1">
-    <name>El Hazard: The Wanderers</name>
+    <name>Shinpi no Sekai El-Hazard TV</name>
   </anime>
   <anime anidbid="558" tvdbid="72844" defaulttvdbseason="1">
     <name>Kishin Douji Zenki</name>
@@ -9131,7 +9131,7 @@
     <name>Moonlight Sonata</name>
   </anime>
   <anime anidbid="2672" tvdbid="81094" defaulttvdbseason="1">
-    <name>Black Jack Special: Inochi o Meguru 4tsu no Kiseki</name>
+    <name>Black Jack Special: Inochi o Meguru 4-tsu no Kiseki</name>
   </anime>
   <anime anidbid="2673" tvdbid="72025" defaulttvdbseason="4">
     <name>Seikai no Senki III</name>
@@ -15729,7 +15729,7 @@
     <name>Tensai Bakabon</name>
   </anime>
   <anime anidbid="5486" tvdbid="tv special" defaulttvdbseason="1">
-    <name>Mittsu no Hanashi</name>
+    <name>Atarashii Douga: 3-tsu no Hanashi</name>
   </anime>
   <anime anidbid="5487" tvdbid="unknown" defaulttvdbseason="1">
     <name>Osomatsu-kun</name>
@@ -22874,7 +22874,7 @@
     <name>Touhou PVD</name>
   </anime>
   <anime anidbid="8665" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
-    <name>Tobe! Pegasus Kokoro no Goal ni Shoot</name>
+    <name>Tobe! Pegasus</name>
   </anime>
   <anime anidbid="8666" tvdbid="OVA" defaulttvdbseason="1">
     <name>Nyancos: Hello! Our Brilliant Future</name>
@@ -24068,7 +24068,7 @@
     <name>Robotics;Notes</name>
   </anime>
   <anime anidbid="9129" tvdbid="220571" defaulttvdbseason="0">
-    <name>Kore wa Zombie Desuka? (2012)</name>
+    <name>Kore wa Zombie Desuka? Of the Dead (2012)</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
     </mapping-list>
@@ -24341,7 +24341,7 @@
     <name>Maji de Otaku na English! Ribbon-chan: Eigo de Tatakau Mahou Shoujo</name>
   </anime>
   <anime anidbid="9283" tvdbid="249865" defaulttvdbseason="0">
-    <name>Idolmaster (2012)</name>
+    <name>The Idolmaster: Shiny Festa</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-0;2-0;3-0;</mapping>
     </mapping-list>
@@ -25049,7 +25049,7 @@
     <name>Kotowari: Kimi no Kokoro no Koboreta Kakera</name>
   </anime>
   <anime anidbid="9672" tvdbid="259635" defaulttvdbseason="2">
-    <name>Kingdom 2</name>
+    <name>Kingdom (2013)</name>
   </anime>
   <anime anidbid="9674" tvdbid="253182" defaulttvdbseason="2">
     <name>DD Hokuto no Ken (2013)</name>
@@ -25088,7 +25088,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="9690" tvdbid="266581" defaulttvdbseason="0">
-    <name>Eiga DokiDoki! Precure</name>
+    <name>Eiga DokiDoki! Precure: Mana Kekkon!!? Mirai ni Tsunagu Kibou no Dress</name>
   </anime>
   <anime anidbid="9693" tvdbid="268060" defaulttvdbseason="1">
     <name>Cyclops Shoujo Saipuu</name>

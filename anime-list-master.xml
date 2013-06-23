@@ -891,14 +891,14 @@
     </mapping-list>
   </anime>
   <anime anidbid="207" tvdbid="152531" defaulttvdbseason="1" tmdbid="" imdbid="">
-    <name>Ijigen no Sekai El Hazard</name>
+    <name>Ijigen no Sekai El-Hazard</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="1">;1-13;</mapping>
     </mapping-list>
     <before>;1-13;</before>
   </anime>
   <anime anidbid="208" tvdbid="255580" defaulttvdbseason="1" tmdbid="" imdbid="">
-    <name>Shinpi no Sekai El Hazard</name>
+    <name>El-Hazard: The Magnificent World</name>
   </anime>
   <anime anidbid="209" tvdbid="82970" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Pet Shop of Horrors</name>
@@ -1314,7 +1314,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="305" tvdbid="255580" defaulttvdbseason="2" tmdbid="" imdbid="">
-    <name>El Hazard: The Magnificent World 2</name>
+    <name>El-Hazard: The Magnificent World 2</name>
   </anime>
   <anime anidbid="306" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="tt0104652">
     <name>Kurenai no Buta</name>
@@ -2331,7 +2331,7 @@
     <name>Ou Dorobou Jing</name>
   </anime>
   <anime anidbid="556" tvdbid="79241" defaulttvdbseason="1" tmdbid="" imdbid="">
-    <name>El Hazard: The Wanderers</name>
+    <name>Shinpi no Sekai El-Hazard TV</name>
   </anime>
   <anime anidbid="557" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Tottoko Hamtarou</name>
@@ -9197,7 +9197,7 @@
     <name>Moonlight Sonata</name>
   </anime>
   <anime anidbid="2672" tvdbid="81094" defaulttvdbseason="1" tmdbid="" imdbid="">
-    <name>Black Jack Special: Inochi o Meguru 4tsu no Kiseki</name>
+    <name>Black Jack Special: Inochi o Meguru 4-tsu no Kiseki</name>
   </anime>
   <anime anidbid="2673" tvdbid="72025" defaulttvdbseason="4" tmdbid="" imdbid="">
     <name>Seikai no Senki III</name>
@@ -15852,7 +15852,7 @@
     <name>Tensai Bakabon</name>
   </anime>
   <anime anidbid="5486" tvdbid="tv special" defaulttvdbseason="1" tmdbid="" imdbid="">
-    <name>Mittsu no Hanashi</name>
+    <name>Atarashii Douga: 3-tsu no Hanashi</name>
   </anime>
   <anime anidbid="5487" tvdbid="unknown" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Osomatsu-kun</name>
@@ -24230,7 +24230,7 @@
     <name>Touhou PVD</name>
   </anime>
   <anime anidbid="8665" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="unknown">
-    <name>Tobe! Pegasus Kokoro no Goal ni Shoot</name>
+    <name>Tobe! Pegasus</name>
   </anime>
   <anime anidbid="8666" tvdbid="OVA" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Nyancos: Hello! Our Brilliant Future</name>
@@ -25514,7 +25514,7 @@
     <name>Robotics;Notes</name>
   </anime>
   <anime anidbid="9129" tvdbid="220571" defaulttvdbseason="0" tmdbid="" imdbid="">
-    <name>Kore wa Zombie Desuka? (2012)</name>
+    <name>Kore wa Zombie Desuka? Of the Dead (2012)</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
     </mapping-list>
@@ -25910,7 +25910,7 @@
     <name>Dangerous Jiisan Ja</name>
   </anime>
   <anime anidbid="9283" tvdbid="249865" defaulttvdbseason="0" tmdbid="" imdbid="">
-    <name>Idolmaster (2012)</name>
+    <name>The Idolmaster: Shiny Festa</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-0;2-0;3-0;</mapping>
     </mapping-list>
@@ -26945,7 +26945,7 @@
     <name>Gekijouban Toriko: Bishokushin no Special Menu</name>
   </anime>
   <anime anidbid="9672" tvdbid="259635" defaulttvdbseason="2" tmdbid="" imdbid="">
-    <name>Kingdom 2</name>
+    <name>Kingdom (2013)</name>
   </anime>
   <anime anidbid="9674" tvdbid="253182" defaulttvdbseason="2" tmdbid="" imdbid="">
     <name>DD Hokuto no Ken (2013)</name>
@@ -26990,7 +26990,7 @@
     <name>Tenpou Suikoden Neo</name>
   </anime>
   <anime anidbid="9690" tvdbid="266581" defaulttvdbseason="0" tmdbid="" imdbid="">
-    <name>Eiga DokiDoki! Precure</name>
+    <name>Eiga DokiDoki! Precure: Mana Kekkon!!? Mirai ni Tsunagu Kibou no Dress</name>
   </anime>
   <anime anidbid="9693" tvdbid="268060" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Cyclops Shoujo Saipuu</name>
@@ -27410,7 +27410,7 @@
     <name>Free!</name>
   </anime>
   <anime anidbid="9861" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Lupin VIII</name>
+    <name>Lupin Hassei</name>
   </anime>
   <anime anidbid="9862" tvdbid="75534" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Street Fighter II: Yomigaeru Fujiwara-kyou - Toki o Kaketa Fighter-tachi</name>
@@ -27422,10 +27422,10 @@
     <name>Soul Reviver</name>
   </anime>
   <anime anidbid="9865" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Noobow - Kieta Medal</name>
+    <name>Noobow: Kieta Medal</name>
   </anime>
   <anime anidbid="9866" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Noobow Mini</name>
+    <name>Noobow: Mini Theater</name>
   </anime>
   <anime anidbid="9867" tvdbid="146401" defaulttvdbseason="4" tmdbid="" imdbid="">
     <name>Inazuma Eleven GO: Galaxy</name>
@@ -27542,7 +27542,7 @@
     <name>Fate/Zero Cafe</name>
   </anime>
   <anime anidbid="9908" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Joshikousei nobunagachan!!</name>
+    <name>Joshikousei Nobunaga-chan!!</name>
   </anime>
   <anime anidbid="9909" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Waisetsu Missile The Animation</name>
@@ -27569,6 +27569,66 @@
     <name>Zecchou Rocket</name>
   </anime>
   <anime anidbid="9918" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Taka no Tsume Go: Yoshida, Himitsukessha Yamerutteyo</name>
+    <name>Taka no Tsume Go: Yoshida, Himitsukessha Yamerutteyo.</name>
+  </anime>
+  <anime anidbid="9919" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Takanashi Rikka Kai: Gekijouban Chuunibyou demo Koi ga Shitai!</name>
+  </anime>
+  <anime anidbid="9920" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Gekijouban "Kara no Kyoukai"</name>
+  </anime>
+  <anime anidbid="9921" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Giovanni no Shima</name>
+  </anime>
+  <anime anidbid="9922" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Sakura Trick</name>
+  </anime>
+  <anime anidbid="9923" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Future Card Buddyfight</name>
+  </anime>
+  <anime anidbid="9924" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Sanjougattai Transformers Go!</name>
+  </anime>
+  <anime anidbid="9925" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Noragami</name>
+  </anime>
+  <anime anidbid="9926" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Mewtwo: Kakusei e no Prologue</name>
+  </anime>
+  <anime anidbid="9927" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Love Live! 2</name>
+  </anime>
+  <anime anidbid="9928" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Mogura no Adventure</name>
+  </anime>
+  <anime anidbid="9929" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Rin x Sen + Ran-&amp;gt;Sem: Cross Mix</name>
+  </anime>
+  <anime anidbid="9930" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Youkai Watch</name>
+  </anime>
+  <anime anidbid="9931" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Walkure Romanze</name>
+  </anime>
+  <anime anidbid="9932" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Yuuto-kun ga Iku</name>
+  </anime>
+  <anime anidbid="9933" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>PeroPero Teacher</name>
+  </anime>
+  <anime anidbid="9934" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Genshiken Nidaime no Roku</name>
+  </anime>
+  <anime anidbid="9935" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Date a Live 2</name>
+  </anime>
+  <anime anidbid="9936" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Go! Go! Kadendanshi</name>
+  </anime>
+  <anime anidbid="9937" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Lupin Ikka Seizoroi</name>
+  </anime>
+  <anime anidbid="9938" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Sore Ike! Anpanman: Anpanman to Oyakusoku</name>
   </anime>
 </anime-list>

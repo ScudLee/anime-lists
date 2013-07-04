@@ -2248,10 +2248,26 @@
     </titles>
   </set>
   <set>
+    <anime anidbid="9125">Hi no Youjin</anime>
+    <anime anidbid="9569">Tsukumo</anime>
+    <anime anidbid="9732">Buki yo Saraba</anime>
+    <anime anidbid="9733">Gambo</anime>
+    <titles>
+      <title type="main" xml:lang="x-jat">Short Peace Collection</title>
+    </titles>
+  </set>
+  <set>
     <anime anidbid="9240">Persona 4 the Animation: The Factor of Hope</anime>
     <anime anidbid="9299">Persona 3 the Movie</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Persona Collection</title>
+    </titles>
+  </set>
+  <set>
+    <anime anidbid="9946">Zukkoke Sanningumi: Zukkoke Jikuu Bouken</anime>
+    <anime anidbid="9959">Zukkoke Sanningumi: Kusunoki Yashiki no Guruguru-sama</anime>
+    <titles>
+      <title type="main" xml:lang="x-jat">Zukkoke Sanningumi Collection</title>
     </titles>
   </set>
 </anime-set-list>

@@ -6154,7 +6154,7 @@
   <anime anidbid="1699" tvdbid="unknown" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Get Ride! AMDriver</name>
   </anime>
-  <anime anidbid="1700" tvdbid="167921" defaulttvdbseason="0" tmdbid="" imdbid="unknown">
+  <anime anidbid="1700" tvdbid="unknown" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Sore Ike! Zukkoke Sanningumi</name>
   </anime>
   <anime anidbid="1703" tvdbid="157211" defaulttvdbseason="1" tmdbid="" imdbid="">
@@ -25510,7 +25510,7 @@
   <anime anidbid="9123" tvdbid="254652" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Recorder to Ransel</name>
   </anime>
-  <anime anidbid="9125" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="tt1215078">
+  <anime anidbid="9125" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="tt2508466">
     <name>Hi no Youjin</name>
   </anime>
   <anime anidbid="9126" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
@@ -26113,7 +26113,7 @@
   <anime anidbid="9348" tvdbid="263310" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Aikatsu!</name>
   </anime>
-  <anime anidbid="9349" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="9349" tvdbid="OVA" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Tabisuru Nuigurumi: Traveling "Daru"</name>
   </anime>
   <anime anidbid="9350" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
@@ -26125,7 +26125,7 @@
   <anime anidbid="9352" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Nazotoki-hime wa Meitantei</name>
   </anime>
-  <anime anidbid="9353" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="9353" tvdbid="OVA" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Rescue Me!</name>
   </anime>
   <anime anidbid="9354" tvdbid="web" defaulttvdbseason="1" tmdbid="" imdbid="">
@@ -26206,7 +26206,7 @@
   <anime anidbid="9385" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Oyakodon: Oppai Tokumori Bonyuu Tsuyudaku de</name>
   </anime>
-  <anime anidbid="9386" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="9386" tvdbid="263851" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Wooser no Sono Higurashi</name>
   </anime>
   <anime anidbid="9387" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
@@ -26221,7 +26221,7 @@
   <anime anidbid="9391" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="unknown">
     <name>Chuuzumou</name>
   </anime>
-  <anime anidbid="9392" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="9392" tvdbid="OVA" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Yumekuri</name>
   </anime>
   <anime anidbid="9393" tvdbid="264050" defaulttvdbseason="1" tmdbid="" imdbid="">
@@ -26257,7 +26257,7 @@
   <anime anidbid="9403" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Kono Danshi, Ningyo Hiroimashita.</name>
   </anime>
-  <anime anidbid="9405" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="9405" tvdbid="271156" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Beast Saga</name>
   </anime>
   <anime anidbid="9406" tvdbid="252474" defaulttvdbseason="2" tmdbid="" imdbid="">
@@ -26911,8 +26911,11 @@
   <anime anidbid="9652" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Hokseong Robot Sseondeo A</name>
   </anime>
-  <anime anidbid="9653" tvdbid="76703" defaulttvdbseason="16" tmdbid="" imdbid="">
+  <anime anidbid="9653" tvdbid="76703" defaulttvdbseason="15" tmdbid="" imdbid="">
     <name>Pocket Monsters: Best Wishes! Season 2 - Episode N</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="15">;1-25;2-26;3-27;4-28;5-29;6-30;7-31;8-32;9-33;10-34;11-35;12-36;13-37;14-38;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="9654" tvdbid="266840" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Chokkyuu Hyoudai Robot Anime: Straight Title</name>
@@ -26923,8 +26926,12 @@
   <anime anidbid="9657" tvdbid="257951" defaulttvdbseason="2" tmdbid="" imdbid="">
     <name>Gakkatsu! (2013)</name>
   </anime>
-  <anime anidbid="9658" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="9658" tvdbid="73749" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Koukaku Kidoutai Arise: Ghost in the Shell</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-60;2-61;3-62;4-63;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="9659" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Yuusha ni Nare Nakatta Ore wa Shibushibu Shuushoku o Ketsui Shimashita.</name>
@@ -27181,8 +27188,11 @@
   <anime anidbid="9763" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Mikosuri Han-Gekijou</name>
   </anime>
-  <anime anidbid="9764" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="9764" tvdbid="76703" defaulttvdbseason="15" tmdbid="" imdbid="">
     <name>Pocket Monsters: Best Wishes! Season 2 - Decolora Adventure</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="15">;1-39;2-40;3-41;4-42;5-43;6-44;7-45;8-46;9-47;10-48;11-49;12-50;13-51;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="9765" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Daitoshokan no Hitsujikai</name>
@@ -27664,37 +27674,40 @@
   <anime anidbid="9939" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>1992</name>
   </anime>
-  <anime anidbid="9940" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="9940" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Junjou Shoujo Et Cetera</name>
   </anime>
-  <anime anidbid="9941" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="9941" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Hontou ni Atta Hitozuma Furin Kokuhaku</name>
   </anime>
-  <anime anidbid="9942" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="9942" tvdbid="261755" defaulttvdbseason="2" tmdbid="" imdbid="">
     <name>Maji de Otaku na English! Ribbon-chan: Eigo de Tatakau Mahou Shoujo The TV</name>
   </anime>
   <anime anidbid="9943" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Nyuru Nyuru!! Kakusen-kun</name>
   </anime>
-  <anime anidbid="9944" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="9944" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Fuurinkanzan</name>
   </anime>
-  <anime anidbid="9945" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="9945" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Seikou! Lose A Virgin For The First Term</name>
   </anime>
-  <anime anidbid="9946" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="9946" tvdbid="unknown" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Zukkoke Sanningumi: Zukkoke Jikuu Bouken</name>
   </anime>
   <anime anidbid="9948" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Meganebu!</name>
   </anime>
-  <anime anidbid="9949" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="9949" tvdbid="268289" defaulttvdbseason="2" tmdbid="" imdbid="">
     <name>Kakumeiki Valvrave 2</name>
   </anime>
-  <anime anidbid="9950" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="9950" tvdbid="247788" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Eiga Sekaiichi Hatsukoi</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
-  <anime anidbid="9951" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="9951" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Oyako Rankan The Animation</name>
   </anime>
   <anime anidbid="9954" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
@@ -27703,13 +27716,13 @@
   <anime anidbid="9955" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Hoozuki no Reitetsu</name>
   </anime>
-  <anime anidbid="9956" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="9956" tvdbid="76703" defaulttvdbseason="16" tmdbid="" imdbid="">
     <name>Pocket Monsters XY</name>
   </anime>
   <anime anidbid="9958" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Baka Mizeraburu</name>
   </anime>
-  <anime anidbid="9959" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="9959" tvdbid="unknown" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Zukkoke Sanningumi: Kusunoki Yashiki no Guruguru-sama</name>
   </anime>
   <anime anidbid="9960" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">

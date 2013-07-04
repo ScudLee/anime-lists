@@ -264,6 +264,9 @@
   <anime anidbid="1699" tvdbid="unknown" defaulttvdbseason="1">
     <name>Get Ride! AMDriver</name>
   </anime>
+  <anime anidbid="1700" tvdbid="unknown" defaulttvdbseason="1">
+    <name>Sore Ike! Zukkoke Sanningumi</name>
+  </anime>
   <anime anidbid="1707" tvdbid="unknown" defaulttvdbseason="1">
     <name>Yuusha Exkaiser</name>
   </anime>
@@ -3307,5 +3310,11 @@
   </anime>
   <anime anidbid="9910" tvdbid="unknown" defaulttvdbseason="1">
     <name>Ikemen Kyuugo-tai Nurse Angels</name>
+  </anime>
+  <anime anidbid="9946" tvdbid="unknown" defaulttvdbseason="0">
+    <name>Zukkoke Sanningumi: Zukkoke Jikuu Bouken</name>
+  </anime>
+  <anime anidbid="9959" tvdbid="unknown" defaulttvdbseason="0">
+    <name>Zukkoke Sanningumi: Kusunoki Yashiki no Guruguru-sama</name>
   </anime>
 </anime-list>

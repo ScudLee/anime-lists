@@ -1404,7 +1404,7 @@
       <studio>Gonzo</studio>
     </supplemental-info>
   </anime>
-  <anime anidbid="362" tvdbid="104961" defaulttvdbseason="1">
+  <anime anidbid="362" tvdbid="72848" defaulttvdbseason="1">
     <name>The Hakkenden</name>
     <supplemental-info>
       <studio>AIC</studio>
@@ -1551,7 +1551,7 @@
       <mapping anidbseason="0" tvdbseason="0">;1-17;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="386" tvdbid="79156" defaulttvdbseason="1">
+  <anime anidbid="386" tvdbid="79156" defaulttvdbseason="a">
     <name>Hokuto no Ken</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;</mapping>
@@ -8983,6 +8983,14 @@
   <anime anidbid="2705" tvdbid="unknown" defaulttvdbseason="1">
     <name>Hey! Bumboo</name>
   </anime>
+  <anime anidbid="2706" tvdbid="80357" defaulttvdbseason="1">
+    <name>Anime 80 Nichikan Sekai Isshuu</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="1">;14-15;15-16;16-17;17-19;18-20;19-23;20-24;21-25;22-26;</mapping>
+      <mapping anidbseason="0" tvdbseason="1">;1-14;2-18;3-21;4-22;</mapping>
+    </mapping-list>
+    <before>;1-14;2-17;3-19;4-19;</before>
+  </anime>
   <anime anidbid="2707" tvdbid="74972" defaulttvdbseason="1">
     <name>Wanwan Sanjuushi</name>
   </anime>
@@ -10462,11 +10470,8 @@
   <anime anidbid="3352" tvdbid="261465" defaulttvdbseason="1">
     <name>Natsuki Crisis</name>
   </anime>
-  <anime anidbid="3353" tvdbid="104961" defaulttvdbseason="1">
+  <anime anidbid="3353" tvdbid="72848" defaulttvdbseason="2">
     <name>The Hakkenden: Shin Shou</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="1">;1-7;2-8;3-9;4-10;5-11;6-12;7-13;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="3354" tvdbid="OVA" defaulttvdbseason="1" imdbid="tt1977699">
     <name>Ai Monogatari: 9 Love Stories</name>
@@ -20672,6 +20677,9 @@
   </anime>
   <anime anidbid="7761" tvdbid="167921" defaulttvdbseason="0" imdbid="unknown">
     <name>Sore Ike! Anpanman: Yuuki to Honoo to Christmas</name>
+  </anime>
+  <anime anidbid="7763" tvdbid="73011" defaulttvdbseason="1">
+    <name>IGPX: Immortal Grand Prix</name>
   </anime>
   <anime anidbid="7764" tvdbid="75141" defaulttvdbseason="0" imdbid="unknown">
     <name>The Doraemons: Okashi na Okashi na Okashinana?</name>

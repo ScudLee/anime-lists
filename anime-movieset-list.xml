@@ -1008,6 +1008,7 @@
     <anime anidbid="7770">Eiga Doraemon: Shin Nobita to Tetsujin Heidan - Habatake Tenshi-tachi</anime>
     <anime anidbid="8542">Eiga Doraemon: Nobita to Kiseki no Shima - Animal Adventure</anime>
     <anime anidbid="9316">Eiga Doraemon: Nobita no Himitsu Dougu Museum</anime>
+    <anime anidbid="9975">Eiga Doraemon: Shin Nobita no Daimakyo - Peko to 5-nin no Tankentai</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Doraemon Collection</title>
     </titles>
@@ -1345,6 +1346,7 @@
     <anime anidbid="6085">Kiku-chan to Ookami</anime>
     <anime anidbid="6200">Umigame to Shounen</anime>
     <anime anidbid="6201">Tako ni Natta Okaa-san</anime>
+    <anime anidbid="6760">Yakeato no, Okashi no Ki</anime>
     <anime anidbid="6761">Chiisai Sensuikan ni Koi o Shita Dekasugiru Kujira no Hanashi</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Sensou Douwa Collection</title>
@@ -1496,6 +1498,7 @@
     <anime anidbid="5997">Kaiketsu Zorori: Mahou Tsukai no Deshi / Dai Kaizoku no Takara Sagashi</anime>
     <anime anidbid="8724">Majime ni Fumajime Kaiketsu Zorori Uchuu Tanken Taisakusen</anime>
     <anime anidbid="9194">Eiga Kaiketsu Zorori: Da-da-da-daibouken!</anime>
+    <anime anidbid="9970">Eiga Kaiketsu Zorori: Mamoru ze! Kyouryuu no Tamago</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Kaiketsu Zorori Collection</title>
     </titles>
@@ -2021,6 +2024,15 @@
     <anime anidbid="9363">Little Polar Bear: Shirokuma-kun, Doko e?</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Little Polar Bear Collection</title>
+    </titles>
+  </set>
+  <set>
+    <anime anidbid="7349">Kobo-chan Special: Aki ga Ippai</anime>
+    <anime anidbid="7350">Kobo-chan Special: Yume Ippai!!</anime>
+    <anime anidbid="7351">Kobo-chan Special: Matsuri ga Ippai!</anime>
+    <anime anidbid="7352">Kobo-chan Special: Yakusoku no Magic Day</anime>
+    <titles>
+      <title type="main" xml:lang="x-jat">Kobo-chan Collection</title>
     </titles>
   </set>
   <set>

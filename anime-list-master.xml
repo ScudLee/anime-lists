@@ -10731,8 +10731,12 @@
   <anime anidbid="3417" tvdbid="unknown" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Tanin no Kankei</name>
   </anime>
-  <anime anidbid="3419" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="3419" tvdbid="72975" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Pocket Monsters Side Stories</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="1">;1-4;2-5;3-6;4-7;5-8;6-9;7-10;8-11;9-12;10-13;11-14;12-15;13-16;</mapping>
+      <mapping anidbseason="1" tvdbseason="2">;14-2;15-3;16-4;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="3420" tvdbid="71863" defaulttvdbseason="0" tmdbid="" imdbid="tt0834586">
     <name>Lupin Sansei: Tenshi no Tactics - Yume no Kakera wa Koroshi no Kaori</name>
@@ -18244,7 +18248,7 @@
   <anime anidbid="6716" tvdbid="71361" defaulttvdbseason="8" tmdbid="" imdbid="">
     <name>Inuyasha Kanketsuhen</name>
   </anime>
-  <anime anidbid="6717" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="6717" tvdbid="186071" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Ontama!</name>
   </anime>
   <anime anidbid="6718" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="tt1092351">
@@ -18331,14 +18335,17 @@
   <anime anidbid="6744" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="tt1024783">
     <name>Shoujouji no Tanuki-bayashi</name>
   </anime>
-  <anime anidbid="6746" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="6746" tvdbid="unknown" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Kupuu!! Mamegoma!</name>
   </anime>
   <anime anidbid="6747" tvdbid="132961" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Baka to Test to Shoukanjuu</name>
   </anime>
-  <anime anidbid="6748" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="6748" tvdbid="125441" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Halo Legends</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="1">;1-7;2-3;3-8;4-1;5-2;6-4;7-6;8-5;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="6749" tvdbid="unknown" defaulttvdbseason="0" tmdbid="" imdbid="unknown">
     <name>Ultraman USA</name>
@@ -18352,7 +18359,7 @@
   <anime anidbid="6753" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="tt0446958">
     <name>Hu die meng Liang Shanbo yu Zhu Yingtai</name>
   </anime>
-  <anime anidbid="6754" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="6754" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Oni Chichi</name>
   </anime>
   <anime anidbid="6755" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="tt0435933">
@@ -18365,16 +18372,16 @@
       <mapping anidbseason="1" tvdbseason="0">;1-11;2-13;3-15;4-17;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="6758" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="6758" tvdbid="unknown" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>What's Michael? (1988)</name>
   </anime>
-  <anime anidbid="6759" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="6759" tvdbid="tv special" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Aoi Hitomi no Onna no Ko no Ohanashi</name>
   </anime>
-  <anime anidbid="6760" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="6760" tvdbid="tv special" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Yakeato no, Okashi no Ki</name>
   </anime>
-  <anime anidbid="6761" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="6761" tvdbid="tv special" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Chiisai Sensuikan ni Koi o Shita Dekasugiru Kujira no Hanashi</name>
   </anime>
   <anime anidbid="6762" tvdbid="OVA" defaulttvdbseason="1" tmdbid="63233" imdbid="">
@@ -18386,7 +18393,7 @@
   <anime anidbid="6763" tvdbid="88721" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Higashi no Eden: Air Communication</name>
   </anime>
-  <anime anidbid="6765" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="6765" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Kansen: In'yoku no Rensa</name>
   </anime>
   <anime anidbid="6766" tvdbid="movie" defaulttvdbseason="1" tmdbid="60705" imdbid="">
@@ -18401,10 +18408,10 @@
   <anime anidbid="6769" tvdbid="87981" defaulttvdbseason="2" tmdbid="" imdbid="">
     <name>Asura Cryin' 2</name>
   </anime>
-  <anime anidbid="6770" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="6770" tvdbid="unknown" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Souya Monogatari</name>
   </anime>
-  <anime anidbid="6771" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="6771" tvdbid="263330" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Uchurei!</name>
   </anime>
   <anime anidbid="6772" tvdbid="112521" defaulttvdbseason="1" tmdbid="" imdbid="">
@@ -19281,13 +19288,16 @@
   <anime anidbid="7070" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Natsumushi The Animation</name>
   </anime>
-  <anime anidbid="7071" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7071" tvdbid="unknown" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Fujiko F. Fujio: Sukoshi Fushigi Tanpen Theater</name>
   </anime>
-  <anime anidbid="7072" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7072" tvdbid="157691" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Mahou no Star Magical Emi Finale! Finale! Soushuuhen</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
-  <anime anidbid="7073" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7073" tvdbid="unknown" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Bamboo Bears</name>
   </anime>
   <anime anidbid="7074" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="unknown">
@@ -19311,13 +19321,13 @@
   <anime anidbid="7079" tvdbid="98661" defaulttvdbseason="2" tmdbid="" imdbid="">
     <name>Stitch! Itazura Alien no Daibouken</name>
   </anime>
-  <anime anidbid="7080" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7080" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Youbi Masochist Animation</name>
   </anime>
-  <anime anidbid="7081" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7081" tvdbid="unknown" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Baboo Factory</name>
   </anime>
-  <anime anidbid="7082" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7082" tvdbid="unknown" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Baby Felix</name>
   </anime>
   <anime anidbid="7084" tvdbid="71857" defaulttvdbseason="0" tmdbid="" imdbid="tt0084458">
@@ -19549,7 +19559,7 @@
   <anime anidbid="7163" tvdbid="unknown" defaulttvdbseason="0" tmdbid="" imdbid="tt1344107">
     <name>Gekijouban Gegege no Kitarou: Nippon Bakuretsu!!</name>
   </anime>
-  <anime anidbid="7164" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7164" tvdbid="unknown" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Video Ehonkan Sekai Meisaku Douwa</name>
   </anime>
   <anime anidbid="7165" tvdbid="unknown" defaulttvdbseason="0" tmdbid="" imdbid="unknown">
@@ -19561,7 +19571,7 @@
   <anime anidbid="7167" tvdbid="unknown" defaulttvdbseason="0" tmdbid="" imdbid="unknown">
     <name>Gekijouban Duel Masters: Lunatic God Saga</name>
   </anime>
-  <anime anidbid="7168" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7168" tvdbid="unknown" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Wolf Guy</name>
   </anime>
   <anime anidbid="7169" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="unknown">
@@ -19628,7 +19638,7 @@
       <studio>Oxybot</studio>
     </supplemental-info>
   </anime>
-  <anime anidbid="7187" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7187" tvdbid="269665" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Kaitou Reinya</name>
   </anime>
   <anime anidbid="7188" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="unknown">
@@ -19637,7 +19647,7 @@
   <anime anidbid="7189" tvdbid="119781" defaulttvdbseason="0" tmdbid="" imdbid="unknown">
     <name>Ningen Shikkaku: Director's Cut Ban</name>
   </anime>
-  <anime anidbid="7190" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7190" tvdbid="web" defaulttvdbseason="1" tmdbid="73786" imdbid="">
     <name>Fumiko no Kokuhaku</name>
   </anime>
   <anime anidbid="7191" tvdbid="72454" defaulttvdbseason="0" tmdbid="" imdbid="">
@@ -19647,13 +19657,13 @@
       <mapping anidbseason="1" tvdbseason="0">;1-47;2-48;3-49;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="7192" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7192" tvdbid="unknown" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Perestroika</name>
   </anime>
   <anime anidbid="7193" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="tt1092363">
     <name>Kaitei no Boukun</name>
   </anime>
-  <anime anidbid="7194" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7194" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="tt1092322">
     <name>Ahiru no Otegara</name>
   </anime>
   <anime anidbid="7195" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="tt1092393">
@@ -19668,16 +19678,16 @@
   <anime anidbid="7198" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="tt1092357">
     <name>Hinomaru Hatanosuke: Inazuma-gumi Toubatsu no Maki</name>
   </anime>
-  <anime anidbid="7200" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7200" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Otome Chibaku Yuugi: Kutsujoku Baigaeshi ADV</name>
   </anime>
-  <anime anidbid="7201" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7201" tvdbid="256944" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Susume! Super Angels!</name>
   </anime>
   <anime anidbid="7203" tvdbid="unknown" defaulttvdbseason="0" tmdbid="" imdbid="unknown">
     <name>Bakusou Kyoudai Let's &amp; Go!! WGP Bousou Mini Yonku Daitsuiseki</name>
   </anime>
-  <anime anidbid="7204" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7204" tvdbid="unknown" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Salad Juu Yuushi Tomatoman</name>
   </anime>
   <anime anidbid="7206" tvdbid="79151" defaulttvdbseason="0" tmdbid="" imdbid="">
@@ -19699,10 +19709,10 @@
   <anime anidbid="7209" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="unknown">
     <name>Yume Miru Kikai</name>
   </anime>
-  <anime anidbid="7210" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7210" tvdbid="web" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Idol Ace</name>
   </anime>
-  <anime anidbid="7213" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7213" tvdbid="unknown" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Kotonakare Hero Gingerman</name>
   </anime>
   <anime anidbid="7214" tvdbid="80327" defaulttvdbseason="0" tmdbid="" imdbid="">
@@ -19723,16 +19733,16 @@
       <mapping anidbseason="0" tvdbseason="0">;1-13;2-14;3-15;4-16;5-17;6-18;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="7220" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7220" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Issho ni Ecchi</name>
   </anime>
   <anime anidbid="7221" tvdbid="79414" defaulttvdbseason="0" tmdbid="" imdbid="tt1572781">
     <name>Suzumiya Haruhi no Shoushitsu</name>
   </anime>
-  <anime anidbid="7222" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7222" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Haha Sange</name>
   </anime>
-  <anime anidbid="7223" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7223" tvdbid="OVA" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Kiss wa Hitomi ni Shite</name>
   </anime>
   <anime anidbid="7224" tvdbid="173211" defaulttvdbseason="1" tmdbid="" imdbid="">
@@ -19741,14 +19751,17 @@
       <mapping anidbseason="0" tvdbseason="0">;1-7;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="7226" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7226" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Issho ni H Shiyo!</name>
   </anime>
   <anime anidbid="7227" tvdbid="247231" defaulttvdbseason="0" tmdbid="" imdbid="unknown">
     <name>Toriko</name>
   </anime>
-  <anime anidbid="7228" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7228" tvdbid="78857" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Naruto: The Cross Roads</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="7229" tvdbid="145231" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Mayoi Neko Overrun!</name>
@@ -19835,7 +19848,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-21;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="7253" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7253" tvdbid="music video" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Piece</name>
   </anime>
   <anime anidbid="7254" tvdbid="79654" defaulttvdbseason="0" tmdbid="" imdbid="tt1623674">
@@ -19866,7 +19879,7 @@
       <studio>Studio Ghibli</studio>
     </supplemental-info>
   </anime>
-  <anime anidbid="7259" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7259" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Kansen 2: Inzai Toshi</name>
   </anime>
   <anime anidbid="7260" tvdbid="movie" defaulttvdbseason="1" tmdbid="unknown" imdbid="">
@@ -19875,7 +19888,7 @@
   <anime anidbid="7261" tvdbid="202751" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Mudazumo Naki Kaikaku: The Legend of Koizumi</name>
   </anime>
-  <anime anidbid="7262" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7262" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Toumei Ningen R</name>
   </anime>
   <anime anidbid="7265" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="unknown">
@@ -19911,7 +19924,7 @@
   <anime anidbid="7275" tvdbid="247911" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Yondemasu yo, Azazel-san.</name>
   </anime>
-  <anime anidbid="7276" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7276" tvdbid="256891" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Yutori-chan</name>
   </anime>
   <anime anidbid="7277" tvdbid="83314" defaulttvdbseason="3" tmdbid="" imdbid="">
@@ -19933,10 +19946,10 @@
   <anime anidbid="7280" tvdbid="173261" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Shukufuku no Campanella</name>
   </anime>
-  <anime anidbid="7281" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7281" tvdbid="web" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Doutei Kawaiya</name>
   </anime>
-  <anime anidbid="7284" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7284" tvdbid="unknown" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Obocchama-kun</name>
   </anime>
   <anime anidbid="7285" tvdbid="140711" defaulttvdbseason="1" tmdbid="" imdbid="">
@@ -19963,7 +19976,7 @@
       <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="7294" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7294" tvdbid="210291" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Bungaku Shoujo: Kyou no Oyatsu - Hatsukoi</name>
   </anime>
   <anime anidbid="7295" tvdbid="91431" defaulttvdbseason="1" tmdbid="" imdbid="">
@@ -19972,13 +19985,13 @@
       <mapping anidbseason="1" tvdbseason="1">;1-2;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="7296" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7296" tvdbid="79047" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Gunparade Orchestra: Shiro no Shou - Aomori Penguin Densetsu</name>
   </anime>
-  <anime anidbid="7297" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7297" tvdbid="79047" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Gunparade Orchestra: Midori no Shou - Ookami to Kare no Shounen</name>
   </anime>
-  <anime anidbid="7298" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7298" tvdbid="79047" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Gunparade Orchestra: Ao no Shou - Hikari no Umi Kara Tegami o Okurimasu</name>
   </anime>
   <anime anidbid="7299" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
@@ -19990,17 +20003,20 @@
       <mapping anidbseason="1" tvdbseason="0">;1-11;2-12;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="7301" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7301" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Rin x Sen: Hakudaku Onna Kyoushi to Yaroudomo</name>
   </anime>
   <anime anidbid="7302" tvdbid="unknown" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Peeping Life</name>
   </anime>
-  <anime anidbid="7303" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7303" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Ojou-sama wa H ga Osuki: The Animation</name>
   </anime>
-  <anime anidbid="7304" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7304" tvdbid="81110" defaulttvdbseason="0" tmdbid="137502" imdbid="">
     <name>Soukyuu no Fafner: Dead Aggressor - Heaven and Earth</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="7305" tvdbid="movie" defaulttvdbseason="1" tmdbid="84507" imdbid="">
     <name>Komaneko no Christmas: Maigo ni Natta Present</name>
@@ -20016,16 +20032,16 @@
     </mapping-list>
     <before>;1-22;2-23;</before>
   </anime>
-  <anime anidbid="7309" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7309" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Shinshou Genmukan</name>
   </anime>
-  <anime anidbid="7310" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7310" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Seito Kaichou Hikaru</name>
   </anime>
   <anime anidbid="7311" tvdbid="OVA" defaulttvdbseason="1" tmdbid="" imdbid="unknown">
     <name>Goulart Knights: Evoked the Beginning Black</name>
   </anime>
-  <anime anidbid="7313" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7313" tvdbid="unknown" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Ikuze! Gen-san</name>
   </anime>
   <anime anidbid="7315" tvdbid="171741" defaulttvdbseason="1" tmdbid="" imdbid="">
@@ -20034,13 +20050,16 @@
   <anime anidbid="7316" tvdbid="214891" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Haiyoru! Nyaruani</name>
   </anime>
-  <anime anidbid="7317" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7317" tvdbid="OVA" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Little Polar Bear: Shirokuma-kun, Fune ni Noru</name>
   </anime>
-  <anime anidbid="7318" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7318" tvdbid="265194" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Boku, Otaryman.</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-1;2-1;</mapping>
+    </mapping-list>
   </anime>
-  <anime anidbid="7319" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7319" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Oppai no Ouja 48: Nanimo Kangaezu Me no Mae no Oppai Zenbu Shabure!</name>
   </anime>
   <anime anidbid="7321" tvdbid="75534" defaulttvdbseason="0" tmdbid="74616" imdbid="">
@@ -20064,19 +20083,19 @@
       <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="7324" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7324" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Inmu Gakuen: "Dame... Konna ni Nacchau no wa Yume no Naka Dake nano...!"</name>
   </anime>
-  <anime anidbid="7326" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7326" tvdbid="unknown" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Kokekko-san</name>
   </anime>
-  <anime anidbid="7327" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7327" tvdbid="OVA" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Dragon Fist</name>
   </anime>
-  <anime anidbid="7328" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7328" tvdbid="unknown" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Chikyuu SOS Sore Ike Kororin</name>
   </anime>
-  <anime anidbid="7329" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7329" tvdbid="unknown" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Dororonpa!</name>
   </anime>
   <anime anidbid="7330" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="unknown">
@@ -20085,61 +20104,61 @@
   <anime anidbid="7331" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="tt1407273">
     <name>Penguin's Memory: Shiawase Monogatari</name>
   </anime>
-  <anime anidbid="7333" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7333" tvdbid="unknown" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Norakuro-kun</name>
   </anime>
-  <anime anidbid="7334" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7334" tvdbid="unknown" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Ore wa Chokkaku</name>
   </anime>
-  <anime anidbid="7335" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7335" tvdbid="unknown" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Kobo-chan</name>
   </anime>
   <anime anidbid="7336" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="unknown">
     <name>Noel no Fushigi na Bouken</name>
   </anime>
-  <anime anidbid="7337" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7337" tvdbid="77344" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Pecola</name>
   </anime>
-  <anime anidbid="7338" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7338" tvdbid="unknown" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Eagle Sam</name>
   </anime>
-  <anime anidbid="7339" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7339" tvdbid="unknown" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Maboroshi Mabo-chan</name>
   </anime>
   <anime anidbid="7340" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="unknown">
     <name>Boku no Son Gokuu</name>
   </anime>
-  <anime anidbid="7341" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7341" tvdbid="tv special" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Akuma Tou no Prince: Mitsume ga Tooru</name>
   </anime>
-  <anime anidbid="7342" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7342" tvdbid="tv special" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Boyfriend</name>
   </anime>
-  <anime anidbid="7343" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7343" tvdbid="unknown" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Jankenman Kaijuu Dai Kessen</name>
   </anime>
-  <anime anidbid="7344" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7344" tvdbid="unknown" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Zoku Zoku Mura no Obake-tachi</name>
   </anime>
   <anime anidbid="7345" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="unknown">
     <name>Kaitei Toshi no Dekiru Made</name>
   </anime>
-  <anime anidbid="7346" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7346" tvdbid="tv special" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Hajimete no Christmas</name>
   </anime>
-  <anime anidbid="7348" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7348" tvdbid="web" defaulttvdbseason="1" tmdbid="73795" imdbid="">
     <name>Meguriau Sekai</name>
   </anime>
-  <anime anidbid="7349" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7349" tvdbid="unknown" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Kobo-chan Special: Aki ga Ippai</name>
   </anime>
-  <anime anidbid="7350" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7350" tvdbid="unknown" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Kobo-chan Special: Yume Ippai!!</name>
   </anime>
-  <anime anidbid="7351" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7351" tvdbid="unknown" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Kobo-chan Special: Matsuri ga Ippai!</name>
   </anime>
-  <anime anidbid="7352" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="7352" tvdbid="unknown" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Kobo-chan Special: Yakusoku no Magic Day</name>
   </anime>
   <anime anidbid="7353" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="unknown">
@@ -27404,10 +27423,10 @@
   <anime anidbid="9960" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Gundam Build Fighters</name>
   </anime>
-  <anime anidbid="9964" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="9964" tvdbid="271591" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Yami Shibai</name>
   </anime>
-  <anime anidbid="9965" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="9965" tvdbid="OVA" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Niji-iro Prism Girl</name>
   </anime>
   <anime anidbid="9966" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
@@ -27416,7 +27435,7 @@
   <anime anidbid="9967" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Samurai Flamenco</name>
   </anime>
-  <anime anidbid="9968" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="9968" tvdbid="267246" defaulttvdbseason="2" tmdbid="" imdbid="">
     <name>Gin no Saji (2014)</name>
   </anime>
   <anime anidbid="9970" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">

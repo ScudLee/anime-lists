@@ -162,6 +162,9 @@
   <anime anidbid="1411" tvdbid="unknown" defaulttvdbseason="1">
     <name>Urayasu Tekkin Kazoku</name>
   </anime>
+  <anime anidbid="1428" tvdbid="unknown">
+    <name>Jungle Book: Shounen Mowgli</name>
+  </anime>
   <anime anidbid="1451" tvdbid="unknown" defaulttvdbseason="1">
     <name>Gegege no Kitarou</name>
   </anime>
@@ -1352,6 +1355,9 @@
   <anime anidbid="3625" tvdbid="unknown" defaulttvdbseason="1">
     <name>Hajime Ningen Gyatoruz</name>
   </anime>
+  <anime anidbid="3626" tvdbid="unknown">
+    <name>Nintama Rantarou</name>
+  </anime>
   <anime anidbid="3627" tvdbid="unknown" defaulttvdbseason="1">
     <name>Paris no Isabel</name>
   </anime>
@@ -1372,6 +1378,9 @@
   </anime>
   <anime anidbid="3639" tvdbid="unknown" defaulttvdbseason="0" imdbid="tt0891438">
     <name>Anime Sanjuushi - Aramis no Bouken</name>
+  </anime>
+  <anime anidbid="3640" tvdbid="unknown" defaulttvdbseason="0" imdbid="tt1927094">
+    <name>Eiga Nintama Rantarou</name>
   </anime>
   <anime anidbid="3641" tvdbid="unknown" defaulttvdbseason="1">
     <name>Pinocchio no Bouken</name>

@@ -908,7 +908,7 @@
     <name>Princess Nine: Kisaragi Joshikou Yakyuubu</name>
   </anime>
   <anime anidbid="228" tvdbid="79050" defaulttvdbseason="1" tmdbid="" imdbid="">
-    <name>Jungle wa Itsumo Hare nochi Guu</name>
+    <name>Jungle wa Itsumo Hare Nochi Guu</name>
   </anime>
   <anime anidbid="229" tvdbid="79327" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Shin Kidou Senki Gundam Wing</name>
@@ -1246,7 +1246,7 @@
     <name>Buttobi CPU</name>
   </anime>
   <anime anidbid="317" tvdbid="79050" defaulttvdbseason="2" tmdbid="" imdbid="">
-    <name>Jungle wa Itsumo Hare nochi Guu Deluxe</name>
+    <name>Jungle wa Itsumo Hare Nochi Guu Deluxe</name>
   </anime>
   <anime anidbid="318" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="tt0208502">
     <name>Tenshi no Tamago</name>
@@ -16346,7 +16346,7 @@
     <name>Penguin no Mondai</name>
   </anime>
   <anime anidbid="5902" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
-    <name>Shirouto Kurabu Hame Tori Anime Kanzen Mushuusei!!</name>
+    <name>Shirouto Club: Hamedori Anime Kanzen Mushuusei!!</name>
   </anime>
   <anime anidbid="5903" tvdbid="80675" defaulttvdbseason="2" tmdbid="" imdbid="">
     <name>Kidou Senshi Gundam 00 2nd Season</name>
@@ -18008,7 +18008,7 @@
     <name>Triangle Blue</name>
   </anime>
   <anime anidbid="6623" tvdbid="75112" defaulttvdbseason="0" tmdbid="" imdbid="unknown">
-    <name>Dr. Slump: Arale-chan N-cha! Penguin-mura wa Hare nochi Hare</name>
+    <name>Dr. Slump: Arale-chan - Ncha! Penguin Mura wa Hare Nochi Hare</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
@@ -18026,7 +18026,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="6627" tvdbid="75112" defaulttvdbseason="0" tmdbid="" imdbid="unknown">
-    <name>Dr. Slump: Arale-chan N-cha!! Wakuwaku Hot no Natsuyasumi</name>
+    <name>Dr. Slump: Arale-chan - Ncha!! Wakuwaku Hot no Natsuyasumi</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
@@ -26235,7 +26235,7 @@
     <name>Pyuu to Fuku! Jaguar</name>
   </anime>
   <anime anidbid="9503" tvdbid="259655" defaulttvdbseason="0" tmdbid="" imdbid="">
-    <name>Chitose Get You!! (2013)</name>
+    <name>Asako Get You!!</name>
   </anime>
   <anime anidbid="9504" tvdbid="web" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Next A-Class</name>
@@ -27475,7 +27475,7 @@
     <name>Fairy Tail 2</name>
   </anime>
   <anime anidbid="9982" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Hajime no Ippo: The Fighting!</name>
+    <name>Hajime no Ippo: The Fighting! - Rising</name>
   </anime>
   <anime anidbid="9983" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Houseki no Kuni</name>
@@ -27535,9 +27535,54 @@
     <name>Saikyou Ginga Ultimate Zero: Battle Spirits</name>
   </anime>
   <anime anidbid="10006" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Zenryoku Gu Shoujo!! Action!!</name>
+    <name>Zetsumetsu Kigu Shoujo: Amazing Twins</name>
   </anime>
   <anime anidbid="10007" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Super Seisyun Brothers</name>
+    <name>Super Seishun Brothers</name>
+  </anime>
+  <anime anidbid="10008" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Gekijouban Girls und Panzer</name>
+  </anime>
+  <anime anidbid="10009" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Girls und Panzer: Ooarai Joshi Gakuen vs Anzio Koukou</name>
+  </anime>
+  <anime anidbid="10010" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Tesagure! Bukatsumono</name>
+  </anime>
+  <anime anidbid="10011" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>D-Frag!</name>
+  </anime>
+  <anime anidbid="10012" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Gekijouban Hunter x Hunter: The Last Mission</name>
+  </anime>
+  <anime anidbid="10015" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Minami-ke Natsu Yasumi</name>
+  </anime>
+  <anime anidbid="10016" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>GJ-bu 2</name>
+  </anime>
+  <anime anidbid="10020" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Donten ni Warau</name>
+  </anime>
+  <anime anidbid="10021" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Lupin Sansei: Princess of the Breeze - Kakusareta Kuuchuu Toshi</name>
+  </anime>
+  <anime anidbid="10022" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Sword Art Online: Extra Edition</name>
+  </anime>
+  <anime anidbid="10023" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Miss Monochrome</name>
+  </anime>
+  <anime anidbid="10024" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Wizard Barristers: Benmashi Cecil</name>
+  </anime>
+  <anime anidbid="10025" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Kill Me Baby (2013)</name>
+  </anime>
+  <anime anidbid="10026" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>IS: Infinite Stratos 2 - Hitonatsu no Omoide</name>
+  </anime>
+  <anime anidbid="10027" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Space Dandy</name>
   </anime>
 </anime-list>

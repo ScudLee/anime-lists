@@ -25483,8 +25483,11 @@
   </anime>
   <anime anidbid="9227" tvdbid="262098" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Girls und Panzer</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;3-8;4-9;5-10;6-11;7-12;8-13;9-3;10-4;11-5;12-6;13-7;14-0;15-0;16-0;17-0;18-0;19-0;20-0;21-0;22-0;23-0;24-14;25-15;26-16;27-17;28-18;29-19;</mapping>
+    </mapping-list>
   </anime>
-  <anime anidbid="9229" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="9229" tvdbid="OVA" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Hori-san to Miyamura-kun</name>
   </anime>
   <anime anidbid="9230" tvdbid="262092" defaulttvdbseason="1" tmdbid="" imdbid="">
@@ -26853,7 +26856,7 @@
   <anime anidbid="9741" tvdbid="268286" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Zettai Bouei Leviathan</name>
   </anime>
-  <anime anidbid="9743" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="9743" tvdbid="unknown" defaulttvdbseason="6" tmdbid="" imdbid="">
     <name>Battle Spirits: Sword Eyes Gekitouden</name>
   </anime>
   <anime anidbid="9744" tvdbid="unknown" defaulttvdbseason="1" tmdbid="" imdbid="">
@@ -27519,19 +27522,19 @@
   <anime anidbid="9999" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Seirei Tsukai no Blade Dance</name>
   </anime>
-  <anime anidbid="10000" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10000" tvdbid="tv special" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Heisei no Cinderella: Kiko-sama Monogatari</name>
   </anime>
   <anime anidbid="10001" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Robot Girls Z</name>
   </anime>
-  <anime anidbid="10003" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10003" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Yokujou Bazooka The Animation</name>
   </anime>
-  <anime anidbid="10004" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10004" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Kagachi-sama Onagusame Tatematsurimasu: Netorare Mura Inya Hanashi The Animation</name>
   </anime>
-  <anime anidbid="10005" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10005" tvdbid="unknown" defaulttvdbseason="7" tmdbid="" imdbid="">
     <name>Saikyou Ginga Ultimate Zero: Battle Spirits</name>
   </anime>
   <anime anidbid="10006" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
@@ -27552,23 +27555,32 @@
   <anime anidbid="10011" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>D-Frag!</name>
   </anime>
-  <anime anidbid="10012" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10012" tvdbid="252322" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Gekijouban Hunter x Hunter: The Last Mission</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-36;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="10015" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Minami-ke Natsu Yasumi</name>
   </anime>
-  <anime anidbid="10016" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10016" tvdbid="264055" defaulttvdbseason="2" tmdbid="" imdbid="">
     <name>GJ-bu 2</name>
   </anime>
   <anime anidbid="10020" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Donten ni Warau</name>
   </anime>
-  <anime anidbid="10021" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10021" tvdbid="71863" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Lupin Sansei: Princess of the Breeze - Kakusareta Kuuchuu Toshi</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-36;</mapping>
+    </mapping-list>
   </anime>
-  <anime anidbid="10022" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10022" tvdbid="259640" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Sword Art Online: Extra Edition</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-10;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="10023" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Miss Monochrome</name>
@@ -27576,11 +27588,14 @@
   <anime anidbid="10024" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Wizard Barristers: Benmashi Cecil</name>
   </anime>
-  <anime anidbid="10025" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10025" tvdbid="254664" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Kill Me Baby (2013)</name>
   </anime>
-  <anime anidbid="10026" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10026" tvdbid="219131" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>IS: Infinite Stratos 2 - Hitonatsu no Omoide</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="10027" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Space Dandy</name>

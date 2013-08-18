@@ -5734,6 +5734,7 @@
 	</anime>
 	<anime aid="453">
 		<title type="main" xml:lang="x-jat">Grappler Baki (2001)</title>
+		<title type="official" xml:lang="de">Baki</title>
 		<title type="official" xml:lang="en">Baki The Grappler</title>
 		<title type="official" xml:lang="fr">Baki The Grappler</title>
 		<title type="official" xml:lang="ja">グラップラー刃牙 (2001)</title>
@@ -8013,6 +8014,7 @@
 		<title type="official" xml:lang="en">Angel Blade</title>
 		<title type="official" xml:lang="ja">エンジェル・ブレイド</title>
 		<title type="syn" xml:lang="en">Angel Blade Returns</title>
+		<title type="syn" xml:lang="ko">엔젤 블레이드</title>
 	</anime>
 	<anime aid="688">
 		<title type="main" xml:lang="x-jat">Ike! Ina-chuu Takkyuubu</title>
@@ -16983,6 +16985,7 @@
 	</anime>
 	<anime aid="1809">
 		<title type="main" xml:lang="x-jat">Densetsu Kyojin Ideon Hatsudou Hen</title>
+		<title type="official" xml:lang="en">The Ideon: Be Invoked</title>
 		<title type="official" xml:lang="ja">伝説巨神イデオン 発動篇</title>
 		<title type="syn" xml:lang="en">Space Runaway Ideon: Be Invoked</title>
 		<title type="syn" xml:lang="en">The Ideon/Be Invoked</title>
@@ -25096,6 +25099,7 @@
 		<title type="official" xml:lang="fr">Oum le dauphin blanc</title>
 		<title type="official" xml:lang="it">Zum il delfino bianco</title>
 		<title type="official" xml:lang="ja">イルカと少年</title>
+		<title type="official" xml:lang="pl">Biały delfin Um</title>
 		<title type="short" xml:lang="en">dolph</title>
 	</anime>
 	<anime aid="2986">
@@ -27623,6 +27627,7 @@
 		<title type="official" xml:lang="es">Sometidas</title>
 		<title type="official" xml:lang="fr">Requiem</title>
 		<title type="official" xml:lang="ja">REQUIEM [レクイエム]</title>
+		<title type="syn" xml:lang="ko">레퀴엠</title>
 	</anime>
 	<anime aid="3453">
 		<title type="main" xml:lang="x-jat">Cooking Papa</title>
@@ -32647,7 +32652,9 @@
 		<title type="official" xml:lang="fr">Musashi - La Voie du Pistolet</title>
 		<title type="official" xml:lang="ja">GUN道 MUSASHI</title>
 		<title type="syn" xml:lang="en">Gun Samurai</title>
+		<title type="syn" xml:lang="en">Musashi Gundoh</title>
 		<title type="syn" xml:lang="en">Musashi: The Way of the Gun</title>
+		<title type="syn" xml:lang="en">Musashi Way of the Gun</title>
 		<title type="syn" xml:lang="he">מוסאשי האקדוחן המטורף</title>
 		<title type="syn" xml:lang="ja">MUSASHI -GUN道-</title>
 		<title type="syn" xml:lang="x-jat">Gun-do Musashi</title>
@@ -37049,6 +37056,7 @@
 		<title type="syn" xml:lang="no">Gundam dobbelt null</title>
 		<title type="syn" xml:lang="ru">Подвижен Костюм Гъндам 00</title>
 		<title type="syn" xml:lang="x-jat">Kidou Senshi Gandamu Daburuou</title>
+		<title type="syn" xml:lang="x-unk">Kidou Senshi Gundam OO</title>
 		<title type="syn" xml:lang="zh-Hans">机动战士高达00</title>
 		<title type="syn" xml:lang="zh-Hant">機動戰士鋼彈OO</title>
 	</anime>
@@ -49563,6 +49571,7 @@
 		<title type="official" xml:lang="it">Berserk - L`epoca d`oro</title>
 		<title type="official" xml:lang="ja">ベルセルク 黄金時代篇</title>
 		<title type="syn" xml:lang="ar">بيرسيرك: فصل العصر الذهبي</title>
+		<title type="syn" xml:lang="en">Berserk Movie</title>
 		<title type="syn" xml:lang="uk">Берсерк. Золота Доба</title>
 	</anime>
 	<anime aid="7992">
@@ -53057,9 +53066,9 @@
 	</anime>
 	<anime aid="8729">
 		<title type="main" xml:lang="x-jat">Danshi Koukousei no Nichijou</title>
+		<title type="official" xml:lang="en">Daily Lives of High School Boys</title>
 		<title type="official" xml:lang="ja">男子高校生の日常</title>
 		<title type="official" xml:lang="ko">남자고교생의 일상</title>
-		<title type="syn" xml:lang="en">Daily Lives of High School Boys</title>
 		<title type="syn" xml:lang="en">nichibros</title>
 		<title type="syn" xml:lang="en">The Daily Lives of High School Boys</title>
 	</anime>
@@ -54494,6 +54503,7 @@
 	</anime>
 	<anime aid="9048">
 		<title type="main" xml:lang="x-jat">Metal Fight Beyblade Zero G</title>
+		<title type="official" xml:lang="en">Beyblade: Shogun Steel</title>
 		<title type="official" xml:lang="ja">メタルファイト ベイブレード ZEROG</title>
 	</anime>
 	<anime aid="9049">
@@ -54769,7 +54779,6 @@
 		<title type="main" xml:lang="x-jat">Psycho-pass</title>
 		<title type="official" xml:lang="en">Psycho-Pass</title>
 		<title type="official" xml:lang="ja">PSYCHO-PASS</title>
-		<title type="short" xml:lang="en">gibs</title>
 		<title type="syn" xml:lang="bg">Психо-паспорт</title>
 		<title type="syn" xml:lang="ja">サイコパス</title>
 		<title type="syn" xml:lang="ru">Психопаспорт</title>
@@ -56235,7 +56244,7 @@
 		<title type="official" xml:lang="ja">脱出ガシャポン</title>
 	</anime>
 	<anime aid="9478">
-		<title type="main" xml:lang="x-jat">Kuro to Kin no Hirakanai Kagi.</title>
+		<title type="main" xml:lang="x-jat">Kuro to Kin no Akanai Kagi.</title>
 		<title type="official" xml:lang="ja">黒と金の開かない鍵.</title>
 	</anime>
 	<anime aid="9479">
@@ -58259,6 +58268,7 @@
 	<anime aid="10011">
 		<title type="main" xml:lang="x-jat">D-Frag!</title>
 		<title type="official" xml:lang="ja">ディーふらぐ!</title>
+		<title type="syn" xml:lang="x-jat">D-FRAGMENTS</title>
 	</anime>
 	<anime aid="10012">
 		<title type="main" xml:lang="x-jat">Gekijouban Hunter x Hunter: The Last Mission</title>
@@ -58304,6 +58314,16 @@
 		<title type="main" xml:lang="x-jat">Space Dandy</title>
 		<title type="official" xml:lang="ja">スペース☆ダンディ</title>
 	</anime>
+	<anime aid="10031">
+		<title type="main" xml:lang="x-jat">Pocket Monsters: The Origin</title>
+		<title type="official" xml:lang="ja">ポケットモンスター THE ORIGIN</title>
+		<title type="syn" xml:lang="ja">ポケットモンスター ジ・オリジン</title>
+		<title type="syn" xml:lang="ru">Покемоны: Начало</title>
+	</anime>
+	<anime aid="10032">
+		<title type="main" xml:lang="x-jat">Aikatsu! 2</title>
+		<title type="official" xml:lang="ja">アイカツ! 2</title>
+	</anime>
 </animetitles>
 
-<!-- Created: Mon Aug 12 02:00:30 2013 (7804 anime, 42696 titles) -->
+<!-- Created: Sun Aug 18 02:00:37 2013 (7806 anime, 42712 titles) -->

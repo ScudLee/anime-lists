@@ -2210,8 +2210,12 @@
   <anime anidbid="556" tvdbid="79241" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Shinpi no Sekai El-Hazard TV</name>
   </anime>
-  <anime anidbid="557" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="557" tvdbid="70817" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Tottoko Hamtarou</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="1">;1-1;2-3;3-5;4-7;5-9;6-11;7-13;8-15;9-17;10-19;11-21;12-23;13-25;14-27;15-29;16-31;17-33;18-35;19-37;20-39;21-2;22-4;23-6;24-8;25-10;26-12;27-14;28-16;29-18;30-20;31-22;32-24;33-26;34-28;35-30;36-32;37-34;38-36;39-38;40-40;41-41;42-42;43-43;44-44;45-45;46-46;47-47;48-48;49-49;50-50;51-51;52-52;53-53;</mapping>
+      <mapping anidbseason="1" tvdbseason="2">;54-1;55-5;56-6;57-7;58-8;59-2;60-9;61-3;62-10;63-4;64-11;65-12;66-13;67-14;68-15;69-16;70-17;71-18;72-19;73-20;74-21;75-22;76-23;77-24;78-25;79-26;80-27;81-28;82-29;83-0;84-30;85-31;86-32;87-33;88-34;89-35;90-36;91-37;92-38;93-39;94-40;95-41;96-42;97-43;98-44;99-45;100-46;101-47;102-48;103-49;104-50;105-51;173-53;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="558" tvdbid="72844" defaulttvdbseason="a" tmdbid="" imdbid="">
     <name>Kishin Douji Zenki</name>
@@ -5782,8 +5786,11 @@
   <anime anidbid="1648" tvdbid="79235" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Aishiteru ze Baby</name>
   </anime>
-  <anime anidbid="1649" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="1649" tvdbid="70817" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Hamtarou no Otanjoubi: Mama o Tasunete Sanzen Techi Techi</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="2">;1-52;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="1650" tvdbid="129721" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Flanders no Inu</name>
@@ -10510,6 +10517,9 @@
   </anime>
   <anime anidbid="3330" tvdbid="70817" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Ham-chanz no Mezase! Ham-Ham Kin Medal: Hashire! Hashire! Daisakusen!</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="2">;1-54;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="3331" tvdbid="79049" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Prayers</name>

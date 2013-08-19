@@ -3880,11 +3880,6 @@
   </anime>
   <anime anidbid="1033" tvdbid="81723" defaulttvdbseason="1">
     <name>Uchuu no Kishi Tekkaman Blade</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="1">;1-1;2-2;3-3;4-4;5-5;6-6;7-7;8-8;9-9;10-10;11-11;12-12;13-13;14-14;15-15;16-16;17-17;18-18;19-19;20-20;21-21;22-22;23-23;24-24;25-25;26-26;27-27;</mapping>
-      <mapping anidbseason="1" tvdbseason="2">;28-1;29-2;30-3;31-4;32-5;33-6;34-7;35-8;36-9;37-10;38-11;39-12;40-13;41-14;42-15;43-16;44-17;45-18;46-19;47-20;48-21;49-22;</mapping>
-    </mapping-list>
-    <before>;1-50;2-51;3-52;</before>
   </anime>
   <anime anidbid="1035" tvdbid="OVA" defaulttvdbseason="1">
     <name>The Supergal</name>

@@ -6027,8 +6027,7 @@
   <anime anidbid="1726" tvdbid="79236" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>DearS</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="1">;1-10;</mapping>
-      <mapping anidbseason="1" tvdbseason="1">;10-11;11-12;12-13;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;201-1;</mapping>
     </mapping-list>
     <before>;1-10;</before>
   </anime>

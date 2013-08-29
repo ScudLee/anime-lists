@@ -25128,6 +25128,9 @@
   <anime anidbid="9581" tvdbid="unknown" defaulttvdbseason="1">
     <name>Charmmy Kitty 3: Fushigi no Kuni no Charmmy</name>
   </anime>
+  <anime anidbid="9582" tvdbid="270062" defaulttvdbseason="1">
+    <name>Watashi ga Motenai no wa Dou Kangaete mo Omaera ga Warui!</name>
+  </anime>
   <anime anidbid="9584" tvdbid="80554" defaulttvdbseason="4">
     <name>Hayate no Gotoku! Cuties</name>
   </anime>
@@ -25142,6 +25145,9 @@
   </anime>
   <anime anidbid="9590" tvdbid="270066" defaulttvdbseason="1">
     <name>Makai Ouji: Devils and Realist</name>
+  </anime>
+  <anime anidbid="9591" tvdbid="272309" defaulttvdbseason="1">
+    <name>Yowamushi Pedal</name>
   </anime>
   <anime anidbid="9592" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Cheorin Samchongsa</name>
@@ -25179,6 +25185,9 @@
   <anime anidbid="9605" tvdbid="261249" defaulttvdbseason="2">
     <name>K 2</name>
   </anime>
+  <anime anidbid="9606" tvdbid="267246" defaulttvdbseason="1">
+    <name>Gin no Saji</name>
+  </anime>
   <anime anidbid="9607" tvdbid="other" defaulttvdbseason="1">
     <name>Chocotan!</name>
   </anime>
@@ -25203,14 +25212,29 @@
   <anime anidbid="9614" tvdbid="257098" defaulttvdbseason="0">
     <name>Hiiro no Kakera Taizen: Totsugeki! Tonari no Ikemens</name>
   </anime>
+  <anime anidbid="9617" tvdbid="hentai" defaulttvdbseason="1">
+    <name>OOPArts: Oman</name>
+  </anime>
+  <anime anidbid="9618" tvdbid="unknown" defaulttvdbseason="1">
+    <name>Pyuu to Fuku! Jaguar Return Of Yaku Ichinen buri</name>
+  </anime>
   <anime anidbid="9620" tvdbid="271152" defaulttvdbseason="1">
     <name>Stella Jogakuin Koutouka C3-bu</name>
+  </anime>
+  <anime anidbid="9622" tvdbid="269291" defaulttvdbseason="1">
+    <name>Miyakawa-ke no Kuufuku</name>
+  </anime>
+  <anime anidbid="9625" tvdbid="268285" defaulttvdbseason="1">
+    <name>Danchi Tomoo</name>
   </anime>
   <anime anidbid="9626" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
     <name>Ojamanga Yamada-kun (1981)</name>
   </anime>
   <anime anidbid="9628" tvdbid="music video" defaulttvdbseason="1">
     <name>Touhou PVD 4</name>
+  </anime>
+  <anime anidbid="9639" tvdbid="81110" defaulttvdbseason="2">
+    <name>Soukyuu no Fafner: Dead Aggressor - Exodus</name>
   </anime>
   <anime anidbid="9641" tvdbid="web" defaulttvdbseason="1">
     <name>Hotaru no Mure</name>
@@ -25269,6 +25293,9 @@
   </anime>
   <anime anidbid="9676" tvdbid="78919" defaulttvdbseason="3">
     <name>Genshiken Nidaime</name>
+  </anime>
+  <anime anidbid="9677" tvdbid="272128" defaulttvdbseason="1">
+    <name>Log Horizon</name>
   </anime>
   <anime anidbid="9678" tvdbid="197261" defaulttvdbseason="3">
     <name>Futari wa Milky Holmes</name>
@@ -25333,6 +25360,9 @@
   <anime anidbid="9714" tvdbid="268575" defaulttvdbseason="1">
     <name>Sparrow's Hotel</name>
   </anime>
+  <anime anidbid="9715" tvdbid="unknown" defaulttvdbseason="1">
+    <name>Barnacle Lou</name>
+  </anime>
   <anime anidbid="9718" tvdbid="268026" defaulttvdbseason="1">
     <name>Kara The Animation</name>
   </anime>
@@ -25387,6 +25417,12 @@
   <anime anidbid="9753" tvdbid="hentai" defaulttvdbseason="1">
     <name>Kakushi Dere</name>
   </anime>
+  <anime anidbid="9754" tvdbid="256705" defaulttvdbseason="0">
+    <name>Uchuu Kyoudai: Itten no Hikari</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-10;</mapping>
+    </mapping-list>
+  </anime>
   <anime anidbid="9764" tvdbid="76703" defaulttvdbseason="15">
     <name>Pocket Monsters: Best Wishes! Season 2 - Decolora Adventure</name>
     <mapping-list>
@@ -25396,11 +25432,26 @@
   <anime anidbid="9770" tvdbid="268055" defaulttvdbseason="0">
     <name>Namiuchigiwa no Muromi-san OAD</name>
   </anime>
+  <anime anidbid="9771" tvdbid="272138" defaulttvdbseason="1">
+    <name>Golden Time</name>
+  </anime>
+  <anime anidbid="9772" tvdbid="272129" defaulttvdbseason="1">
+    <name>Strike the Blood</name>
+  </anime>
+  <anime anidbid="9779" tvdbid="OVA" defaulttvdbseason="1">
+    <name>Dendou Sakusen Gattaiou</name>
+  </anime>
+  <anime anidbid="9782" tvdbid="269876" defaulttvdbseason="1">
+    <name>Uchouten Kazoku</name>
+  </anime>
   <anime anidbid="9784" tvdbid="260408" defaulttvdbseason="2">
     <name>Tanken Driland: 1000-nen no Mahou</name>
   </anime>
   <anime anidbid="9785" tvdbid="hentai" defaulttvdbseason="1">
     <name>Saimin Jutsu Zero</name>
+  </anime>
+  <anime anidbid="9787" tvdbid="272314" defaulttvdbseason="1">
+    <name>Ore no Nounai Sentakushi ga, Gakuen Lovecome o Zenryoku de Jama Shiteiru</name>
   </anime>
   <anime anidbid="9788" tvdbid="81115" defaulttvdbseason="0">
     <name>Mahou Shoujo Lyrical Nanoha The Movie 3rd Reflection</name>
@@ -25410,6 +25461,9 @@
   </anime>
   <anime anidbid="9789" tvdbid="219701" defaulttvdbseason="2">
     <name>Freezing Vibration</name>
+  </anime>
+  <anime anidbid="9790" tvdbid="272309" defaulttvdbseason="0">
+    <name>Yowamushi Pedal: Special Ride</name>
   </anime>
   <anime anidbid="9795" tvdbid="260070" defaulttvdbseason="2">
     <name>Juusen Battle Monsuno (2013)</name>

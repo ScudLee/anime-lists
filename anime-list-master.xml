@@ -26457,7 +26457,7 @@
   <anime anidbid="9581" tvdbid="unknown" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Charmmy Kitty 3: Fushigi no Kuni no Charmmy</name>
   </anime>
-  <anime anidbid="9582" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="9582" tvdbid="270062" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Watashi ga Motenai no wa Dou Kangaete mo Omaera ga Warui!</name>
   </anime>
   <anime anidbid="9583" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
@@ -26484,7 +26484,7 @@
   <anime anidbid="9590" tvdbid="270066" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Makai Ouji: Devils and Realist</name>
   </anime>
-  <anime anidbid="9591" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="9591" tvdbid="272309" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Yowamushi Pedal</name>
   </anime>
   <anime anidbid="9592" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="unknown">
@@ -26523,7 +26523,7 @@
   <anime anidbid="9605" tvdbid="261249" defaulttvdbseason="2" tmdbid="" imdbid="">
     <name>K 2</name>
   </anime>
-  <anime anidbid="9606" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="9606" tvdbid="267246" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Gin no Saji</name>
   </anime>
   <anime anidbid="9607" tvdbid="other" defaulttvdbseason="1" tmdbid="" imdbid="">
@@ -26550,19 +26550,19 @@
   <anime anidbid="9614" tvdbid="257098" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Hiiro no Kakera Taizen: Totsugeki! Tonari no Ikemens</name>
   </anime>
-  <anime anidbid="9617" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="9617" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>OOPArts: Oman</name>
   </anime>
-  <anime anidbid="9618" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="9618" tvdbid="unknown" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Pyuu to Fuku! Jaguar Return Of Yaku Ichinen buri</name>
   </anime>
   <anime anidbid="9620" tvdbid="271152" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Stella Jogakuin Koutouka C3-bu</name>
   </anime>
-  <anime anidbid="9622" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="9622" tvdbid="269291" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Miyakawa-ke no Kuufuku</name>
   </anime>
-  <anime anidbid="9625" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="9625" tvdbid="268285" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Danchi Tomoo</name>
   </anime>
   <anime anidbid="9626" tvdbid="unknown" defaulttvdbseason="0" tmdbid="" imdbid="unknown">
@@ -26601,7 +26601,7 @@
   <anime anidbid="9638" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Heonggeuri Beseuteu 5</name>
   </anime>
-  <anime anidbid="9639" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="9639" tvdbid="81110" defaulttvdbseason="2" tmdbid="" imdbid="">
     <name>Soukyuu no Fafner: Dead Aggressor - Exodus</name>
   </anime>
   <anime anidbid="9641" tvdbid="web" defaulttvdbseason="1" tmdbid="" imdbid="">
@@ -26701,7 +26701,7 @@
   <anime anidbid="9676" tvdbid="78919" defaulttvdbseason="3" tmdbid="" imdbid="">
     <name>Genshiken Nidaime</name>
   </anime>
-  <anime anidbid="9677" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="9677" tvdbid="272128" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Log Horizon</name>
   </anime>
   <anime anidbid="9678" tvdbid="197261" defaulttvdbseason="3" tmdbid="" imdbid="">
@@ -26800,7 +26800,7 @@
   <anime anidbid="9714" tvdbid="268575" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Sparrow's Hotel</name>
   </anime>
-  <anime anidbid="9715" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="9715" tvdbid="unknown" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Barnacle Lou</name>
   </anime>
   <anime anidbid="9716" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
@@ -26893,8 +26893,11 @@
   <anime anidbid="9753" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Kakushi Dere</name>
   </anime>
-  <anime anidbid="9754" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="9754" tvdbid="256705" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Uchuu Kyoudai: Itten no Hikari</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-10;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="9755" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Hassou Hen</name>
@@ -26932,10 +26935,10 @@
   <anime anidbid="9770" tvdbid="268055" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Namiuchigiwa no Muromi-san OAD</name>
   </anime>
-  <anime anidbid="9771" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="9771" tvdbid="272138" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Golden Time</name>
   </anime>
-  <anime anidbid="9772" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="9772" tvdbid="272129" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Strike the Blood</name>
   </anime>
   <anime anidbid="9774" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
@@ -26947,10 +26950,10 @@
   <anime anidbid="9778" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Kidou Senshi Gundam Senki: Avant Title</name>
   </anime>
-  <anime anidbid="9779" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="9779" tvdbid="OVA" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Dendou Sakusen Gattaiou</name>
   </anime>
-  <anime anidbid="9782" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="9782" tvdbid="269876" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Uchouten Kazoku</name>
   </anime>
   <anime anidbid="9784" tvdbid="260408" defaulttvdbseason="2" tmdbid="" imdbid="">
@@ -26962,7 +26965,7 @@
   <anime anidbid="9786" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Line Town</name>
   </anime>
-  <anime anidbid="9787" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="9787" tvdbid="272314" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Ore no Nounai Sentakushi ga, Gakuen Lovecome o Zenryoku de Jama Shiteiru</name>
   </anime>
   <anime anidbid="9788" tvdbid="81115" defaulttvdbseason="0" tmdbid="" imdbid="">
@@ -26974,7 +26977,7 @@
   <anime anidbid="9789" tvdbid="219701" defaulttvdbseason="2" tmdbid="" imdbid="">
     <name>Freezing Vibration</name>
   </anime>
-  <anime anidbid="9790" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="9790" tvdbid="272309" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Yowamushi Pedal: Special Ride</name>
   </anime>
   <anime anidbid="9791" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">

@@ -4339,10 +4339,10 @@
     <name>Bakusou Kyoudai Let's &amp; Go!!</name>
   </anime>
   <anime anidbid="1172" tvdbid="unknown" defaulttvdbseason="2">
-    <name>Bakusou Kyoudai Let's &amp; Go WGP</name>
+    <name>Bakusou Kyoudai Let's &amp; Go!! WGP</name>
   </anime>
   <anime anidbid="1173" tvdbid="unknown" defaulttvdbseason="3">
-    <name>Bakusou Kyoudai Lets &amp; Go Max</name>
+    <name>Bakusou Kyoudai Let's &amp; Go!! Max</name>
   </anime>
   <anime anidbid="1174" tvdbid="72442" defaulttvdbseason="0" tmdbid="68367">
     <name>Dirty Pair: Bouryaku no 005-bin</name>
@@ -7473,7 +7473,7 @@
     </supplemental-info>
   </anime>
   <anime anidbid="2187" tvdbid="71535" defaulttvdbseason="0" imdbid="tt0435202">
-    <name>Kidou Senshi Z Gundam I: Hoshi o Tsugu Mono</name>
+    <name>Kidou Senshi Z Gundam: A New Translation - Hoshi o Tsugu Mono</name>
     <supplemental-info>
       <studio>Sunrise</studio>
     </supplemental-info>
@@ -8337,7 +8337,7 @@
     <name>See In AO</name>
   </anime>
   <anime anidbid="2450" tvdbid="hentai" defaulttvdbseason="1">
-    <name>Ho Ta Ru Ko</name>
+    <name>Hotaruko</name>
   </anime>
   <anime anidbid="2451" tvdbid="hentai" defaulttvdbseason="1">
     <name>Imouto de Ikou!</name>
@@ -11583,7 +11583,7 @@
     <name>Cosmos Pink Shock</name>
   </anime>
   <anime anidbid="3969" tvdbid="71535" defaulttvdbseason="0" imdbid="tt0468812">
-    <name>Kidou Senshi Z Gundam II: Koibito-tachi</name>
+    <name>Kidou Senshi Z Gundam: A New Translation - Koibito-tachi</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
@@ -11991,7 +11991,7 @@
     <name>Mamimume Mogacho</name>
   </anime>
   <anime anidbid="4095" tvdbid="71535" defaulttvdbseason="0" imdbid="tt0488584">
-    <name>Kidou Senshi Z Gundam III: A New Translation - Hoshi no Kodou wa Ai</name>
+    <name>Kidou Senshi Z Gundam: A New Translation - Hoshi no Kodou wa Ai</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
     </mapping-list>
@@ -24196,7 +24196,7 @@
     <name>Hi no Youjin</name>
   </anime>
   <anime anidbid="9127" tvdbid="262090" defaulttvdbseason="1">
-    <name>Psycho-pass</name>
+    <name>Psycho-Pass</name>
   </anime>
   <anime anidbid="9128" tvdbid="259849" defaulttvdbseason="1">
     <name>Robotics;Notes</name>

@@ -23234,6 +23234,10 @@
   </anime>
   <anime anidbid="8742" tvdbid="259647" defaulttvdbseason="1">
     <name>Kokoro Connect</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="1">;1-14;2-15;3-16;4-17;</mapping>
+    </mapping-list>
+    <before>;1-14;2-15;3-16;4-17;</before>
   </anime>
   <anime anidbid="8743" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Ryoku Tama Shinshi</name>

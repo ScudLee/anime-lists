@@ -13115,11 +13115,6 @@
   </anime>
   <anime anidbid="5406" tvdbid="81178" defaulttvdbseason="1">
     <name>Ookami to Koushinryou</name>
-    <mapping-list>
-      <mapping anidbseason="0" tvdbseason="1">;1-7;</mapping>
-      <mapping anidbseason="1" tvdbseason="1">;7-8;8-9;9-10;10-11;11-12;12-13;</mapping>
-    </mapping-list>
-    <before>;1-7;</before>
   </anime>
   <anime anidbid="5407" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0295583">
     <name>Sangokushi Daiichibu Eiyuu-tachi no Yoake</name>
@@ -18873,6 +18868,9 @@
   </anime>
   <anime anidbid="8218" tvdbid="249865" defaulttvdbseason="1">
     <name>The Idolmaster</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="8221" tvdbid="168561" defaulttvdbseason="2">
     <name>Tono to Issho: Gantai no Yabou</name>

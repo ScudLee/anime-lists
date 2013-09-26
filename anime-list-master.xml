@@ -16917,6 +16917,9 @@
   </anime>
   <anime anidbid="6169" tvdbid="81178" defaulttvdbseason="2" tmdbid="" imdbid="">
     <name>Ookami to Koushinryou II</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;2-3;3-0;4-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="6171" tvdbid="70350" defaulttvdbseason="0" tmdbid="" imdbid="tt0860906">
     <name>Evangelion Shin Gekijouban: Ha</name>
@@ -17586,6 +17589,9 @@
   </anime>
   <anime anidbid="6465" tvdbid="81178" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Ookami to Kohaku-iro no Yuuutsu</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="6466" tvdbid="117801" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Kimi ni Todoke</name>

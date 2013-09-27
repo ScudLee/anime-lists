@@ -22953,6 +22953,9 @@
   </anime>
   <anime anidbid="8642" tvdbid="257518" defaulttvdbseason="1">
     <name>Sankarea</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="8643" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>DDD Niokeru Ikeda Bakuhatsu Rou to Watt no Honmyou</name>
@@ -23879,6 +23882,9 @@
   </anime>
   <anime anidbid="8969" tvdbid="257518" defaulttvdbseason="0">
     <name>Sankarea (2012)</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;2-3;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="8970" tvdbid="hentai" defaulttvdbseason="1">
     <name>Kansen 5: The Daybreak</name>

@@ -1154,6 +1154,7 @@
 		<title type="official" xml:lang="he">אלו הצדים שדונים</title>
 		<title type="official" xml:lang="ja">エルフを狩るモノたち</title>
 		<title type="official" xml:lang="pt-BR">Caçadores de Elfas</title>
+		<title type="official" xml:lang="ru">Ловцы эльфов</title>
 		<title type="short" xml:lang="en">TWHE</title>
 		<title type="short" xml:lang="en">TWHE1</title>
 		<title type="syn" xml:lang="bg">Тези, които ловят елфи</title>
@@ -1170,6 +1171,7 @@
 		<title type="official" xml:lang="fr">Ceux qui chassent des elfes 2</title>
 		<title type="official" xml:lang="ja">エルフを狩るモノたち II</title>
 		<title type="official" xml:lang="pt-BR">Caçadores de Elfas (2)</title>
+		<title type="official" xml:lang="ru">Ловцы эльфов 2</title>
 		<title type="short" xml:lang="en">TWHE2</title>
 		<title type="syn" xml:lang="bg">Тези, които ловят елфи II</title>
 		<title type="syn" xml:lang="ru">Те, Кто Охотятся на Эльфов II</title>
@@ -5263,12 +5265,13 @@
 		<title type="syn" xml:lang="zh-Hans">失落的宇宙</title>
 	</anime>
 	<anime aid="404">
-		<title type="main" xml:lang="x-jat">From I``s</title>
+		<title type="main" xml:lang="x-jat">From I``s: Mou Hitotsu no Natsu no Monogatari</title>
 		<title type="official" xml:lang="de">From I``s</title>
 		<title type="official" xml:lang="fr">From I``s</title>
-		<title type="official" xml:lang="ja">フロム I``s[アイズ]</title>
+		<title type="official" xml:lang="ja">フロム I``s もうひとつの夏の物語</title>
 		<title type="official" xml:lang="pl">From I"S</title>
 		<title type="short" xml:lang="x-jat">I`s</title>
+		<title type="syn" xml:lang="ja">フロム アイズ もうひとつの夏の物語</title>
 		<title type="syn" xml:lang="pl">I``s: Kolejna wakacyjna opowieść</title>
 	</anime>
 	<anime aid="405">
@@ -5783,10 +5786,10 @@
 		<title type="official" xml:lang="en">Burn-Up W - On the Case &amp; In your Face</title>
 		<title type="official" xml:lang="ja">バーンナップW</title>
 		<title type="official" xml:lang="pt-BR">Burn Up W</title>
+		<title type="official" xml:lang="ru">Вспыльчивые воины</title>
 		<title type="short" xml:lang="x-jat">buw</title>
 		<title type="syn" xml:lang="en">Burn Up! Warriors</title>
 		<title type="syn" xml:lang="es">Burn Up! Warriors</title>
-		<title type="syn" xml:lang="ru">Девочки со спичками</title>
 		<title type="syn" xml:lang="x-jat">Burn Up! Warrior</title>
 	</anime>
 	<anime aid="457">
@@ -6153,10 +6156,10 @@
 		<title type="official" xml:lang="es">Burn Up! Excess</title>
 		<title type="official" xml:lang="ja">バーンナップEXCESS</title>
 		<title type="official" xml:lang="pt-BR">Burn Up! Excess</title>
+		<title type="official" xml:lang="ru">Крайне вспыльчивые</title>
 		<title type="short" xml:lang="en">bux</title>
 		<title type="syn" xml:lang="en">Burn Up! X</title>
 		<title type="syn" xml:lang="es">Burn Up! X</title>
-		<title type="syn" xml:lang="ru">Крайне вспыльчивые</title>
 	</anime>
 	<anime aid="494">
 		<title type="main" xml:lang="x-jat">Dennou Sentai Voogie`s Angel</title>
@@ -7467,6 +7470,7 @@
 		<title type="official" xml:lang="en">Dragon Pink</title>
 		<title type="official" xml:lang="fr">Dragon PinK</title>
 		<title type="official" xml:lang="ja">ドラゴンピンク</title>
+		<title type="official" xml:lang="ru">Розовый дракон</title>
 		<title type="syn" xml:lang="en">Dragon Pink: Tale of Three Kitties</title>
 	</anime>
 	<anime aid="624">
@@ -8793,6 +8797,7 @@
 		<title type="official" xml:lang="fr">Street Fighter II V</title>
 		<title type="official" xml:lang="he">2 סטריט פייטר</title>
 		<title type="official" xml:lang="ja">ストリートファイターII V</title>
+		<title type="official" xml:lang="ru">Уличный боец II: Победа</title>
 		<title type="syn" xml:lang="bg">Уличен Боец 2</title>
 		<title type="syn" xml:lang="pl">Uliczny wojownik II: V</title>
 		<title type="syn" xml:lang="x-jat">Street Fighter 2 Victory</title>
@@ -12204,6 +12209,7 @@
 	<anime aid="1154">
 		<title type="main" xml:lang="x-jat">Idol Project</title>
 		<title type="official" xml:lang="ja">アイドルプロジェクト</title>
+		<title type="official" xml:lang="ru">Проект кумир</title>
 	</anime>
 	<anime aid="1155">
 		<title type="main" xml:lang="x-jat">Tanjou: Debut</title>
@@ -14133,6 +14139,7 @@
 		<title type="official" xml:lang="ca">La diana riallera</title>
 		<title type="official" xml:lang="en">Laughing Target</title>
 		<title type="official" xml:lang="ja">笑う標的</title>
+		<title type="syn" xml:lang="bg">Ехидна мишена</title>
 		<title type="syn" xml:lang="en">Rumic World 3</title>
 		<title type="syn" xml:lang="en">Rumic World - The Laughing Target</title>
 		<title type="syn" xml:lang="ja">高橋留美子傑作 るーみっくわーるど 笑う標的</title>
@@ -14471,7 +14478,7 @@
 		<title type="syn" xml:lang="x-jat">Yokai Ningen Bem</title>
 	</anime>
 	<anime aid="1449">
-		<title type="main" xml:lang="x-jat">Kagaku Ninja-Tai Gatchaman II</title>
+		<title type="main" xml:lang="x-jat">Kagaku Ninjatai Gatchaman II</title>
 		<title type="official" xml:lang="en">Eagle Riders</title>
 		<title type="official" xml:lang="fr">La patrouille des aigles</title>
 		<title type="official" xml:lang="ja">科学忍者隊ガッチャマンII</title>
@@ -14481,7 +14488,7 @@
 		<title type="syn" xml:lang="fr">Gatchaman, le combat des galaxies</title>
 	</anime>
 	<anime aid="1450">
-		<title type="main" xml:lang="x-jat">Kagaku Ninja-Tai Gatchaman Fighter</title>
+		<title type="main" xml:lang="x-jat">Kagaku Ninjatai Gatchaman Fighter</title>
 		<title type="official" xml:lang="en">Eagle Riders (2)</title>
 		<title type="official" xml:lang="fr">La patrouille des aigles (suite)</title>
 		<title type="official" xml:lang="ja">科学忍者隊ガッチャマン F</title>
@@ -15565,6 +15572,7 @@
 		<title type="official" xml:lang="es">Cutey Honey (1973)</title>
 		<title type="official" xml:lang="fr">Cherry Miel</title>
 		<title type="official" xml:lang="ja">キューティーハニー</title>
+		<title type="official" xml:lang="ru">Милая красотка</title>
 		<title type="short" xml:lang="ja">CH</title>
 		<title type="syn" xml:lang="x-jat">Cutey Honey 73</title>
 	</anime>
@@ -21406,6 +21414,7 @@
 		<title type="official" xml:lang="pt">Bleach</title>
 		<title type="official" xml:lang="pt-BR">Bleach</title>
 		<title type="official" xml:lang="ro">Bleach</title>
+		<title type="official" xml:lang="ru">Отбеливатель</title>
 		<title type="official" xml:lang="sr">Izbeljivač</title>
 		<title type="official" xml:lang="th">บลีช เทพมรณะ</title>
 		<title type="short" xml:lang="bg">Белина</title>
@@ -28141,7 +28150,7 @@
 		<title type="syn" xml:lang="zh-Hans">到另一个你的身边去</title>
 	</anime>
 	<anime aid="3513">
-		<title type="main" xml:lang="x-jat">Kagaku Ninja-Tai Gatchaman</title>
+		<title type="main" xml:lang="x-jat">Kagaku Ninjatai Gatchaman</title>
 		<title type="official" xml:lang="el">Ομάδα Τζι</title>
 		<title type="official" xml:lang="en">Battle of the Planets</title>
 		<title type="official" xml:lang="es">Fuerza G - Guardianes del Espacio</title>
@@ -29566,9 +29575,10 @@
 		<title type="official" xml:lang="fi">I"s Pure</title>
 		<title type="official" xml:lang="fr">I``s Pure</title>
 		<title type="official" xml:lang="it">I``S</title>
-		<title type="official" xml:lang="ja">I``s (アイズ) Pure</title>
+		<title type="official" xml:lang="ja">I``s Pure</title>
 		<title type="official" xml:lang="pl">I"s Pure</title>
 		<title type="short" xml:lang="x-jat">I``s OVA 2</title>
+		<title type="syn" xml:lang="ja">アイズピュア</title>
 	</anime>
 	<anime aid="3947">
 		<title type="main" xml:lang="x-jat">Gamba to Kawauso no Bouken</title>
@@ -33764,7 +33774,7 @@
 		<title type="official" xml:lang="ja">医辱</title>
 	</anime>
 	<anime aid="4616">
-		<title type="main" xml:lang="x-jat">Baby Saurus Dooly</title>
+		<title type="main" xml:lang="en">Baby Saurus Dooly</title>
 		<title type="official" xml:lang="ko">아기공룡 둘리</title>
 	</anime>
 	<anime aid="4617">
@@ -38016,7 +38026,7 @@
 		<title type="official" xml:lang="ja">しましまとらのしまじろう</title>
 	</anime>
 	<anime aid="5434">
-		<title type="main" xml:lang="x-jat">Kagaku Ninja-Tai Gatchaman (1978)</title>
+		<title type="main" xml:lang="x-jat">Kagaku Ninjatai Gatchaman (1978)</title>
 		<title type="official" xml:lang="ja">科学忍者隊 ガッチャマン (1978)</title>
 	</anime>
 	<anime aid="5435">
@@ -55079,6 +55089,7 @@
 	<anime aid="9127">
 		<title type="main" xml:lang="x-jat">Psycho-Pass</title>
 		<title type="official" xml:lang="en">Psycho-Pass</title>
+		<title type="official" xml:lang="it">Psycho-Pass</title>
 		<title type="official" xml:lang="ja">PSYCHO-PASS</title>
 		<title type="syn" xml:lang="bg">Психо-паспорт</title>
 		<title type="syn" xml:lang="ja">サイコパス</title>
@@ -55810,8 +55821,8 @@
 		<title type="syn" xml:lang="ko">내 여자친구와 소꿉친구가 너무 아수라장</title>
 	</anime>
 	<anime aid="9306">
-		<title type="main" xml:lang="x-jat">Bishoujo Senshi Sailor Moon (2013)</title>
-		<title type="official" xml:lang="ja">美少女戦士セーラームーン (2013)</title>
+		<title type="main" xml:lang="x-jat">Bishoujo Senshi Sailor Moon (2014)</title>
+		<title type="official" xml:lang="ja">美少女戦士セーラームーン (2014)</title>
 		<title type="short" xml:lang="en">sm2013</title>
 		<title type="syn" xml:lang="en">Pretty Soldier Sailor Moon (2013)</title>
 		<title type="syn" xml:lang="en">Sailor Moon Remake</title>
@@ -56791,6 +56802,7 @@
 		<title type="official" xml:lang="fr">Beyond The Boundary</title>
 		<title type="official" xml:lang="ja">境界の彼方</title>
 		<title type="official" xml:lang="uk">За гранню</title>
+		<title type="official" xml:lang="zh-Hans">境界的彼方</title>
 		<title type="syn" xml:lang="bg">Отвъд хоризонта</title>
 	</anime>
 	<anime aid="9519">
@@ -57420,6 +57432,7 @@
 		<title type="official" xml:lang="ja">勇者になれなかった俺はしぶしぶ就職を決意しました.</title>
 		<title type="short" xml:lang="x-jat">Yuushibu</title>
 		<title type="syn" xml:lang="en">I Couldn`t Become a Hero, so I Reluctantly Decided to Get a Job</title>
+		<title type="syn" xml:lang="x-jat">Yu-Shibu</title>
 		<title type="syn" xml:lang="x-unk">Yu-sibu</title>
 	</anime>
 	<anime aid="9660">
@@ -57588,12 +57601,16 @@
 		<title type="official" xml:lang="ko">2020년 우주의 원더키디</title>
 	</anime>
 	<anime aid="9709">
-		<title type="main" xml:lang="x-kot">Agigongnyong Dooly (1987)</title>
+		<title type="main" xml:lang="x-kot">Agigongryong Dooly (1987)</title>
 		<title type="official" xml:lang="ko">아기공룡 둘리 (1987)</title>
+		<title type="syn" xml:lang="en">Baby Dinosaur Dooly</title>
+		<title type="syn" xml:lang="en">Dooly, the Baby Dinosaur</title>
 	</anime>
 	<anime aid="9710">
-		<title type="main" xml:lang="x-kot">Agigongnyong Dooly (1988)</title>
+		<title type="main" xml:lang="x-kot">Agigongryong Dooly (1988)</title>
 		<title type="official" xml:lang="ko">아기공룡 둘리 (1988)</title>
+		<title type="syn" xml:lang="en">Baby Dinosaur Dooly (1988)</title>
+		<title type="syn" xml:lang="en">Dooly, the Baby Dinosaur (1988)</title>
 	</anime>
 	<anime aid="9711">
 		<title type="main" xml:lang="x-kot">Dooly-ui Baenang`yeohaeng</title>
@@ -57601,12 +57618,17 @@
 		<title type="syn" xml:lang="en">Dooly`s Backpacking</title>
 	</anime>
 	<anime aid="9712">
-		<title type="main" xml:lang="x-kot">Agigongnyong Dooly (1996)</title>
-		<title type="official" xml:lang="ko">아기공룡 둘리 (1996)</title>
+		<title type="main" xml:lang="x-kot">Agigongryong Dooly: Aeouleumbyul`daemohum</title>
+		<title type="official" xml:lang="ko">아기공룡 둘리: 얼음별 대모험</title>
+		<title type="syn" xml:lang="en">Baby Dinosaur Dooly (1996)</title>
+		<title type="syn" xml:lang="en">Dooly, the Baby Dinosaur (1996)</title>
+		<title type="syn" xml:lang="ko">아기공룡 둘리 (1996)</title>
 	</anime>
 	<anime aid="9713">
-		<title type="main" xml:lang="x-kot">Agigongnyong Dooly (2009)</title>
-		<title type="official" xml:lang="ko">아기공룡 둘리 (2009)</title>
+		<title type="main" xml:lang="x-kot">Agigongryong Dooly (2008)</title>
+		<title type="official" xml:lang="ko">아기공룡 둘리 (2008)</title>
+		<title type="syn" xml:lang="en">Baby Dinosaur Dooly (2008)</title>
+		<title type="syn" xml:lang="en">Dooly, the Baby Dinosaur (2008)</title>
 	</anime>
 	<anime aid="9714">
 		<title type="main" xml:lang="x-jat">Sparrow`s Hotel</title>
@@ -57816,6 +57838,7 @@
 		<title type="main" xml:lang="x-jat">Strike the Blood</title>
 		<title type="official" xml:lang="fr">Strike the Blood</title>
 		<title type="official" xml:lang="ja">ストライク・ザ・ブラッド</title>
+		<title type="official" xml:lang="zh-Hans">噬血狂袭</title>
 	</anime>
 	<anime aid="9774">
 		<title type="main" xml:lang="x-jat">Peeping Life 5.0ch</title>
@@ -57978,7 +58001,7 @@
 		<title type="syn" xml:lang="ja">ガッチャマン クラウズ</title>
 	</anime>
 	<anime aid="9821">
-		<title type="main" xml:lang="x-jat">Ohayou Ninja-tai Gatchaman</title>
+		<title type="main" xml:lang="x-jat">Ohayou Ninjatai Gatchaman</title>
 		<title type="official" xml:lang="ja">おはよう忍者隊ガッチャマン</title>
 	</anime>
 	<anime aid="9822">
@@ -58106,6 +58129,7 @@
 	<anime aid="9855">
 		<title type="main" xml:lang="x-jat">Outbreak Company</title>
 		<title type="official" xml:lang="ja">アウトブレイク・カンパニー</title>
+		<title type="official" xml:lang="zh-Hans">OUTBREAK COMPANY</title>
 	</anime>
 	<anime aid="9856">
 		<title type="main" xml:lang="x-jat">Ikeike! Momon-chan</title>
@@ -58614,6 +58638,7 @@
 		<title type="official" xml:lang="ja">京騒戯画 (2013)</title>
 		<title type="short" xml:lang="x-jat">kyousougiga tv</title>
 		<title type="syn" xml:lang="en">Capital Craze Comic (2013)</title>
+		<title type="syn" xml:lang="en">Mirror Capital</title>
 		<title type="syn" xml:lang="x-jat">Kyousogiga (2013)</title>
 	</anime>
 	<anime aid="9995">
@@ -58751,8 +58776,8 @@
 		<title type="official" xml:lang="ja">クマのミナクロと公平じいさん</title>
 	</anime>
 	<anime aid="10038">
-		<title type="main" xml:lang="x-jat">Wooser no Sono Higurashi (2014)</title>
-		<title type="official" xml:lang="ja">うーさーのその日暮らし (2014)</title>
+		<title type="main" xml:lang="x-jat">Wooser no Sono Higurashi Kakusei Hen</title>
+		<title type="official" xml:lang="ja">うーさーのその日暮らし 覚醒編</title>
 	</anime>
 	<anime aid="10039">
 		<title type="main" xml:lang="x-jat">Yamada-kun to 7-nin no Majo</title>
@@ -59283,6 +59308,10 @@
 		<title type="main" xml:lang="x-jat">Seiyuu Sentai Voicetorm7</title>
 		<title type="official" xml:lang="ja">声優戦隊ボイストーム７</title>
 	</anime>
+	<anime aid="10193">
+		<title type="main" xml:lang="x-jat">Hana no Zundamaru</title>
+		<title type="official" xml:lang="ja">花のずんだ丸</title>
+	</anime>
 </animetitles>
 
-<!-- Created: Fri Oct 11 02:00:27 2013 (7936 anime, 43411 titles) -->
+<!-- Created: Sun Oct 13 02:00:43 2013 (7937 anime, 43438 titles) -->

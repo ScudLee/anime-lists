@@ -756,6 +756,7 @@
     <anime anidbid="2878">Hi no Tori: Uchuu Hen</anime>
     <anime anidbid="3200">Hi no Tori: Yamato Hen</anime>
     <anime anidbid="9397">Hi no Tori: Hagoromo Hen</anime>
+    <anime anidbid="10055">Hi no Tori: Kizuna Hen</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Hi no Tori Collection</title>
       <title type="official" xml:lang="en">Phoenix Collection</title>
@@ -2281,6 +2282,13 @@
     <anime anidbid="9959">Zukkoke Sanningumi: Kusunoki Yashiki no Guruguru-sama</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Zukkoke Sanningumi Collection</title>
+    </titles>
+  </set>
+  <set>
+    <anime anidbid="10008">Gekijouban Girls und Panzer</anime>
+    <anime anidbid="10009">Girls und Panzer: Ooarai Joshi Gakuen vs Anzio Koukou</anime>
+    <titles>
+      <title type="main" xml:lang="x-jat">Girls und Panzer Collection</title>
     </titles>
   </set>
 </anime-set-list>

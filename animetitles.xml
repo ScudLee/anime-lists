@@ -15738,6 +15738,7 @@
 		<title type="main" xml:lang="x-jat">Mahou Shoujo Tai Arusu</title>
 		<title type="official" xml:lang="en">Tweeny Witches</title>
 		<title type="official" xml:lang="ja">魔法少女隊アルス</title>
+		<title type="official" xml:lang="ru">Три ведьмы</title>
 		<title type="short" xml:lang="x-jat">arusu</title>
 		<title type="short" xml:lang="x-jat">MSTA</title>
 		<title type="syn" xml:lang="en">Magic-Girl Squad - Alice</title>
@@ -17251,6 +17252,7 @@
 	<anime aid="1826">
 		<title type="main" xml:lang="x-jat">Dragon Slayer Eiyuu Densetsu: Ouji no Tabidachi</title>
 		<title type="official" xml:lang="ja">ドラゴンスレイヤー英雄伝説 王子の旅立ち</title>
+		<title type="official" xml:lang="pt-BR">Dragon Slayer: A Lenda de um Herói</title>
 		<title type="short" xml:lang="x-jat">Dragon Slayer</title>
 		<title type="syn" xml:lang="en">Dragon Slayer: The Legend of Heroes</title>
 	</anime>
@@ -26130,8 +26132,8 @@
 		<title type="official" xml:lang="en">Yotoden: Chronicle of the Warlord Period</title>
 		<title type="official" xml:lang="ja">戦国奇譚妖刀伝</title>
 		<title type="official" xml:lang="pl">Magiczny miecz ninja</title>
+		<title type="official" xml:lang="pt-BR">O Espadachim Ninja</title>
 		<title type="syn" xml:lang="pl">Zaklęty miecz ninja</title>
-		<title type="syn" xml:lang="pt-BR">Espadachim Ninja</title>
 		<title type="syn" xml:lang="ru">Гнев ниндзя</title>
 		<title type="syn" xml:lang="ru">Йотоден: Хроники военного времени</title>
 		<title type="syn" xml:lang="x-jat">Sengoku Kidan Youtouden</title>
@@ -40230,6 +40232,7 @@
 		<title type="official" xml:lang="ja">とある魔術の禁書目録[インデックス]</title>
 		<title type="official" xml:lang="th">คัมภีร์คาถาต้องห้าม อินเด็กซ์</title>
 		<title type="short" xml:lang="en">Index</title>
+		<title type="short" xml:lang="en">Index1</title>
 		<title type="syn" xml:lang="ru">Индекс Волшебства</title>
 		<title type="syn" xml:lang="ru">Некий магический индекс</title>
 		<title type="syn" xml:lang="uk">То ару маджіцу но Індекс</title>
@@ -40381,6 +40384,7 @@
 		<title type="main" xml:lang="x-jat">Porong Porong Pororo</title>
 		<title type="official" xml:lang="en">Pororo - The Little Penguin</title>
 		<title type="official" xml:lang="fr">Pororo - Le petit pingouin</title>
+		<title type="official" xml:lang="ja">ポロンポロン ポロロ</title>
 		<title type="official" xml:lang="ko">뽀롱뽀롱 뽀로로</title>
 		<title type="short" xml:lang="fr">Pororo</title>
 	</anime>
@@ -40390,7 +40394,7 @@
 		<title type="syn" xml:lang="en">Yoichi Hatta: The Father of the Chianan Canal</title>
 	</anime>
 	<anime aid="6022">
-		<title type="main" xml:lang="x-jat">Futago no Monchhichi</title>
+		<title type="main" xml:lang="x-jat">Futago no Monchicchi</title>
 		<title type="official" xml:lang="ja">ふたごのモンチッチ</title>
 	</anime>
 	<anime aid="6023">
@@ -53012,11 +53016,13 @@
 		<title type="official" xml:lang="en">Nisemonogatari</title>
 		<title type="official" xml:lang="fr">Nisemonogatari (Histoires d`Imposture)</title>
 		<title type="official" xml:lang="ja">偽物語</title>
-		<title type="official" xml:lang="ko">가짜 이야기</title>
+		<title type="official" xml:lang="ko">니세모노가타리</title>
+		<title type="official" xml:lang="x-kot">니세모노가타리</title>
 		<title type="official" xml:lang="zh-Hans">伪物语</title>
 		<title type="short" xml:lang="x-jat">NMG</title>
 		<title type="syn" xml:lang="en">Bogustory</title>
 		<title type="syn" xml:lang="en">Impostory</title>
+		<title type="syn" xml:lang="ko">가짜 이야기</title>
 	</anime>
 	<anime aid="8659">
 		<title type="main" xml:lang="x-jat">Natsu-iro Surprise</title>
@@ -55321,6 +55327,7 @@
 		<title type="official" xml:lang="ja">物語シリーズ セカンドシーズン</title>
 		<title type="official" xml:lang="zh-Hans">物语系列 第二季</title>
 		<title type="short" xml:lang="x-jat">MSSS</title>
+		<title type="syn" xml:lang="en">Monogatari SS</title>
 		<title type="syn" xml:lang="en">Story Series: Second Season</title>
 		<title type="syn" xml:lang="ja">猫物語(白)</title>
 		<title type="syn" xml:lang="x-jat">Kabukimonogatari</title>
@@ -56082,10 +56089,10 @@
 	</anime>
 	<anime aid="9358">
 		<title type="main" xml:lang="x-jat">Amnesia</title>
-		<title type="official" xml:lang="bg">Амнезия</title>
 		<title type="official" xml:lang="en">Amnesia</title>
 		<title type="official" xml:lang="ja">AMNESIA</title>
 		<title type="official" xml:lang="ko">암네시아</title>
+		<title type="syn" xml:lang="bg">Амнезия</title>
 	</anime>
 	<anime aid="9359">
 		<title type="main" xml:lang="x-jat">Litchi De Hikari Club</title>
@@ -56468,12 +56475,16 @@
 		<title type="main" xml:lang="x-jat">Nekomonogatari (Kuro)</title>
 		<title type="official" xml:lang="fr">Nekomonogatari Noir</title>
 		<title type="official" xml:lang="ja">猫物語(黒)</title>
+		<title type="official" xml:lang="ko">네코모노가타리</title>
+		<title type="official" xml:lang="x-kot">네코모노가타리</title>
 		<title type="official" xml:lang="zh-Hans">猫物语（黑）</title>
 		<title type="short" xml:lang="x-jat">nkmg</title>
 		<title type="short" xml:lang="x-jat">nmgk</title>
 		<title type="syn" xml:lang="en">Cat Story (Black)</title>
 		<title type="syn" xml:lang="en">Nekomonogatari Black</title>
+		<title type="syn" xml:lang="ko">고양이 이야기 (흑)</title>
 		<title type="syn" xml:lang="x-jat">Tsubasa Family</title>
+		<title type="syn" xml:lang="x-kot">네코모노가타리 (흑)</title>
 	</anime>
 	<anime aid="9454">
 		<title type="main" xml:lang="x-jat">Saint Oniisan</title>
@@ -57132,6 +57143,8 @@
 	<anime aid="9591">
 		<title type="main" xml:lang="x-jat">Yowamushi Pedal</title>
 		<title type="official" xml:lang="ja">弱虫ペダル</title>
+		<title type="syn" xml:lang="bg">Плахият велосипедист</title>
+		<title type="syn" xml:lang="ru">Трусливый Велосипедист</title>
 	</anime>
 	<anime aid="9592">
 		<title type="main" xml:lang="x-kot">Cheorin Samchongsa</title>
@@ -57498,6 +57511,7 @@
 		<title type="main" xml:lang="x-jat">Genshiken Nidaime</title>
 		<title type="official" xml:lang="en">Genshiken Second Season</title>
 		<title type="official" xml:lang="ja">げんしけん 二代目</title>
+		<title type="short" xml:lang="en">Genshiken Gen2</title>
 		<title type="syn" xml:lang="en">Genshiken Second Generation</title>
 	</anime>
 	<anime aid="9677">
@@ -58235,7 +58249,9 @@
 		<title type="official" xml:lang="en">Ace of the Diamond</title>
 		<title type="official" xml:lang="ja">ダイヤのA[エース]</title>
 		<title type="syn" xml:lang="en">Ace of Diamond</title>
+		<title type="syn" xml:lang="x-jat">Daiya no A</title>
 		<title type="syn" xml:lang="x-jat">Daiya no Ace</title>
+		<title type="syn" xml:lang="x-jat">Daiya no Eisu</title>
 		<title type="syn" xml:lang="x-jat">Diamond no Ace</title>
 	</anime>
 	<anime aid="9882">
@@ -59312,6 +59328,47 @@
 		<title type="main" xml:lang="x-jat">Hana no Zundamaru</title>
 		<title type="official" xml:lang="ja">花のずんだ丸</title>
 	</anime>
+	<anime aid="10197">
+		<title type="main" xml:lang="x-jat">Seitokai Yakuindomo 2</title>
+		<title type="official" xml:lang="ja">生徒会役員共 2</title>
+	</anime>
+	<anime aid="10198">
+		<title type="main" xml:lang="x-jat">Strike Witches 3</title>
+		<title type="official" xml:lang="ja">ストライクウィッチーズ 3</title>
+	</anime>
+	<anime aid="10199">
+		<title type="main" xml:lang="x-jat">Parol no Mirai Shima</title>
+		<title type="official" xml:lang="ja">パロルのみらい島</title>
+	</anime>
+	<anime aid="10200">
+		<title type="main" xml:lang="x-jat">Ookii 1 Nensei to Chiisana 2 Nensei</title>
+		<title type="official" xml:lang="ja">大きい1年生と小さな2年生</title>
+		<title type="syn" xml:lang="ja">大きい一年生と小さな二年生</title>
+	</anime>
+	<anime aid="10201">
+		<title type="main" xml:lang="x-jat">Kuro no Sumika: Chronus</title>
+		<title type="official" xml:lang="ja">黒の栖-クロノス-</title>
+	</anime>
+	<anime aid="10202">
+		<title type="main" xml:lang="x-jat">Harmonie</title>
+		<title type="official" xml:lang="ja">アルモニ</title>
+	</anime>
+	<anime aid="10203">
+		<title type="main" xml:lang="x-jat">Dokidoki Gakuen Kessen!! Youki Daimashiro</title>
+		<title type="official" xml:lang="ja">ドキドキ学園 決戦!!妖奇大魔城</title>
+	</anime>
+	<anime aid="10204">
+		<title type="main" xml:lang="x-jat">Music S.T.A.R.T!!</title>
+		<title type="official" xml:lang="ja">Music S.T.A.R.T!!</title>
+	</anime>
+	<anime aid="10205">
+		<title type="main" xml:lang="x-jat">Onee-chan ga Kita</title>
+		<title type="official" xml:lang="ja">お姉ちゃんが来た</title>
+	</anime>
+	<anime aid="10206">
+		<title type="main" xml:lang="x-jat">JoJo no Kimyou na Bouken (2014)</title>
+		<title type="official" xml:lang="ja">ジョジョの奇妙な冒険 (2014)</title>
+	</anime>
 </animetitles>
 
-<!-- Created: Sun Oct 13 02:00:43 2013 (7937 anime, 43438 titles) -->
+<!-- Created: Thu Oct 17 02:00:34 2013 (7947 anime, 43475 titles) -->

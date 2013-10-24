@@ -23423,7 +23423,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="8466" tvdbid="259863" defaulttvdbseason="2" tmdbid="" imdbid="">
-    <name>Shiranpuri</name>
+    <name>Shiranpuri (2012)</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="2">;1-4;</mapping>
     </mapping-list>
@@ -24457,7 +24457,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="8827" tvdbid="246521" defaulttvdbseason="0" tmdbid="" imdbid="tt2404237">
-    <name>Gekijouban Hanasaku Iroha: Home Sweet Home</name>
+    <name>Hanasaku Iroha: Home Sweet Home</name>
   </anime>
   <anime anidbid="8828" tvdbid="unknown" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Sylvanian Families</name>
@@ -24727,7 +24727,7 @@
     <name>Blood Lad</name>
   </anime>
   <anime anidbid="8931" tvdbid="118101" defaulttvdbseason="3" tmdbid="" imdbid="">
-    <name>Sora no Otoshimono Dai San-ki</name>
+    <name>Sora no Otoshimono (2014)</name>
   </anime>
   <anime anidbid="8932" tvdbid="249875" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Nekogami Yaoyorozu: Ohanami Ghostbusters</name>
@@ -26118,7 +26118,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="9454" tvdbid="267754" defaulttvdbseason="0" tmdbid="" imdbid="tt2431934">
-    <name>Saint Oniisan</name>
+    <name>Saint Onii-san</name>
   </anime>
   <anime anidbid="9455" tvdbid="265386" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Puchimas! Wakku Waku!!</name>
@@ -27804,9 +27804,6 @@
   <anime anidbid="10098" tvdbid="OVA" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Okaa-san no Yasashii Te</name>
   </anime>
-  <anime anidbid="10099" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Little Busters! EX</name>
-  </anime>
   <anime anidbid="10101" tvdbid="OVA" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Hibike! Wadaiko</name>
   </anime>
@@ -28084,6 +28081,48 @@
     <name>Onee-chan ga Kita</name>
   </anime>
   <anime anidbid="10206" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>JoJo no Kimyou na Bouken (2014)</name>
+    <name>JoJo no Kimyou na Bouken: Stardust Crusaders</name>
+  </anime>
+  <anime anidbid="10207" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>DPR Special Movie</name>
+  </anime>
+  <anime anidbid="10208" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Ore no Nounai Sentakushi ga, Gakuen Lovecome o Zenryoku de Jama Shiteiru (2014)</name>
+  </anime>
+  <anime anidbid="10209" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Osamu to Musashi</name>
+  </anime>
+  <anime anidbid="10210" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Kin'iro no Chord 3</name>
+  </anime>
+  <anime anidbid="10211" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Yakusoku</name>
+  </anime>
+  <anime anidbid="10212" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Sekai Seifuku: Bouryaku no Zvezda</name>
+  </anime>
+  <anime anidbid="10215" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Hamuko Mairu!</name>
+  </anime>
+  <anime anidbid="10216" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Himekishi Olivia</name>
+  </anime>
+  <anime anidbid="10217" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Mechano - Scientific Attack Force</name>
+  </anime>
+  <anime anidbid="10218" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Kagerouka-kun</name>
+  </anime>
+  <anime anidbid="10220" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Saibi</name>
+  </anime>
+  <anime anidbid="10221" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Dekakute Ecchi na Ore no Ane</name>
+  </anime>
+  <anime anidbid="10222" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Ojamajo Doremi no Koutsuu Anzen</name>
+  </anime>
+  <anime anidbid="10223" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Shiranpuri</name>
   </anime>
 </anime-list>

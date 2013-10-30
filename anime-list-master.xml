@@ -6484,7 +6484,7 @@
     <name>Dousou Kai: Yesterday Once More</name>
   </anime>
   <anime anidbid="1877" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
-    <name>Suki da yo!</name>
+    <name>Suki Da yo!</name>
   </anime>
   <anime anidbid="1878" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Tokubetsu Jugyou</name>
@@ -9312,7 +9312,7 @@
     <name>Tokyo Vice</name>
   </anime>
   <anime anidbid="2796" tvdbid="OVA" defaulttvdbseason="1" tmdbid="" imdbid="tt0141545">
-    <name>Lightning Trap - Leina &amp; Laika</name>
+    <name>Lightning Trap: Leina &amp; Laika</name>
   </anime>
   <anime anidbid="2797" tvdbid="OVA" defaulttvdbseason="1" tmdbid="" imdbid="unknown">
     <name>X Densha de Ikou</name>
@@ -10579,7 +10579,7 @@
     <name>Ai Monogatari: 9 Love Stories</name>
   </anime>
   <anime anidbid="3355" tvdbid="OVA" defaulttvdbseason="1" tmdbid="" imdbid="tt2185700">
-    <name>Hijikata Toshizou Shiro no Kiseki</name>
+    <name>Hijikata Toshizou: Shiro no Kiseki</name>
   </anime>
   <anime anidbid="3356" tvdbid="unknown" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Sushi Azarashi</name>
@@ -14271,7 +14271,7 @@
     <name>Inda no Himekishi Janne The Animation</name>
   </anime>
   <anime anidbid="4943" tvdbid="unknown" defaulttvdbseason="0" tmdbid="" imdbid="">
-    <name>21 Emon Sora Ike! Hadashi no Princess</name>
+    <name>21 Emon: Sora Ike! Hadashi no Princess</name>
   </anime>
   <anime anidbid="4944" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="tt0373944">
     <name>11 Piki no Neko</name>
@@ -15245,7 +15245,7 @@
     <name>Byeolnala Samchongsa</name>
   </anime>
   <anime anidbid="5323" tvdbid="unknown" defaulttvdbseason="0" tmdbid="" imdbid="">
-    <name>21 Emon Uchuu e Irasshai!</name>
+    <name>21 Emon: Uchuu e Irasshai!</name>
   </anime>
   <anime anidbid="5324" tvdbid="OVA" defaulttvdbseason="1" tmdbid="" imdbid="unknown">
     <name>Aries: Shinwa no Seizakyuu</name>
@@ -22898,7 +22898,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="8279" tvdbid="72775" defaulttvdbseason="0" tmdbid="" imdbid="tt2231489">
-    <name>Saint Seiya (2014)</name>
+    <name>Saint Seiya: Legend of Sanctuary</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-99;</mapping>
     </mapping-list>
@@ -27898,7 +27898,7 @@
     <name>Super Sonico The Animation</name>
   </anime>
   <anime anidbid="10135" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Puchimas! Petit Idolmaster 2</name>
+    <name>Puchimas! Petit Idolmaster (2014)</name>
   </anime>
   <anime anidbid="10136" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Minna Ichiban!</name>
@@ -28108,10 +28108,10 @@
     <name>Himekishi Olivia</name>
   </anime>
   <anime anidbid="10217" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Mechano - Scientific Attack Force</name>
+    <name>Mechano: Scientific Attack Force</name>
   </anime>
   <anime anidbid="10218" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Kagerouka-kun</name>
+    <name>Kagerou Kaa-kun</name>
   </anime>
   <anime anidbid="10220" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Saibi</name>
@@ -28124,5 +28124,29 @@
   </anime>
   <anime anidbid="10223" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Shiranpuri</name>
+  </anime>
+  <anime anidbid="10225" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Juugo Shounen Hyouryuuki Kaizokujima DE! Daibouken</name>
+  </anime>
+  <anime anidbid="10226" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Gatchaman Crowds Second</name>
+  </anime>
+  <anime anidbid="10227" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Eiga Precure All Stars New Stage 3: Eien no Tomodachi</name>
+  </anime>
+  <anime anidbid="10228" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Strange+</name>
+  </anime>
+  <anime anidbid="10231" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Oppai Infinity! The Animation</name>
+  </anime>
+  <anime anidbid="10232" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Non Non Biyori OAD</name>
+  </anime>
+  <anime anidbid="10233" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Amanee!</name>
+  </anime>
+  <anime anidbid="10234" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Wonder Garden</name>
   </anime>
 </anime-list>

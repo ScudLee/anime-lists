@@ -18231,6 +18231,9 @@
   <anime anidbid="7932" tvdbid="151281" defaulttvdbseason="2">
     <name>Hakuouki: Hekketsu-roku - Shinsengumi Kitan</name>
   </anime>
+  <anime anidbid="7933" tvdbid="272132" defaulttvdbseason="1">
+    <name>Coppelion</name>
+  </anime>
   <anime anidbid="7934" tvdbid="219771" defaulttvdbseason="1">
     <name>Beelzebub</name>
   </anime>
@@ -22773,5 +22776,56 @@
   </anime>
   <anime anidbid="10117" tvdbid="OVA" defaulttvdbseason="1">
     <name>Ji no Nai Hagaki</name>
+  </anime>
+  <anime anidbid="10118" tvdbid="OVA" defaulttvdbseason="1">
+    <name>Yasashii Ookami</name>
+  </anime>
+  <anime anidbid="10119" tvdbid="OVA" defaulttvdbseason="1">
+    <name>Ashita Kirarin</name>
+  </anime>
+  <anime anidbid="10120" tvdbid="OVA" defaulttvdbseason="1">
+    <name>Shutter Chance</name>
+  </anime>
+  <anime anidbid="10121" tvdbid="web" defaulttvdbseason="1">
+    <name>Baa-cha no Kingyo</name>
+  </anime>
+  <anime anidbid="10122" tvdbid="music video" defaulttvdbseason="1">
+    <name>Rinkaku</name>
+  </anime>
+  <anime anidbid="10123" tvdbid="music video" defaulttvdbseason="1">
+    <name>Misenai Namida wa, Kitto Itsuka</name>
+  </anime>
+  <anime anidbid="10124" tvdbid="music video" defaulttvdbseason="1">
+    <name>Take Your Way</name>
+  </anime>
+  <anime anidbid="10125" tvdbid="OVA" defaulttvdbseason="1">
+    <name>Yume, Soratakaku</name>
+  </anime>
+  <anime anidbid="10126" tvdbid="OVA" defaulttvdbseason="1">
+    <name>Kokoro no Koukyougaku</name>
+  </anime>
+  <anime anidbid="10184" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Oni Chichi: Rebuild</name>
+  </anime>
+  <anime anidbid="10188" tvdbid="movie" defaulttvdbseason="1" imdbid="tt1878842">
+    <name>A Jewish Girl in Shanghai</name>
+  </anime>
+  <anime anidbid="10191" tvdbid="252474" defaulttvdbseason="0">
+    <name>Maken-ki! Two: Takeru Nyotaika!? Minami no Shima de Supoon</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-8;</mapping>
+    </mapping-list>
+  </anime>
+  <anime anidbid="10206" tvdbid="262954" defaulttvdbseason="2">
+    <name>JoJo no Kimyou na Bouken: Stardust Crusaders</name>
+  </anime>
+  <anime anidbid="10210" tvdbid="159551" defaulttvdbseason="2">
+    <name>Kin'iro no Chord 3</name>
+  </anime>
+  <anime anidbid="10222" tvdbid="82378" defaulttvdbseason="0">
+    <name>Ojamajo Doremi no Koutsuu Anzen</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
 </anime-list>

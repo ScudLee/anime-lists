@@ -1243,7 +1243,7 @@
     <name>Space Ofera Agga Ruter</name>
   </anime>
   <anime anidbid="316" tvdbid="146611" defaulttvdbseason="1" tmdbid="" imdbid="">
-    <name>Buttobi CPU</name>
+    <name>Buttobi!! CPU</name>
   </anime>
   <anime anidbid="317" tvdbid="79050" defaulttvdbseason="2" tmdbid="" imdbid="">
     <name>Jungle wa Itsumo Hare Nochi Guu Deluxe</name>
@@ -5901,7 +5901,7 @@
     <name>Ikkyuu-san to Yancha Hime</name>
   </anime>
   <anime anidbid="1681" tvdbid="240711" defaulttvdbseason="1" tmdbid="" imdbid="">
-    <name>Arrow Emblem Grand Prix no Taka</name>
+    <name>Arrow Emblem: Grand Prix no Taka</name>
   </anime>
   <anime anidbid="1682" tvdbid="113521" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Daikuu Maryuu Gaiking</name>
@@ -9550,7 +9550,7 @@
     <name>Ai</name>
   </anime>
   <anime anidbid="2871" tvdbid="80686" defaulttvdbseason="1" tmdbid="" imdbid="">
-    <name>Ahiru no Quack</name>
+    <name>Chiisana Ahiru no Ooki na Ai no Monogatari: Ahiru no Kwak</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="1">;1-1;2-2;3-3;4-4;5-5;6-6;7-7;8-8;9-9;10-10;11-11;12-12;13-13;14-14;15-15;16-16;17-17;18-18;19-19;20-20;21-21;22-22;23-23;24-24;25-25;26-26;</mapping>
       <mapping anidbseason="1" tvdbseason="2">;27-1;28-2;29-3;30-4;31-5;32-6;33-7;34-8;35-9;36-10;37-11;38-12;39-13;40-14;41-15;42-16;43-17;44-18;45-19;46-20;47-21;48-22;49-23;50-24;51-25;52-26;</mapping>
@@ -11309,7 +11309,7 @@
     <name>Tenkuu Senki Shurato: Sousei e no Antou</name>
   </anime>
   <anime anidbid="3601" tvdbid="85319" defaulttvdbseason="1" tmdbid="" imdbid="">
-    <name>Taotao Ehonkan Sekai Doubutsubanashi</name>
+    <name>Taotao Ehonkan: Sekai Doubutsubanashi</name>
   </anime>
   <anime anidbid="3602" tvdbid="unknown" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Nessa no Haou Gandalla</name>
@@ -11586,7 +11586,7 @@
     <name>Bouken Ou Beet Exelion</name>
   </anime>
   <anime anidbid="3704" tvdbid="100161" defaulttvdbseason="1" tmdbid="" imdbid="">
-    <name>Gaiking</name>
+    <name>Gaiking: Legend of Daiku-Maryu</name>
   </anime>
   <anime anidbid="3705" tvdbid="72775" defaulttvdbseason="5" tmdbid="" imdbid="">
     <name>Saint Seiya: Meiou Hades Meikai Hen</name>
@@ -14869,7 +14869,7 @@
     <name>Hyakka Zukan</name>
   </anime>
   <anime anidbid="5157" tvdbid="unknown" defaulttvdbseason="1" tmdbid="" imdbid="">
-    <name>Robby &amp; Kerobby</name>
+    <name>Robby to Kerobby</name>
   </anime>
   <anime anidbid="5158" tvdbid="unknown" defaulttvdbseason="3" tmdbid="" imdbid="">
     <name>Onegai My Melody Sukkiri</name>
@@ -17423,7 +17423,7 @@
     <name>Zoo no Inai Doubutsuen</name>
   </anime>
   <anime anidbid="6389" tvdbid="80554" defaulttvdbseason="0" tmdbid="" imdbid="">
-    <name>Hayate no Gotoku!! Hayate the Combat Butler 2nd Season: Atsu ga Natsui ze - Mizugi Hen!</name>
+    <name>Hayate no Gotoku!! 2nd Season: Atsu ga Natsui ze - Mizugi Hen!</name>
   </anime>
   <anime anidbid="6391" tvdbid="256347" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Mainichi Kaa-san</name>
@@ -17492,7 +17492,7 @@
     <name>Gokujou!! Mecha Mote Iinchou</name>
   </anime>
   <anime anidbid="6413" tvdbid="80554" defaulttvdbseason="2" tmdbid="" imdbid="">
-    <name>Hayate no Gotoku!! Hayate the Combat Butler 2nd Season</name>
+    <name>Hayate no Gotoku!! 2nd Season</name>
   </anime>
   <anime anidbid="6419" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Anata no Shiranai Kangofu: Seiteki Byoutou 24 Ji</name>
@@ -25686,7 +25686,7 @@
     <name>Kindan no Byoutou The Animation</name>
   </anime>
   <anime anidbid="9291" tvdbid="80554" defaulttvdbseason="3" tmdbid="" imdbid="">
-    <name>Hayate no Gotoku! Hayate the Combat Butler: Can't Take My Eyes Off You</name>
+    <name>Hayate no Gotoku! Can't Take My Eyes Off You</name>
   </anime>
   <anime anidbid="9292" tvdbid="264527" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Hakkenden: Touhou Hakken Ibun</name>
@@ -26664,7 +26664,7 @@
     <name>Gakkatsu! (2013)</name>
   </anime>
   <anime anidbid="9658" tvdbid="73749" defaulttvdbseason="0" tmdbid="" imdbid="">
-    <name>Koukaku Kidoutai Arise: Ghost in the Shell</name>
+    <name>Koukaku Kidoutai Arise</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
       <mapping anidbseason="1" tvdbseason="0">;1-60;2-61;3-62;4-63;</mapping>
@@ -27089,9 +27089,6 @@
   </anime>
   <anime anidbid="9833" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Mahou no Princess Minky Momo: Hitomi no Seiza - Minky Momo Song Special</name>
-  </anime>
-  <anime anidbid="9834" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Fairy Tail x Rave</name>
   </anime>
   <anime anidbid="9836" tvdbid="273003" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Gingitsune</name>
@@ -28154,5 +28151,47 @@
   </anime>
   <anime anidbid="10237" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Joshikousei no Koshitsuki 2</name>
+  </anime>
+  <anime anidbid="10238" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Shengshi Chuanshuo</name>
+  </anime>
+  <anime anidbid="10240" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Meiji Tokyo Renka</name>
+  </anime>
+  <anime anidbid="10241" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Escha &amp; Logy no Atelier: Tasogare no Sora no Renkinjutsushi</name>
+  </anime>
+  <anime anidbid="10242" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Chou Zenmairobo: Patrasche</name>
+  </anime>
+  <anime anidbid="10243" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Nobunaga the Fool</name>
+  </anime>
+  <anime anidbid="10244" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Baby Steps</name>
+  </anime>
+  <anime anidbid="10245" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Wake Up, Girls! Shichinin no Idol</name>
+  </anime>
+  <anime anidbid="10246" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Kadeu Wang Mikseu Maseuteo</name>
+  </anime>
+  <anime anidbid="10247" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Robot Taekwon V: Wooju Jakjeon</name>
+  </anime>
+  <anime anidbid="10248" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Robot Taekwon V 3tan! Sujung Teukgongdae</name>
+  </anime>
+  <anime anidbid="10249" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Robot Taekwon V wa Hwanggeum Nalgae</name>
+  </anime>
+  <anime anidbid="10250" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>84 Taekwon V</name>
+  </anime>
+  <anime anidbid="10251" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Syupeo Taegwon V</name>
+  </anime>
+  <anime anidbid="10252" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Eiga Crayon Shin-chan: Gachinko! Gyakushuu no Robo To-chan</name>
   </anime>
 </anime-list>

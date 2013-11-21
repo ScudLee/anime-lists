@@ -10797,7 +10797,7 @@
     <name>Bible Black Only Version</name>
   </anime>
   <anime anidbid="3431" tvdbid="73749" defaulttvdbseason="0" tmdbid="" imdbid="tt1024215">
-    <name>Koukaku Kidoutai Stand Alone Complex The Laughing Man</name>
+    <name>Koukaku Kidoutai Stand Alone Complex: The Laughing Man</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
     </mapping-list>
@@ -12641,7 +12641,7 @@
     <name>Tachiguishi Retsuden</name>
   </anime>
   <anime anidbid="4290" tvdbid="73749" defaulttvdbseason="0" tmdbid="" imdbid="tt1024214">
-    <name>Koukaku Kidoutai S.A.C. 2nd GIG Individual Eleven</name>
+    <name>Koukaku Kidoutai S.A.C. 2nd GIG: Individual Eleven</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
     </mapping-list>
@@ -24336,7 +24336,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="8789" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="tt0245655">
-    <name>Taekwon V</name>
+    <name>Robot Taekwon V</name>
   </anime>
   <anime anidbid="8790" tvdbid="OVA" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Kibun wa Uaa Jitsuzai OL Kouza</name>
@@ -27580,7 +27580,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="10009" tvdbid="262098" defaulttvdbseason="0" tmdbid="" imdbid="">
-    <name>Girls und Panzer: Ooarai Joshi Gakuen vs Anzio Koukou</name>
+    <name>Girls und Panzer: Kore ga Hontou no Anzio-sen desu</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
@@ -28038,14 +28038,11 @@
       <mapping anidbseason="1" tvdbseason="0">;1-8;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="10192" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Seiyuu Sentai Voicetorm 7</name>
-  </anime>
   <anime anidbid="10193" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Hana no Zundamaru</name>
   </anime>
   <anime anidbid="10197" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Seitokai Yakuindomo 2</name>
+    <name>Seitokai Yakuindomo *</name>
   </anime>
   <anime anidbid="10198" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Strike Witches 3</name>
@@ -28174,24 +28171,75 @@
     <name>Wake Up, Girls! Shichinin no Idol</name>
   </anime>
   <anime anidbid="10246" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Kadeu Wang Mikseu Maseuteo</name>
+    <name>Kaduu Wang Miksuu Mastaa</name>
   </anime>
   <anime anidbid="10247" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Robot Taekwon V: Wooju Jakjeon</name>
+    <name>Robot Taekwon V Jae2tan: Wooju-jakjeon</name>
   </anime>
   <anime anidbid="10248" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Robot Taekwon V 3tan! Sujung Teukgongdae</name>
+    <name>Robot Taekwon V Jae3tan! - Sujuung Teukgongdae</name>
   </anime>
   <anime anidbid="10249" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Robot Taekwon V wa Hwanggeum Nalgae</name>
+    <name>Robot Taekwon V wa Hwanggeum Nalgae ue Daegyul</name>
   </anime>
   <anime anidbid="10250" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>84 Taekwon V</name>
   </anime>
   <anime anidbid="10251" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Syupeo Taegwon V</name>
+    <name>Super Taekwon V</name>
   </anime>
   <anime anidbid="10252" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Eiga Crayon Shin-chan: Gachinko! Gyakushuu no Robo To-chan</name>
+  </anime>
+  <anime anidbid="10253" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Stand By Me Doraemon</name>
+  </anime>
+  <anime anidbid="10254" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Soul Eater Not!</name>
+  </anime>
+  <anime anidbid="10255" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Go! Go! 575</name>
+  </anime>
+  <anime anidbid="10257" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Fabre Konchuuki</name>
+  </anime>
+  <anime anidbid="10259" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Sparkling Red Star</name>
+  </anime>
+  <anime anidbid="10260" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Feng Yun Jue</name>
+  </anime>
+  <anime anidbid="10262" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Gochuumon wa Usagi Desuka?</name>
+  </anime>
+  <anime anidbid="10263" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Kichiku: Haha Shimai Choukyou Nikki</name>
+  </anime>
+  <anime anidbid="10264" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Oreimo Specials</name>
+  </anime>
+  <anime anidbid="10265" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Oreimo 2 Specials</name>
+  </anime>
+  <anime anidbid="10267" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Trick or Alice</name>
+  </anime>
+  <anime anidbid="10269" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Yawaraka Atom</name>
+  </anime>
+  <anime anidbid="10270" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Kyoukai no Kanata Idol Saiban! ~Mayoinagara mo Kimi wo Sabaku Tami</name>
+  </anime>
+  <anime anidbid="10271" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Pupipoo!</name>
+  </anime>
+  <anime anidbid="10272" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Kiseijuu</name>
+  </anime>
+  <anime anidbid="10273" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Isshuukan Friends.</name>
+  </anime>
+  <anime anidbid="10274" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Mushishi Tokubetsu-hen: Hihamukage</name>
   </anime>
 </anime-list>

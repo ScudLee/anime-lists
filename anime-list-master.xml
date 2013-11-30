@@ -459,7 +459,7 @@
     <before>;1-21;2-25;</before>
   </anime>
   <anime anidbid="109" tvdbid="79035" defaulttvdbseason="1" tmdbid="" imdbid="">
-    <name>Mahoromatic</name>
+    <name>Mahoromatic: Automatic Maiden</name>
   </anime>
   <anime anidbid="110" tvdbid="OVA" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Nakoruru: Ano Hito kara no Okurimono</name>
@@ -805,7 +805,7 @@
     <name>Kaze no Na wa Amnesia</name>
   </anime>
   <anime anidbid="201" tvdbid="79035" defaulttvdbseason="2" tmdbid="" imdbid="">
-    <name>Mahoromatic: Motto Utsukushii Mono</name>
+    <name>Mahoromatic: Automatic Maiden - Motto Utsukushii Mono</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-2;2-3;</mapping>
     </mapping-list>
@@ -27427,7 +27427,7 @@
     <name>Meganebu!</name>
   </anime>
   <anime anidbid="9949" tvdbid="268289" defaulttvdbseason="2" tmdbid="" imdbid="">
-    <name>Kakumeiki Valvrave 2</name>
+    <name>Kakumeiki Valvrave (2013)</name>
   </anime>
   <anime anidbid="9950" tvdbid="247788" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Gekijouban Sekaiichi Hatsukoi: Yokozawa Takafumi no Baai</name>
@@ -28203,9 +28203,6 @@
   <anime anidbid="10257" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Fabre Konchuuki</name>
   </anime>
-  <anime anidbid="10259" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Sparkling Red Star</name>
-  </anime>
   <anime anidbid="10260" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Feng Yun Jue</name>
   </anime>
@@ -28214,12 +28211,6 @@
   </anime>
   <anime anidbid="10263" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Kichiku: Haha Shimai Choukyou Nikki</name>
-  </anime>
-  <anime anidbid="10264" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Oreimo Specials</name>
-  </anime>
-  <anime anidbid="10265" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Oreimo 2 Specials</name>
   </anime>
   <anime anidbid="10267" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Trick or Alice</name>
@@ -28241,5 +28232,44 @@
   </anime>
   <anime anidbid="10274" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Mushishi Tokubetsu-hen: Hihamukage</name>
+  </anime>
+  <anime anidbid="10276" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Double Circle</name>
+  </anime>
+  <anime anidbid="10277" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Tokubetsu Jugyou 3 SLG The Animation</name>
+  </anime>
+  <anime anidbid="10278" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Garo</name>
+  </anime>
+  <anime anidbid="10279" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Peaceful Times(F02)petit film</name>
+  </anime>
+  <anime anidbid="10281" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Marvel Disk Wars: The Avengers</name>
+  </anime>
+  <anime anidbid="10282" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Happiness Charge Precure!</name>
+  </anime>
+  <anime anidbid="10283" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Utopia</name>
+  </anime>
+  <anime anidbid="10284" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Yugami-kun ni wa Tomodachi ga Inai</name>
+  </anime>
+  <anime anidbid="10285" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Shiiba-san no Ura no Kao.</name>
+  </anime>
+  <anime anidbid="10286" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Mahou Shoujo Taisen</name>
+  </anime>
+  <anime anidbid="10288" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Bokura wa Minna Kawaisou</name>
+  </anime>
+  <anime anidbid="10289" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Minna Atsumare! Falcom Gakuen</name>
+  </anime>
+  <anime anidbid="10290" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Meitantei Conan: Ijigen no Sniper</name>
   </anime>
 </anime-list>

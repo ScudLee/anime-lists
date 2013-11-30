@@ -459,7 +459,7 @@
     <before>;1-21;2-25;</before>
   </anime>
   <anime anidbid="109" tvdbid="79035" defaulttvdbseason="1">
-    <name>Mahoromatic</name>
+    <name>Mahoromatic: Automatic Maiden</name>
   </anime>
   <anime anidbid="110" tvdbid="OVA" defaulttvdbseason="1">
     <name>Nakoruru: Ano Hito kara no Okurimono</name>
@@ -805,7 +805,7 @@
     <name>Kaze no Na wa Amnesia</name>
   </anime>
   <anime anidbid="201" tvdbid="79035" defaulttvdbseason="2">
-    <name>Mahoromatic: Motto Utsukushii Mono</name>
+    <name>Mahoromatic: Automatic Maiden - Motto Utsukushii Mono</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-2;2-3;</mapping>
     </mapping-list>
@@ -25795,7 +25795,7 @@
     <name>Meganebu!</name>
   </anime>
   <anime anidbid="9949" tvdbid="268289" defaulttvdbseason="2">
-    <name>Kakumeiki Valvrave 2</name>
+    <name>Kakumeiki Valvrave (2013)</name>
   </anime>
   <anime anidbid="9950" tvdbid="247788" defaulttvdbseason="0">
     <name>Gekijouban Sekaiichi Hatsukoi: Yokozawa Takafumi no Baai</name>

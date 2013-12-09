@@ -9369,6 +9369,9 @@
   </anime>
   <anime anidbid="3348" tvdbid="79151" defaulttvdbseason="1">
     <name>Fate/Stay Night</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="3350" tvdbid="OVA" defaulttvdbseason="1" imdbid="unknown">
     <name>Good Morning Althea</name>
@@ -18743,10 +18746,10 @@
       <mapping anidbseason="1" tvdbseason="0">;1-6;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="8160" tvdbid="79151" defaulttvdbseason="2">
+  <anime anidbid="8160" tvdbid="275798" defaulttvdbseason="1">
     <name>Fate/Zero</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-8;2-9;3-10;4-6;5-7;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-3;2-4;3-5;4-1;5-2;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="8161" tvdbid="76013" defaulttvdbseason="0">
@@ -20497,8 +20500,11 @@
       <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="8880" tvdbid="79151" defaulttvdbseason="3">
+  <anime anidbid="8880" tvdbid="275798" defaulttvdbseason="2">
     <name>Fate/Zero (2012)</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-6;2-7;3-8;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="8881" tvdbid="OVA" defaulttvdbseason="1">
     <name>Ijime</name>
@@ -22443,6 +22449,12 @@
   </anime>
   <anime anidbid="9905" tvdbid="272317" defaulttvdbseason="1">
     <name>Aoki Hagane no Arpeggio: Ars Nova</name>
+  </anime>
+  <anime anidbid="9907" tvdbid="275798" defaulttvdbseason="0">
+    <name>Fate/Zero Cafe</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="9909" tvdbid="hentai" defaulttvdbseason="1">
     <name>Waisetsu Missile The Animation</name>

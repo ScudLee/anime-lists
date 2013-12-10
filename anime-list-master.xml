@@ -27600,7 +27600,7 @@
   <anime anidbid="10010" tvdbid="272310" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Tesagure! Bukatsumono</name>
   </anime>
-  <anime anidbid="10011" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10011" tvdbid="276050" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>D-Frag!</name>
   </anime>
   <anime anidbid="10012" tvdbid="252322" defaulttvdbseason="0" tmdbid="" imdbid="">
@@ -28182,29 +28182,32 @@
   <anime anidbid="10245" tvdbid="275609" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Wake Up, Girls! Shichinin no Idol</name>
   </anime>
-  <anime anidbid="10246" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10246" tvdbid="unknown" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Kaduu Wang Miksuu Mastaa</name>
   </anime>
-  <anime anidbid="10247" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10247" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="tt1862489">
     <name>Robot Taekwon V Jae2tan: Wooju-jakjeon</name>
   </anime>
-  <anime anidbid="10248" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10248" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="tt1865490">
     <name>Robot Taekwon V Jae3tan! - Sujuung Teukgongdae</name>
   </anime>
-  <anime anidbid="10249" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10249" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="unknown">
     <name>Robot Taekwon V wa Hwanggeum Nalgae ue Daegyul</name>
   </anime>
-  <anime anidbid="10250" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10250" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="unknown">
     <name>84 Taekwon V</name>
   </anime>
-  <anime anidbid="10251" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10251" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="unknown">
     <name>Super Taekwon V</name>
   </anime>
   <anime anidbid="10252" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Eiga Crayon Shin-chan: Gachinko! Gyakushuu no Robo To-chan</name>
   </anime>
-  <anime anidbid="10253" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10253" tvdbid="252696" defaulttvdbseason="0" tmdbid="" imdbid="tt3331846">
     <name>Stand By Me Doraemon</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="10254" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Soul Eater Not!</name>
@@ -28212,7 +28215,7 @@
   <anime anidbid="10255" tvdbid="275669" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Go! Go! 575</name>
   </anime>
-  <anime anidbid="10257" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10257" tvdbid="unknown" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Fabre Konchuuki</name>
   </anime>
   <anime anidbid="10260" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
@@ -28221,7 +28224,7 @@
   <anime anidbid="10262" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Gochuumon wa Usagi Desuka?</name>
   </anime>
-  <anime anidbid="10263" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10263" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Kichiku: Haha Shimai Choukyou Nikki</name>
   </anime>
   <anime anidbid="10267" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
@@ -28269,7 +28272,7 @@
   <anime anidbid="10284" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Yugami-kun ni wa Tomodachi ga Inai</name>
   </anime>
-  <anime anidbid="10285" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10285" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Shiiba-san no Ura no Kao.</name>
   </anime>
   <anime anidbid="10286" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
@@ -28287,7 +28290,7 @@
   <anime anidbid="10291" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Buddy Complex</name>
   </anime>
-  <anime anidbid="10292" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10292" tvdbid="250070" defaulttvdbseason="3" tmdbid="" imdbid="">
     <name>Uta no Prince-sama (2015)</name>
   </anime>
   <anime anidbid="10293" tvdbid="264523" defaulttvdbseason="2" tmdbid="" imdbid="">
@@ -28299,16 +28302,16 @@
   <anime anidbid="10295" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Mangaka-san to Assistant-san to</name>
   </anime>
-  <anime anidbid="10296" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10296" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Futabu!</name>
   </anime>
   <anime anidbid="10297" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Okusama wa Moto Yariman</name>
   </anime>
-  <anime anidbid="10298" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10298" tvdbid="tv special" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Sengoku Musou SP: Sanada no Shou</name>
   </anime>
-  <anime anidbid="10299" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10299" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Imako System</name>
   </anime>
   <anime anidbid="10300" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">

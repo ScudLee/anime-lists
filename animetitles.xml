@@ -15508,6 +15508,7 @@
 		<title type="official" xml:lang="it">Due come noi</title>
 		<title type="official" xml:lang="ja">今日から俺は!!</title>
 		<title type="short" xml:lang="x-jat">kkow</title>
+		<title type="syn" xml:lang="en">Starting Today, I`ll!!</title>
 		<title type="syn" xml:lang="en">Today, It`s My Turn!!</title>
 		<title type="syn" xml:lang="ru">Сегодня и начну!</title>
 	</anime>
@@ -20280,7 +20281,6 @@
 		<title type="main" xml:lang="x-jat">Fantasy Adventure: Nagagutsu o Haita Neko no Bouken</title>
 		<title type="official" xml:lang="ar">كركور وحذاء السعادة</title>
 		<title type="official" xml:lang="de">Der Kater mit den Zauberstiefeln</title>
-		<title type="official" xml:lang="en">Puss `n Boots</title>
 		<title type="official" xml:lang="es">El gato con botas</title>
 		<title type="official" xml:lang="hu">Csizmás Kandúr mesebeli kalandjai</title>
 		<title type="official" xml:lang="ja">ファンタジーアドベンチャー長靴をはいた猫の冒険</title>
@@ -20289,6 +20289,7 @@
 		<title type="official" xml:lang="pt">As Aventuras do Gato das Botas</title>
 		<title type="syn" xml:lang="en">Adventures of Puss-in-Boots</title>
 		<title type="syn" xml:lang="en">Fantasy Adventure: Adventures of Puss `n Boots</title>
+		<title type="syn" xml:lang="en">Puss `n Boots</title>
 		<title type="syn" xml:lang="x-jat">Nagagutsu wo Haita Neko no Boken</title>
 	</anime>
 	<anime aid="2212">
@@ -20576,7 +20577,7 @@
 		<title type="syn" xml:lang="en">Cyborg 009: Legend of the Super Galaxy</title>
 	</anime>
 	<anime aid="2243">
-		<title type="main" xml:lang="x-jat">Harisu no Kaze</title>
+		<title type="main" xml:lang="x-jat">Haris no Kaze</title>
 		<title type="official" xml:lang="ja">ハリスの旋風</title>
 		<title type="syn" xml:lang="en">Harris` Whirlwind</title>
 		<title type="syn" xml:lang="x-jat">Harisu no Tsumujikaze</title>
@@ -42577,9 +42578,12 @@
 	<anime aid="6432">
 		<title type="main" xml:lang="x-jat">Lupin Sansei vs Meitantei Conan</title>
 		<title type="official" xml:lang="ja">ルパン三世 vs 名探偵コナン</title>
+		<title type="short" xml:lang="x-jat">lupicona</title>
+		<title type="short" xml:lang="x-jat">lupicona-tv</title>
 		<title type="syn" xml:lang="ar">لوبان الثالث ضد المحقق كونان</title>
 		<title type="syn" xml:lang="bg">Люпен Трети срещу Детектив Конан</title>
 		<title type="syn" xml:lang="en">Lupin III vs. Detective Conan</title>
+		<title type="syn" xml:lang="x-jat">Lupin Sansei versus Meitantei Conan</title>
 	</anime>
 	<anime aid="6433">
 		<title type="main" xml:lang="x-jat">Eiga Precure All Stars DX: Minna Tomodachi - Kiseki no Zen`in Daishuugou!</title>
@@ -50797,6 +50801,7 @@
 		<title type="main" xml:lang="x-jat">Death Note: R - Genshisuru Kami</title>
 		<title type="official" xml:lang="cs">Zápisník smrti - Spasitelské vize</title>
 		<title type="official" xml:lang="en">Death Note: Re-Light - Visions of a God</title>
+		<title type="official" xml:lang="es">La Visualizacion de Dios</title>
 		<title type="official" xml:lang="hu">Death Note: Egy új világ istene</title>
 		<title type="official" xml:lang="ja">Death Note: R(デスノート:リライト) 幻視する神</title>
 		<title type="syn" xml:lang="en">Death Note Rewrite: Visions of a God</title>
@@ -50804,6 +50809,7 @@
 	<anime aid="8147">
 		<title type="main" xml:lang="x-jat">Death Note: R2 - L o Tsugu Mono</title>
 		<title type="official" xml:lang="en">Death Note: Re-Light 2 - L`s Successors</title>
+		<title type="official" xml:lang="es">Los Sucesores de L</title>
 		<title type="official" xml:lang="hu">Death Note: L örökösei</title>
 		<title type="official" xml:lang="ja">Death Note: R2(デスノート:リライト2) Lを継ぐ者</title>
 		<title type="syn" xml:lang="bg">Тетрадка на Смъртта: Пренаписване - Наследниците на Л</title>
@@ -55733,6 +55739,7 @@
 	<anime aid="9235">
 		<title type="main" xml:lang="x-jat">Tonari no Kaibutsu-kun</title>
 		<title type="official" xml:lang="en">My Little Monster</title>
+		<title type="official" xml:lang="fr">My Little Monster</title>
 		<title type="official" xml:lang="ja">となりの怪物くん</title>
 		<title type="official" xml:lang="ko">옆자리의 괴물군</title>
 		<title type="short" xml:lang="en">Monster-kun</title>
@@ -56042,7 +56049,7 @@
 	<anime aid="9304">
 		<title type="main" xml:lang="x-jat">JoJo no Kimyou na Bouken (2012)</title>
 		<title type="official" xml:lang="ja">ジョジョの奇妙な冒険 (2012)</title>
-		<title type="short" xml:lang="x-jat">JJBA 2012</title>
+		<title type="short" xml:lang="en">JJBA 2012</title>
 		<title type="short" xml:lang="x-jat">JoJo 2012</title>
 		<title type="syn" xml:lang="bg">Невероятните приключения на ДжоДжо (2012)</title>
 		<title type="syn" xml:lang="en">Jojo`s Bizarre Adventure (2012)</title>
@@ -56660,6 +56667,7 @@
 		<title type="official" xml:lang="ja">ぷちます! プチ・アイドルマスター</title>
 		<title type="short" xml:lang="x-jat">puchimas</title>
 		<title type="syn" xml:lang="ja">ぷちます! -PETIT IDOLM@STER-</title>
+		<title type="syn" xml:lang="x-jat">puchimasu!</title>
 	</anime>
 	<anime aid="9446">
 		<title type="main" xml:lang="x-jat">Phi Brain: Kami no Puzzle (2013)</title>
@@ -58346,6 +58354,7 @@
 	<anime aid="9841">
 		<title type="main" xml:lang="x-jat">Lupin Sansei vs. Meitantei Conan The Movie</title>
 		<title type="official" xml:lang="ja">ルパン三世vs.名探偵コナン THE MOVIE</title>
+		<title type="short" xml:lang="x-jat">lupicona-movie</title>
 	</anime>
 	<anime aid="9842">
 		<title type="main" xml:lang="x-jat">Soukou Kihei Votoms: Woodo</title>
@@ -59014,6 +59023,7 @@
 		<title type="main" xml:lang="x-jat">Gekijouban Hunter x Hunter: The Last Mission</title>
 		<title type="official" xml:lang="ja">劇場版 HUNTERxHUNTER THE LAST MISSION</title>
 		<title type="syn" xml:lang="bg">Ловец срещу Ловец: Последно назначение</title>
+		<title type="syn" xml:lang="en">hxh last mission</title>
 	</anime>
 	<anime aid="10015">
 		<title type="main" xml:lang="x-jat">Minami-ke Natsuyasumi</title>
@@ -59466,7 +59476,7 @@
 	</anime>
 	<anime aid="10150">
 		<title type="main" xml:lang="x-jat">Shimajirou to Kujira no Uta</title>
-		<title type="official" xml:lang="ja">しまじろうと くじらのうた</title>
+		<title type="official" xml:lang="ja">しまじろうとくじらのうた</title>
 	</anime>
 	<anime aid="10151">
 		<title type="main" xml:lang="x-jat">Present</title>
@@ -59504,6 +59514,7 @@
 	<anime aid="10161">
 		<title type="main" xml:lang="x-jat">Kantai Collection</title>
 		<title type="official" xml:lang="ja">艦隊これくしょん</title>
+		<title type="short" xml:lang="x-jat">KanColle</title>
 	</anime>
 	<anime aid="10162">
 		<title type="main" xml:lang="x-jat">Kimi no Iru Machi (2014)</title>
@@ -59644,7 +59655,9 @@
 	<anime aid="10206">
 		<title type="main" xml:lang="x-jat">JoJo no Kimyou na Bouken: Stardust Crusaders</title>
 		<title type="official" xml:lang="ja">ジョジョの奇妙な冒険 スターダストクルセイダース</title>
+		<title type="short" xml:lang="en">JJBA 2014</title>
 		<title type="short" xml:lang="en">JJBASC</title>
+		<title type="short" xml:lang="x-jat">JoJo 2014</title>
 		<title type="syn" xml:lang="en">JoJo`s Bizarre Adventure Part 3</title>
 	</anime>
 	<anime aid="10207">
@@ -59962,6 +59975,30 @@
 		<title type="official" xml:lang="ja">ナイショの若菜さん</title>
 		<title type="syn" xml:lang="en">Secret Wakana</title>
 	</anime>
+	<anime aid="10301">
+		<title type="main" xml:lang="x-jat">Fight Ippatsu! Juuden-chan!! (2014)</title>
+		<title type="official" xml:lang="ja">ファイト一発! 充電ちゃん!! (2014)</title>
+	</anime>
+	<anime aid="10302">
+		<title type="main" xml:lang="x-jat">Puchimas!! Petit Idolmaster (2014)</title>
+		<title type="official" xml:lang="ja">ぷちます!! -PETIT IDOLM@STER- (2014)</title>
+	</anime>
+	<anime aid="10303">
+		<title type="main" xml:lang="x-jat">Sri Lanka Kousokudouro</title>
+		<title type="official" xml:lang="ja">スリランカ高速道路</title>
+	</anime>
+	<anime aid="10304">
+		<title type="main" xml:lang="x-jat">Shin Doha Kokusai Kuukou</title>
+		<title type="official" xml:lang="ja">新ドーハ国際空港</title>
+	</anime>
+	<anime aid="10305">
+		<title type="main" xml:lang="x-jat">Kamigami no Asobi</title>
+		<title type="official" xml:lang="ja">神々の悪戯</title>
+	</anime>
+	<anime aid="10306">
+		<title type="main" xml:lang="x-jat">Keroro</title>
+		<title type="official" xml:lang="ja">ケロロ</title>
+	</anime>
 </animetitles>
 
-<!-- Created: Sat Dec  7 02:00:25 2013 (8016 anime, 43930 titles) -->
+<!-- Created: Tue Dec 10 02:00:29 2013 (8022 anime, 43955 titles) -->

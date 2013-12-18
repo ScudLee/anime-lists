@@ -2531,9 +2531,6 @@
   <anime anidbid="6411" tvdbid="unknown" defaulttvdbseason="1">
     <name>Gokujou!! Mecha Mote Iinchou</name>
   </anime>
-  <anime anidbid="6433" tvdbid="unknown" defaulttvdbseason="0" imdbid="tt1401235">
-    <name>Eiga Precure All Stars DX: Minna Tomodachi - Kiseki no Zen'in Daishuugou!</name>
-  </anime>
   <anime anidbid="6444" tvdbid="unknown" defaulttvdbseason="1">
     <name>Jewelpet</name>
   </anime>
@@ -2770,9 +2767,6 @@
   </anime>
   <anime anidbid="7287" tvdbid="unknown" defaulttvdbseason="0" imdbid="tt1703076">
     <name>Konchuu Monogatari Mitsubachi Hutch: Yuuki no Melody</name>
-  </anime>
-  <anime anidbid="7290" tvdbid="unknown" defaulttvdbseason="0" imdbid="tt1630601">
-    <name>Eiga Precure All Stars DX2: Kibou no Hikari - Rainbow Jewel o Mamore!</name>
   </anime>
   <anime anidbid="7302" tvdbid="unknown" defaulttvdbseason="1">
     <name>Peeping Life</name>
@@ -3233,9 +3227,6 @@
   <anime anidbid="8807" tvdbid="unknown" defaulttvdbseason="1">
     <name>Yanase Takashi Maerchen Gekijou</name>
   </anime>
-  <anime anidbid="8817" tvdbid="unknown" defaulttvdbseason="0" imdbid="tt2368783">
-    <name>Eiga Precure All Stars New Stage: Mirai no Tomodachi</name>
-  </anime>
   <anime anidbid="8828" tvdbid="unknown" defaulttvdbseason="1">
     <name>Sylvanian Families</name>
   </anime>
@@ -3383,11 +3374,17 @@
   <anime anidbid="9662" tvdbid="unknown" defaulttvdbseason="5">
     <name>Peeping Life: The Perfect Explosion</name>
   </anime>
+  <anime anidbid="9669" tvdbid="unknown" defaulttvdbseason="1">
+    <name>Train Heroes</name>
+  </anime>
   <anime anidbid="9679" tvdbid="unknown" defaulttvdbseason="2">
     <name>Ocha-ken: Hotto Monogatari</name>
   </anime>
   <anime anidbid="9680" tvdbid="unknown" defaulttvdbseason="3">
     <name>Ocha-ken: Ryokutto Monogatari</name>
+  </anime>
+  <anime anidbid="9688" tvdbid="unknown" defaulttvdbseason="1">
+    <name>Tenpou Suikoden Neo</name>
   </anime>
   <anime anidbid="9707" tvdbid="unknown" defaulttvdbseason="1">
     <name>2020 Nyeon Ujuui Wonder Kiddy</name>

@@ -599,6 +599,7 @@
     <anime anidbid="9021">Meloetta no Kirakira Recital</anime>
     <anime anidbid="9289">Utae Meloetta: Rinka no Mi o Sagase</anime>
     <anime anidbid="9564">Gekijouban Pocket Monsters: Best Wishes! - Shinsoku no Genosect: Mewtwo Kakusei</anime>
+    <anime anidbid="9565">Pikachuu to Eievui Friends</anime>
     <anime anidbid="9926">Mewtwo: Kakusei e no Prologue</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Pocket Monsters Collection</title>
@@ -2291,6 +2292,13 @@
     <anime anidbid="9299">Persona 3 the Movie</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Persona Collection</title>
+    </titles>
+  </set>
+  <set>
+    <anime anidbid="9631">Sonyeon 007 Eunhateukgongdae</anime>
+    <anime anidbid="9632">Sonyeon 007 Jihajeguj</anime>
+    <titles>
+      <title type="main" xml:lang="x-jat">Sonyeon 007 Collection</title>
     </titles>
   </set>
   <set>

@@ -14948,8 +14948,11 @@
       <mapping anidbseason="1" tvdbseason="0">;1-23</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="6433" tvdbid="unknown" defaulttvdbseason="0" imdbid="tt1401235">
+  <anime anidbid="6433" tvdbid="200791" defaulttvdbseason="0" imdbid="tt1401235">
     <name>Eiga Precure All Stars DX: Minna Tomodachi - Kiseki no Zen'in Daishuugou!</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="6434" tvdbid="199111" defaulttvdbseason="1">
     <name>Marie &amp; Gali</name>
@@ -17009,11 +17012,14 @@
   <anime anidbid="7288" tvdbid="72454" defaulttvdbseason="0" imdbid="tt1577867">
     <name>Lupin Sansei: The Last Job</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-33</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-33;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="7290" tvdbid="unknown" defaulttvdbseason="0" imdbid="tt1630601">
+  <anime anidbid="7290" tvdbid="140711" defaulttvdbseason="0" imdbid="tt1630601">
     <name>Eiga Precure All Stars DX2: Kibou no Hikari - Rainbow Jewel o Mamore!</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="7291" tvdbid="81108" defaulttvdbseason="2">
     <name>Ookiku Furikabutte: Natsu no Taikai Hen</name>
@@ -18522,6 +18528,9 @@
   </anime>
   <anime anidbid="8074" tvdbid="248781" defaulttvdbseason="0" imdbid="tt1865354">
     <name>Eiga Precure All Stars DX3: Mirai ni Todoke! Sekai o Tsunagu Niji-iro no Hana</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
     <supplemental-info>
       <studio>Toei Animation</studio>
     </supplemental-info>
@@ -20334,8 +20343,11 @@
   <anime anidbid="8816" tvdbid="257890" defaulttvdbseason="1">
     <name>AKB0048</name>
   </anime>
-  <anime anidbid="8817" tvdbid="unknown" defaulttvdbseason="0" imdbid="tt2368783">
+  <anime anidbid="8817" tvdbid="255904" defaulttvdbseason="0" imdbid="tt2368783">
     <name>Eiga Precure All Stars New Stage: Mirai no Tomodachi</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="8819" tvdbid="255904" defaulttvdbseason="1">
     <name>Smile Precure!</name>
@@ -21876,6 +21888,9 @@
   <anime anidbid="9533" tvdbid="hentai" defaulttvdbseason="1">
     <name>Sei Yariman Gakuen Enkou Nikki The Animation</name>
   </anime>
+  <anime anidbid="9535" tvdbid="266581" defaulttvdbseason="0" tmdbid="214722">
+    <name>Eiga Precure All Stars New Stage 2: Kokoro no Tomodachi</name>
+  </anime>
   <anime anidbid="9536" tvdbid="275584" defaulttvdbseason="1">
     <name>Inari, Konkon, Koi Iroha.</name>
   </anime>
@@ -21896,21 +21911,69 @@
   </anime>
   <anime anidbid="9556" tvdbid="267432" defaulttvdbseason="1">
     <name>Suisei no Gargantia</name>
-    <supplemental-info>
-      <studio>Production I.G</studio>
-    </supplemental-info>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-14;2-15;3-1;4-2;5-3;6-4;7-5;8-6;9-7;10-8;11-9;12-10;13-11;14-12;15-13;</mapping>
+    </mapping-list>
+  </anime>
+  <anime anidbid="9557" tvdbid="movie" defaulttvdbseason="1" imdbid="tt2573198">
+    <name>Hal</name>
+  </anime>
+  <anime anidbid="9558" tvdbid="music video" defaulttvdbseason="1">
+    <name>Transfer</name>
   </anime>
   <anime anidbid="9559" tvdbid="tv special" defaulttvdbseason="2">
     <name>Otona Joshi no Anime Time 2</name>
   </anime>
-  <anime anidbid="9564" tvdbid="76703" defaulttvdbseason="0">
+  <anime anidbid="9564" tvdbid="76703" defaulttvdbseason="0" imdbid="tt3257582">
     <name>Gekijouban Pocket Monsters: Best Wishes! - Shinsoku no Genosect: Mewtwo Kakusei</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
+  <anime anidbid="9565" tvdbid="76703" defaulttvdbseason="0">
+    <name>Pikachuu to Eievui Friends</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
+  </anime>
+  <anime anidbid="9566" tvdbid="265988" defaulttvdbseason="1">
+    <name>Line Offline Salaryman</name>
+  </anime>
+  <anime anidbid="9567" tvdbid="movie" defaulttvdbseason="1">
+    <name>Ashita no Kibou: Kanashimi yo Arigatou - Takae Tsuneo Monogatari</name>
+  </anime>
   <anime anidbid="9568" tvdbid="268289" defaulttvdbseason="1">
     <name>Kakumeiki Valvrave</name>
+  </anime>
+  <anime anidbid="9569" tvdbid="movie" defaulttvdbseason="1" imdbid="tt3080074">
+    <name>Tsukumo</name>
+  </anime>
+  <anime anidbid="9570" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Wanna. SpartanSex Spermax!!!</name>
+  </anime>
+  <anime anidbid="9571" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Chu Shite Agechau: Oshikake Onee-san no Seikou Chiryou</name>
+  </anime>
+  <anime anidbid="9572" tvdbid="79252" defaulttvdbseason="0" imdbid="unknown">
+    <name>Tetsuwan Atom Tokubetsu Hen: Atom Tanjou no Himitsu</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
+  </anime>
+  <anime anidbid="9573" tvdbid="OVA" defaulttvdbseason="1">
+    <name>Hokori: Tsutaeyou kono Nippon no Ayumi</name>
+  </anime>
+  <anime anidbid="9574" tvdbid="79682" defaulttvdbseason="4">
+    <name>Higurashi no Naku Koro ni Kaku: Outbreak</name>
+  </anime>
+  <anime anidbid="9575" tvdbid="258444" defaulttvdbseason="0">
+    <name>Sakai Noriko no Yoiko no Ohanashi Hiroba</name>
+  </anime>
+  <anime anidbid="9577" tvdbid="tv special" defaulttvdbseason="1">
+    <name>Poppen-sensei to Kaerazu no Numa</name>
+  </anime>
+  <anime anidbid="9578" tvdbid="web" defaulttvdbseason="1">
+    <name>Komachi to Dangorou: Lagoon Stone o Sagase!</name>
   </anime>
   <anime anidbid="9579" tvdbid="269872" defaulttvdbseason="1">
     <name>Kin'iro Mosaic</name>
@@ -22017,11 +22080,68 @@
   <anime anidbid="9628" tvdbid="music video" defaulttvdbseason="1">
     <name>Touhou PVD 4</name>
   </anime>
+  <anime anidbid="9629" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
+    <name>15 Sonyeon Uju Pyoryugi</name>
+  </anime>
+  <anime anidbid="9630" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
+    <name>Heungnyongwanggwa Bihodongja</name>
+  </anime>
+  <anime anidbid="9631" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
+    <name>Sonyeon 007 Eunhateukgongdae</name>
+  </anime>
+  <anime anidbid="9632" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
+    <name>Sonyeon 007 Jihajeguj</name>
+  </anime>
+  <anime anidbid="9633" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
+    <name>Dokkaebi Gamtu</name>
+  </anime>
+  <anime anidbid="9634" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
+    <name>Eunhajeonseol Tera</name>
+  </anime>
+  <anime anidbid="9635" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
+    <name>Hwanggeumnyeonpilgwa Gaegujangi Oegyesonyeon</name>
+  </anime>
+  <anime anidbid="9636" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
+    <name>Hwanggeum Cheolin</name>
+  </anime>
+  <anime anidbid="9637" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
+    <name>Hopiwa Chadol Bawi</name>
+  </anime>
+  <anime anidbid="9638" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
+    <name>Heonggeuri Beseuteu 5</name>
+  </anime>
   <anime anidbid="9639" tvdbid="81110" defaulttvdbseason="2">
     <name>Soukyuu no Fafner: Dead Aggressor - Exodus</name>
   </anime>
   <anime anidbid="9641" tvdbid="web" defaulttvdbseason="1">
     <name>Hotaru no Mure</name>
+  </anime>
+  <anime anidbid="9642" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
+    <name>Mujeokcheorin Lamboteu</name>
+  </anime>
+  <anime anidbid="9643" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
+    <name>Cheorin 007</name>
+  </anime>
+  <anime anidbid="9645" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
+    <name>Kkureogi Balmyeongwang</name>
+  </anime>
+  <anime anidbid="9646" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
+    <name>Beongae Atom</name>
+  </anime>
+  <anime anidbid="9647" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
+    <name>Haejeotamheomdae Marin X</name>
+  </anime>
+  <anime anidbid="9648" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
+    <name>Dallyeora Maxinger X</name>
+  </anime>
+  <anime anidbid="9649" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
+    <name>Roboteugundangwa Meka3</name>
+  </anime>
+  <anime anidbid="9650" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
+    <name>Gongnyong Baengmannyeon Ttori</name>
+  </anime>
+  <anime anidbid="9652" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
+    <name>Hokseong Robot Sseondeo A</name>
   </anime>
   <anime anidbid="9653" tvdbid="76703" defaulttvdbseason="15">
     <name>Pocket Monsters: Best Wishes! Season 2 - Episode N</name>
@@ -22122,6 +22242,12 @@
   </anime>
   <anime anidbid="9697" tvdbid="hentai" defaulttvdbseason="1">
     <name>Ryou Seibai! Gakuen Bishoujo Seisai Hiroku</name>
+  </anime>
+  <anime anidbid="9698" tvdbid="255904" defaulttvdbseason="0" tmdbid="205609">
+    <name>Precure All Stars DX the Dance Live: Miracle Dance Stage e Youkoso</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="9699" tvdbid="hentai" defaulttvdbseason="1">
     <name>Natsuyasumi.</name>

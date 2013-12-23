@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <anime-list>
+  <!--TEMPLATE
+  <anime anidbid="" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name></name>
+    <mapping-list>
+      <mapping anidbseason="" tvdbseason=""></mapping>
+    </mapping-list>
+    <before></before>
+    <supplemental-info replace="">
+      <studio></studio>
+      <genre></genre>
+      <actor></actor>
+      <director></director>
+      <credits></credits>
+      <thumb aspect=""></thumb>
+      <fanart>
+        <thumb dim="" colors="" preview=""></thumb>
+      </fanart>
+    </supplemental-info>
+  </anime>
+  -->
   <anime anidbid="1078" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Doraemon (1979)</name>
   </anime>
@@ -309,9 +329,6 @@
   <anime anidbid="7398" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Ashiaraiyashiki no Juunin-tachi.</name>
   </anime>
-  <anime anidbid="7401" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Bakugan Battle Brawlers: New Vestroia</name>
-  </anime>
   <anime anidbid="7402" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Ganbare Goemon: Chikyuu Kyuushutsu Daisakusen</name>
   </anime>
@@ -321,113 +338,14 @@
   <anime anidbid="7414" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Jewelpet Tinkle</name>
   </anime>
-  <anime anidbid="7417" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Mousou Kagaku Series: Wandaba Style - Mix Juice no Tsukurikata</name>
-  </anime>
-  <anime anidbid="7427" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Marie &amp; Gali Ver.2.0</name>
-  </anime>
-  <anime anidbid="7428" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Nils no Fushigi na Tabi Gekijouban</name>
-  </anime>
-  <anime anidbid="7430" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Mahou no Star Magical Emi: Kumo Hikaru</name>
-  </anime>
-  <anime anidbid="7433" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Kikou Heidan J-Phoenix PF Lips Shoutai</name>
-  </anime>
-  <anime anidbid="7434" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Saikyou Bushou-den Sangoku Engi</name>
-  </anime>
-  <anime anidbid="7446" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Chi-Sui Maru</name>
-  </anime>
-  <anime anidbid="7449" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Tensai? Dr. Hamax</name>
-  </anime>
-  <anime anidbid="7451" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Unko-san: Tsuiteru Hito ni Shika Mienai Yousei</name>
-  </anime>
-  <anime anidbid="7452" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Ketsuinu</name>
-  </anime>
   <anime anidbid="7453" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Koutetsu no Vandetta</name>
   </anime>
   <anime anidbid="7454" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>All That Gundam</name>
   </anime>
-  <anime anidbid="7457" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Kan'in Tokkyuu: Michi Shio</name>
-  </anime>
-  <anime anidbid="7459" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Mahou Shoujo Isuka</name>
-  </anime>
-  <anime anidbid="7462" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Izumo</name>
-  </anime>
-  <anime anidbid="7463" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Ipponbouchou Mantarou</name>
-  </anime>
   <anime anidbid="7466" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>The Impression of First Gundam</name>
-  </anime>
-  <anime anidbid="7467" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>I Can</name>
-  </anime>
-  <anime anidbid="7469" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Magic Kaito</name>
-  </anime>
-  <anime anidbid="7470" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Shin Koihime Musou Live Revolution</name>
-  </anime>
-  <anime anidbid="7471" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Toshishun</name>
-  </anime>
-  <anime anidbid="7473" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Yoshino no Hime</name>
-  </anime>
-  <anime anidbid="7476" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Chinka</name>
-  </anime>
-  <anime anidbid="7489" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Newmanoid Cam: Cam Castin</name>
-  </anime>
-  <anime anidbid="7492" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>High School Jingi</name>
-  </anime>
-  <anime anidbid="7498" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Hokenshitsu de Aimashou</name>
-  </anime>
-  <anime anidbid="7502" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Arbeit Shiyou!!</name>
-  </anime>
-  <anime anidbid="7504" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Bijukubo</name>
-  </anime>
-  <anime anidbid="7510" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Dotanba no Manners</name>
-  </anime>
-  <anime anidbid="7511" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Kotowaza House</name>
-  </anime>
-  <anime anidbid="7517" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Suteki! Sakura Mama</name>
-  </anime>
-  <anime anidbid="7519" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Princess Knight Catue</name>
-  </anime>
-  <anime anidbid="7521" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>R20: Ginga Kuukou</name>
-  </anime>
-  <anime anidbid="7522" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Koisuru Boukun</name>
-  </anime>
-  <anime anidbid="7527" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Kentauros no Densetsu</name>
-  </anime>
-  <anime anidbid="7535" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Bakugan Battle Brawlers: Gundalian Invaders</name>
   </anime>
   <anime anidbid="7608" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Wish Angel: Tsubasa wa Chiisai Keredo</name>
@@ -1047,47 +965,11 @@
   <anime anidbid="9154" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Yakimochi Caprice</name>
   </anime>
-  <anime anidbid="9155" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Nogizaka Haruka no Himitsu: Finale</name>
-  </anime>
-  <anime anidbid="9156" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Uhou Renka</name>
-  </anime>
-  <anime anidbid="9157" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Corpse Party: Missing Footage</name>
-  </anime>
-  <anime anidbid="9158" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Chitose Get You!!</name>
-  </anime>
   <anime anidbid="9159" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Hokuto no Ken: Legend of Heroes</name>
   </anime>
-  <anime anidbid="9161" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Saitama Bousou Saizensen Flag! Shinimonogurui no Seishun!!</name>
-  </anime>
-  <anime anidbid="9162" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>To Love-Ru: Trouble - Darkness OAD</name>
-  </anime>
   <anime anidbid="9163" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Tottoko Hamtarou (2012)</name>
-  </anime>
-  <anime anidbid="9165" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Chiisana Love Letter: Mariko to Nemunoki no Kodomo-tachi</name>
-  </anime>
-  <anime anidbid="9168" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Heart Cocktail Again</name>
-  </anime>
-  <anime anidbid="9169" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Love Like Aliens</name>
-  </anime>
-  <anime anidbid="9170" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Kiki to Lala no Ohime-sama ni Naritai</name>
-  </anime>
-  <anime anidbid="9171" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Sasurai-kun</name>
-  </anime>
-  <anime anidbid="9172" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Fujiko Fujio A no Mumako</name>
   </anime>
   <anime anidbid="9173" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Shibaitaroka</name>

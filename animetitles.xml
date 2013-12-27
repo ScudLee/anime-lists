@@ -1783,10 +1783,10 @@
 	</anime>
 	<anime aid="118">
 		<title type="main" xml:lang="x-jat">Ajimu: Kaigan Monogatari</title>
-		<title type="official" xml:lang="en">Ajimu Beach Story</title>
 		<title type="official" xml:lang="ja">あじむ ～海岸物語～</title>
 		<title type="short" xml:lang="en">ABJ</title>
 		<title type="short" xml:lang="x-jat">ajimu</title>
+		<title type="syn" xml:lang="en">Ajimu Beach Story</title>
 		<title type="syn" xml:lang="ru">Адзиму - пляжная история</title>
 	</anime>
 	<anime aid="119">
@@ -13886,6 +13886,7 @@
 	</anime>
 	<anime aid="1361">
 		<title type="main" xml:lang="x-jat">Unico: Mahou no Shima e</title>
+		<title type="official" xml:lang="es">Unico en la isla de la magia</title>
 		<title type="official" xml:lang="fr">Unico sur l`île magique</title>
 		<title type="official" xml:lang="ja">ユニコ 魔法の島へ</title>
 		<title type="syn" xml:lang="en">Unico in the Island of Magic</title>
@@ -16995,6 +16996,7 @@
 	</anime>
 	<anime aid="1779">
 		<title type="main" xml:lang="x-jat">Arabian Nights: Sindbad no Bouken</title>
+		<title type="official" xml:lang="es">Simbad el marino</title>
 		<title type="official" xml:lang="hu">Szindbád a hajós</title>
 		<title type="official" xml:lang="ja">アラビアンナイト シンドバッドの冒険</title>
 		<title type="official" xml:lang="pt">As Aventuras de Simbad - O Marinheiro</title>
@@ -20229,6 +20231,7 @@
 	</anime>
 	<anime aid="2206">
 		<title type="main" xml:lang="x-jat">Shounen Jack to Mahou Tsukai</title>
+		<title type="official" xml:lang="es">Jack y la Bruja</title>
 		<title type="official" xml:lang="ja">少年ジャックと魔法使い</title>
 		<title type="official" xml:lang="pt">Jack e a Bruxa</title>
 		<title type="syn" xml:lang="en">Young Jack and the Witch</title>
@@ -20315,7 +20318,7 @@
 	<anime aid="2213">
 		<title type="main" xml:lang="x-jat">Kaitei 3-man Mile</title>
 		<title type="official" xml:lang="ar">30,000 ميل تحت سطح البحر</title>
-		<title type="official" xml:lang="es">La ciudad sumergida de Samu</title>
+		<title type="official" xml:lang="es">20.000 Leguas de Viaje Submarino</title>
 		<title type="official" xml:lang="fr">Bulles sous les mers</title>
 		<title type="official" xml:lang="ja">海底3万マイル</title>
 		<title type="official" xml:lang="pt">20 Mil Léguas Sob o Mar</title>
@@ -20327,7 +20330,7 @@
 		<title type="main" xml:lang="x-jat">Doubutsu Takarajima</title>
 		<title type="official" xml:lang="de">Die Schatzinsel - Der Film</title>
 		<title type="official" xml:lang="en">Animal Treasure Island</title>
-		<title type="official" xml:lang="es">La isla del tesoro de los animales</title>
+		<title type="official" xml:lang="es">La Isla del Tesoro</title>
 		<title type="official" xml:lang="fr">Les joyeux pirates de l`île au trésor</title>
 		<title type="official" xml:lang="it">Gli allegri pirati dell`Isola del Tesoro</title>
 		<title type="official" xml:lang="ja">どうぶつ宝島</title>
@@ -20344,6 +20347,7 @@
 	<anime aid="2215">
 		<title type="main" xml:lang="x-jat">Ali Baba to 40-hiki no Touzoku</title>
 		<title type="official" xml:lang="de">Alibaba und die 40 Räuber</title>
+		<title type="official" xml:lang="es">Alí Babá y los 40 ladrones</title>
 		<title type="official" xml:lang="ja">アリババと40匹の盗賊</title>
 		<title type="syn" xml:lang="ar">علي بابا والأربعين حرامي</title>
 		<title type="syn" xml:lang="de">Ali Cats und der fliegende Professor</title>
@@ -20373,6 +20377,7 @@
 	<anime aid="2218">
 		<title type="main" xml:lang="x-jat">Panda no Daibouken</title>
 		<title type="official" xml:lang="el">Πάντα, το χαρούμενο αρκουδάκι</title>
+		<title type="official" xml:lang="es">Las aventuras del osito panda</title>
 		<title type="official" xml:lang="fi">Panda seikkailee</title>
 		<title type="official" xml:lang="fr">Les aventures de Panda</title>
 		<title type="official" xml:lang="hu">Pandamaci kalandjai</title>
@@ -20393,6 +20398,7 @@
 		<title type="main" xml:lang="x-jat">Andersen Douwa: Ningyo Hime</title>
 		<title type="official" xml:lang="ar">حورية البحر الصغيرة</title>
 		<title type="official" xml:lang="de">Die kleine Meerjungfrau</title>
+		<title type="official" xml:lang="es">La Pequeña Sirenita</title>
 		<title type="official" xml:lang="hu">A kis hableány</title>
 		<title type="official" xml:lang="ja">アンデルセン童話 にんぎょ姫</title>
 		<title type="official" xml:lang="pl">Przygody Syrenki</title>
@@ -26339,10 +26345,10 @@
 	</anime>
 	<anime aid="3172">
 		<title type="main" xml:lang="x-jat">Columbus no Daibouken</title>
-		<title type="official" xml:lang="en">Great Adventure of Columbus</title>
 		<title type="official" xml:lang="ja">コロンブスの大冒険</title>
 		<title type="official" xml:lang="pl">Krzysztof Kolumb</title>
 		<title type="syn" xml:lang="en">Columbus`s Great Adventures</title>
+		<title type="syn" xml:lang="en">Great Adventure of Columbus</title>
 		<title type="syn" xml:lang="he">הרפתקאות קולומבוס</title>
 		<title type="syn" xml:lang="pl">Krzysztof Kolumb - Odkrycie Ameryki</title>
 	</anime>
@@ -27681,7 +27687,7 @@
 		<title type="syn" xml:lang="x-jat">Ochamegami Monogatari Kolokolo Polon</title>
 	</anime>
 	<anime aid="3425">
-		<title type="main" xml:lang="x-jat">Tsuri Kichi Sanpei</title>
+		<title type="main" xml:lang="x-jat">Tsurikichi Sanpei</title>
 		<title type="official" xml:lang="ar">رامي الصياد الصغير</title>
 		<title type="official" xml:lang="fr">Paul le pêcheur</title>
 		<title type="official" xml:lang="it">Sampei</title>
@@ -49424,8 +49430,10 @@
 		<title type="syn" xml:lang="en">Hello Kitty and Friends: The Prince in His Dream Castle</title>
 	</anime>
 	<anime aid="7858">
-		<title type="main" xml:lang="x-jat">Hello Kitty no Happy Birthday</title>
-		<title type="official" xml:lang="ja">ハローキティとミミィのハッピーバースデー</title>
+		<title type="main" xml:lang="x-jat">Kitty to Mimmy no Happy Birthday</title>
+		<title type="official" xml:lang="ja">キティとミミィのハッピーバースデー</title>
+		<title type="syn" xml:lang="ja">ハローキティとミミィのハッピーバースデー</title>
+		<title type="syn" xml:lang="x-jat">Hello Kitty to Mimmy no Happy Birthday</title>
 	</anime>
 	<anime aid="7859">
 		<title type="main" xml:lang="x-jat">Kitty no Fushigi na Mizuumi</title>
@@ -50075,6 +50083,7 @@
 	<anime aid="7995">
 		<title type="main" xml:lang="x-jat">Hiyokoi</title>
 		<title type="official" xml:lang="ja">ひよ恋</title>
+		<title type="official" xml:lang="pt-BR">Amor de Hiyo</title>
 		<title type="syn" xml:lang="ru">Любовь цыплёнка</title>
 		<title type="syn" xml:lang="uk">Курчатко ОВА</title>
 	</anime>
@@ -53865,6 +53874,7 @@
 		<title type="short" xml:lang="x-jat">SBY 2199</title>
 		<title type="short" xml:lang="x-jat">USY 2199</title>
 		<title type="short" xml:lang="x-jat">yamato 2199</title>
+		<title type="syn" xml:lang="bg">Звезден кораб "Ямато" 2199</title>
 		<title type="syn" xml:lang="en">Space Battleship Yamato 2199</title>
 	</anime>
 	<anime aid="8788">
@@ -54874,6 +54884,7 @@
 		<title type="official" xml:lang="zh-Hans">来自新世界</title>
 		<title type="short" xml:lang="x-jat">SSY</title>
 		<title type="syn" xml:lang="lt">Iš naujojo pasaulio</title>
+		<title type="syn" xml:lang="uk">З нового світу</title>
 	</anime>
 	<anime aid="9003">
 		<title type="main" xml:lang="x-jat">Baku Tech! Bakugan</title>
@@ -56252,7 +56263,7 @@
 		<title type="official" xml:lang="ja">サクラ大戦 奏組</title>
 	</anime>
 	<anime aid="9337">
-		<title type="main" xml:lang="x-jat">Macross FB7: Ginga Rukon Ore no Uta o Kike!</title>
+		<title type="main" xml:lang="x-jat">Macross FB7: Ore no Uta o Kike!</title>
 		<title type="official" xml:lang="ja">マクロスFB7 銀河流魂 オレノウタヲキケ!</title>
 	</anime>
 	<anime aid="9338">
@@ -57131,6 +57142,7 @@
 	<anime aid="9525">
 		<title type="main" xml:lang="x-jat">Tamako Market</title>
 		<title type="official" xml:lang="en">Tamako Market</title>
+		<title type="official" xml:lang="fr">Tamako Market</title>
 		<title type="official" xml:lang="ja">たまこまーけっと</title>
 		<title type="official" xml:lang="ko">타마코 마켓</title>
 		<title type="syn" xml:lang="zh-Hans">玉子市场</title>
@@ -57207,6 +57219,7 @@
 		<title type="official" xml:lang="fr">L`attaque des Titans</title>
 		<title type="official" xml:lang="ja">進撃の巨人 attack on titan</title>
 		<title type="official" xml:lang="ko">진격의 거인</title>
+		<title type="official" xml:lang="pt-BR">Ataque dos Titãs</title>
 		<title type="official" xml:lang="zh-Hans">进击的巨人</title>
 		<title type="official" xml:lang="zh-Hant">進擊的巨人</title>
 		<title type="short" xml:lang="en">AoT</title>
@@ -58645,7 +58658,9 @@
 	</anime>
 	<anime aid="9903">
 		<title type="main" xml:lang="x-jat">Nisekoi</title>
+		<title type="official" xml:lang="fr">Nisekoi</title>
 		<title type="official" xml:lang="ja">ニセコイ</title>
+		<title type="syn" xml:lang="en">False Love</title>
 	</anime>
 	<anime aid="9904">
 		<title type="main" xml:lang="x-jat">Natsume Yuujinchou OAD</title>
@@ -59672,7 +59687,7 @@
 		<title type="official" xml:lang="ja">ストライクウィッチーズ 3</title>
 	</anime>
 	<anime aid="10199">
-		<title type="main" xml:lang="x-jat">Parol no Mirai Shima</title>
+		<title type="main" xml:lang="x-jat">Parol no Miraijima</title>
 		<title type="official" xml:lang="ja">パロルのみらい島</title>
 	</anime>
 	<anime aid="10200">
@@ -59689,8 +59704,9 @@
 		<title type="official" xml:lang="ja">アルモニ</title>
 	</anime>
 	<anime aid="10203">
-		<title type="main" xml:lang="x-jat">Dokidoki Gakuen Kessen!! Youki Daimashiro</title>
+		<title type="main" xml:lang="x-jat">Dokidoki Gakuen: Kessen!! Youki Daimajou</title>
 		<title type="official" xml:lang="ja">ドキドキ学園 決戦!!妖奇大魔城</title>
+		<title type="syn" xml:lang="x-jat">Dokidoki Gakuen Kessen!! Youki Daimashiro</title>
 	</anime>
 	<anime aid="10205">
 		<title type="main" xml:lang="x-jat">Onee-chan ga Kita</title>
@@ -60167,6 +60183,62 @@
 		<title type="main" xml:lang="x-jat">Majin Bone</title>
 		<title type="official" xml:lang="ja">マジンボーン</title>
 	</anime>
+	<anime aid="10355">
+		<title type="main" xml:lang="x-jat">KanColle Nanchatte PV</title>
+		<title type="official" xml:lang="ja">艦これなんちゃってPV</title>
+	</anime>
+	<anime aid="10356">
+		<title type="main" xml:lang="x-jat">Planet: Valkyrie</title>
+		<title type="official" xml:lang="ja">プラネットワルキューレ</title>
+	</anime>
+	<anime aid="10357">
+		<title type="main" xml:lang="x-jat">Rail Wars! Nihon Kokuyuu Tetsudou Kouantai</title>
+		<title type="official" xml:lang="ja">RAIL WARS!-日本國有鉄道公安隊-</title>
+	</anime>
+	<anime aid="10358">
+		<title type="main" xml:lang="x-jat">Little Busters! EX</title>
+		<title type="official" xml:lang="ja">リトルバスターズ！EX</title>
+	</anime>
+	<anime aid="10359">
+		<title type="main" xml:lang="x-jat">Romantica Clock</title>
+		<title type="official" xml:lang="ja">ロマンチカ クロック</title>
+	</anime>
+	<anime aid="10360">
+		<title type="main" xml:lang="x-jat">Mekaku City Actors</title>
+		<title type="official" xml:lang="ja">メカクシティアクターズ</title>
+	</anime>
+	<anime aid="10361">
+		<title type="main" xml:lang="x-jat">Sugar Soldier</title>
+		<title type="official" xml:lang="ja">シュガー＊ソルジャー</title>
+	</anime>
+	<anime aid="10362">
+		<title type="main" xml:lang="x-jat">Daicon Film 33</title>
+		<title type="official" xml:lang="ja">DAICON FILM 33</title>
+	</anime>
+	<anime aid="10363">
+		<title type="main" xml:lang="x-jat">Fela Pure: Mitarashi-san Chi no Jijou The Animation</title>
+		<title type="official" xml:lang="ja">フェラピュア ~御手洗さん家の事情~ THE ANIMATION</title>
+	</anime>
+	<anime aid="10365">
+		<title type="main" xml:lang="x-jat">Fuuun Ishin Dai Shougun</title>
+		<title type="official" xml:lang="ja">風雲維新ダイ☆ショーグン</title>
+	</anime>
+	<anime aid="10366">
+		<title type="main" xml:lang="x-jat">Kenzen Robo Daimidaier</title>
+		<title type="official" xml:lang="ja">健全ロボ ダイミダラー</title>
+	</anime>
+	<anime aid="10367">
+		<title type="main" xml:lang="x-jat">Tsubasa to Hotaru</title>
+		<title type="official" xml:lang="ja">つばさとホタル</title>
+	</anime>
+	<anime aid="10368">
+		<title type="main" xml:lang="x-jat">Shin Tennis no Ouji-sama (2014)</title>
+		<title type="official" xml:lang="ja">新テニスの王子様 (2014)</title>
+	</anime>
+	<anime aid="10369">
+		<title type="main" xml:lang="x-jat">Chou Akuukan Bouheki Cheese Napolitan</title>
+		<title type="official" xml:lang="ja">超亜空間防壁チーズ・ナポリタン</title>
+	</anime>
 </animetitles>
 
-<!-- Created: Mon Dec 23 02:00:36 2013 (8052 anime, 44063 titles) -->
+<!-- Created: Fri Dec 27 02:00:29 2013 (8066 anime, 44107 titles) -->

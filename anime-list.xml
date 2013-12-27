@@ -15458,6 +15458,9 @@
   <anime anidbid="6672" tvdbid="88391" defaulttvdbseason="2">
     <name>Natsu no Arashi! Akinai-chuu</name>
   </anime>
+  <anime anidbid="6675" tvdbid="hentai" defaulttvdbseason="1">
+    <name>15 Bishoujo Hyouryuuki</name>
+  </anime>
   <anime anidbid="6677" tvdbid="121391" defaulttvdbseason="1">
     <name>Kuuchuu Buranko</name>
   </anime>
@@ -17185,6 +17188,9 @@
   <anime anidbid="7373" tvdbid="81810" defaulttvdbseason="0">
     <name>Kurenai (2010)</name>
   </anime>
+  <anime anidbid="7375" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Fukubiki! Triangle: Miharu After</name>
+  </anime>
   <anime anidbid="7377" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Bakumatsu no Spasibo</name>
   </anime>
@@ -17223,6 +17229,9 @@
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-46;</mapping>
     </mapping-list>
+  </anime>
+  <anime anidbid="7398" tvdbid="270843" defaulttvdbseason="0">
+    <name>Ashiaraiyashiki no Juunin-tachi.</name>
   </anime>
   <anime anidbid="7399" tvdbid="156411" defaulttvdbseason="1">
     <name>SD Gundam Sangokuden Brave Battle Warriors</name>
@@ -18249,6 +18258,9 @@
   <anime anidbid="7885" tvdbid="139361" defaulttvdbseason="0" imdbid="tt1535430">
     <name>Cheburashka</name>
   </anime>
+  <anime anidbid="7889" tvdbid="music video" defaulttvdbseason="1">
+    <name>Forsaken</name>
+  </anime>
   <anime anidbid="7890" tvdbid="196231" defaulttvdbseason="1">
     <name>Fortune Arterial: Akai Yakusoku</name>
   </anime>
@@ -18436,6 +18448,9 @@
       <mapping anidbseason="0" tvdbseason="1">;1-12;</mapping>
     </mapping-list>
     <before>;1-12;</before>
+  </anime>
+  <anime anidbid="7995" tvdbid="272941" defaulttvdbseason="1">
+    <name>Hiyokoi</name>
   </anime>
   <anime anidbid="8001" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Mushiba Tetsudou</name>
@@ -19022,6 +19037,9 @@
       <mapping anidbseason="1" tvdbseason="0">;1-7;</mapping>
     </mapping-list>
   </anime>
+  <anime anidbid="8244" tvdbid="248348" defaulttvdbseason="1">
+    <name>Happy Kappy</name>
+  </anime>
   <anime anidbid="8245" tvdbid="248980" defaulttvdbseason="1">
     <name>Honto ni Atta! Reibai-sensei</name>
     <supplemental-info>
@@ -19096,6 +19114,9 @@
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
+  </anime>
+  <anime anidbid="8273" tvdbid="web" defaulttvdbseason="1">
+    <name>Out of Sight</name>
   </anime>
   <anime anidbid="8274" tvdbid="75869" defaulttvdbseason="0" tmdbid="102070">
     <name>Gekijouban Mahou Sensei Negima! Anime Final</name>
@@ -19629,6 +19650,9 @@
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
+  </anime>
+  <anime anidbid="8492" tvdbid="web" defaulttvdbseason="1">
+    <name>Organic</name>
   </anime>
   <anime anidbid="8494" tvdbid="252621" defaulttvdbseason="1">
     <name>Kidou Senshi Gundam AGE</name>
@@ -20704,6 +20728,9 @@
   <anime anidbid="8928" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Niji-iro Hotaru: Eien no Natsuyasumi</name>
   </anime>
+  <anime anidbid="8929" tvdbid="269875" defaulttvdbseason="1">
+    <name>Blood Lad</name>
+  </anime>
   <anime anidbid="8931" tvdbid="118101" defaulttvdbseason="3">
     <name>Sora no Otoshimono Final: Eternal My Master</name>
   </anime>
@@ -21056,6 +21083,9 @@
   <anime anidbid="9090" tvdbid="116001" defaulttvdbseason="2">
     <name>Seitokai no Ichizon Lv.2</name>
   </anime>
+  <anime anidbid="9091" tvdbid="263445" defaulttvdbseason="1">
+    <name>Aoi Sekai no Chuushin de</name>
+  </anime>
   <anime anidbid="9092" tvdbid="252471" defaulttvdbseason="0">
     <name>Guilty Crown: Lost Christmas - An Episode of Port Town</name>
     <mapping-list>
@@ -21101,6 +21131,9 @@
   </anime>
   <anime anidbid="9125" tvdbid="movie" defaulttvdbseason="1" imdbid="tt2508466">
     <name>Hi no Youjin</name>
+  </anime>
+  <anime anidbid="9126" tvdbid="260361" defaulttvdbseason="1">
+    <name>Natsuyuki Rendezvous</name>
   </anime>
   <anime anidbid="9127" tvdbid="262090" defaulttvdbseason="1">
     <name>Psycho-Pass</name>
@@ -21864,6 +21897,9 @@
   <anime anidbid="9481" tvdbid="272043" defaulttvdbseason="1">
     <name>Tokyo Ravens</name>
   </anime>
+  <anime anidbid="9482" tvdbid="270068" defaulttvdbseason="1">
+    <name>Kami-sama no Inai Nichiyoubi</name>
+  </anime>
   <anime anidbid="9483" tvdbid="hentai" defaulttvdbseason="1">
     <name>Aku no Onna Kanbu: Full Moon Night</name>
   </anime>
@@ -22013,6 +22049,9 @@
   </anime>
   <anime anidbid="9551" tvdbid="268059" defaulttvdbseason="1">
     <name>Arata Kangatari</name>
+  </anime>
+  <anime anidbid="9553" tvdbid="195711" defaulttvdbseason="3">
+    <name>Kami nomi zo Shiru Sekai: Megami Hen</name>
   </anime>
   <anime anidbid="9554" tvdbid="267434" defaulttvdbseason="1">
     <name>Devil Survivor 2 The Animation</name>
@@ -22411,6 +22450,9 @@
   <anime anidbid="9741" tvdbid="268286" defaulttvdbseason="1">
     <name>Zettai Bouei Leviathan</name>
   </anime>
+  <anime anidbid="9745" tvdbid="268588">
+    <name>Ketsuekigata-kun!</name>
+  </anime>
   <anime anidbid="9747" tvdbid="262110" defaulttvdbseason="1">
     <name>Haitai Nanafa (2013)</name>
   </anime>
@@ -22591,6 +22633,9 @@
   <anime anidbid="9853" tvdbid="hentai" defaulttvdbseason="1">
     <name>M-ogui: Last Order</name>
   </anime>
+  <anime anidbid="9854" tvdbid="271216" defaulttvdbseason="1">
+    <name>Gifuu Doudou!! Kanetsugu to Keiji</name>
+  </anime>
   <anime anidbid="9855" tvdbid="273008" defaulttvdbseason="1">
     <name>Outbreak Company</name>
   </anime>
@@ -22716,6 +22761,9 @@
   </anime>
   <anime anidbid="9922" tvdbid="275576" defaulttvdbseason="1">
     <name>Sakura Trick</name>
+  </anime>
+  <anime anidbid="9924" tvdbid="274654" defaulttvdbseason="1">
+    <name>Sanjougattai Transformers Go!</name>
   </anime>
   <anime anidbid="9925" tvdbid="275610" defaulttvdbseason="1">
     <name>Noragami</name>
@@ -23125,6 +23173,18 @@
   <anime anidbid="10134" tvdbid="275667" defaulttvdbseason="1">
     <name>Super Sonico The Animation</name>
   </anime>
+  <anime anidbid="10135" tvdbid="265386" defaulttvdbseason="2">
+    <name>Puchimas!! Petit Idolmaster</name>
+  </anime>
+  <anime anidbid="10143" tvdbid="music video" defaulttvdbseason="1">
+    <name>"0"</name>
+  </anime>
+  <anime anidbid="10144" tvdbid="web" defaulttvdbseason="1">
+    <name>My Life</name>
+  </anime>
+  <anime anidbid="10151" tvdbid="OVA" defaulttvdbseason="1">
+    <name>Present</name>
+  </anime>
   <anime anidbid="10160" tvdbid="hentai" defaulttvdbseason="1">
     <name>Koakuma Kanojo The Animation</name>
   </anime>
@@ -23133,6 +23193,9 @@
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-3;2-4;</mapping>
     </mapping-list>
+  </anime>
+  <anime anidbid="10166" tvdbid="music video" defaulttvdbseason="1">
+    <name>Follow Me</name>
   </anime>
   <anime anidbid="10169" tvdbid="275634" defaulttvdbseason="1">
     <name>Hamatora</name>
@@ -23161,6 +23224,9 @@
   <anime anidbid="10210" tvdbid="159551" defaulttvdbseason="2">
     <name>Kin'iro no Chord: Blue Sky</name>
   </anime>
+  <anime anidbid="10211" tvdbid="web" defaulttvdbseason="1">
+    <name>Yakusoku</name>
+  </anime>
   <anime anidbid="10212" tvdbid="275628" defaulttvdbseason="1">
     <name>Sekai Seifuku: Bouryaku no Zvezda</name>
   </anime>
@@ -23181,6 +23247,9 @@
   </anime>
   <anime anidbid="10226" tvdbid="269873" defaulttvdbseason="2">
     <name>Gatchaman Crowds Second</name>
+  </anime>
+  <anime anidbid="10228" tvdbid="276345" defaulttvdbseason="1">
+    <name>Strange+</name>
   </anime>
   <anime anidbid="10231" tvdbid="hentai" defaulttvdbseason="1">
     <name>Oppai Infinity! The Animation</name>
@@ -23227,6 +23296,9 @@
   <anime anidbid="10274" tvdbid="79214" defaulttvdbseason="0">
     <name>Mushishi Tokubetsu Hen: Hihamukage</name>
   </anime>
+  <anime anidbid="10276" tvdbid="276346" defaulttvdbseason="1">
+    <name>Double Circle</name>
+  </anime>
   <anime anidbid="10277" tvdbid="hentai" defaulttvdbseason="1">
     <name>Tokubetsu Jugyou 3 SLG The Animation</name>
   </anime>
@@ -23235,6 +23307,9 @@
   </anime>
   <anime anidbid="10285" tvdbid="hentai" defaulttvdbseason="1">
     <name>Shiiba-san no Ura no Kao.</name>
+  </anime>
+  <anime anidbid="10289" tvdbid="276347" defaulttvdbseason="1">
+    <name>Minna Atsumare! Falcom Gakuen</name>
   </anime>
   <anime anidbid="10290" tvdbid="72454" defaulttvdbseason="0">
     <name>Meitantei Conan: Ijigen no Sniper</name>

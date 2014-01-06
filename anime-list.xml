@@ -5721,7 +5721,7 @@
   <anime anidbid="1714" tvdbid="82695" defaulttvdbseason="1">
     <name>Nurse Angel Ririka SOS</name>
   </anime>
-  <anime anidbid="1715" tvdbid="OVA" defaulttvdbseason="1">
+  <anime anidbid="1715" tvdbid="276287" defaulttvdbseason="1">
     <name>Dai Majuu Gekitou: Hagane no Oni</name>
   </anime>
   <anime anidbid="1717" tvdbid="93721" defaulttvdbseason="2">
@@ -22140,7 +22140,7 @@
   <anime anidbid="9585" tvdbid="249827" defaulttvdbseason="0">
     <name>Mirai Nikki Redial</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-8;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="9589" tvdbid="movie" defaulttvdbseason="1" imdbid="tt2591814">

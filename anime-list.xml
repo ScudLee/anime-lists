@@ -18034,6 +18034,9 @@
   </anime>
   <anime anidbid="7727" tvdbid="219131" defaulttvdbseason="1">
     <name>IS: Infinite Stratos</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="7728" tvdbid="258376" defaulttvdbseason="1">
     <name>Saiyuuki Gaiden</name>
@@ -19864,6 +19867,9 @@
   </anime>
   <anime anidbid="8586" tvdbid="219131" defaulttvdbseason="0">
     <name>IS: Infinite Stratos Encore - Koi ni Kogareru Rokujuusou</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="8587" tvdbid="257766" defaulttvdbseason="1">
     <name>Kimi no Iru Machi: Tasogare Kousaten</name>
@@ -22629,6 +22635,9 @@
   </anime>
   <anime anidbid="9849" tvdbid="219131" defaulttvdbseason="2">
     <name>IS: Infinite Stratos 2</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="9853" tvdbid="hentai" defaulttvdbseason="1">
     <name>M-ogui: Last Order</name>
@@ -23308,6 +23317,9 @@
   <anime anidbid="10290" tvdbid="72454" defaulttvdbseason="0">
     <name>Meitantei Conan: Ijigen no Sniper</name>
   </anime>
+  <anime anidbid="10291" tvdbid="276777" defaulttvdbseason="1">
+    <name>Buddy Complex</name>
+  </anime>
   <anime anidbid="10292" tvdbid="250070" defaulttvdbseason="3">
     <name>Uta no Prince-sama (2015)</name>
   </anime>
@@ -23328,5 +23340,32 @@
   </anime>
   <anime anidbid="10300" tvdbid="hentai" defaulttvdbseason="1">
     <name>Naisho no Wakana-san</name>
+  </anime>
+  <anime anidbid="10320" tvdbid="256705" defaulttvdbseason="0" imdbid="tt3407024">
+    <name>Uchuu Kyoudai (2014)</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
+    </mapping-list>
+  </anime>
+  <anime anidbid="10321" tvdbid="254667" defaulttvdbseason="3">
+    <name>Senki Zesshou Symphogear 3</name>
+  </anime>
+  <anime anidbid="10326" tvdbid="264534" defaulttvdbseason="0">
+    <name>Tamako Love Story</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-7;</mapping>
+    </mapping-list>
+  </anime>
+  <anime anidbid="10329" tvdbid="219131" defaulttvdbseason="0">
+    <name>IS: Infinite Stratos 2 - World Purge Hen</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
+    </mapping-list>
+  </anime>
+  <anime anidbid="10374" tvdbid="272310" defaulttvdbseason="2">
+    <name>Tesagure! Bukatsumono Encore</name>
+  </anime>
+  <anime anidbid="10376" tvdbid="259640" defaulttvdbseason="2">
+    <name>Sword Art Online II</name>
   </anime>
 </anime-list>

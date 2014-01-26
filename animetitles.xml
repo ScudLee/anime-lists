@@ -4267,11 +4267,11 @@
 		<title type="official" xml:lang="hu">STREET FIGHTER 2 - THE MOVIE</title>
 		<title type="official" xml:lang="ja">ストリートファイターII</title>
 		<title type="official" xml:lang="pl">Uliczny wojownik II</title>
+		<title type="official" xml:lang="pt">Street Fighter II</title>
 		<title type="official" xml:lang="ru">Уличный боец - 2</title>
 		<title type="short" xml:lang="x-jat">SF2</title>
 		<title type="syn" xml:lang="bg">Уличен Боец 2: Филмът</title>
 		<title type="syn" xml:lang="en">Street Fighter 2</title>
-		<title type="syn" xml:lang="pt">Street Fighter II: O Filme</title>
 		<title type="syn" xml:lang="pt-BR">Street Fighter II: O Filme</title>
 	</anime>
 	<anime aid="314">
@@ -7203,12 +7203,13 @@
 		<title type="official" xml:lang="es-LA">Slam Dunk</title>
 		<title type="official" xml:lang="fr">Slam Dunk</title>
 		<title type="official" xml:lang="it">Slam Dunk</title>
-		<title type="official" xml:lang="ja">スラムダンク</title>
+		<title type="official" xml:lang="ja">SLAM DUNK</title>
 		<title type="official" xml:lang="th">สแลมดั๊งค์</title>
 		<title type="official" xml:lang="tr">Basket</title>
 		<title type="official" xml:lang="zh">男兒當入樽</title>
 		<title type="short" xml:lang="x-jat">SD</title>
 		<title type="short" xml:lang="x-jat">SD!</title>
+		<title type="syn" xml:lang="ja">スラムダンク</title>
 		<title type="syn" xml:lang="ru">Слэм-данк</title>
 		<title type="syn" xml:lang="x-jat">Slam Dunk!</title>
 		<title type="syn" xml:lang="x-jat">Slam Dunk TV</title>
@@ -8192,21 +8193,24 @@
 	</anime>
 	<anime aid="695">
 		<title type="main" xml:lang="x-jat">Slam Dunk (1994)</title>
-		<title type="official" xml:lang="ja">スラムダンク (1994)</title>
+		<title type="official" xml:lang="ja">SLAM DUNK (1994)</title>
 		<title type="short" xml:lang="x-jat">SDM1</title>
+		<title type="syn" xml:lang="ja">スラムダンク (1994)</title>
 		<title type="syn" xml:lang="x-jat">Slam Dunk Movie 1</title>
 	</anime>
 	<anime aid="696">
-		<title type="main" xml:lang="x-jat">Slam Dunk: Zenkoku Seiha da! Sakuragi Hanamichi</title>
+		<title type="main" xml:lang="x-jat">Slam Dunk: Zenkoku Seiha Da! Sakuragi Hanamichi</title>
 		<title type="official" xml:lang="en">National Champions, Sakuragi Hanamichi!</title>
-		<title type="official" xml:lang="ja">スラムダンク 全国制覇だ! 桜木花道</title>
+		<title type="official" xml:lang="ja">SLAM DUNK 全国制覇だ! 桜木花道</title>
 		<title type="short" xml:lang="x-jat">SDM2</title>
+		<title type="syn" xml:lang="ja">スラムダンク 全国制覇だ! 桜木花道</title>
 		<title type="syn" xml:lang="x-jat">Slam Dunk Movie 2</title>
 	</anime>
 	<anime aid="697">
 		<title type="main" xml:lang="x-jat">Slam Dunk: Shouhoku Saidai no Kiki! Moero Sakuragi Hanamichi</title>
-		<title type="official" xml:lang="ja">スラムダンク 湘北最大の危機! 燃えろ桜木花道</title>
+		<title type="official" xml:lang="ja">SLAM DUNK 湘北最大の危機! 燃えろ桜木花道</title>
 		<title type="short" xml:lang="x-jat">SDM3</title>
+		<title type="syn" xml:lang="ja">スラムダンク 湘北最大の危機! 燃えろ桜木花道</title>
 		<title type="syn" xml:lang="x-jat">Slam Dunk Movie 3</title>
 	</anime>
 	<anime aid="698">
@@ -15776,6 +15780,7 @@
 		<title type="official" xml:lang="sr">Branioci Svemira</title>
 		<title type="official" xml:lang="sv">Starzinger</title>
 		<title type="short" xml:lang="x-jat">SFSS</title>
+		<title type="syn" xml:lang="en">Starzinger</title>
 	</anime>
 	<anime aid="1594">
 		<title type="main" xml:lang="x-jat">Saiyuuki Reload Gunlock</title>
@@ -18814,6 +18819,7 @@
 	</anime>
 	<anime aid="2013">
 		<title type="main" xml:lang="x-jat">Vampiyan Kids</title>
+		<title type="official" xml:lang="it">I Vampiriani - Vampiri Vegetariani</title>
 		<title type="official" xml:lang="ja">バンパイヤン・キッズ</title>
 		<title type="syn" xml:lang="en">Vampire Kids</title>
 	</anime>
@@ -45246,8 +45252,13 @@
 	</anime>
 	<anime aid="6985">
 		<title type="main" xml:lang="x-jat">Ashita no Eleven-tachi</title>
+		<title type="official" xml:lang="en">Young Eleven</title>
+		<title type="official" xml:lang="es">Once pares de botas juveniles</title>
+		<title type="official" xml:lang="it">11 campioni</title>
 		<title type="official" xml:lang="ja">あしたの勇者(イレブン)たち</title>
 		<title type="syn" xml:lang="en">Tomorrow`s Eleven</title>
+		<title type="syn" xml:lang="es">Once jóvenes</title>
+		<title type="syn" xml:lang="it">Undici campioni</title>
 		<title type="syn" xml:lang="ja">あしたの勇者たち</title>
 	</anime>
 	<anime aid="6986">
@@ -52836,6 +52847,7 @@
 	<anime aid="8554">
 		<title type="main" xml:lang="x-jat">Shoukoujo The Animation</title>
 		<title type="official" xml:lang="ja">少交女 THE ANIMATION</title>
+		<title type="syn" xml:lang="ko">소교녀</title>
 	</anime>
 	<anime aid="8555">
 		<title type="main" xml:lang="x-jat">Cross Fight B-Daman</title>
@@ -56097,6 +56109,7 @@
 	</anime>
 	<anime aid="9297">
 		<title type="main" xml:lang="x-jat">Usagi no Mofy</title>
+		<title type="official" xml:lang="it">Mofy</title>
 		<title type="official" xml:lang="ja">うさぎのモフィ</title>
 	</anime>
 	<anime aid="9298">
@@ -58601,6 +58614,7 @@
 		<title type="main" xml:lang="x-jat">Chuunibyou demo Koi ga Shitai! Ren</title>
 		<title type="official" xml:lang="ja">中二病でも恋がしたい! 戀</title>
 		<title type="official" xml:lang="zh-Hans">中二病也要谈恋爱！恋</title>
+		<title type="short" xml:lang="x-jat">chu2ren</title>
 		<title type="short" xml:lang="x-jat">chuu2koiren</title>
 		<title type="syn" xml:lang="x-jat">Chu-2 Byo demo Koi ga Shitai! Ren</title>
 		<title type="syn" xml:lang="x-jat">Chuunibyou demo Koi ga Shitai! 2</title>
@@ -58663,6 +58677,7 @@
 	</anime>
 	<anime aid="9888">
 		<title type="main" xml:lang="x-jat">Toaru Hikuushi e no Koiuta</title>
+		<title type="official" xml:lang="fr">Love Song pour un pilote</title>
 		<title type="official" xml:lang="ja">とある飛空士への恋歌</title>
 		<title type="official" xml:lang="zh-Hans">献给某飞行员的恋歌</title>
 		<title type="syn" xml:lang="en">Love Song of a Certain Pilot</title>
@@ -58727,6 +58742,7 @@
 		<title type="official" xml:lang="de">Nisekoi</title>
 		<title type="official" xml:lang="fr">Nisekoi</title>
 		<title type="official" xml:lang="ja">ニセコイ</title>
+		<title type="official" xml:lang="zh-Hans">伪恋</title>
 		<title type="official" xml:lang="zh-Hant">偽戀</title>
 		<title type="syn" xml:lang="en">False Love</title>
 	</anime>
@@ -58939,6 +58955,7 @@
 	</anime>
 	<anime aid="9955">
 		<title type="main" xml:lang="x-jat">Hoozuki no Reitetsu</title>
+		<title type="official" xml:lang="en">Hozuki no Reitetsu</title>
 		<title type="official" xml:lang="fr">Hozuki no Reitetsu</title>
 		<title type="official" xml:lang="ja">鬼灯の冷徹</title>
 	</anime>
@@ -59086,9 +59103,9 @@
 	</anime>
 	<anime aid="9995">
 		<title type="main" xml:lang="x-jat">Mahou Sensou</title>
+		<title type="official" xml:lang="en">Magical Warfare</title>
 		<title type="official" xml:lang="ja">魔法戦争</title>
 		<title type="short" xml:lang="x-jat">Mahosen</title>
-		<title type="syn" xml:lang="en">Magical Warfare</title>
 	</anime>
 	<anime aid="9996">
 		<title type="main" xml:lang="x-jat">Seikoku no Dragonar</title>
@@ -59197,6 +59214,7 @@
 	</anime>
 	<anime aid="10024">
 		<title type="main" xml:lang="x-jat">Wizard Barristers: Benmashi Cecil</title>
+		<title type="official" xml:lang="en">Wizard Barristers</title>
 		<title type="official" xml:lang="fr">Wizard Barristers</title>
 		<title type="official" xml:lang="ja">ウィザード・バリスターズ~弁魔士セシル</title>
 	</anime>
@@ -59465,8 +59483,8 @@
 	</anime>
 	<anime aid="10110">
 		<title type="main" xml:lang="x-jat">Mikakunin de Shinkoukei</title>
+		<title type="official" xml:lang="en">Engaged to the Unidentified</title>
 		<title type="official" xml:lang="ja">未確認で進行形</title>
-		<title type="syn" xml:lang="en">Engaged to the Unidentified</title>
 	</anime>
 	<anime aid="10111">
 		<title type="main" xml:lang="x-jat">Barakamon</title>
@@ -59560,6 +59578,7 @@
 	</anime>
 	<anime aid="10134">
 		<title type="main" xml:lang="x-jat">SoniAni: Super Sonico The Animation</title>
+		<title type="official" xml:lang="en">Soni-Ani: Super Sonico the Animation</title>
 		<title type="official" xml:lang="ja">そにアニ SUPER SONICO THE ANIMATION</title>
 		<title type="syn" xml:lang="ja">そにアニ</title>
 		<title type="syn" xml:lang="ja">すーぱーそに子</title>
@@ -59814,6 +59833,7 @@
 		<title type="short" xml:lang="x-jat">JoJo 2014</title>
 		<title type="syn" xml:lang="en">JoJo`s Bizarre Adventure Part 3</title>
 		<title type="syn" xml:lang="en">JOJO`S BIZARRE ADVENTURE: Stardust Crusaders</title>
+		<title type="syn" xml:lang="en">JoJo`s Bizzare Adventure: Stardust Crusaders</title>
 	</anime>
 	<anime aid="10207">
 		<title type="main" xml:lang="x-jat">DPR Special Movie</title>
@@ -60060,7 +60080,8 @@
 		<title type="main" xml:lang="x-jat">Peaceful Times(F02)petit film</title>
 	</anime>
 	<anime aid="10281">
-		<title type="main" xml:lang="en">Marvel Disk Wars: The Avengers</title>
+		<title type="main" xml:lang="en">Disk Wars: Avengers</title>
+		<title type="official" xml:lang="ja">ディスク・ウォーズ：アベンジャーズ</title>
 	</anime>
 	<anime aid="10282">
 		<title type="main" xml:lang="en">Happiness Charge Precure!</title>
@@ -60406,10 +60427,6 @@
 		<title type="main" xml:lang="x-jat">Magi: Sinbad no Bouken</title>
 		<title type="official" xml:lang="ja">マギ シンドバッドの冒険</title>
 	</anime>
-	<anime aid="10393">
-		<title type="main" xml:lang="x-jat">Inuneko awa 47 todoufuken R &amp; nya-men</title>
-		<title type="official" xml:lang="ja">犬猫アワー 47都道府犬R＆にゃ～めん</title>
-	</anime>
 	<anime aid="10394">
 		<title type="main" xml:lang="x-jat">Chikasugi aidoru "akae-chan"</title>
 		<title type="official" xml:lang="ja">地下すぎアイドル 「あかえちゃん」</title>
@@ -60452,7 +60469,7 @@
 	</anime>
 	<anime aid="10404">
 		<title type="main" xml:lang="x-jat">Futsuu no Joshikousei ga [Locodol] Yattemita.</title>
-		<title type="official" xml:lang="ja">普通の女子校生が【ろこどる】やってみた。</title>
+		<title type="official" xml:lang="ja">普通の女子校生が【ろこどる】やってみた.</title>
 	</anime>
 	<anime aid="10405">
 		<title type="main" xml:lang="x-jat">Yorinuki Gintama-san on Theater 2D</title>
@@ -60461,6 +60478,21 @@
 	<anime aid="10406">
 		<title type="main" xml:lang="en">Sengoku Basara (2014)</title>
 	</anime>
+	<anime aid="10407">
+		<title type="main" xml:lang="x-jat">Akame ga Kill!</title>
+		<title type="official" xml:lang="ja">アカメが斬る!</title>
+	</anime>
+	<anime aid="10409">
+		<title type="main" xml:lang="x-jat">Avengers Confidential: Black Widow &amp; Punisher</title>
+	</anime>
+	<anime aid="10411">
+		<title type="main" xml:lang="x-jat">Inuneko awa 47 todoufuken R &amp; nya-men</title>
+		<title type="official" xml:lang="ja">犬猫アワー 47都道府犬R＆にゃ～めん</title>
+	</anime>
+	<anime aid="10412">
+		<title type="main" xml:lang="x-jat">Pandra The Animation</title>
+		<title type="official" xml:lang="ja">PANDRA THE ANIMATION</title>
+	</anime>
 </animetitles>
 
-<!-- Created: Mon Jan 20 02:00:29 2014 (8092 anime, 44277 titles) -->
+<!-- Created: Sun Jan 26 02:00:30 2014 (8095 anime, 44303 titles) -->

@@ -290,7 +290,7 @@
   <anime anidbid="69" tvdbid="81797" defaulttvdbseason="a" tmdbid="" imdbid="">
     <name>One Piece</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-3;2-9;3-10;4-14;5-0;6-99;7-99;8-99;9-99;10-99;11-99;12-99;13-99;14-99;15-99;16-23;17-24;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-3;2-9;3-10;4-14;5-28;6-99;7-99;8-99;9-99;10-99;11-99;12-99;13-99;14-99;15-99;16-23;17-24;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="70" tvdbid="73616" defaulttvdbseason="1" tmdbid="" imdbid="">
@@ -1117,6 +1117,9 @@
   </anime>
   <anime anidbid="280" tvdbid="80900" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Aika</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-1;3-0;4-2;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="281" tvdbid="78232" defaulttvdbseason="1" tmdbid="" imdbid="tt0091794">
     <name>Project A-ko</name>
@@ -3398,7 +3401,7 @@
       <mapping anidbseason="1" tvdbseason="1">;3-4;4-3;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="897" tvdbid="79441" defaulttvdbseason="1" tmdbid="" imdbid="">
+  <anime anidbid="897" tvdbid="81965" defaulttvdbseason="2" tmdbid="" imdbid="">
     <name>Tokusou Senshatai Dominion</name>
   </anime>
   <anime anidbid="898" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
@@ -7661,7 +7664,7 @@
   <anime anidbid="2242" tvdbid="172421" defaulttvdbseason="0" tmdbid="" imdbid="tt0188535">
     <name>Cyborg 009: Chou Ginga Densetsu</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-1;2-1;3-1;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-1;2-1;3-1;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="2243" tvdbid="unknown" defaulttvdbseason="1" tmdbid="" imdbid="">
@@ -10043,7 +10046,7 @@
   <anime anidbid="3111" tvdbid="unknown" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Chargeman Ken</name>
   </anime>
-  <anime anidbid="3112" tvdbid="OVA" defaulttvdbseason="1" tmdbid="" imdbid="">
+  <anime anidbid="3112" tvdbid="81965" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>TANK S.W.A.T. 01</name>
   </anime>
   <anime anidbid="3113" tvdbid="252696" defaulttvdbseason="0" tmdbid="" imdbid="tt1147507">
@@ -14030,8 +14033,11 @@
       <mapping anidbseason="1" tvdbseason="0">;1-16;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="4852" tvdbid="80911" defaulttvdbseason="1" tmdbid="" imdbid="">
+  <anime anidbid="4852" tvdbid="80900" defaulttvdbseason="2" tmdbid="" imdbid="">
     <name>Aika R-16</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="4853" tvdbid="83405" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Hitohira</name>
@@ -17736,8 +17742,11 @@
   <anime anidbid="6525" tvdbid="tv special" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Anne Frank Monogatari: Anne no Nikki to Douwa yori</name>
   </anime>
-  <anime anidbid="6526" tvdbid="134081" defaulttvdbseason="1" tmdbid="" imdbid="">
+  <anime anidbid="6526" tvdbid="80900" defaulttvdbseason="3" tmdbid="" imdbid="">
     <name>Aika Zero</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-3;2-4;3-5;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="6528" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Kangoku Senkan</name>
@@ -24786,7 +24795,8 @@
   <anime anidbid="8940" tvdbid="81797" defaulttvdbseason="0" tmdbid="" imdbid="tt2375379">
     <name>One Piece Film Z</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-25;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-26;2-26;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-27;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="8941" tvdbid="73988" defaulttvdbseason="2" tmdbid="" imdbid="">
@@ -28296,7 +28306,7 @@
   <anime anidbid="10281" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Disk Wars: Avengers</name>
   </anime>
-  <anime anidbid="10282" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10282" tvdbid="278061" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Happiness Charge Precure!</name>
   </anime>
   <anime anidbid="10283" tvdbid="music video" defaulttvdbseason="1" tmdbid="" imdbid="">

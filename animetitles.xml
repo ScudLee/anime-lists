@@ -357,6 +357,7 @@
 	<anime aid="24">
 		<title type="main" xml:lang="x-jat">.hack//SIGN</title>
 		<title type="official" xml:lang="de">.hack//SIGN</title>
+		<title type="official" xml:lang="en">.hack//SIGN</title>
 		<title type="official" xml:lang="fr">.hack//SIGN</title>
 		<title type="official" xml:lang="ja">.hack//SIGN</title>
 		<title type="official" xml:lang="pt-BR">.hack//SIGN</title>
@@ -1576,11 +1577,12 @@
 		<title type="official" xml:lang="de">R.O.D - Read or Die</title>
 		<title type="official" xml:lang="en">R.O.D - Read or Die</title>
 		<title type="official" xml:lang="fr">R.O.D - Read or Die</title>
-		<title type="official" xml:lang="ja">R.O.D リード・オア・ダイ</title>
+		<title type="official" xml:lang="ja">R.O.D READ OR DIE</title>
 		<title type="official" xml:lang="ru">Прочти или умри</title>
-		<title type="short" xml:lang="en">R.O.D.</title>
+		<title type="short" xml:lang="en">R.O.D</title>
 		<title type="short" xml:lang="x-jat">RoD</title>
 		<title type="short" xml:lang="x-jat">rod ova</title>
+		<title type="syn" xml:lang="ja">R.O.D リード・オア・ダイ</title>
 		<title type="syn" xml:lang="uk">Читай або помри</title>
 		<title type="syn" xml:lang="x-jat">Read or Die OVA</title>
 	</anime>
@@ -3000,6 +3002,7 @@
 	</anime>
 	<anime aid="222">
 		<title type="main" xml:lang="x-jat">.hack//Liminality</title>
+		<title type="official" xml:lang="en">.hack//Liminality</title>
 		<title type="official" xml:lang="fr">.hack//Liminality</title>
 		<title type="official" xml:lang="ja">.hack//Liminality</title>
 		<title type="short" xml:lang="x-jat">HackLim</title>
@@ -7320,9 +7323,9 @@
 	</anime>
 	<anime aid="602">
 		<title type="main" xml:lang="x-jat">Maze Bakunetsu Jikuu</title>
-		<title type="official" xml:lang="en">Maze Megaburst Space OVA</title>
 		<title type="official" xml:lang="ja">MAZE☆爆熱時空</title>
 		<title type="short" xml:lang="x-jat">Maze OVA</title>
+		<title type="syn" xml:lang="en">Maze Megaburst Space OVA</title>
 		<title type="syn" xml:lang="x-jat">Maze Bakunetsu Jikuu OVA</title>
 	</anime>
 	<anime aid="603">
@@ -8648,13 +8651,13 @@
 		<title type="official" xml:lang="ja">ベターマン</title>
 	</anime>
 	<anime aid="746">
-		<title type="main" xml:lang="x-jat">Shusaku</title>
+		<title type="main" xml:lang="x-jat">Shuusaku</title>
 		<title type="official" xml:lang="en">Shusaku The Letch</title>
 		<title type="official" xml:lang="ja">臭作</title>
 		<title type="syn" xml:lang="ko">취작</title>
 	</anime>
 	<anime aid="747">
-		<title type="main" xml:lang="x-jat">Shusaku Replay</title>
+		<title type="main" xml:lang="x-jat">Shuusaku: Replay</title>
 		<title type="official" xml:lang="en">Shusaku The Letch - Replay</title>
 		<title type="official" xml:lang="fr">Le dortoir des grandes</title>
 		<title type="official" xml:lang="ja">臭作 ～Replay～</title>
@@ -14040,7 +14043,7 @@
 		<title type="syn" xml:lang="x-jat">Unico: Kuroi Kumo Shiroi Hane</title>
 	</anime>
 	<anime aid="1380">
-		<title type="main" xml:lang="x-jat">Shusaku Liberty</title>
+		<title type="main" xml:lang="x-jat">Shuusaku: Liberty</title>
 		<title type="official" xml:lang="en">Shusaku the Letch - Liberty</title>
 		<title type="official" xml:lang="ja">臭作 ～Liberty～</title>
 		<title type="syn" xml:lang="ko">취작 ~자유~</title>
@@ -14886,6 +14889,8 @@
 		<title type="official" xml:lang="it">Lupin III - Terza serie</title>
 		<title type="official" xml:lang="ja">ルパン三世PARTIII</title>
 		<title type="syn" xml:lang="bg">Люпен Трети - част трета</title>
+		<title type="syn" xml:lang="en">Lupin III Part 3</title>
+		<title type="syn" xml:lang="en">Lupin III Part III</title>
 		<title type="syn" xml:lang="en">Lupin III TV 3</title>
 		<title type="syn" xml:lang="en">Lupin S3</title>
 		<title type="syn" xml:lang="en">Pink jacket</title>
@@ -29768,6 +29773,7 @@
 	</anime>
 	<anime aid="3949">
 		<title type="main" xml:lang="x-jat">White Reflection</title>
+		<title type="official" xml:lang="ja">WHITE REFLECTION</title>
 		<title type="syn" xml:lang="x-jat">Two-Mix: White Reflection</title>
 	</anime>
 	<anime aid="3950">
@@ -41783,10 +41789,10 @@
 		<title type="official" xml:lang="mn">Зуны Дайн</title>
 		<title type="official" xml:lang="pl">Summer Wars</title>
 		<title type="official" xml:lang="ro">Razboaiele Verii</title>
+		<title type="official" xml:lang="ru">Летние войны</title>
 		<title type="syn" xml:lang="ar">حروب الصيف</title>
 		<title type="syn" xml:lang="bg">Летни войни</title>
 		<title type="syn" xml:lang="lt">Vasaros Karai</title>
-		<title type="syn" xml:lang="ru">Летние войны</title>
 		<title type="syn" xml:lang="tr">Yaz Savaşları</title>
 		<title type="syn" xml:lang="zh-Hans">夏日大作战</title>
 	</anime>
@@ -47966,6 +47972,7 @@
 	<anime aid="7534">
 		<title type="main" xml:lang="x-jat">Ningen Kakumei</title>
 		<title type="official" xml:lang="ja">人間革命</title>
+		<title type="syn" xml:lang="en">The Human Revolution</title>
 	</anime>
 	<anime aid="7535">
 		<title type="main" xml:lang="x-jat">Bakugan Battle Brawlers: Gundalian Invaders</title>
@@ -50453,7 +50460,7 @@
 		<title type="syn" xml:lang="uk">Дівчина-чарівниця Мадока Маґіка</title>
 		<title type="syn" xml:lang="uk">Чарівниця Мадока Магіка</title>
 		<title type="syn" xml:lang="x-jat">Mahou Shoujo Madoka Magika</title>
-		<title type="syn" xml:lang="x-jat">Meguca</title>
+		<title type="syn" xml:lang="x-jat">Meduka Meguca</title>
 	</anime>
 	<anime aid="8070">
 		<title type="main" xml:lang="x-jat">Shin-Men</title>
@@ -52537,12 +52544,12 @@
 		<title type="official" xml:lang="en">Guilty Crown</title>
 		<title type="official" xml:lang="fr">Guilty Crown</title>
 		<title type="official" xml:lang="ja">ギルティクラウン</title>
+		<title type="official" xml:lang="ru">Корона грешника</title>
 		<title type="official" xml:lang="zh-Hans">罪恶王冠</title>
 		<title type="short" xml:lang="en">gc</title>
 		<title type="syn" xml:lang="bg">Короната на Грешника</title>
 		<title type="syn" xml:lang="fa">تاج مجرم</title>
 		<title type="syn" xml:lang="lt">Kaltės karūna</title>
-		<title type="syn" xml:lang="ru">Корона Грешника</title>
 		<title type="syn" xml:lang="uk">Вінець Провини</title>
 	</anime>
 	<anime aid="8481">
@@ -53500,7 +53507,7 @@
 		<title type="official" xml:lang="en">Sword Art Online</title>
 		<title type="official" xml:lang="fr">Sword Art Online</title>
 		<title type="official" xml:lang="ja">ソードアート・オンライン</title>
-		<title type="official" xml:lang="ru">Sword Art Online</title>
+		<title type="official" xml:lang="ru">Мастер меча онлайн</title>
 		<title type="official" xml:lang="zh">刀剑神域</title>
 		<title type="official" xml:lang="zh-Hans">刀剑神域</title>
 		<title type="short" xml:lang="fa">هنر شمشيرزني آنلاين</title>
@@ -54135,12 +54142,12 @@
 		<title type="official" xml:lang="fr">Les enfants loups - Ame &amp; Yuki</title>
 		<title type="official" xml:lang="hr">Djeca vukovi</title>
 		<title type="official" xml:lang="ja">おおかみこどもの雨と雪</title>
+		<title type="official" xml:lang="ru">Волчьи дети Амэ и Юки</title>
 		<title type="official" xml:lang="zh-Hans">狼的孩子雨和雪</title>
 		<title type="short" xml:lang="de">Wolfskinder</title>
 		<title type="short" xml:lang="uk">Вовченята</title>
 		<title type="short" xml:lang="uk">Вовчі діти</title>
 		<title type="syn" xml:lang="en">The Wolf Children Ame and Yuki</title>
-		<title type="syn" xml:lang="ru">Волчьи дети Амэ и Юки</title>
 		<title type="syn" xml:lang="uk">Вовченята Аме та Юкі</title>
 		<title type="syn" xml:lang="uk">Вовчі діти Аме та Юкі</title>
 		<title type="syn" xml:lang="x-unk">Ame und Yuki - Die Wolfskinder</title>
@@ -54384,7 +54391,6 @@
 		<title type="main" xml:lang="x-jat">Arve Rezzle: Kikaijikake no Yousei-tachi</title>
 		<title type="official" xml:lang="ja">アルヴ・レズル -機械仕掛けの妖精たち-</title>
 		<title type="syn" xml:lang="en">Mechanized Fairies</title>
-		<title type="syn" xml:lang="x-jat">Aruvu Rezuru</title>
 	</anime>
 	<anime aid="8879">
 		<title type="main" xml:lang="x-jat">Dakara Boku wa, H ga Dekinai.</title>
@@ -56128,6 +56134,7 @@
 		<title type="main" xml:lang="x-jat">Persona 3 the Movie</title>
 		<title type="official" xml:lang="ja">PERSONA3 THE MOVIE</title>
 		<title type="short" xml:lang="x-jat">P3</title>
+		<title type="short" xml:lang="x-jat">P3M</title>
 	</anime>
 	<anime aid="9302">
 		<title type="main" xml:lang="x-jat">Dakara Boku wa, H ga Dekinai. (2013)</title>
@@ -57044,6 +57051,7 @@
 		<title type="official" xml:lang="ja">ウィッチクラフトワークス</title>
 		<title type="official" xml:lang="zh-Hans">魔女的使命</title>
 		<title type="short" xml:lang="en">wcw</title>
+		<title type="syn" xml:lang="bg">Вещерство</title>
 		<title type="syn" xml:lang="x-jat">WitchCraft Works</title>
 	</anime>
 	<anime aid="9497">
@@ -58616,6 +58624,7 @@
 		<title type="official" xml:lang="zh-Hans">中二病也要谈恋爱！恋</title>
 		<title type="short" xml:lang="x-jat">chu2ren</title>
 		<title type="short" xml:lang="x-jat">chuu2koiren</title>
+		<title type="short" xml:lang="x-jat">chuu2ren</title>
 		<title type="syn" xml:lang="x-jat">Chu-2 Byo demo Koi ga Shitai! Ren</title>
 		<title type="syn" xml:lang="x-jat">Chuunibyou demo Koi ga Shitai! 2</title>
 	</anime>
@@ -59227,6 +59236,7 @@
 		<title type="official" xml:lang="de">Space Dandy</title>
 		<title type="official" xml:lang="en">Space Dandy</title>
 		<title type="official" xml:lang="fr">Space Dandy</title>
+		<title type="official" xml:lang="it">Space Dandy</title>
 		<title type="official" xml:lang="ja">スペース☆ダンディ</title>
 		<title type="official" xml:lang="zh-Hans">宇宙浪子</title>
 		<title type="syn" xml:lang="bg">Космическото Конте</title>
@@ -59791,6 +59801,7 @@
 		<title type="main" xml:lang="x-jat">Seitokai Yakuindomo *</title>
 		<title type="official" xml:lang="ja">生徒会役員共＊</title>
 		<title type="short" xml:lang="x-jat">SYD*</title>
+		<title type="short" xml:lang="x-jat">SYD2</title>
 		<title type="syn" xml:lang="ja">Seitokai Yakuindomo S2</title>
 		<title type="syn" xml:lang="x-jat">Seitokai Yakuindomo Bleep</title>
 	</anime>
@@ -59859,6 +59870,7 @@
 	<anime aid="10212">
 		<title type="main" xml:lang="x-jat">Sekai Seifuku: Bouryaku no Zvezda</title>
 		<title type="official" xml:lang="en">World Conquest Zvezda Plot</title>
+		<title type="official" xml:lang="fr">Sekai seifuku: le complot Zvezda</title>
 		<title type="official" xml:lang="ja">世界征服 ~謀略のズヴィズダー~</title>
 		<title type="short" xml:lang="x-jat">zvezda</title>
 	</anime>
@@ -59961,6 +59973,7 @@
 	</anime>
 	<anime aid="10243">
 		<title type="main" xml:lang="x-jat">Nobunaga the Fool</title>
+		<title type="official" xml:lang="en">Nobunaga the Fool</title>
 		<title type="official" xml:lang="ja">ノブナガ・ザ・フール</title>
 	</anime>
 	<anime aid="10244">
@@ -60493,6 +60506,45 @@
 		<title type="main" xml:lang="x-jat">Pandra The Animation</title>
 		<title type="official" xml:lang="ja">PANDRA THE ANIMATION</title>
 	</anime>
+	<anime aid="10414">
+		<title type="main" xml:lang="x-jat">Touhou PVD 5</title>
+		<title type="official" xml:lang="ja">東方 PVD 5</title>
+	</anime>
+	<anime aid="10415">
+		<title type="main" xml:lang="x-jat">Free! 2</title>
+		<title type="official" xml:lang="ja">Free! 2</title>
+	</anime>
+	<anime aid="10417">
+		<title type="main" xml:lang="x-jat">Selector Infected Wixoss</title>
+		<title type="official" xml:lang="ja">selector infected WIXOSS</title>
+	</anime>
+	<anime aid="10419">
+		<title type="main" xml:lang="x-jat">Wonder Momo</title>
+		<title type="official" xml:lang="ja">ワンダーモモ</title>
+	</anime>
+	<anime aid="10420">
+		<title type="main" xml:lang="x-jat">Itadaki! Seieki</title>
+		<title type="official" xml:lang="ja">いただきっ! セーエキ</title>
+	</anime>
+	<anime aid="10421">
+		<title type="main" xml:lang="x-jat">Sanzoku no Musume Ronja</title>
+		<title type="official" xml:lang="ja">山賊の娘ローニャ</title>
+		<title type="official" xml:lang="sv">Ronja Rövardotter</title>
+		<title type="syn" xml:lang="de">Ronja Räubertochter</title>
+		<title type="syn" xml:lang="en">Ronia the Robber`s Daughter</title>
+	</anime>
+	<anime aid="10422">
+		<title type="main" xml:lang="x-jat">Washimo</title>
+		<title type="official" xml:lang="ja">わしも</title>
+	</anime>
+	<anime aid="10423">
+		<title type="main" xml:lang="x-jat">Nandaka Velonica</title>
+		<title type="official" xml:lang="ja">ナンダカベロニカ</title>
+	</anime>
+	<anime aid="10424">
+		<title type="main" xml:lang="x-jat">Kutsushita ga Daru Daru ni Nacchau Wake: Imadoki Youkai Zukan</title>
+		<title type="official" xml:lang="ja">くつしたがだるだるになっちゃうわけ ~イマドキ妖怪図鑑~</title>
+	</anime>
 </animetitles>
 
-<!-- Created: Sun Jan 26 02:00:30 2014 (8095 anime, 44303 titles) -->
+<!-- Created: Sun Feb  2 02:00:28 2014 (8104 anime, 44337 titles) -->

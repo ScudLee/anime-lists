@@ -346,7 +346,7 @@
     </supplemental-info>
   </anime>
   <anime anidbid="83" tvdbid="movie" defaulttvdbseason="1" tmdbid="tt0193253">
-    <name>Jin-Roh</name>
+    <name>Jin-Rou</name>
   </anime>
   <anime anidbid="84" tvdbid="72905" defaulttvdbseason="a">
     <name>Hikaru no Go</name>
@@ -1923,7 +1923,7 @@
     <name>Super GALS! Kotobuki Ran</name>
   </anime>
   <anime anidbid="476" tvdbid="254023" defaulttvdbseason="1">
-    <name>Tenamonya Voyagers</name>
+    <name>Tenamon'ya Voyagers</name>
   </anime>
   <anime anidbid="477" tvdbid="83021" defaulttvdbseason="1">
     <name>Patapata Hikousen no Bouken</name>
@@ -2163,7 +2163,7 @@
     <name>VS Knight Ramune &amp; 40 Fresh</name>
   </anime>
   <anime anidbid="548" tvdbid="81472" defaulttvdbseason="0" imdbid="tt0142241">
-    <name>Dragon Ball Z: Kyokugen Battle!! Sandai Super Saiyajin</name>
+    <name>Dragon Ball Z: Kyokugen Battle!! Sandai Super Saiya-jin</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-7;</mapping>
     </mapping-list>
@@ -2880,13 +2880,13 @@
     <name>Mutekiou Tri-Zenon</name>
   </anime>
   <anime anidbid="762" tvdbid="81472" defaulttvdbseason="0" imdbid="tt0142233">
-    <name>Dragon Ball Z: Chikyuu Marugoto Chou-Kessen</name>
+    <name>Dragon Ball Z: Chikyuu Marugoto Choukessen</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="763" tvdbid="81472" defaulttvdbseason="0" imdbid="tt0142244">
-    <name>Dragon Ball Z: Super Saiyajin da Songokuu</name>
+    <name>Dragon Ball Z: Super Saiya-jin Da Son Gokuu</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
     </mapping-list>
@@ -3335,7 +3335,7 @@
     <name>Ai Tenshi Densetsu Wedding Peach DX</name>
   </anime>
   <anime anidbid="893" tvdbid="81797" defaulttvdbseason="0" imdbid="tt0832449">
-    <name>One Piece: Nejimaki Jima no Bouken</name>
+    <name>One Piece: Nejimakijima no Bouken</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-5;</mapping>
       <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
@@ -3384,13 +3384,13 @@
     <name>The Big O</name>
   </anime>
   <anime anidbid="905" tvdbid="81472" defaulttvdbseason="0" imdbid="tt0142242">
-    <name>Dragon Ball Z: Moetsukiro!! Nessen - Ressen - Chou Gekisen</name>
+    <name>Dragon Ball Z: Moetsukiro!! Nessen, Ressen, Chougekisen</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-8;2-8;3-8;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="906" tvdbid="81472" defaulttvdbseason="0" imdbid="tt0142234">
-    <name>Dragon Ball Z: Super Senshi Gekiha!! Katsu no wa Ore da</name>
+    <name>Dragon Ball Z: Super Senshi Gekiha!! Katsu no wa Ore Da</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-11;2-11;3-11;</mapping>
     </mapping-list>
@@ -3847,7 +3847,7 @@
     <name>Heartwork: Symphony of Destruction</name>
   </anime>
   <anime anidbid="1043" tvdbid="81472" defaulttvdbseason="0" imdbid="tt0142235">
-    <name>Dragon Ball Z: Ora no Gohan o Kaese!!</name>
+    <name>Dragon Ball Z (1989)</name>
     <supplemental-info>
       <studio>Toei Animation</studio>
     </supplemental-info>
@@ -3993,7 +3993,7 @@
     <name>Submarine 707R</name>
   </anime>
   <anime anidbid="1080" tvdbid="OVA" defaulttvdbseason="1">
-    <name>First Kiss Story: Kiss Kara Hajimaru Monogatari</name>
+    <name>First Kiss Story: Kiss kara Hajimaru Monogatari</name>
   </anime>
   <anime anidbid="1081" tvdbid="80587" defaulttvdbseason="3">
     <name>Saiyuuki Reload</name>
@@ -4457,7 +4457,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="1254" tvdbid="81797" defaulttvdbseason="0" imdbid="tt1006926">
-    <name>One Piece: Dead End no Bouken</name>
+    <name>One Piece The Movie: Dead End no Bouken</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-8;2-8;3-8;</mapping>
     </mapping-list>
@@ -5649,7 +5649,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="1677" tvdbid="79879" defaulttvdbseason="a">
-    <name>Kyou Kara Maou!</name>
+    <name>Kyou kara Maou!</name>
   </anime>
   <anime anidbid="1681" tvdbid="240711" defaulttvdbseason="1">
     <name>Arrow Emblem: Grand Prix no Taka</name>
@@ -8452,7 +8452,7 @@
     </supplemental-info>
   </anime>
   <anime anidbid="2801" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0208069">
-    <name>Coo: Tooi Umi Kara Kita Coo</name>
+    <name>Coo: Tooi Umi kara Kita Coo</name>
   </anime>
   <anime anidbid="2803" tvdbid="hentai" defaulttvdbseason="1">
     <name>Angel Blade Punish!</name>
@@ -10011,7 +10011,7 @@
     <name>Adesugata Mahou no Sannin Musume</name>
   </anime>
   <anime anidbid="3634" tvdbid="OVA" defaulttvdbseason="1" imdbid="tt0295412">
-    <name>Majokko Club Yonin-gumi: A Kuukan Kara no Alien X</name>
+    <name>Majokko Club Yonin-gumi: A Kuukan kara no Alien X</name>
   </anime>
   <anime anidbid="3636" tvdbid="227501" defaulttvdbseason="1">
     <name>Mashin Eiyuuden Wataru</name>
@@ -10486,7 +10486,7 @@
     </supplemental-info>
   </anime>
   <anime anidbid="4097" tvdbid="81797" defaulttvdbseason="0" imdbid="tt1059950">
-    <name>One Piece: Karakurijou no Mecha Kyohei</name>
+    <name>One Piece The Movie: Karakurijou no Mecha Kyohei</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-15;</mapping>
     </mapping-list>
@@ -13224,7 +13224,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="5457" tvdbid="79879" defaulttvdbseason="0">
-    <name>Kyou Kara Maou! R</name>
+    <name>Kyou kara Maou! R</name>
   </anime>
   <anime anidbid="5458" tvdbid="91021" defaulttvdbseason="1">
     <name>Hoshi no Umi no Amuri</name>
@@ -13578,7 +13578,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="5691" tvdbid="81797" defaulttvdbseason="0" imdbid="tt1206326">
-    <name>One Piece: Episode of Chopper Plus - Fuyu ni Saku, Kiseki no Sakura</name>
+    <name>One Piece The Movie: Episode of Chopper Plus - Fuyu ni Saku, Kiseki no Sakura</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-17;</mapping>
     </mapping-list>
@@ -13788,7 +13788,7 @@
     <name>Sore Ike! Anpanman: Kirakiraboshi no Namida</name>
   </anime>
   <anime anidbid="5815" tvdbid="79879" defaulttvdbseason="3">
-    <name>Kyou Kara Maou! (2008)</name>
+    <name>Kyou kara Maou! (2008)</name>
   </anime>
   <anime anidbid="5818" tvdbid="77681" defaulttvdbseason="4">
     <name>Slayers Revolution</name>
@@ -14358,7 +14358,7 @@
     <name>Seto no Hanayome OVA</name>
   </anime>
   <anime anidbid="6127" tvdbid="81472" defaulttvdbseason="0" imdbid="tt1317478">
-    <name>Dragon Ball: Ossu! Kaette Kita Son Goku to Nakama-tachi!!</name>
+    <name>Dragon Ball: Ossu! Kaette Kita Son Gokuu to Nakama-tachi!!</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-16;</mapping>
     </mapping-list>
@@ -14478,7 +14478,7 @@
     <name>Sukeban Shokai Cutie Lemon</name>
   </anime>
   <anime anidbid="6199" tvdbid="81797" defaulttvdbseason="0" imdbid="unknown">
-    <name>One Piece: Romance Dawn Story</name>
+    <name>One Piece Special: Romance Dawn Story</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-18;</mapping>
     </mapping-list>
@@ -14539,7 +14539,7 @@
     <name>Helter Skelter: Hakudaku no Mura</name>
   </anime>
   <anime anidbid="6233" tvdbid="tvspecial" defaulttvdbseason="1" imdbid="tt1654078">
-    <name>Tezuka Osamu Monogatari: Boku wa Songokuu</name>
+    <name>Tezuka Osamu Monogatari: Boku wa Son Gokuu</name>
   </anime>
   <anime anidbid="6234" tvdbid="88161" defaulttvdbseason="a">
     <name>Hetalia: Axis Powers</name>
@@ -15146,7 +15146,7 @@
     <name>Gekijouban Yatterman: Shin Yattermecha Daishuugou! Omocha no Kuni de Daiketsudan Da Koron!</name>
   </anime>
   <anime anidbid="6537" tvdbid="81797" defaulttvdbseason="0" imdbid="tt1485763">
-    <name>One Piece: Strong World</name>
+    <name>One Piece Film: Strong World</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-19;</mapping>
     </mapping-list>
@@ -15155,7 +15155,7 @@
     <name>Hyakujitsu no Bara</name>
   </anime>
   <anime anidbid="6540" tvdbid="81472" defaulttvdbseason="0">
-    <name>Dragon Ball Z: Atsumare! Gokuu's World</name>
+    <name>Dragon Ball Z: Atsumare! Gokuu World</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-20;</mapping>
     </mapping-list>
@@ -16269,7 +16269,7 @@
     <name>Cheburashka Arere?</name>
   </anime>
   <anime anidbid="6970" tvdbid="84553" defaulttvdbseason="2">
-    <name>White Album 2nd Season</name>
+    <name>White Album (2009)</name>
   </anime>
   <anime anidbid="6971" tvdbid="115121" defaulttvdbseason="0" imdbid="unknown">
     <name>Tiger Mask Fuku Men League Sen</name>
@@ -17055,7 +17055,7 @@
     <name>Gunparade Orchestra: Midori no Shou - Ookami to Kare no Shounen</name>
   </anime>
   <anime anidbid="7298" tvdbid="79047" defaulttvdbseason="0">
-    <name>Gunparade Orchestra: Ao no Shou - Hikari no Umi Kara Tegami o Okurimasu</name>
+    <name>Gunparade Orchestra: Ao no Shou - Hikari no Umi kara Tegami o Okurimasu</name>
   </anime>
   <anime anidbid="7300" tvdbid="80980" defaulttvdbseason="0">
     <name>Chiccha na Yuki Tsukai Sugar Tokubetsu Hen</name>
@@ -18434,7 +18434,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="7976" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
-    <name>Umi Kara no Shisha</name>
+    <name>Umi kara no Shisha</name>
   </anime>
   <anime anidbid="7978" tvdbid="216611" defaulttvdbseason="1">
     <name>Onii-chan no Koto Nanka Zenzen Suki Janaindakara ne!!</name>
@@ -19299,7 +19299,7 @@
     <name>The Epic of Zektbach</name>
   </anime>
   <anime anidbid="8344" tvdbid="73532" defaulttvdbseason="0" imdbid="tt1107335">
-    <name>Tennis no Ouji-sama: Atobe Kara no Okurimono - Kimi ni Sasageru Tenipri Matsuri</name>
+    <name>Tennis no Ouji-sama: Atobe kara no Okurimono - Kimi ni Sasageru Tenipri Matsuri</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-5;</mapping>
     </mapping-list>
@@ -20299,7 +20299,7 @@
     <name>Biohazard 4: Incubate</name>
   </anime>
   <anime anidbid="8751" tvdbid="web" defaulttvdbseason="1">
-    <name>Precure Kara Minna e no Ouen Movie</name>
+    <name>Precure kara Minna e no Ouen Movie</name>
   </anime>
   <anime anidbid="8752" tvdbid="web" defaulttvdbseason="1">
     <name>Bloody Date</name>
@@ -20774,7 +20774,7 @@
     <name>Eiga Smile Precure! Ehon no Naka wa Minna Chiguhagu!</name>
   </anime>
   <anime anidbid="8940" tvdbid="81797" defaulttvdbseason="0" imdbid="tt2375379">
-    <name>One Piece Film Z</name>
+    <name>One Piece Film: Z</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-26;2-26;</mapping>
       <mapping anidbseason="1" tvdbseason="0">;1-27;</mapping>
@@ -21094,7 +21094,7 @@
     <name>Furiko</name>
   </anime>
   <anime anidbid="9088" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
-    <name>Rakuen Tsuihou: Expelled From Paradise</name>
+    <name>Rakuen Tsuihou: Expelled from Paradise</name>
   </anime>
   <anime anidbid="9090" tvdbid="116001" defaulttvdbseason="2">
     <name>Seitokai no Ichizon Lv.2</name>
@@ -22746,7 +22746,7 @@
     <name>Nisekoi</name>
   </anime>
   <anime anidbid="9904" tvdbid="82788" defaulttvdbseason="0">
-    <name>Natsume Yuujinchou OAD</name>
+    <name>Natsume Yuujinchou: Nyanko-sensei to Hajimete no Otsukai</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
     </mapping-list>

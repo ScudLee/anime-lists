@@ -1298,7 +1298,7 @@
     <name>Hotaru no Haka</name>
   </anime>
   <anime anidbid="333" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="tt0102587">
-    <name>Omoide Poro-poro</name>
+    <name>Omoide Poroporo</name>
   </anime>
   <anime anidbid="334" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="tt0110008">
     <name>Heisei Tanuki Gassen Ponpoko</name>
@@ -16187,7 +16187,7 @@
     <name>Spiral Over</name>
   </anime>
   <anime anidbid="5806" tvdbid="unknown" defaulttvdbseason="0" tmdbid="" imdbid="unknown">
-    <name>Onegai! Samia Don Movie</name>
+    <name>Onegai! Samia Don (1989)</name>
   </anime>
   <anime anidbid="5809" tvdbid="OVA" defaulttvdbseason="1" tmdbid="" imdbid="unknown">
     <name>Santa Claus Tsukamaeta</name>
@@ -19348,7 +19348,7 @@
     <name>Yasai no Yousei: N.Y. Salad 2nd Series</name>
   </anime>
   <anime anidbid="7078" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Tamagocchi!</name>
+    <name>Tamagotchi!</name>
   </anime>
   <anime anidbid="7079" tvdbid="98661" defaulttvdbseason="2" tmdbid="" imdbid="">
     <name>Stitch! Itazura Alien no Daibouken</name>
@@ -21077,7 +21077,7 @@
     <name>Supernatural</name>
   </anime>
   <anime anidbid="7655" tvdbid="195861" defaulttvdbseason="0" tmdbid="" imdbid="tt1734113">
-    <name>Omae Umasou da na</name>
+    <name>Omae Umasou Da na</name>
   </anime>
   <anime anidbid="7656" tvdbid="195231" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Yosuga no Sora: In Solitude, Where We Are Least Alone.</name>
@@ -21924,7 +21924,7 @@
     <name>Greek Roman Sinhwa Olympus Guardian</name>
   </anime>
   <anime anidbid="7942" tvdbid="195861" defaulttvdbseason="1" tmdbid="" imdbid="">
-    <name>Miyanishi Tatsuya Gekijou: Omae Umasou da na</name>
+    <name>Miyanishi Tatsuya Gekijou: Omae Umasou Da na</name>
     <supplemental-info>
       <studio>Ajia-dou</studio>
     </supplemental-info>
@@ -28451,7 +28451,7 @@
     <name>High Score Girl</name>
   </anime>
   <anime anidbid="10353" tvdbid="255925" defaulttvdbseason="0" tmdbid="" imdbid="">
-    <name>Gekijouban Pretty Rhythm</name>
+    <name>Gekijouban Pretty Rhythm All Star Selection: Prism Show Best Ten</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
@@ -28713,5 +28713,47 @@
   </anime>
   <anime anidbid="10459" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Yariman Fudousan</name>
+  </anime>
+  <anime anidbid="10461" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Mahou Shoujo wa Kiss Shite Kawaru</name>
+  </anime>
+  <anime anidbid="10462" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Abarenbou Rikishi!! Matsutarou</name>
+  </anime>
+  <anime anidbid="10475" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Himegoto</name>
+  </anime>
+  <anime anidbid="10476" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Momoya x Peeping Life: Go en Desu yo!</name>
+  </anime>
+  <anime anidbid="10477" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Momoya x Peeping Life: Go en Desu yo! II</name>
+  </anime>
+  <anime anidbid="10478" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Wazaguu! VS Dangerous Jiisan Ja: Houfukuzettou! Anime Quiz</name>
+  </anime>
+  <anime anidbid="10479" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Koukaku Kidoutai Arise: Borderless Project</name>
+  </anime>
+  <anime anidbid="10480" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Rokujouma no Shinryakusha!?</name>
+  </anime>
+  <anime anidbid="10482" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Gekijouban Aikatsu! Idol Katsudou!</name>
+  </anime>
+  <anime anidbid="10483" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Cardfight!! Vanguard: Legion Mate Hen</name>
+  </anime>
+  <anime anidbid="10484" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Love es M The Animation</name>
+  </anime>
+  <anime anidbid="10485" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Rennyuu Tales The Animation</name>
+  </anime>
+  <anime anidbid="10486" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Initial D Final Stage</name>
+  </anime>
+  <anime anidbid="10487" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Brothers Conflict Special</name>
   </anime>
 </anime-list>

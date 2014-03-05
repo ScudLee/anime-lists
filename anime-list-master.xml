@@ -26405,6 +26405,9 @@
   </anime>
   <anime anidbid="9535" tvdbid="266581" defaulttvdbseason="0" tmdbid="214722" imdbid="">
     <name>Eiga Precure All Stars New Stage 2: Kokoro no Tomodachi</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="9536" tvdbid="275584" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Inari, Konkon, Koi Iroha.</name>
@@ -28093,16 +28096,25 @@
   <anime anidbid="10198" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Strike Witches 3</name>
   </anime>
-  <anime anidbid="10199" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10199" tvdbid="259863" defaulttvdbseason="4" tmdbid="257474" imdbid="">
     <name>Parol no Miraijima</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="4">;1-4;</mapping>
+    </mapping-list>
   </anime>
-  <anime anidbid="10200" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10200" tvdbid="259863" defaulttvdbseason="4" tmdbid="257473" imdbid="">
     <name>Ookii 1 Nensei to Chiisana 2 Nensei</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="4">;1-3;</mapping>
+    </mapping-list>
   </anime>
-  <anime anidbid="10201" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10201" tvdbid="259863" defaulttvdbseason="4" tmdbid="256768" imdbid="">
     <name>Kuro no Su: Chronus</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="4">;1-2;</mapping>
+    </mapping-list>
   </anime>
-  <anime anidbid="10202" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10202" tvdbid="259863" defaulttvdbseason="4" tmdbid="256765" imdbid="">
     <name>Harmonie</name>
   </anime>
   <anime anidbid="10203" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
@@ -28114,13 +28126,13 @@
   <anime anidbid="10206" tvdbid="262954" defaulttvdbseason="2" tmdbid="" imdbid="">
     <name>JoJo no Kimyou na Bouken: Stardust Crusaders</name>
   </anime>
-  <anime anidbid="10207" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10207" tvdbid="web" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>DPR Special Movie</name>
   </anime>
-  <anime anidbid="10208" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10208" tvdbid="272314" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Ore no Nounai Sentakushi ga, Gakuen Lovecome o Zenryoku de Jama Shiteiru (2014)</name>
   </anime>
-  <anime anidbid="10209" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10209" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="unknown">
     <name>Osamu to Musashi</name>
   </anime>
   <anime anidbid="10210" tvdbid="159551" defaulttvdbseason="2" tmdbid="" imdbid="">
@@ -28132,19 +28144,19 @@
   <anime anidbid="10212" tvdbid="275628" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Sekai Seifuku: Bouryaku no Zvezda</name>
   </anime>
-  <anime anidbid="10215" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10215" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="unknown">
     <name>Hamuko Mairu!</name>
   </anime>
   <anime anidbid="10216" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Himekishi Olivia</name>
   </anime>
-  <anime anidbid="10217" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10217" tvdbid="unknown" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Mechano: Scientific Attack Force</name>
   </anime>
-  <anime anidbid="10218" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10218" tvdbid="OVA" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Kagerou Kaa-kun</name>
   </anime>
-  <anime anidbid="10220" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10220" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="tt3091272">
     <name>Saibi</name>
   </anime>
   <anime anidbid="10221" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
@@ -28159,14 +28171,17 @@
   <anime anidbid="10223" tvdbid="OVA" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Shiranpuri</name>
   </anime>
-  <anime anidbid="10225" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10225" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="unknown">
     <name>Juugo Shounen Hyouryuuki Kaizokujima DE! Daibouken</name>
   </anime>
   <anime anidbid="10226" tvdbid="269873" defaulttvdbseason="2" tmdbid="" imdbid="">
     <name>Gatchaman Crowds Second</name>
   </anime>
-  <anime anidbid="10227" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10227" tvdbid="278061" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Eiga Precure All Stars New Stage 3: Eien no Tomodachi</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="10228" tvdbid="276345" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Strange+</name>
@@ -28174,25 +28189,25 @@
   <anime anidbid="10231" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Oppai Infinity! The Animation</name>
   </anime>
-  <anime anidbid="10232" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10232" tvdbid="272316" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Non Non Biyori (2014)</name>
   </anime>
   <anime anidbid="10233" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Amanee!</name>
   </anime>
-  <anime anidbid="10234" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10234" tvdbid="web" defaulttvdbseason="1" tmdbid="257837" imdbid="">
     <name>Wonder Garden</name>
   </anime>
-  <anime anidbid="10235" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10235" tvdbid="web" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Buddy Spirits</name>
   </anime>
-  <anime anidbid="10236" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10236" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Chichi-iro Toiki</name>
   </anime>
-  <anime anidbid="10237" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10237" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Joshikousei no Koshitsuki 2</name>
   </anime>
-  <anime anidbid="10238" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10238" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="tt0347996">
     <name>Shengshi Chuanshuo</name>
   </anime>
   <anime anidbid="10240" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
@@ -28414,7 +28429,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="10330" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10330" tvdbid="music video" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Kakumei-teki Broadway Shugisha Doumei</name>
   </anime>
   <anime anidbid="10333" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
@@ -28426,7 +28441,7 @@
   <anime anidbid="10349" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Denpa Kyoushi</name>
   </anime>
-  <anime anidbid="10350" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10350" tvdbid="275614" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Saikin, Imouto no Yousu ga Chotto Okashiinda ga. OAD</name>
   </anime>
   <anime anidbid="10351" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
@@ -28435,8 +28450,11 @@
   <anime anidbid="10352" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>High Score Girl</name>
   </anime>
-  <anime anidbid="10353" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+  <anime anidbid="10353" tvdbid="255925" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Gekijouban Pretty Rhythm</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="10354" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Majin Bone</name>

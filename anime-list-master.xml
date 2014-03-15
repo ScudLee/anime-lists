@@ -12677,7 +12677,7 @@
     <name>Chie-chan Funsenki Jarinko Chie</name>
   </anime>
   <anime anidbid="4300" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="unknown">
-    <name>Kikan Kuruma Sensei</name>
+    <name>Kikansha Sensei</name>
   </anime>
   <anime anidbid="4301" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Ko Ko Ro</name>
@@ -25771,7 +25771,7 @@
     <name>Ore no Kanojo to Osananajimi ga Shuraba Sugiru</name>
   </anime>
   <anime anidbid="9306" tvdbid="275039" defaulttvdbseason="1" tmdbid="" imdbid="">
-    <name>Bishoujo Senshi Sailor Moon (2014)</name>
+    <name>Bishoujo Senshi Sailor Moon Crystal</name>
   </anime>
   <anime anidbid="9307" tvdbid="264524" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>D.C.III: Da Capo III</name>
@@ -26533,7 +26533,7 @@
     <name>Hayate no Gotoku! Cuties</name>
   </anime>
   <anime anidbid="9585" tvdbid="249827" defaulttvdbseason="0" tmdbid="" imdbid="">
-    <name>Mirai Nikki Redial</name>
+    <name>Mirai Nikki Redial: Data Ikou</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-8;</mapping>
     </mapping-list>
@@ -26587,7 +26587,7 @@
     <name>Kuroko no Baske (2013)</name>
   </anime>
   <anime anidbid="9605" tvdbid="261249" defaulttvdbseason="2" tmdbid="" imdbid="">
-    <name>K (2014)</name>
+    <name>K: Missing Kings</name>
   </anime>
   <anime anidbid="9606" tvdbid="267246" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Gin no Saji</name>
@@ -27941,7 +27941,7 @@
     <name>SoniAni: Super Sonico The Animation</name>
   </anime>
   <anime anidbid="10135" tvdbid="265386" defaulttvdbseason="2" tmdbid="" imdbid="">
-    <name>Puchimas!! Petit Idolmaster</name>
+    <name>Puchimas!! Petit Petit Idolmaster</name>
   </anime>
   <anime anidbid="10136" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Minna Ichiban!</name>
@@ -28094,7 +28094,7 @@
     <name>Seitokai Yakuindomo *</name>
   </anime>
   <anime anidbid="10198" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Strike Witches 3</name>
+    <name>Strike Witches: Operation Victory Arrow</name>
   </anime>
   <anime anidbid="10199" tvdbid="259863" defaulttvdbseason="4" tmdbid="257474" imdbid="">
     <name>Parol no Miraijima</name>
@@ -28340,7 +28340,7 @@
     <name>Meitantei Rascal</name>
   </anime>
   <anime anidbid="10295" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Mangaka-san to Assistant-san to</name>
+    <name>Mangaka-san to Assistant-san to The Animation</name>
   </anime>
   <anime anidbid="10296" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Futabu!</name>
@@ -28628,10 +28628,7 @@
     <name>Nandaka Velonica</name>
   </anime>
   <anime anidbid="10424" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Kutsushita ga Daru Daru ni Nacchau Wake: Imadoki Youkai Zukan</name>
-  </anime>
-  <anime anidbid="10425" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>xxxHOLiC: Rei</name>
+    <name>KutsuDaru.</name>
   </anime>
   <anime anidbid="10426" tvdbid="179791" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Break Blade (2014)</name>
@@ -28762,7 +28759,64 @@
   <anime anidbid="10486" tvdbid="70900" defaulttvdbseason="6" tmdbid="" imdbid="">
     <name>Initial D Final Stage</name>
   </anime>
-  <anime anidbid="10487" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Brothers Conflict Special</name>
+  <anime anidbid="10496" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Francesca</name>
+  </anime>
+  <anime anidbid="10498" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Sora Iro Hana Iro</name>
+  </anime>
+  <anime anidbid="10499" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Ore no Michi</name>
+  </anime>
+  <anime anidbid="10500" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Peng You Town</name>
+  </anime>
+  <anime anidbid="10501" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Suiren no Hito</name>
+  </anime>
+  <anime anidbid="10502" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Furueru Kuchibiru</name>
+  </anime>
+  <anime anidbid="10504" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Tennen Koi-iro Alcohol</name>
+  </anime>
+  <anime anidbid="10505" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Bakumatsu Rock</name>
+  </anime>
+  <anime anidbid="10506" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Glasslip</name>
+  </anime>
+  <anime anidbid="10507" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Kuraibito</name>
+  </anime>
+  <anime anidbid="10508" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Oshaburi Announcer</name>
+  </anime>
+  <anime anidbid="10509" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Inou Battle wa Nichijou-kei no Naka de</name>
+  </anime>
+  <anime anidbid="10510" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Spocon!</name>
+  </anime>
+  <anime anidbid="10511" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Iinari! Saimin Kanojo</name>
+  </anime>
+  <anime anidbid="10513" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Takarajima (1987)</name>
+  </anime>
+  <anime anidbid="10514" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>M3: Sono Kuroki Hagane</name>
+  </anime>
+  <anime anidbid="10515" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Pretty Rhythm: PuriPara</name>
+  </anime>
+  <anime anidbid="10517" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Shounen Hollywood</name>
+  </anime>
+  <anime anidbid="10518" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Meshimase Lodoss-tou Senki: Sorette Oishii no?</name>
+  </anime>
+  <anime anidbid="10519" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Hayate no Gotoku! (2014)</name>
   </anime>
 </anime-list>

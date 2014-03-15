@@ -1026,6 +1026,7 @@
     <anime anidbid="2811">Uchuu Senkan Yamato: Aratanaru Tabidachi</anime>
     <anime anidbid="2814">Uchuu Senkan Yamato (Gekijouban)</anime>
     <anime anidbid="6680">Uchuu Senkan Yamato: Fukkatsu Hen</anime>
+    <anime anidbid="10430">Uchuu Senkan Yamato 2199 (2014)</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Uchuu Senkan Yamato Collection</title>
       <title type="official" xml:lang="en">Space Battleship Yamato Collection</title>
@@ -2199,6 +2200,14 @@
     </titles>
   </set>
   <set>
+    <anime anidbid="7975">Toaru Kagaku no Railgun: Misaka-san wa Ima Chuumoku no Mato Desu kara</anime>
+    <anime anidbid="10453">Toaru Kagaku no Railgun S: Daiji na Koto wa Zenbu Sentou ni Osowatta</anime>
+    <titles>
+      <title type="main" xml:lang="x-jat">Toaru Kagaku no Railgun Collection</title>
+      <title type="official" xml:lang="en">A Certain Scientific Railgun Collection</title>
+    </titles>
+  </set>
+  <set>
     <anime anidbid="8146">Death Note: R - Genshisuru Kami</anime>
     <anime anidbid="8147">Death Note: R2 - L o Tsugu Mono</anime>
     <titles>
@@ -2308,6 +2317,14 @@
     <anime anidbid="9632">Sonyeon 007 Jihajeguj</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Sonyeon 007 Collection</title>
+    </titles>
+  </set>
+  <set>
+    <anime anidbid="9904">Natsume Yuujinchou: Nyanko-sensei to Hajimete no Otsukai</anime>
+    <anime anidbid="10447">Natsume Yuujinchou: Itsuka Yuki no Hi ni</anime>
+    <titles>
+      <title type="main" xml:lang="x-jat">Natsume Yuujinchou Collection</title>
+      <title type="official" xml:lang="en">Natsume's Book of Friends Collection</title>
     </titles>
   </set>
   <set>

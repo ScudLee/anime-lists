@@ -3452,6 +3452,9 @@
   <anime anidbid="9910" tvdbid="unknown" defaulttvdbseason="1">
     <name>Ikemen Kyuugotai Nurse Angels</name>
   </anime>
+  <anime anidbid="9932" tvdbid="unknown" defaulttvdbseason="1">
+    <name>Yuuto-kun ga Iku</name>
+  </anime>
   <anime anidbid="9946" tvdbid="unknown" defaulttvdbseason="0">
     <name>Zukkoke Sanningumi: Zukkoke Jikuu Bouken</name>
   </anime>
@@ -3490,5 +3493,14 @@
   </anime>
   <anime anidbid="10257" tvdbid="unknown" defaulttvdbseason="1">
     <name>Fabre Konchuuki</name>
+  </anime>
+  <anime anidbid="10428" tvdbid="unknown" defaulttvdbseason="2">
+    <name>Maido! Urayasu Tekkin Kazoku</name>
+  </anime>
+  <anime anidbid="10434" tvdbid="unknown" defaulttvdbseason="0">
+    <name>Gekijouban Train Heroes</name>
+  </anime>
+  <anime anidbid="10454" tvdbid="unknown" defaulttvdbseason="0">
+    <name>Gekijouban Yuuto-kun ga Iku</name>
   </anime>
 </anime-list>

@@ -22703,7 +22703,7 @@
   <anime anidbid="9874" tvdbid="261862" defaulttvdbseason="2">
     <name>Chuunibyou demo Koi ga Shitai! Ren</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-16;2-17;3-18;4-19;5-20;6-21;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-16;2-17;3-18;4-19;5-21;6-22;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="9875" tvdbid="272074" defaulttvdbseason="1">
@@ -22784,6 +22784,7 @@
   <anime anidbid="9919" tvdbid="261862" defaulttvdbseason="0">
     <name>Takanashi Rikka Kai: Gekijouban Chuunibyou demo Koi ga Shitai!</name>
     <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-20;</mapping>
       <mapping anidbseason="1" tvdbseason="0">;1-15;</mapping>
     </mapping-list>
   </anime>

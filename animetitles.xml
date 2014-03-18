@@ -14088,7 +14088,7 @@
 	</anime>
 	<anime aid="1382">
 		<title type="main" xml:lang="x-jat">Zoids</title>
-		<title type="official" xml:lang="en">ZOIDS Chaotic Century</title>
+		<title type="official" xml:lang="en">ZOIDS: Chaotic Century</title>
 		<title type="official" xml:lang="he">זוידס</title>
 		<title type="official" xml:lang="ja">ゾイド</title>
 		<title type="short" xml:lang="x-jat">zds</title>
@@ -34830,6 +34830,7 @@
 	<anime aid="4756">
 		<title type="main" xml:lang="x-jat">Jinzou Konchuu Kabutoborg VxV</title>
 		<title type="official" xml:lang="ja">人造昆虫カブトボーグ VxV</title>
+		<title type="short" xml:lang="x-jat">kabutoborg</title>
 		<title type="syn" xml:lang="en">Artificial Insect Kabutoborg</title>
 	</anime>
 	<anime aid="4757">
@@ -41392,6 +41393,7 @@
 		<title type="official" xml:lang="ja">はじめの一歩 The Fighting! New Challenger</title>
 		<title type="official" xml:lang="ko">더 파이팅 New Challenger</title>
 		<title type="short" xml:lang="x-jat">HNI2</title>
+		<title type="syn" xml:lang="bg">Боен дух: Нов претендент</title>
 		<title type="syn" xml:lang="bg">Боен дух: Нов противник</title>
 		<title type="syn" xml:lang="x-jat">Ippo2</title>
 		<title type="syn" xml:lang="zh-Hans">神拳一步 New Challenger 第二季</title>
@@ -51259,6 +51261,7 @@
 		<title type="official" xml:lang="en">Towa no Quon</title>
 		<title type="official" xml:lang="ja">トワノクオン</title>
 		<title type="syn" xml:lang="bg">Вечност над вечността</title>
+		<title type="syn" xml:lang="en">The Ephemeral Petal</title>
 	</anime>
 	<anime aid="8186">
 		<title type="main" xml:lang="x-jat">Zoku Naniwa Yuukyouden</title>
@@ -56308,6 +56311,7 @@
 	<anime aid="9309">
 		<title type="main" xml:lang="x-jat">Kara no Kyoukai: Mirai Fukuin</title>
 		<title type="official" xml:lang="ja">空の境界 未来福音</title>
+		<title type="official" xml:lang="zh-Hans">空之境界 未来福音</title>
 		<title type="short" xml:lang="x-jat">KnK2</title>
 		<title type="short" xml:lang="x-jat">KnK: MF</title>
 		<title type="short" xml:lang="x-jat">MF</title>
@@ -59167,6 +59171,7 @@
 		<title type="main" xml:lang="x-jat">Gin no Saji (2014)</title>
 		<title type="official" xml:lang="ja">銀の匙 (2014)</title>
 		<title type="official" xml:lang="zh-Hans">银之匙 Silver Spoon (2014)</title>
+		<title type="syn" xml:lang="en">Gin no Saji S2</title>
 		<title type="syn" xml:lang="en">Silver Spoon 2</title>
 		<title type="syn" xml:lang="x-jat">Gin no Saji 2</title>
 	</anime>
@@ -60313,6 +60318,7 @@
 	<anime aid="10297">
 		<title type="main" xml:lang="x-jat">Okusama wa Moto Yariman</title>
 		<title type="official" xml:lang="ja">奥様は元ヤリマン</title>
+		<title type="syn" xml:lang="en">Madam was once a slut</title>
 	</anime>
 	<anime aid="10298">
 		<title type="main" xml:lang="x-jat">Sengoku Musou SP: Sanada no Shou</title>
@@ -60564,6 +60570,7 @@
 	<anime aid="10387">
 		<title type="main" xml:lang="x-jat">Mou Hasamazu ni wa Irarenai: Hoshi ni Onegai Shitara Konna ni Okkiku Nacchatta!</title>
 		<title type="official" xml:lang="ja">もう挟まずにはいられない ~星にお願いしたらこんなにおっきくなっちゃった!</title>
+		<title type="syn" xml:lang="en">I just can`t stand not getting between them! ~I made a wish to the stars and they got this big!~</title>
 	</anime>
 	<anime aid="10388">
 		<title type="main" xml:lang="x-jat">Cosplay Rakuen</title>
@@ -60638,8 +60645,8 @@
 		<title type="official" xml:lang="ja">銀魂 よりぬき銀魂さんオンシアター2D</title>
 	</anime>
 	<anime aid="10406">
-		<title type="main" xml:lang="en">Sengoku Basara (2014)</title>
-		<title type="official" xml:lang="ja">戦国BASARA (2014)</title>
+		<title type="main" xml:lang="x-jat">Sengoku Basara: Judge End</title>
+		<title type="official" xml:lang="ja">戦国BASARA Judge End</title>
 	</anime>
 	<anime aid="10407">
 		<title type="main" xml:lang="x-jat">Akame ga Kill!</title>
@@ -60950,6 +60957,27 @@
 		<title type="main" xml:lang="x-jat">Hayate no Gotoku! (2014)</title>
 		<title type="official" xml:lang="ja">ハヤテのごとく! (2014)</title>
 	</anime>
+	<anime aid="10522">
+		<title type="main" xml:lang="x-jat">Duel Masters Versus</title>
+		<title type="official" xml:lang="ja">デュエル・マスターズ VS</title>
+	</anime>
+	<anime aid="10523">
+		<title type="main" xml:lang="x-jat">Durarara!! 2</title>
+		<title type="official" xml:lang="ja">デュラララ!! 2</title>
+	</anime>
+	<anime aid="10525">
+		<title type="main" xml:lang="x-jat">Sora no Method</title>
+		<title type="official" xml:lang="ja">天体のメソッド</title>
+	</anime>
+	<anime aid="10526">
+		<title type="main" xml:lang="x-jat">Kantoku Fuyukitodoki</title>
+		<title type="official" xml:lang="ja">監督不行届</title>
+		<title type="syn" xml:lang="en">Insufficient Direction</title>
+	</anime>
+	<anime aid="10527">
+		<title type="main" xml:lang="x-jat">Choubakuretsu Ijigen Menko Battle: Gigant Shooter Tsukasa</title>
+		<title type="official" xml:lang="ja">超爆裂異次元メンコバトル ギガントシューター つかさ</title>
+	</anime>
 </animetitles>
 
-<!-- Created: Sat Mar 15 02:00:26 2014 (8155 anime, 44640 titles) -->
+<!-- Created: Tue Mar 18 02:00:21 2014 (8160 anime, 44658 titles) -->

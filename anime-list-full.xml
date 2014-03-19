@@ -23760,7 +23760,7 @@
   <anime anidbid="8863" tvdbid="web" defaulttvdbseason="1">
     <name>Battle Break</name>
   </anime>
-  <anime anidbid="8864" tvdbid="web" defaulttvdbseason="1">
+  <anime anidbid="8864" tvdbid="276896" defaulttvdbseason="1">
     <name>Ryuugajou Nanana no Maizoukin</name>
   </anime>
   <anime anidbid="8865" tvdbid="256705" defaulttvdbseason="a">
@@ -23940,8 +23940,11 @@
   <anime anidbid="8929" tvdbid="269875" defaulttvdbseason="1">
     <name>Blood Lad</name>
   </anime>
-  <anime anidbid="8931" tvdbid="118101" defaulttvdbseason="3">
+  <anime anidbid="8931" tvdbid="118101" defaulttvdbseason="0" imdbid="tt3438514">
     <name>Sora no Otoshimono Final: Eternal My Master</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="8932" tvdbid="249875" defaulttvdbseason="0">
     <name>Nekogami Yaoyorozu: Ohanami Ghostbusters</name>
@@ -25338,6 +25341,9 @@
   <anime anidbid="9523" tvdbid="266581" defaulttvdbseason="1">
     <name>DokiDoki! Precure</name>
   </anime>
+  <anime anidbid="9524" tvdbid="278330" defaulttvdbseason="1">
+    <name>Kanojo ga Flag o Oraretara</name>
+  </anime>
   <anime anidbid="9525" tvdbid="264534" defaulttvdbseason="1">
     <name>Tamako Market</name>
   </anime>
@@ -26089,6 +26095,9 @@
   <anime anidbid="9891" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
     <name>Yasai no Yousei: Quiz Gekijou</name>
   </anime>
+  <anime anidbid="9892" tvdbid="278154" defaulttvdbseason="1">
+    <name>Sidonia no Kishi</name>
+  </anime>
   <anime anidbid="9893" tvdbid="272071" defaulttvdbseason="1">
     <name>BlazBlue: Alter Memory</name>
   </anime>
@@ -26133,6 +26142,9 @@
   </anime>
   <anime anidbid="9914" tvdbid="hentai" defaulttvdbseason="1">
     <name>Shin Hitou Meguri</name>
+  </anime>
+  <anime anidbid="9916" tvdbid="278126" defaulttvdbseason="1">
+    <name>Akuma no Riddle</name>
   </anime>
   <anime anidbid="9917" tvdbid="hentai" defaulttvdbseason="1">
     <name>Zecchou Rocket</name>
@@ -26264,6 +26276,9 @@
       <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
+  <anime anidbid="9973" tvdbid="278127" defaulttvdbseason="1">
+    <name>Hitsugi no Chaika</name>
+  </anime>
   <anime anidbid="9975" tvdbid="252696" defaulttvdbseason="0">
     <name>Eiga Doraemon: Shin Nobita no Daimakyou - Peko to 5-nin no Tankentai</name>
     <mapping-list>
@@ -26308,6 +26323,12 @@
   </anime>
   <anime anidbid="9995" tvdbid="275574" defaulttvdbseason="1">
     <name>Mahou Sensou</name>
+  </anime>
+  <anime anidbid="9996" tvdbid="278941" defaulttvdbseason="1">
+    <name>Seikoku no Dragonar</name>
+  </anime>
+  <anime anidbid="9998" tvdbid="278155" defaulttvdbseason="1">
+    <name>No Game No Life</name>
   </anime>
   <anime anidbid="10000" tvdbid="tv special" defaulttvdbseason="1">
     <name>Heisei no Cinderella: Kiko-sama Monogatari</name>
@@ -26453,6 +26474,12 @@
   <anime anidbid="10066" tvdbid="262090" defaulttvdbseason="0">
     <name>Gekijouban Psycho-Pass</name>
   </anime>
+  <anime anidbid="10067" tvdbid="276893" defaulttvdbseason="1">
+    <name>Captain Earth</name>
+  </anime>
+  <anime anidbid="10069" tvdbid="279396" defaulttvdbseason="1">
+    <name>Gokukoku no Brynhildr</name>
+  </anime>
   <anime anidbid="10071" tvdbid="other" defaulttvdbseason="1">
     <name>Kaitou Gary no Nihonjin Kouryakuhou!</name>
   </anime>
@@ -26594,6 +26621,9 @@
   <anime anidbid="10144" tvdbid="web" defaulttvdbseason="1">
     <name>My Life</name>
   </anime>
+  <anime anidbid="10145" tvdbid="278157" defaulttvdbseason="1">
+    <name>Haikyuu!!</name>
+  </anime>
   <anime anidbid="10151" tvdbid="OVA" defaulttvdbseason="1">
     <name>Present</name>
   </anime>
@@ -26611,6 +26641,12 @@
   </anime>
   <anime anidbid="10169" tvdbid="275634" defaulttvdbseason="1">
     <name>Hamatora The Animation</name>
+  </anime>
+  <anime anidbid="10181" tvdbid="276890" defaulttvdbseason="1">
+    <name>Black Bullet</name>
+  </anime>
+  <anime anidbid="10182" tvdbid="278329" defaulttvdbseason="1">
+    <name>Mahouka Koukou no Rettousei</name>
   </anime>
   <anime anidbid="10184" tvdbid="hentai" defaulttvdbseason="1">
     <name>Oni Chichi: Rebuild</name>
@@ -26738,8 +26774,14 @@
   <anime anidbid="10238" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0347996">
     <name>Shengshi Chuanshuo</name>
   </anime>
+  <anime anidbid="10241" tvdbid="278151" defaulttvdbseason="1">
+    <name>Escha &amp; Logy no Atelier: Tasogare no Sora no Renkinjutsushi</name>
+  </anime>
   <anime anidbid="10243" tvdbid="275631" defaulttvdbseason="1">
     <name>Nobunaga the Fool</name>
+  </anime>
+  <anime anidbid="10244" tvdbid="278152" defaulttvdbseason="1">
+    <name>Baby Steps</name>
   </anime>
   <anime anidbid="10245" tvdbid="275609" defaulttvdbseason="0">
     <name>Wake Up, Girls! Shichinin no Idol</name>
@@ -26768,17 +26810,26 @@
       <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
+  <anime anidbid="10254" tvdbid="278371" defaulttvdbseason="1">
+    <name>Soul Eater Not!</name>
+  </anime>
   <anime anidbid="10255" tvdbid="275669" defaulttvdbseason="1">
     <name>Go! Go! 575</name>
   </anime>
   <anime anidbid="10257" tvdbid="unknown" defaulttvdbseason="1">
     <name>Fabre Konchuuki</name>
   </anime>
+  <anime anidbid="10262" tvdbid="278818" defaulttvdbseason="1">
+    <name>Gochuumon wa Usagi Desuka?</name>
+  </anime>
   <anime anidbid="10263" tvdbid="hentai" defaulttvdbseason="1">
     <name>Kichiku: Oyako Choukyou Nikki</name>
   </anime>
   <anime anidbid="10271" tvdbid="275672" defaulttvdbseason="1">
     <name>Pupipoo!</name>
+  </anime>
+  <anime anidbid="10273" tvdbid="278819" defaulttvdbseason="1">
+    <name>Isshuukan Friends.</name>
   </anime>
   <anime anidbid="10274" tvdbid="79214" defaulttvdbseason="0">
     <name>Mushishi Tokubetsu Hen: Hihamu Kage</name>
@@ -26789,6 +26840,9 @@
   <anime anidbid="10277" tvdbid="hentai" defaulttvdbseason="1">
     <name>Tokubetsu Jugyou 3 SLG The Animation</name>
   </anime>
+  <anime anidbid="10281" tvdbid="278153" defaulttvdbseason="1">
+    <name>Disk Wars: Avengers</name>
+  </anime>
   <anime anidbid="10282" tvdbid="278061" defaulttvdbseason="1">
     <name>Happiness Charge Precure!</name>
   </anime>
@@ -26797,6 +26851,12 @@
   </anime>
   <anime anidbid="10285" tvdbid="hentai" defaulttvdbseason="1">
     <name>Shiiba-san no Ura no Kao.</name>
+  </anime>
+  <anime anidbid="10286" tvdbid="278156" defaulttvdbseason="1">
+    <name>Mahou Shoujo Taisen</name>
+  </anime>
+  <anime anidbid="10288" tvdbid="278196" defaulttvdbseason="1">
+    <name>Bokura wa Minna Kawaisou</name>
   </anime>
   <anime anidbid="10289" tvdbid="276347" defaulttvdbseason="1">
     <name>Minna Atsumare! Falcom Gakuen</name>
@@ -26813,6 +26873,9 @@
   <anime anidbid="10293" tvdbid="264523" defaulttvdbseason="2">
     <name>Yama no Susume 2</name>
   </anime>
+  <anime anidbid="10295" tvdbid="278976" defaulttvdbseason="1">
+    <name>Mangaka-san to Assistant-san to The Animation</name>
+  </anime>
   <anime anidbid="10296" tvdbid="hentai" defaulttvdbseason="1">
     <name>Futabu!</name>
   </anime>
@@ -26828,6 +26891,12 @@
   <anime anidbid="10300" tvdbid="hentai" defaulttvdbseason="1">
     <name>Naisho no Wakana-san</name>
   </anime>
+  <anime anidbid="10305" tvdbid="278332" defaulttvdbseason="1">
+    <name>Kamigami no Asobi</name>
+  </anime>
+  <anime anidbid="10310" tvdbid="278975" defaulttvdbseason="1">
+    <name>Yuu Gi Ou: Arc-V</name>
+  </anime>
   <anime anidbid="10320" tvdbid="256705" defaulttvdbseason="0" imdbid="tt3407024">
     <name>Uchuu Kyoudai: Number Zero</name>
     <mapping-list>
@@ -26837,7 +26906,7 @@
   <anime anidbid="10321" tvdbid="254667" defaulttvdbseason="3">
     <name>Senki Zesshou Symphogear 3</name>
   </anime>
-  <anime anidbid="10326" tvdbid="264534" defaulttvdbseason="0">
+  <anime anidbid="10326" tvdbid="264534" defaulttvdbseason="0" imdbid="tt3413018">
     <name>Tamako Love Story</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-7;</mapping>
@@ -26860,6 +26929,18 @@
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
+  </anime>
+  <anime anidbid="10354" tvdbid="278269" defaulttvdbseason="1">
+    <name>Majin Bone</name>
+  </anime>
+  <anime anidbid="10360" tvdbid="278199" defaulttvdbseason="1">
+    <name>Mekaku City Actors</name>
+  </anime>
+  <anime anidbid="10365" tvdbid="278197" defaulttvdbseason="1">
+    <name>Fuuun Ishin Dai Shougun</name>
+  </anime>
+  <anime anidbid="10366" tvdbid="278262" defaulttvdbseason="1">
+    <name>Kenzen Robo Daimidaler</name>
   </anime>
   <anime anidbid="10374" tvdbid="272310" defaulttvdbseason="2">
     <name>Tesagure! Bukatsumono Encore</name>
@@ -27037,5 +27118,32 @@
   </anime>
   <anime anidbid="10486" tvdbid="70900" defaulttvdbseason="6">
     <name>Initial D Final Stage</name>
+  </anime>
+  <anime anidbid="10502" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Furueru Kuchibiru</name>
+  </anime>
+  <anime anidbid="10504" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Tennen Koi-iro Alcohol</name>
+  </anime>
+  <anime anidbid="10505" tvdbid="279555" defaulttvdbseason="1">
+    <name>Bakumatsu Rock</name>
+  </anime>
+  <anime anidbid="10506" tvdbid="279531" defaulttvdbseason="1">
+    <name>Glasslip</name>
+  </anime>
+  <anime anidbid="10507" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Kuraibito</name>
+  </anime>
+  <anime anidbid="10508" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Oshaburi Announcer</name>
+  </anime>
+  <anime anidbid="10510" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Spocon!</name>
+  </anime>
+  <anime anidbid="10511" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Iinari! Saimin Kanojo</name>
+  </anime>
+  <anime anidbid="10523" tvdbid="133341" defaulttvdbseason="2">
+    <name>Durarara!! 2</name>
   </anime>
 </anime-list>

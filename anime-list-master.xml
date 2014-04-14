@@ -261,7 +261,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="62" tvdbid="81694" defaulttvdbseason="0" tmdbid="" imdbid="">
-    <name>Saber Marionette J Again</name>
+    <name>Mata Mata Saber Marionette J</name>
     <supplemental-info replace="true">
       <studio>Hal Film Maker</studio>
     </supplemental-info>
@@ -18779,10 +18779,10 @@
     <name>Furuike Emaki: Kaeru to Kitsune</name>
   </anime>
   <anime anidbid="6882" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="tt0422841">
-    <name>Poppaya-san Nonki Kikanshi</name>
+    <name>Poppoya-san Nonki Kikanshi</name>
   </anime>
   <anime anidbid="6883" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="tt0422977">
-    <name>Poppaya-san no Nonki Ekichou</name>
+    <name>Poppoya-san no Nonki Ekichou</name>
   </anime>
   <anime anidbid="6884" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="tt0419472">
     <name>Baghdad-hime</name>
@@ -27426,7 +27426,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="9927" tvdbid="264533" defaulttvdbseason="2" tmdbid="" imdbid="">
-    <name>Love Live! 2</name>
+    <name>Love Live! School Idol Project (2014)</name>
   </anime>
   <anime anidbid="9928" tvdbid="tv special" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Mogura no Adventure</name>
@@ -28113,7 +28113,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="10201" tvdbid="259863" defaulttvdbseason="4" tmdbid="256768" imdbid="">
-    <name>Kuro no Su: Chronus</name>
+    <name>Chronus</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="4">;1-2;</mapping>
     </mapping-list>
@@ -28917,7 +28917,7 @@
     <name>Master of Torque</name>
   </anime>
   <anime anidbid="10563" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Pocket Monsters XY tokubetsu-hen: MEGA EVOLUTION I</name>
+    <name>Pocket Monsters XY: Mega Evolution</name>
   </anime>
   <anime anidbid="10564" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>D-Frag! OAD</name>
@@ -28984,5 +28984,38 @@
   </anime>
   <anime anidbid="10585" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Idolmaster: Cinderella Girls</name>
+  </anime>
+  <anime anidbid="10586" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Himitsukessha Taka no Tsume Ex</name>
+  </anime>
+  <anime anidbid="10587" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Non Non Biyori 2</name>
+  </anime>
+  <anime anidbid="10588" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Ninja Slayer</name>
+  </anime>
+  <anime anidbid="10589" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Ookami Shoujo to Kuro Ouji</name>
+  </anime>
+  <anime anidbid="10590" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Neko no Dayan</name>
+  </anime>
+  <anime anidbid="10591" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Juuza Engi: Engetsu Sangokuden</name>
+  </anime>
+  <anime anidbid="10592" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Sega Hard Girls</name>
+  </anime>
+  <anime anidbid="10593" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Neko Pitcher</name>
+  </anime>
+  <anime anidbid="10594" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Konna ni Yasashiku Sareta no</name>
+  </anime>
+  <anime anidbid="10596" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Nanatsu no Taizai: The Seven Deadly Sins</name>
+  </anime>
+  <anime anidbid="10597" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Carino Coni</name>
   </anime>
 </anime-list>

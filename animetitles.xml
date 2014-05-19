@@ -2510,6 +2510,7 @@
 		<title type="short" xml:lang="en">RoV</title>
 		<title type="short" xml:lang="en">TRoV</title>
 		<title type="short" xml:lang="ja">ベルばら</title>
+		<title type="short" xml:lang="x-jat">berubara</title>
 		<title type="short" xml:lang="x-jat">verbara</title>
 		<title type="short" xml:lang="x-jat">VnB</title>
 		<title type="syn" xml:lang="en">Lady Oscar</title>
@@ -5412,7 +5413,7 @@
 	<anime aid="411">
 		<title type="main" xml:lang="x-jat">One Piece (2000)</title>
 		<title type="official" xml:lang="de">One Piece: Der Film</title>
-		<title type="official" xml:lang="en">One Piece: The Great Gold Pirate</title>
+		<title type="official" xml:lang="en">One Piece: The Movie</title>
 		<title type="official" xml:lang="it">One Piece: Per tutto l`oro del mondo</title>
 		<title type="official" xml:lang="ja">ONE PIECE (2000)</title>
 		<title type="short" xml:lang="en">One Piece Movie</title>
@@ -8980,6 +8981,7 @@
 	<anime aid="779">
 		<title type="main" xml:lang="x-jat">Parasite Dolls</title>
 		<title type="official" xml:lang="de">Parasite Dolls</title>
+		<title type="official" xml:lang="en">Parasite Dolls</title>
 		<title type="official" xml:lang="fr">Parasite Dolls</title>
 		<title type="official" xml:lang="ja">PARASITE DOLLS [パラサイトドールズ]</title>
 		<title type="official" xml:lang="ru">Хищные куклы</title>
@@ -9936,7 +9938,7 @@
 	<anime aid="893">
 		<title type="main" xml:lang="x-jat">One Piece: Nejimakijima no Bouken</title>
 		<title type="official" xml:lang="de">One Piece - 2. Film: Abenteuer auf der Spiralinsel</title>
-		<title type="official" xml:lang="en">One Piece: Clockwork Island Adventure</title>
+		<title type="official" xml:lang="en">One Piece: Adventure of Spiral Island</title>
 		<title type="official" xml:lang="it">One Piece: Avventura all`Isola Spirale</title>
 		<title type="official" xml:lang="ja">ONE PIECE ねじまき島の冒険</title>
 		<title type="short" xml:lang="en">One Piece Movie 2</title>
@@ -13130,7 +13132,7 @@
 	<anime aid="1253">
 		<title type="main" xml:lang="x-jat">One Piece: Chinjuujima no Chopper Oukoku</title>
 		<title type="official" xml:lang="de">One Piece - 3. Film: Chopper auf der Insel der seltsamen Tiere</title>
-		<title type="official" xml:lang="en">One Piece: Chopper Kingdom of Strange Animal Island</title>
+		<title type="official" xml:lang="en">One Piece: Chopper`s Kingdom in the Strange Animal Island</title>
 		<title type="official" xml:lang="fr">One Piece: Le royaume de Chopper l`étrange île des animaux</title>
 		<title type="official" xml:lang="it">One Piece: Il Tesoro del Re</title>
 		<title type="official" xml:lang="ja">ONE PIECE 珍獣島のチョッパー王国</title>
@@ -13142,7 +13144,7 @@
 	<anime aid="1254">
 		<title type="main" xml:lang="x-jat">One Piece The Movie: Dead End no Bouken</title>
 		<title type="official" xml:lang="de">One Piece - 4. Film: Das Dead End Rennen</title>
-		<title type="official" xml:lang="en">One Piece: Dead End</title>
+		<title type="official" xml:lang="en">One Piece The Movie: The Dead End Adventure</title>
 		<title type="official" xml:lang="fr">One Piece: Une aventure sans issue</title>
 		<title type="official" xml:lang="it">One Piece: Trappola mortale</title>
 		<title type="official" xml:lang="ja">ONE PIECE THE MOVIE デッドエンドの冒険</title>
@@ -13443,8 +13445,8 @@
 	</anime>
 	<anime aid="1304">
 		<title type="main" xml:lang="x-jat">Gundress</title>
+		<title type="official" xml:lang="en">Gundress</title>
 		<title type="official" xml:lang="ja">ガンドレス</title>
-		<title type="syn" xml:lang="en">Gundress</title>
 		<title type="syn" xml:lang="ja">GUNNDRESS</title>
 		<title type="syn" xml:lang="ko">건드레스</title>
 	</anime>
@@ -20853,10 +20855,6 @@
 		<title type="syn" xml:lang="pl">O Aladynie i Zaczarowanej Lampie</title>
 		<title type="syn" xml:lang="x-jat">Aladdin to Mahou no Lamp</title>
 	</anime>
-	<anime aid="2271">
-		<title type="main" xml:lang="x-jat">Asari-chan: Ai no Marchen Shoujo (1982)</title>
-		<title type="official" xml:lang="ja">あさりちゃん 愛のメルヘン少女</title>
-	</anime>
 	<anime aid="2272">
 		<title type="main" xml:lang="x-jat">Haguregumo</title>
 		<title type="official" xml:lang="ja">浮浪雲</title>
@@ -23372,7 +23370,7 @@
 	<anime aid="2644">
 		<title type="main" xml:lang="x-jat">One Piece: Omatsuri Danshaku to Himitsu no Shima</title>
 		<title type="official" xml:lang="de">One Piece - 6. Film: Baron Omatsuri und die geheimnisvolle Insel</title>
-		<title type="official" xml:lang="en">One Piece: Baron Omatsuri and the Secret Island</title>
+		<title type="official" xml:lang="en">One Piece: Baron Omatsuri and the Island of Secrets</title>
 		<title type="official" xml:lang="it">One Piece: L`Isola Segreta del Barone Omatsuri</title>
 		<title type="official" xml:lang="ja">ONE PIECE -オマツリ男爵と秘密の島-</title>
 		<title type="short" xml:lang="en">One Piece Movie 6</title>
@@ -26704,6 +26702,7 @@
 		<title type="official" xml:lang="pt">Super Poderosas</title>
 		<title type="official" xml:lang="pt-BR">As Meninas Superpoderosas: Geração Z</title>
 		<title type="short" xml:lang="x-jat">ppgz</title>
+		<title type="syn" xml:lang="es">Las Chicas Superpoderosas Z</title>
 		<title type="syn" xml:lang="pl">Atomówki</title>
 		<title type="syn" xml:lang="x-jat">Demashitaa! Powerpuff Girls Z</title>
 		<title type="syn" xml:lang="x-jat">Power Puff Girls Z</title>
@@ -28945,22 +28944,22 @@
 		<title type="main" xml:lang="x-jat">Manga Nippon Mukashibanashi</title>
 		<title type="official" xml:lang="de">Es war einmal</title>
 		<title type="official" xml:lang="el">Γιαπωνέζικα Παραμύθια</title>
-		<title type="official" xml:lang="en">Japanese Folklore Tales</title>
 		<title type="official" xml:lang="ja">まんが日本昔ばなし</title>
 		<title type="official" xml:lang="pl">Bajki japońskie</title>
+		<title type="syn" xml:lang="en">Japanese Folklore Tales</title>
 	</anime>
 	<anime aid="3588">
 		<title type="main" xml:lang="x-jat">Manga Nippon Mukashibanashi (1976)</title>
-		<title type="official" xml:lang="en">Japanese Folklore Tales 2</title>
 		<title type="official" xml:lang="fr">Contes animés du Vieux Japon</title>
-		<title type="official" xml:lang="ja">まんが日本昔ばなし TV 2</title>
+		<title type="official" xml:lang="ja">まんが日本昔ばなし (1976)</title>
+		<title type="syn" xml:lang="en">Japanese Folklore Tales 2</title>
 		<title type="syn" xml:lang="x-jat">Manga Nippon Mukashibanashi 2</title>
 	</anime>
 	<anime aid="3589">
-		<title type="main" xml:lang="x-jat">Manga Nippon Mukashibanashi Movie</title>
+		<title type="main" xml:lang="x-jat">Manga Nippon Mukashibanashi: Horafuki Tengu/Okesa Neko</title>
 		<title type="official" xml:lang="el">Παλιά Γιαπωνέζικα Παραμύθια</title>
-		<title type="official" xml:lang="en">Japanese Folklore Tales Movie</title>
-		<title type="official" xml:lang="ja">まんが日本昔ばなしMOVIE</title>
+		<title type="official" xml:lang="ja">まんが日本昔ばなし ほらふき天狗・おけさねこ</title>
+		<title type="syn" xml:lang="en">Japanese Folklore Tales Movie</title>
 	</anime>
 	<anime aid="3590">
 		<title type="main" xml:lang="x-jat">Manga Nippon Mukashibanashi (2005)</title>
@@ -30933,8 +30932,8 @@
 	</anime>
 	<anime aid="4114">
 		<title type="main" xml:lang="x-jat">Youyou no Neko Tsumami</title>
-		<title type="official" xml:lang="en">Cat Yo-yo</title>
 		<title type="official" xml:lang="ja">ヨーヨーの猫つまみ</title>
+		<title type="syn" xml:lang="en">Cat Yo-yo</title>
 		<title type="syn" xml:lang="x-jat">Yo Yo Neko no Tsumami</title>
 		<title type="syn" xml:lang="x-jat">Yo Yo no Neko Matsumi</title>
 		<title type="syn" xml:lang="x-jat">Yoyo no Neko Tsumami</title>
@@ -33956,6 +33955,7 @@
 	</anime>
 	<anime aid="4594">
 		<title type="main" xml:lang="x-jat">Happiness!</title>
+		<title type="official" xml:lang="en">Happiness!</title>
 		<title type="official" xml:lang="ja">はぴねす!</title>
 		<title type="syn" xml:lang="es">¡Felicidad!</title>
 		<title type="syn" xml:lang="pt-BR">Felicidade!</title>
@@ -43360,6 +43360,7 @@
 	<anime aid="6558">
 		<title type="main" xml:lang="x-jat">Anata dake Konbanwa</title>
 		<title type="official" xml:lang="ja">貴方だけこんばんわ</title>
+		<title type="syn" xml:lang="en">Good Evening Just For You</title>
 		<title type="syn" xml:lang="ko">당신만 안녕하세요</title>
 	</anime>
 	<anime aid="6561">
@@ -51160,6 +51161,7 @@
 	</anime>
 	<anime aid="8160">
 		<title type="main" xml:lang="x-jat">Fate/Zero</title>
+		<title type="official" xml:lang="bg">Съдба/Началото</title>
 		<title type="official" xml:lang="en">Fate/Zero</title>
 		<title type="official" xml:lang="fa">فیت / زیرو</title>
 		<title type="official" xml:lang="fr">Fate/Zero</title>
@@ -54538,9 +54540,10 @@
 	</anime>
 	<anime aid="8864">
 		<title type="main" xml:lang="x-jat">Ryuugajou Nanana no Maizoukin (2014)</title>
+		<title type="official" xml:lang="en">Nanana`s Buried Treasure</title>
+		<title type="official" xml:lang="fr">Nanana`s Buried Treasure</title>
 		<title type="official" xml:lang="ja">龍ヶ嬢七々々の埋蔵金(2014)</title>
 		<title type="official" xml:lang="zh-Hans">龙娘七七七埋藏的宝藏</title>
-		<title type="syn" xml:lang="en">Nanana`s Buried Treasure</title>
 	</anime>
 	<anime aid="8865">
 		<title type="main" xml:lang="x-jat">Uchuu Kyoudai</title>
@@ -54612,6 +54615,9 @@
 		<title type="official" xml:lang="ja">アルヴ・レズル -機械仕掛けの妖精たち-</title>
 		<title type="short" xml:lang="x-jat">Arve Rezzle</title>
 		<title type="syn" xml:lang="en">Mechanized Fairies</title>
+		<title type="syn" xml:lang="en">Young Animator Training Project 2013 3</title>
+		<title type="syn" xml:lang="ja">若手アニメーター育成プロジェクト 2013 3</title>
+		<title type="syn" xml:lang="x-jat">Wakate Animator Ikusei Project 2013 3</title>
 	</anime>
 	<anime aid="8879">
 		<title type="main" xml:lang="x-jat">Dakara Boku wa, H ga Dekinai.</title>
@@ -54622,6 +54628,7 @@
 	</anime>
 	<anime aid="8880">
 		<title type="main" xml:lang="x-jat">Fate/Zero (2012)</title>
+		<title type="official" xml:lang="bg">Съдба/Началото 2</title>
 		<title type="official" xml:lang="ja">Fate/Zero (2012)</title>
 		<title type="short" xml:lang="uk">Фатум 2012</title>
 		<title type="short" xml:lang="x-jat">fz2</title>
@@ -56156,15 +56163,24 @@
 		<title type="official" xml:lang="ja">リトル・ウィッチ・アカデミア</title>
 		<title type="official" xml:lang="uk">Академія відьмочок</title>
 		<title type="short" xml:lang="x-jat">LWA</title>
+		<title type="syn" xml:lang="en">Young Animator Training Project 2013 2</title>
+		<title type="syn" xml:lang="ja">若手アニメーター育成プロジェクト 2013 2</title>
+		<title type="syn" xml:lang="x-jat">Wakate Animator Ikusei Project 2013 2</title>
 	</anime>
 	<anime aid="9251">
 		<title type="main" xml:lang="x-jat">Ryo</title>
 		<title type="official" xml:lang="ja">龍-RYO-</title>
+		<title type="syn" xml:lang="en">Young Animator Training Project 2013 1</title>
+		<title type="syn" xml:lang="ja">若手アニメーター育成プロジェクト 2013 1</title>
+		<title type="syn" xml:lang="x-jat">Wakate Animator Ikusei Project 2013 1</title>
 	</anime>
 	<anime aid="9253">
 		<title type="main" xml:lang="x-jat">Death Billiards</title>
 		<title type="official" xml:lang="ja">デスビリヤード</title>
 		<title type="official" xml:lang="uk">Смертельний більярд</title>
+		<title type="syn" xml:lang="en">Young Animator Training Project 2013 4</title>
+		<title type="syn" xml:lang="ja">若手アニメーター育成プロジェクト 2013 4</title>
+		<title type="syn" xml:lang="x-jat">Wakate Animator Ikusei Project 2013 4</title>
 	</anime>
 	<anime aid="9257">
 		<title type="main" xml:lang="x-jat">Yama no Susume</title>
@@ -57402,6 +57418,7 @@
 	</anime>
 	<anime aid="9514">
 		<title type="main" xml:lang="x-jat">Kaze Tachinu</title>
+		<title type="official" xml:lang="en">The Wind Rises</title>
 		<title type="official" xml:lang="es">El Viento se Levanta</title>
 		<title type="official" xml:lang="es-LA">Se Levanta el Viento</title>
 		<title type="official" xml:lang="fi">Tuuli nousee</title>
@@ -57413,7 +57430,6 @@
 		<title type="official" xml:lang="pt-BR">Vidas ao Vento</title>
 		<title type="official" xml:lang="ru">Ветер крепчает</title>
 		<title type="official" xml:lang="sv">Det blåser upp en vind</title>
-		<title type="syn" xml:lang="en">The Wind Rises</title>
 		<title type="syn" xml:lang="uk">Вітер дужчає</title>
 		<title type="syn" xml:lang="uk">Здійнявся вітер</title>
 	</anime>
@@ -57667,6 +57683,7 @@
 		<title type="main" xml:lang="x-jat">Line Offline Salaryman</title>
 		<title type="official" xml:lang="ja">LINE OFFLINE サラリーマン</title>
 		<title type="short" xml:lang="x-jat">LOS</title>
+		<title type="syn" xml:lang="x-jat">Line Offline: Salaryman</title>
 	</anime>
 	<anime aid="9567">
 		<title type="main" xml:lang="x-jat">Ashita no Kibou: Kanashimi yo Arigatou - Takae Tsuneo Monogatari</title>
@@ -58233,6 +58250,8 @@
 	<anime aid="9690">
 		<title type="main" xml:lang="x-jat">Eiga DokiDoki! Precure: Mana Kekkon!!? Mirai ni Tsunagu Kibou no Dress</title>
 		<title type="official" xml:lang="ja">映画 ドキドキ! プリキュア マナ結婚!!? 未来につなぐ希望のドレス</title>
+		<title type="short" xml:lang="en">DokiDoki! Precure Movie</title>
+		<title type="syn" xml:lang="en">Dokidoki! PreCure the Movie: Mana`s Getting Married!!? The Dress of Hope Tied to the Future!</title>
 	</anime>
 	<anime aid="9693">
 		<title type="main" xml:lang="x-jat">Cyclops Shoujo Saipuu</title>
@@ -59462,6 +59481,7 @@
 	<anime aid="9999">
 		<title type="main" xml:lang="x-jat">Seirei Tsukai no Blade Dance</title>
 		<title type="official" xml:lang="ja">精霊使いの剣舞</title>
+		<title type="syn" xml:lang="en">Blade Dance of Elementalers</title>
 	</anime>
 	<anime aid="10000">
 		<title type="main" xml:lang="x-jat">Heisei no Cinderella: Kiko-sama Monogatari</title>
@@ -59700,7 +59720,6 @@
 		<title type="official" xml:lang="en">Captain Earth</title>
 		<title type="official" xml:lang="ja">キャプテン・アース</title>
 		<title type="official" xml:lang="zh-Hans">地球队长</title>
-		<title type="syn" xml:lang="pl">Kapitan Dupa</title>
 	</anime>
 	<anime aid="10069">
 		<title type="main" xml:lang="x-jat">Gokukoku no Brynhildr</title>
@@ -60169,19 +60188,34 @@
 	<anime aid="10199">
 		<title type="main" xml:lang="x-jat">Parol no Miraijima</title>
 		<title type="official" xml:lang="ja">パロルのみらい島</title>
+		<title type="syn" xml:lang="en">Paroru`s Future Island</title>
+		<title type="syn" xml:lang="en">Young Animator Training Project 2014 3</title>
+		<title type="syn" xml:lang="ja">若手アニメーター育成プロジェクト 2014 3</title>
+		<title type="syn" xml:lang="x-jat">Wakate Animator Ikusei Project 2014 3</title>
 	</anime>
 	<anime aid="10200">
 		<title type="main" xml:lang="x-jat">Ookii 1 Nensei to Chiisana 2 Nensei</title>
 		<title type="official" xml:lang="ja">大きい1年生と小さな2年生</title>
+		<title type="syn" xml:lang="en">Young Animator Training Project 2014 2</title>
 		<title type="syn" xml:lang="ja">大きい一年生と小さな二年生</title>
+		<title type="syn" xml:lang="ja">若手アニメーター育成プロジェクト 2014 2</title>
+		<title type="syn" xml:lang="x-jat">Wakate Animator Ikusei Project 2014 2</title>
 	</anime>
 	<anime aid="10201">
 		<title type="main" xml:lang="x-jat">Chronus</title>
 		<title type="official" xml:lang="ja">黒の栖[クロノス]</title>
+		<title type="syn" xml:lang="en">Black Nest Chronus</title>
+		<title type="syn" xml:lang="en">Young Animator Training Project 2014 4</title>
+		<title type="syn" xml:lang="ja">若手アニメーター育成プロジェクト 2014 4</title>
+		<title type="syn" xml:lang="x-jat">Kuro no Sumika Chronus</title>
+		<title type="syn" xml:lang="x-jat">Wakate Animator Ikusei Project 2014 4</title>
 	</anime>
 	<anime aid="10202">
 		<title type="main" xml:lang="x-jat">Harmonie</title>
 		<title type="official" xml:lang="ja">アルモニ</title>
+		<title type="syn" xml:lang="en">Young Animator Training Project 2014 1</title>
+		<title type="syn" xml:lang="ja">若手アニメーター育成プロジェクト 2014 1</title>
+		<title type="syn" xml:lang="x-jat">Wakate Animator Ikusei Project 2014 1</title>
 	</anime>
 	<anime aid="10203">
 		<title type="main" xml:lang="x-jat">Dokidoki Gakuen: Kessen!! Youki Daimajou</title>
@@ -60470,8 +60504,10 @@
 		<title type="main" xml:lang="x-jat">Happiness Charge Precure!</title>
 		<title type="official" xml:lang="ja">ハピネスチャージプリキュア!</title>
 		<title type="short" xml:lang="en">hapcha</title>
+		<title type="short" xml:lang="x-jat">HaCha</title>
 		<title type="short" xml:lang="x-jat">hapicha</title>
 		<title type="short" xml:lang="x-jat">precure11</title>
+		<title type="syn" xml:lang="x-jat">HappinessCharge Precure!</title>
 	</anime>
 	<anime aid="10283">
 		<title type="main" xml:lang="x-jat">Utopia</title>
@@ -60514,8 +60550,9 @@
 		<title type="official" xml:lang="ja">うたの☆プリンスさまっ♪ (2015)</title>
 	</anime>
 	<anime aid="10293">
-		<title type="main" xml:lang="x-jat">Yama no Susume 2</title>
-		<title type="official" xml:lang="ja">ヤマノススメ 2</title>
+		<title type="main" xml:lang="x-jat">Yama no Susume: Second Season</title>
+		<title type="official" xml:lang="ja">ヤマノススメ セカンドシーズン</title>
+		<title type="syn" xml:lang="x-jat">Yama no Susume 2</title>
 	</anime>
 	<anime aid="10294">
 		<title type="main" xml:lang="x-jat">Meitantei Rascal</title>
@@ -60708,10 +60745,6 @@
 		<title type="main" xml:lang="x-jat">Sugar Soldier</title>
 		<title type="official" xml:lang="ja">シュガー＊ソルジャー</title>
 	</anime>
-	<anime aid="10362">
-		<title type="main" xml:lang="x-jat">Daicon Film 33</title>
-		<title type="official" xml:lang="ja">DAICON FILM 33</title>
-	</anime>
 	<anime aid="10363">
 		<title type="main" xml:lang="x-jat">Fela Pure: Mitarashi-san Chi no Jijou The Animation</title>
 		<title type="official" xml:lang="ja">フェラピュア ~御手洗さん家の事情~ THE ANIMATION</title>
@@ -60760,6 +60793,7 @@
 	<anime aid="10376">
 		<title type="main" xml:lang="x-jat">Sword Art Online II</title>
 		<title type="official" xml:lang="ja">ソードアート・オンラインII</title>
+		<title type="short" xml:lang="x-jat">SAO2</title>
 		<title type="short" xml:lang="x-jat">SAO 2</title>
 	</anime>
 	<anime aid="10378">
@@ -60970,6 +61004,7 @@
 	<anime aid="10429">
 		<title type="main" xml:lang="x-jat">Kyonyuu Kazoku Saimin</title>
 		<title type="official" xml:lang="ja">巨乳家族催眠</title>
+		<title type="syn" xml:lang="en">Hypnosis on the Huge-Breast Family</title>
 	</anime>
 	<anime aid="10430">
 		<title type="main" xml:lang="x-jat">Uchuu Senkan Yamato 2199: Hoshi-Meguru Hakobune</title>
@@ -61053,6 +61088,7 @@
 	</anime>
 	<anime aid="10452">
 		<title type="main" xml:lang="x-jat">Dragon Ball Kai (2014)</title>
+		<title type="official" xml:lang="en">Dragon Ball Z Kai: The Final Chapters</title>
 		<title type="official" xml:lang="ja">ドラゴンボール改 (2014)</title>
 		<title type="syn" xml:lang="x-jat">Dragon Ball Kai: Majin Buu Saga</title>
 	</anime>
@@ -61207,8 +61243,8 @@
 		<title type="official" xml:lang="ja">プリパラ</title>
 	</anime>
 	<anime aid="10517">
-		<title type="main" xml:lang="x-jat">Shounen Hollywood</title>
-		<title type="official" xml:lang="ja">少年ハリウッド</title>
+		<title type="main" xml:lang="x-jat">Shounen Hollywood: Holly Stage for 49</title>
+		<title type="official" xml:lang="ja">少年ハリウッド -HOLLY STAGE FOR 49-</title>
 	</anime>
 	<anime aid="10518">
 		<title type="main" xml:lang="x-jat">Meshimase Lodoss-tou Senki: Sorette Oishii no?</title>
@@ -61390,8 +61426,10 @@
 		<title type="official" xml:lang="ja">蟲師 続章 2</title>
 	</anime>
 	<anime aid="10572">
-		<title type="main" xml:lang="x-jat">Mikakunin de Shinkoukei OAD</title>
-		<title type="official" xml:lang="ja">未確認で進行形 OAD</title>
+		<title type="main" xml:lang="x-jat">Mikakunin de Shinkoukei: Kamo Nikutte Midorippoi Aji ga Suru no ne.</title>
+		<title type="official" xml:lang="ja">未確認で進行形 鴨肉って緑っぽい味がするのね.</title>
+		<title type="syn" xml:lang="ja">未確認で進行形 OAD</title>
+		<title type="syn" xml:lang="x-jat">Mikakunin de Shinkoukei OAD</title>
 	</anime>
 	<anime aid="10573">
 		<title type="main" xml:lang="x-jat">Gisoku no Moses</title>
@@ -61448,7 +61486,7 @@
 		<title type="official" xml:lang="ja">アイドルマスター シンデレラガールズ</title>
 	</anime>
 	<anime aid="10586">
-		<title type="main" xml:lang="x-jat">Himitsukessha Taka no Tsume Ex</title>
+		<title type="main" xml:lang="x-jat">Himitsukessha Taka no Tsume Extreme</title>
 		<title type="official" xml:lang="ja">秘密結社 鷹の爪 EX</title>
 	</anime>
 	<anime aid="10587">
@@ -61614,6 +61652,7 @@
 	<anime aid="10632">
 		<title type="main" xml:lang="x-jat">KY Kei JC Kuuki-chan</title>
 		<title type="official" xml:lang="ja">KY系JCクウキちゃん</title>
+		<title type="syn" xml:lang="x-jat">KY Kei JC Kuukichan</title>
 	</anime>
 	<anime aid="10633">
 		<title type="main" xml:lang="x-jat">World Fool News</title>
@@ -61623,6 +61662,50 @@
 		<title type="main" xml:lang="x-jat">Gakumon! Ookami Shoujo wa Kujikenai</title>
 		<title type="official" xml:lang="ja">がくモン! ~オオカミ少女はくじけない~</title>
 	</anime>
+	<anime aid="10635">
+		<title type="main" xml:lang="x-jat">Orenchi no Furo Jijou</title>
+		<title type="official" xml:lang="ja">オレん家のフロ事情</title>
+	</anime>
+	<anime aid="10636">
+		<title type="main" xml:lang="x-jat">Appleseed Alpha</title>
+		<title type="official" xml:lang="en">Appleseed Alpha</title>
+		<title type="official" xml:lang="ja">Appleseed Alpha</title>
+	</anime>
+	<anime aid="10638">
+		<title type="main" xml:lang="x-jat">Nisekoi OAD</title>
+		<title type="official" xml:lang="ja">ニセコイ OAD</title>
+	</anime>
+	<anime aid="10639">
+		<title type="main" xml:lang="x-jat">Hitsugi no Chaika 2</title>
+		<title type="official" xml:lang="ja">棺姫のチャイカ 2</title>
+	</anime>
+	<anime aid="10640">
+		<title type="main" xml:lang="en">C.L.A.Y.</title>
+	</anime>
+	<anime aid="10641">
+		<title type="main" xml:lang="x-jat">Shin Seikimatsu: Yatsuto no Souguu</title>
+		<title type="official" xml:lang="ja">新世紀末 奴との遭遇</title>
+	</anime>
+	<anime aid="10642">
+		<title type="main" xml:lang="x-jat">Short Peace</title>
+		<title type="official" xml:lang="ja">ショート・ピース</title>
+	</anime>
+	<anime aid="10643">
+		<title type="main" xml:lang="x-jat">Yowamushi Pedal 2</title>
+		<title type="official" xml:lang="ja">弱虫ペダル 2</title>
+	</anime>
+	<anime aid="10644">
+		<title type="main" xml:lang="en">Maid of the Dead</title>
+	</anime>
+	<anime aid="10645">
+		<title type="main" xml:lang="en">No Littering</title>
+	</anime>
+	<anime aid="10646">
+		<title type="main" xml:lang="en">Pinky</title>
+	</anime>
+	<anime aid="10647">
+		<title type="main" xml:lang="en">Shitcom</title>
+	</anime>
 </animetitles>
 
-<!-- Created: Sun May 11 02:00:23 2014 (8250 anime, 45123 titles) -->
+<!-- Created: Mon May 19 02:00:22 2014 (8260 anime, 45186 titles) -->

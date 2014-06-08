@@ -1841,8 +1841,11 @@
       <studio>AIC</studio>
     </supplemental-info>
   </anime>
-  <anime anidbid="456" tvdbid="73311" defaulttvdbseason="1">
+  <anime anidbid="456" tvdbid="73526" defaulttvdbseason="0">
     <name>Burn Up! W</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-2;2-3;3-4;4-5;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="457" tvdbid="84749" defaulttvdbseason="1">
     <name>Tokyo Babylon</name>
@@ -5785,7 +5788,7 @@
   <anime anidbid="1734" tvdbid="162281" defaulttvdbseason="1">
     <name>Chou Denji Machine Voltes V</name>
   </anime>
-  <anime anidbid="1735" tvdbid="81856" defaulttvdbseason="1">
+  <anime anidbid="1735" tvdbid="73526" defaulttvdbseason="0">
     <name>Burn-up</name>
   </anime>
   <anime anidbid="1736" tvdbid="OVA" defaulttvdbseason="1">

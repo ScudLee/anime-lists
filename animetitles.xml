@@ -49866,6 +49866,7 @@
 		<title type="official" xml:lang="it">Pokemon Nero &amp; Bianco</title>
 		<title type="official" xml:lang="ja">ポケットモンスター ベストウイッシュ</title>
 		<title type="official" xml:lang="pl">Pokemon: Czerń i Biel</title>
+		<title type="official" xml:lang="pt">Pokémon Preto e Branco</title>
 		<title type="short" xml:lang="en">pkmnbw</title>
 		<title type="short" xml:lang="x-jat">pmbw</title>
 		<title type="short" xml:lang="x-jat">pokemon bw</title>
@@ -54180,6 +54181,7 @@
 	</anime>
 	<anime aid="8788">
 		<title type="main" xml:lang="x-jat">Gekijouban Fairy Tail: Houou no Miko</title>
+		<title type="official" xml:lang="en">Fairy Tail the Movie: Phoenix Priestess</title>
 		<title type="official" xml:lang="fr">Fairy Tail le film: La prêtresse du Phœnix</title>
 		<title type="official" xml:lang="ja">劇場版 FAIRY TAIL 鳳凰の巫女</title>
 		<title type="syn" xml:lang="en">Fairy Tail Movie 1: Priestess of the Phoenix</title>
@@ -54864,6 +54866,7 @@
 	<anime aid="8924">
 		<title type="main" xml:lang="x-jat">Phi Brain: Kami no Puzzle (2012)</title>
 		<title type="official" xml:lang="ar">(دماغ الفيلسوف : لغز الإله (2012</title>
+		<title type="official" xml:lang="en">Phi-Brain: Puzzle of God - The Orpheus Order</title>
 		<title type="official" xml:lang="ja">ファイ・ブレイン 神のパズル (2012)</title>
 		<title type="syn" xml:lang="ja">ファイ・ブレイン 神のパズル オルペウス・オーダー編</title>
 		<title type="syn" xml:lang="x-jat">Phi Brain: Kami no Puzzle - Orpheus Order Hen</title>
@@ -56077,6 +56080,7 @@
 		<title type="official" xml:lang="en">Pokemon: BW Adventures in Unova (2012)</title>
 		<title type="official" xml:lang="ja">ポケットモンスター ベストウイッシュ シーズン2</title>
 		<title type="official" xml:lang="nl">Pokemon: BW Avonturen in Unova (2012)</title>
+		<title type="official" xml:lang="pt">Pokémon Preto e Branco: Destinos Rivais</title>
 		<title type="short" xml:lang="en">pkmnbw2</title>
 		<title type="short" xml:lang="en">pokemon bw2</title>
 		<title type="short" xml:lang="x-jat">pmbw2</title>
@@ -56476,6 +56480,7 @@
 		<title type="syn" xml:lang="en">Sailor Moon Remake</title>
 		<title type="syn" xml:lang="ja">美少女戦士セーラームーン クリスタル</title>
 		<title type="syn" xml:lang="ru">Красавица-воин Сейлор Мун: кристалл</title>
+		<title type="syn" xml:lang="ru">Прекрасная воительница Сейлор Мун: Кристалл</title>
 	</anime>
 	<anime aid="9307">
 		<title type="main" xml:lang="x-jat">D.C.III: Da Capo III</title>
@@ -56528,6 +56533,7 @@
 		<title type="official" xml:lang="es-LA">Dragon Ball Z: La Batalla de los Dioses</title>
 		<title type="official" xml:lang="ja">ドラゴンボールZ 神と神 Battle of Gods</title>
 		<title type="official" xml:lang="pt-BR">Dragon Ball Z: A Batalha dos Deuses</title>
+		<title type="short" xml:lang="en">DBZ Movie 14</title>
 		<title type="syn" xml:lang="en">Dragon Ball Z: God vs. God</title>
 	</anime>
 	<anime aid="9316">
@@ -56669,6 +56675,8 @@
 	<anime aid="9345">
 		<title type="main" xml:lang="x-jat">Crows</title>
 		<title type="official" xml:lang="ja">クローズ</title>
+		<title type="syn" xml:lang="ja">高校武闘伝 クローズ</title>
+		<title type="syn" xml:lang="x-jat">Koukou Butouden Crows</title>
 	</anime>
 	<anime aid="9346">
 		<title type="main" xml:lang="x-jat">Zettai Junpaku: Mahou Shoujo</title>
@@ -58137,6 +58145,7 @@
 		<title type="official" xml:lang="en">Pokemon: BW Adventures in Unova (2013)</title>
 		<title type="official" xml:lang="ja">ポケットモンスター ベストウイッシュ シーズン2 エピソードN</title>
 		<title type="official" xml:lang="nl">Pokémon: BW Avonturen in Unova (2013)</title>
+		<title type="official" xml:lang="pt">Pokémon Preto e Branco: Aventuras em Unova</title>
 		<title type="short" xml:lang="x-jat">pmbw2n</title>
 	</anime>
 	<anime aid="9654">
@@ -58561,6 +58570,7 @@
 		<title type="main" xml:lang="x-jat">Pocket Monsters: Best Wishes! Season 2 - Decolora Adventure</title>
 		<title type="official" xml:lang="en">Pokemon: BW Adventures in Unova and Beyond</title>
 		<title type="official" xml:lang="ja">ポケットモンスター ベストウイッシュ シーズン2 デコロラアドベンチャー</title>
+		<title type="official" xml:lang="pt">Pokémon Preto e Branco: Aventuras em Unova e Além</title>
 		<title type="short" xml:lang="x-jat">pmbw2d</title>
 		<title type="short" xml:lang="x-jat">pmbw2da</title>
 		<title type="syn" xml:lang="ja">ポケットモンスター ベストウイッシュ Da!</title>
@@ -59430,7 +59440,7 @@
 		<title type="official" xml:lang="en">Chaika the Coffin Princess</title>
 		<title type="official" xml:lang="ja">棺姫のチャイカ</title>
 		<title type="official" xml:lang="zh-Hans">棺姬嘉依卡</title>
-		<title type="syn" xml:lang="pl">Czajka z Kanhime</title>
+		<title type="syn" xml:lang="pl">Czajka: Księżniczka z trumną</title>
 	</anime>
 	<anime aid="9974">
 		<title type="main" xml:lang="x-jat">Saiki Kusuo no Psi Nan</title>
@@ -60285,15 +60295,16 @@
 	</anime>
 	<anime aid="10206">
 		<title type="main" xml:lang="x-jat">JoJo no Kimyou na Bouken: Stardust Crusaders</title>
+		<title type="official" xml:lang="en">JoJo`s Bizzare Adventure: Stardust Crusaders</title>
 		<title type="official" xml:lang="fr">JoJo`s Bizarre Adventure: Stardust Crusaders</title>
 		<title type="official" xml:lang="ja">ジョジョの奇妙な冒険 スターダストクルセイダース</title>
 		<title type="short" xml:lang="en">JJBA 2014</title>
 		<title type="short" xml:lang="en">JJBASC</title>
 		<title type="short" xml:lang="x-jat">JoJo 2014</title>
 		<title type="short" xml:lang="x-jat">jojosc</title>
+		<title type="syn" xml:lang="bg">Невероятните приключения на Джо-Джо и звездните кръстоносци</title>
 		<title type="syn" xml:lang="en">JoJo`s Bizarre Adventure Part 3</title>
 		<title type="syn" xml:lang="en">JOJO`S BIZARRE ADVENTURE: Stardust Crusaders</title>
-		<title type="syn" xml:lang="en">JoJo`s Bizzare Adventure: Stardust Crusaders</title>
 	</anime>
 	<anime aid="10207">
 		<title type="main" xml:lang="x-jat">DPR: Dual-frequency Precipitation Radar</title>
@@ -60496,6 +60507,7 @@
 		<title type="main" xml:lang="x-jat">Gochuumon wa Usagi Desuka?</title>
 		<title type="official" xml:lang="en">Is the Order a Rabbit?</title>
 		<title type="official" xml:lang="ja">ご注文はうさぎですか?</title>
+		<title type="official" xml:lang="zh-Hans">请问您今天要来点兔子吗？</title>
 		<title type="short" xml:lang="x-jat">gochiusa</title>
 	</anime>
 	<anime aid="10263">
@@ -60809,6 +60821,7 @@
 		<title type="main" xml:lang="x-jat">Fuuun Ishin Dai Shougun</title>
 		<title type="official" xml:lang="ja">風雲維新ダイ☆ショーグン</title>
 		<title type="syn" xml:lang="x-jat">Fuuun Ishin Dai Shogun</title>
+		<title type="syn" xml:lang="zh-Hans">风云维新大将军</title>
 	</anime>
 	<anime aid="10366">
 		<title type="main" xml:lang="x-jat">Kenzen Robo Daimidaler</title>
@@ -60820,11 +60833,11 @@
 		<title type="official" xml:lang="ja">つばさとホタル</title>
 	</anime>
 	<anime aid="10368">
-		<title type="main" xml:lang="x-jat">Shin Tennis no Ouji-sama (2014)</title>
-		<title type="official" xml:lang="ja">新テニスの王子様 (2014)</title>
+		<title type="main" xml:lang="x-jat">Shin Tennis no Ouji-sama OVA vs Genius10</title>
+		<title type="official" xml:lang="ja">新テニスの王子様 OVA vs Genius10</title>
 	</anime>
 	<anime aid="10369">
-		<title type="main" xml:lang="x-jat">Chou Akuukan Bouheki Cheese Napolitan</title>
+		<title type="main" xml:lang="x-jat">Chou Akuukan Bouheki Cheese Neapolitan</title>
 		<title type="official" xml:lang="ja">超亜空間防壁チーズ・ナポリタン</title>
 	</anime>
 	<anime aid="10370">
@@ -60885,6 +60898,7 @@
 	<anime aid="10385">
 		<title type="main" xml:lang="x-jat">Ao Haru Ride</title>
 		<title type="official" xml:lang="ja">アオハライド</title>
+		<title type="short" xml:lang="x-jat">aoha</title>
 		<title type="syn" xml:lang="en">Blue Spring Ride</title>
 		<title type="syn" xml:lang="en">Youth Ride</title>
 		<title type="syn" xml:lang="x-jat">Aoharaido</title>
@@ -61152,6 +61166,7 @@
 	<anime aid="10453">
 		<title type="main" xml:lang="x-jat">Toaru Kagaku no Railgun S: Daiji na Koto wa Zenbu Sentou ni Osowatta</title>
 		<title type="official" xml:lang="ja">とある科学の超電磁砲S 大事なことはぜんぶ銭湯に教わった</title>
+		<title type="short" xml:lang="x-jat">Railgun S OVA</title>
 	</anime>
 	<anime aid="10454">
 		<title type="main" xml:lang="x-jat">Gekijouban Yuuto-kun ga Iku</title>
@@ -61292,6 +61307,7 @@
 	<anime aid="10514">
 		<title type="main" xml:lang="x-jat">M3: Sono Kuroki Hagane</title>
 		<title type="official" xml:lang="ja">M3 ~ソノ黒キ鋼~</title>
+		<title type="official" xml:lang="zh-Hans">M3～黑色钢铁～</title>
 		<title type="syn" xml:lang="fr">M3 the dark metal</title>
 		<title type="syn" xml:lang="x-jat">M3 - Sono Kuroki Hagane</title>
 	</anime>
@@ -61623,6 +61639,7 @@
 	<anime aid="10609">
 		<title type="main" xml:lang="x-jat">Majimoji Rurumo</title>
 		<title type="official" xml:lang="ja">まじもじるるも</title>
+		<title type="syn" xml:lang="x-jat">Magimoji Rurumo</title>
 	</anime>
 	<anime aid="10610">
 		<title type="main" xml:lang="x-jat">Strange+ 2</title>
@@ -61788,6 +61805,7 @@
 	<anime aid="10656">
 		<title type="main" xml:lang="x-jat">Inui-san!</title>
 		<title type="official" xml:lang="ja">イヌイさんッ!</title>
+		<title type="syn" xml:lang="ja">イヌイさんっ!</title>
 	</anime>
 	<anime aid="10657">
 		<title type="main" xml:lang="x-jat">World Trigger</title>
@@ -61822,6 +61840,33 @@
 		<title type="main" xml:lang="x-jat">Tales of Zestiria: Doushi no Yoake</title>
 		<title type="official" xml:lang="ja">テイルズ オブ ゼスティリア ~導師の夜明け~</title>
 	</anime>
+	<anime aid="10667">
+		<title type="main" xml:lang="x-jat">Hozuki no Reitetsu OAD</title>
+		<title type="official" xml:lang="ja">鬼灯の冷徹 OAD</title>
+	</anime>
+	<anime aid="10669">
+		<title type="main" xml:lang="x-jat">Buddy Complex: Kanketsuhen - Ano Sora ni Kaeru Mirai de</title>
+		<title type="official" xml:lang="ja">バディ・コンプレックス 完結編 -あの空に還る未来で-</title>
+	</anime>
+	<anime aid="10671">
+		<title type="main" xml:lang="en">School Days</title>
+	</anime>
+	<anime aid="10672">
+		<title type="main" xml:lang="x-jat">Nozo x Kimi</title>
+		<title type="official" xml:lang="ja">ノゾxキミ</title>
+	</anime>
+	<anime aid="10673">
+		<title type="main" xml:lang="x-jat">Ane Log</title>
+		<title type="official" xml:lang="ja">姉ログ</title>
+	</anime>
+	<anime aid="10674">
+		<title type="main" xml:lang="x-jat">Fantasista Stella</title>
+		<title type="official" xml:lang="ja">ファンタジスタ ステラ</title>
+	</anime>
+	<anime aid="10676">
+		<title type="main" xml:lang="x-jat">Danna ga Nani o Itteiru ka Wakaranai Ken</title>
+		<title type="official" xml:lang="ja">旦那が何を言っているかわからない件</title>
+	</anime>
 </animetitles>
 
-<!-- Created: Sun Jun  1 02:00:29 2014 (8273 anime, 45276 titles) -->
+<!-- Created: Sat Jun  7 02:00:34 2014 (8280 anime, 45307 titles) -->

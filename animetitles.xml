@@ -1902,6 +1902,7 @@
 		<title type="short" xml:lang="x-jat">ippo</title>
 		<title type="syn" xml:lang="ar">هاجيمي نو إيبو</title>
 		<title type="syn" xml:lang="bg">Боен дух: Борбата</title>
+		<title type="syn" xml:lang="en">Fighting Spirit TV</title>
 		<title type="syn" xml:lang="x-jat">Hajime no Ippo</title>
 	</anime>
 	<anime aid="130">
@@ -12800,7 +12801,7 @@
 	<anime aid="1210">
 		<title type="main" xml:lang="x-jat">Atama Yama</title>
 		<title type="official" xml:lang="en">Mt. Head</title>
-		<title type="official" xml:lang="ja">頭山</title>
+		<title type="official" xml:lang="ja">頭山 Mt. Head</title>
 		<title type="official" xml:lang="pl">Pan głowa</title>
 		<title type="short" xml:lang="x-jat">ay</title>
 		<title type="syn" xml:lang="bg">Глава-гора</title>
@@ -29141,7 +29142,7 @@
 		<title type="syn" xml:lang="x-jat">Nineteen - 19</title>
 	</anime>
 	<anime aid="3608">
-		<title type="main" xml:lang="x-jat">Eiga ATASHIn`CHI</title>
+		<title type="main" xml:lang="x-jat">Eiga Atashin`chi</title>
 		<title type="official" xml:lang="ja">映画 あたしンち</title>
 		<title type="syn" xml:lang="x-jat">atashinchi movie</title>
 	</anime>
@@ -34390,7 +34391,7 @@
 		<title type="syn" xml:lang="en">Inventor Boy Kanipan</title>
 	</anime>
 	<anime aid="4668">
-		<title type="main" xml:lang="x-jat">Aesop`s World</title>
+		<title type="main" xml:lang="x-jat">Aesop World</title>
 		<title type="official" xml:lang="ja">イソップ・ワールド</title>
 	</anime>
 	<anime aid="4669">
@@ -38058,7 +38059,7 @@
 	</anime>
 	<anime aid="5352">
 		<title type="main" xml:lang="x-jat">Gekijouban Bleach: The DiamondDust Rebellion Mou Hitotsu no Hyourinmaru</title>
-		<title type="official" xml:lang="en">Bleach The Movie 2: The DiamondDust Rebellion</title>
+		<title type="official" xml:lang="en">Bleach the Movie 2: The Diamond Dust Rebellion</title>
 		<title type="official" xml:lang="hu">Bleach - A Gyémántpor lázadás</title>
 		<title type="official" xml:lang="ja">劇場版 BLEACH The DiamondDust Rebellion もう一つの氷輪丸</title>
 		<title type="official" xml:lang="pl">Bleach the diamondDust rebellion</title>
@@ -39867,6 +39868,7 @@
 	<anime aid="5787">
 		<title type="main" xml:lang="x-jat">Natsume Yuujinchou</title>
 		<title type="official" xml:lang="en">Natsume Yujincho</title>
+		<title type="official" xml:lang="fr">Le Pacte des Yōkai</title>
 		<title type="official" xml:lang="ja">夏目友人帳</title>
 		<title type="official" xml:lang="zh-Hans">夏目友人帐</title>
 		<title type="short" xml:lang="x-jat">Natsume 1</title>
@@ -46726,6 +46728,8 @@
 		<title type="official" xml:lang="ja">四畳半神話大系</title>
 		<title type="short" xml:lang="en">tatami</title>
 		<title type="short" xml:lang="x-jat">Yojouhan</title>
+		<title type="syn" xml:lang="en">4-1/2 Tatami Mythological Chronicles</title>
+		<title type="syn" xml:lang="en">4.5 Tatami Mythological Chronicles</title>
 		<title type="syn" xml:lang="ru">Легенды комнаты на 4,5 татами</title>
 		<title type="syn" xml:lang="x-jat">Yojou-Han Shinwa Taikei</title>
 		<title type="syn" xml:lang="zh-Hans">四叠半神话大系</title>
@@ -48647,6 +48651,7 @@
 	<anime aid="7627">
 		<title type="main" xml:lang="x-jat">Tantei Opera Milky Holmes</title>
 		<title type="official" xml:lang="ja">探偵オペラ ミルキィホームズ</title>
+		<title type="official" xml:lang="zh-Hans">侦探歌剧 少女福尔摩斯</title>
 		<title type="syn" xml:lang="en">Detective Opera Milky Holmes</title>
 	</anime>
 	<anime aid="7628">
@@ -49947,7 +49952,7 @@
 		<title type="syn" xml:lang="ru">Х.В. Сакура: Хранительница Времени Сакура</title>
 	</anime>
 	<anime aid="7906">
-		<title type="main" xml:lang="x-jat">Gekijouban 3D ATASHIn`CHI Jounetsu no Chou Chounouryoku Haha Dai Bousou</title>
+		<title type="main" xml:lang="x-jat">Gekijouban 3D Atashin`chi Jounetsu no Chou Chounouryoku Haha Dai Bousou</title>
 		<title type="official" xml:lang="ja">劇場版3D あたしンち 情熱のちょ～超能力♪母大暴走!</title>
 	</anime>
 	<anime aid="7907">
@@ -50839,7 +50844,9 @@
 	</anime>
 	<anime aid="8094">
 		<title type="main" xml:lang="x-jat">Attraction</title>
-		<title type="official" xml:lang="ja">魅力</title>
+		<title type="official" xml:lang="en">Attraction</title>
+		<title type="official" xml:lang="fr">Attraction</title>
+		<title type="official" xml:lang="ja">魅力 Attraction</title>
 	</anime>
 	<anime aid="8095">
 		<title type="main" xml:lang="x-jat">The Seasons</title>
@@ -53308,6 +53315,7 @@
 		<title type="main" xml:lang="x-jat">Tantei Opera Milky Holmes Dai 2 Maku</title>
 		<title type="official" xml:lang="en">Detective Opera Milky Holmes 2</title>
 		<title type="official" xml:lang="ja">探偵オペラ ミルキィホームズ 第2幕</title>
+		<title type="official" xml:lang="zh-Hans">侦探歌剧 少女福尔摩斯 第二幕</title>
 	</anime>
 	<anime aid="8595">
 		<title type="main" xml:lang="x-jat">Rurouni Kenshin: Meiji Kenkaku Romantan - Shin Kyoto Hen</title>
@@ -56484,9 +56492,9 @@
 	</anime>
 	<anime aid="9306">
 		<title type="main" xml:lang="x-jat">Bishoujo Senshi Sailor Moon Crystal</title>
+		<title type="official" xml:lang="en">Pretty Guardian Sailor Moon Crystal</title>
 		<title type="official" xml:lang="ja">美少女戦士セーラームーン Crystal</title>
 		<title type="short" xml:lang="en">sm2014</title>
-		<title type="syn" xml:lang="en">Pretty Guardian Sailor Moon Crystal</title>
 		<title type="syn" xml:lang="en">Pretty Guardian Sailor Moon: Crystal</title>
 		<title type="syn" xml:lang="en">Pretty Soldier Sailor Moon (2014)</title>
 		<title type="syn" xml:lang="en">Sailor Moon Crystal</title>
@@ -57502,6 +57510,7 @@
 		<title type="official" xml:lang="pt-BR">Vidas ao Vento</title>
 		<title type="official" xml:lang="ru">Ветер крепчает</title>
 		<title type="official" xml:lang="sv">Det blåser upp en vind</title>
+		<title type="syn" xml:lang="bg">Вятър се надига</title>
 		<title type="syn" xml:lang="uk">Вітер дужчає</title>
 		<title type="syn" xml:lang="uk">Здійнявся вітер</title>
 	</anime>
@@ -57527,6 +57536,7 @@
 		<title type="official" xml:lang="uk">За гранню</title>
 		<title type="official" xml:lang="zh-Hans">境界的彼方</title>
 		<title type="syn" xml:lang="bg">Отвъд хоризонта</title>
+		<title type="syn" xml:lang="x-jat">Megane-hen</title>
 	</anime>
 	<anime aid="9519">
 		<title type="main" xml:lang="x-jat">Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo? (2013)</title>
@@ -57650,6 +57660,7 @@
 		<title type="official" xml:lang="zh-Hans">进击的巨人</title>
 		<title type="official" xml:lang="zh-Hant">進擊的巨人</title>
 		<title type="short" xml:lang="en">AoT</title>
+		<title type="short" xml:lang="en">AoT TV</title>
 		<title type="short" xml:lang="x-jat">shingeki</title>
 		<title type="short" xml:lang="x-jat">SnK</title>
 		<title type="syn" xml:lang="bg">Нашествие на гиганти</title>
@@ -57725,6 +57736,7 @@
 	<anime aid="9557">
 		<title type="main" xml:lang="x-jat">Hal</title>
 		<title type="official" xml:lang="bg">Хал</title>
+		<title type="official" xml:lang="en">Hal</title>
 		<title type="official" xml:lang="ja">ハル</title>
 		<title type="syn" xml:lang="x-jat">Haru</title>
 	</anime>
@@ -58544,7 +58556,7 @@
 	</anime>
 	<anime aid="9749">
 		<title type="main" xml:lang="x-jat">Grisaia no Kajitsu</title>
-		<title type="official" xml:lang="ja">グリザイアの果実</title>
+		<title type="official" xml:lang="ja">グリザイアの果実 -LE FRUIT DE LA GRISAIA-</title>
 	</anime>
 	<anime aid="9751">
 		<title type="main" xml:lang="x-jat">Kimi no Iru Machi</title>
@@ -58966,13 +58978,14 @@
 	</anime>
 	<anime aid="9858">
 		<title type="main" xml:lang="x-jat">Free!</title>
-		<title type="official" xml:lang="bg">Свободен!</title>
 		<title type="official" xml:lang="en">Free! - Iwatobi Swim Club</title>
 		<title type="official" xml:lang="es">¡Free! Club de Natación Iwatobi</title>
 		<title type="official" xml:lang="fa">آزاد!</title>
 		<title type="official" xml:lang="fr">Free! - Iwatobi Swim Club</title>
 		<title type="official" xml:lang="ja">Free!</title>
+		<title type="syn" xml:lang="bg">Свободен!</title>
 		<title type="syn" xml:lang="ru">Свобода!</title>
+		<title type="syn" xml:lang="x-jat">Suiei-hen</title>
 	</anime>
 	<anime aid="9861">
 		<title type="main" xml:lang="x-jat">Lupin Hassei</title>
@@ -59962,6 +59975,7 @@
 	</anime>
 	<anime aid="10114">
 		<title type="main" xml:lang="x-jat">Bayonetta: Bloody Fate</title>
+		<title type="official" xml:lang="en">Bayonetta: Bloody Fate</title>
 		<title type="official" xml:lang="ja">BAYONETTA BLOODYFATE</title>
 		<title type="syn" xml:lang="ja">ベヨネッタ ブラッディフェイト</title>
 		<title type="syn" xml:lang="ja">BAYONETTA Bloody Fate</title>
@@ -60285,6 +60299,7 @@
 		<title type="syn" xml:lang="en">Paroru`s Future Island</title>
 		<title type="syn" xml:lang="en">Young Animator Training Project 2014 3</title>
 		<title type="syn" xml:lang="ja">若手アニメーター育成プロジェクト 2014 3</title>
+		<title type="syn" xml:lang="x-jat">Paroru no Miraijima</title>
 		<title type="syn" xml:lang="x-jat">Wakate Animator Ikusei Project 2014 3</title>
 	</anime>
 	<anime aid="10200">
@@ -61002,6 +61017,7 @@
 	</anime>
 	<anime aid="10401">
 		<title type="main" xml:lang="x-jat">Tokyo Ghoul</title>
+		<title type="official" xml:lang="en">Tokyo Ghoul</title>
 		<title type="official" xml:lang="ja">東京喰種[トウキョウグール]</title>
 		<title type="syn" xml:lang="bg">Токийско чудовище</title>
 	</anime>
@@ -61685,8 +61701,9 @@
 		<title type="syn" xml:lang="x-jat">Magimoji Rurumo</title>
 	</anime>
 	<anime aid="10610">
-		<title type="main" xml:lang="x-jat">Strange+ 2</title>
-		<title type="official" xml:lang="ja">ストレンジ・プラス 2</title>
+		<title type="main" xml:lang="x-jat">Sin Strange+</title>
+		<title type="official" xml:lang="ja">真 ストレンジ・プラス</title>
+		<title type="syn" xml:lang="x-jat">Shin Strange Plus</title>
 	</anime>
 	<anime aid="10611">
 		<title type="main" xml:lang="x-jat">Sarusuberi</title>
@@ -61719,9 +61736,11 @@
 		<title type="official" xml:lang="ja">デンキ街の本屋さん</title>
 	</anime>
 	<anime aid="10620">
-		<title type="main" xml:lang="x-jat">Re: Hamatora</title>
-		<title type="official" xml:lang="ja">Re: ハマトラ</title>
+		<title type="main" xml:lang="x-jat">Reply Hamatora</title>
+		<title type="official" xml:lang="ja">Re:␣ハマトラ</title>
 		<title type="syn" xml:lang="ja">Re：␣ハマトラ</title>
+		<title type="syn" xml:lang="x-jat">Hamatora 2</title>
+		<title type="syn" xml:lang="x-jat">Re: Hamatora</title>
 	</anime>
 	<anime aid="10621">
 		<title type="main" xml:lang="x-jat">Gekijouban Gudaguda Fairies tte Iu Eiga wa Dou kana...?</title>
@@ -61981,6 +62000,54 @@
 		<title type="main" xml:lang="x-jat">Psycho-Pass Psychopaths Shin Henshuu-ban</title>
 		<title type="official" xml:lang="ja">PSYCHO-PASS サイコパス 新編集版</title>
 	</anime>
+	<anime aid="10700">
+		<title type="main" xml:lang="x-jat">Spo-chan Taiketsu: Youkai Daikessen</title>
+		<title type="official" xml:lang="ja">スポチャン対決~妖怪大決戦~</title>
+	</anime>
+	<anime aid="10701">
+		<title type="main" xml:lang="x-jat">Mekakucity V`s</title>
+		<title type="official" xml:lang="ja">MEKAKUCITY V`s</title>
+	</anime>
+	<anime aid="10702">
+		<title type="main" xml:lang="x-jat">Ansatsu Kyoushitsu (2015)</title>
+		<title type="official" xml:lang="ja">暗殺教室 (2015)</title>
+	</anime>
+	<anime aid="10704">
+		<title type="main" xml:lang="x-jat">Inyutsu no Yakata The Animation</title>
+		<title type="official" xml:lang="ja">淫術の館 THE ANIMATION</title>
+	</anime>
+	<anime aid="10705">
+		<title type="main" xml:lang="x-jat">Kyonyuu Try! Tanki Shuuchuu Chichi Momi Lesson</title>
+		<title type="official" xml:lang="ja">巨乳トライ! -短期集中乳揉みレッスン-</title>
+	</anime>
+	<anime aid="10706">
+		<title type="main" xml:lang="x-jat">Madonna: Kanjuku Body Collection</title>
+		<title type="official" xml:lang="ja">マドンナ ~完熟ボディCollection~</title>
+	</anime>
+	<anime aid="10707">
+		<title type="main" xml:lang="x-jat">Sumiko</title>
+		<title type="official" xml:lang="ja">スミ子</title>
+	</anime>
+	<anime aid="10708">
+		<title type="main" xml:lang="x-jat">Kidou Senshi Gundam-san</title>
+		<title type="official" xml:lang="ja">機動戦士ガンダムさん</title>
+	</anime>
+	<anime aid="10709">
+		<title type="main" xml:lang="x-jat">Girlfriend (Kari)</title>
+		<title type="official" xml:lang="ja">ガールフレンド(仮)</title>
+	</anime>
+	<anime aid="10710">
+		<title type="main" xml:lang="x-jat">Juuou Mujin no Fafnir</title>
+		<title type="official" xml:lang="ja">銃皇無尽のファフニール</title>
+	</anime>
+	<anime aid="10712">
+		<title type="main" xml:lang="x-jat">Nyanda? Full</title>
+		<title type="official" xml:lang="ja">ニャンだ？フル</title>
+	</anime>
+	<anime aid="10713">
+		<title type="main" xml:lang="x-jat">Sidonia no Kishi 2</title>
+		<title type="official" xml:lang="ja">シドニアの騎士 2</title>
+	</anime>
 </animetitles>
 
-<!-- Created: Mon Jun 23 02:00:25 2014 (8294 anime, 45393 titles) -->
+<!-- Created: Fri Jun 27 02:00:26 2014 (8306 anime, 45436 titles) -->

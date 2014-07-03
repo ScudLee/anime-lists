@@ -22935,6 +22935,9 @@
       <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
+  <anime anidbid="9980" tvdbid="114801" defaulttvdbseason="5">
+    <name>Fairy Tail (2014)</name>
+  </anime>
   <anime anidbid="9982" tvdbid="79685" defaulttvdbseason="3">
     <name>Hajime no Ippo: The Fighting! - Rising</name>
   </anime>

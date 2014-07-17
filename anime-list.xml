@@ -534,7 +534,7 @@
     <name>Arcade Gamer Fubuki</name>
   </anime>
   <anime anidbid="129" tvdbid="79685" defaulttvdbseason="1">
-    <name>Hajime no Ippo: The Fighting</name>
+    <name>Hajime no Ippo: The Fighting!</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="1">;1-76;</mapping>
     </mapping-list>
@@ -4020,7 +4020,7 @@
     <name>Gilgamesh</name>
   </anime>
   <anime anidbid="1086" tvdbid="79685" defaulttvdbseason="0">
-    <name>Hajime no Ippo: Mashiba vs Kimura - Shikei Shikkou</name>
+    <name>Hajime no Ippo: The Fighting! - Kimura Tatsuya vs Mashiba Ryo</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
@@ -5670,7 +5670,7 @@
     <name>In no Houteishiki</name>
   </anime>
   <anime anidbid="1690" tvdbid="106541" defaulttvdbseason="1">
-    <name>Bakuen Campus Guardress</name>
+    <name>Bakuen Campus Guardless</name>
   </anime>
   <anime anidbid="1691" tvdbid="hentai" defaulttvdbseason="1">
     <name>The Urotsuki</name>
@@ -12707,7 +12707,7 @@
     <name>Kenkou Zenrakei Suieibu Umishou</name>
   </anime>
   <anime anidbid="5150" tvdbid="tv special" defaulttvdbseason="1" imdbid="tt0390889">
-    <name>Bavel no Hon</name>
+    <name>Bavel's Book</name>
   </anime>
   <anime anidbid="5151" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Fushigi na Elevator</name>
@@ -13412,7 +13412,7 @@
     <name>xxxHOLiC: Kei</name>
   </anime>
   <anime anidbid="5571" tvdbid="82154" defaulttvdbseason="2">
-    <name>Hidamari Sketch X 365</name>
+    <name>Hidamari Sketch x 365</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-3;2-4;3-5;</mapping>
     </mapping-list>
@@ -14403,7 +14403,7 @@
     <name>Love Forever</name>
   </anime>
   <anime anidbid="6153" tvdbid="79685" defaulttvdbseason="2">
-    <name>Hajime no Ippo: The Fighting - New Challenger</name>
+    <name>Hajime no Ippo: The Fighting! - New Challenger</name>
   </anime>
   <anime anidbid="6154" tvdbid="hentai" defaulttvdbseason="1">
     <name>Rape! Rape! Rape!</name>
@@ -21437,7 +21437,7 @@
     <name>Monster ni Natta Domerika</name>
   </anime>
   <anime anidbid="9263" tvdbid="music video" defaulttvdbseason="1">
-    <name>Yasashii March: The Tender March</name>
+    <name>Yasashii March</name>
   </anime>
   <anime anidbid="9264" tvdbid="OVA" defaulttvdbseason="1" imdbid="tt1619815">
     <name>Byulbyul Iyagi 2</name>
@@ -23779,7 +23779,7 @@
     <name>Initial D Final Stage</name>
   </anime>
   <anime anidbid="10496" tvdbid="279979" defaulttvdbseason="1">
-    <name>Francesca: Girls Be Ambitious</name>
+    <name>Francesca</name>
   </anime>
   <anime anidbid="10502" tvdbid="hentai" defaulttvdbseason="1">
     <name>Furueru Kuchibiru</name>
@@ -23959,6 +23959,6 @@
     <name>Madonna: Kanjuku Body Collection</name>
   </anime>
   <anime anidbid="10708" tvdbid="283136" defaulttvdbseason="1">
-    <name>Kidou Senshi Gundam-san</name>
+    <name>Gundam-san</name>
   </anime>
 </anime-list>

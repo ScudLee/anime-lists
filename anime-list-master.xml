@@ -12208,7 +12208,7 @@
     <name>Shippuu! Iron Leaguer: Silver no Hata no Moto ni</name>
   </anime>
   <anime anidbid="4141" tvdbid="80759" defaulttvdbseason="0" tmdbid="" imdbid="">
-    <name>Ichigo 100%: Original DVD Anime</name>
+    <name>Ichigo 100% (2005)</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-3;2-4;3-5;4-6;</mapping>
     </mapping-list>
@@ -15911,7 +15911,7 @@
     <name>Macademi Wasshoi!</name>
   </anime>
   <anime anidbid="5658" tvdbid="81984" defaulttvdbseason="1" tmdbid="" imdbid="">
-    <name>Himitsu: The Revelation</name>
+    <name>Top Secret: The Revelation</name>
   </anime>
   <anime anidbid="5665" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Harenchi Koumon Manyuuki</name>
@@ -16235,7 +16235,7 @@
     <name>Kojin Jugyou: The Animation - Schoolgirl Ready for a Private Lesson!</name>
   </anime>
   <anime anidbid="5841" tvdbid="80644" defaulttvdbseason="2" tmdbid="" imdbid="">
-    <name>Clannad After Story</name>
+    <name>Clannad: After Story</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="2">;1-23;2-24;</mapping>
     </mapping-list>
@@ -27089,7 +27089,7 @@
     <name>Magi: The Kingdom of Magic</name>
   </anime>
   <anime anidbid="9808" tvdbid="264050" defaulttvdbseason="2" tmdbid="" imdbid="">
-    <name>Sen'yuu. Dai 2 Ki</name>
+    <name>Sen'yuu. (2013)</name>
   </anime>
   <anime anidbid="9809" tvdbid="275583" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Tonari no Seki-kun</name>
@@ -28449,7 +28449,7 @@
     <name>Saikin, Imouto no Yousu ga Chotto Okashiinda ga. OAD</name>
   </anime>
   <anime anidbid="10351" tvdbid="281948" defaulttvdbseason="1" tmdbid="" imdbid="">
-    <name>Hana Yamata</name>
+    <name>Hanayamata</name>
   </anime>
   <anime anidbid="10352" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>High Score Girl</name>
@@ -28941,7 +28941,7 @@
     <name>Toki wa Meguru: Tokyo Station</name>
   </anime>
   <anime anidbid="10571" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Mushishi Zoku Shou 2</name>
+    <name>Mushishi Zoku Shou (2014)</name>
   </anime>
   <anime anidbid="10572" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Mikakunin de Shinkoukei: Kamo Nikutte Midorippoi Aji ga Suru no ne.</name>
@@ -29037,7 +29037,7 @@
     <name>Ryuugajou Nanana no Maizoukin</name>
   </anime>
   <anime anidbid="10603" tvdbid="269872" defaulttvdbseason="2" tmdbid="" imdbid="">
-    <name>Kin'iro Mosaic 2</name>
+    <name>Hello!! Kin'iro Mosaic</name>
   </anime>
   <anime anidbid="10605" tvdbid="web" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Tuzki: Love Assassin</name>
@@ -29217,7 +29217,7 @@
     <name>Eiga Youkai Watch</name>
   </anime>
   <anime anidbid="10681" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Gundam Build Fighters (2014)</name>
+    <name>Gundam Build Fighters Try</name>
   </anime>
   <anime anidbid="10683" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Yamada-kun to 7-nin no Majo OAD</name>
@@ -29353,5 +29353,38 @@
   </anime>
   <anime anidbid="10735" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Dangobee Torimono Jou Ake: Goma no Maki</name>
+  </anime>
+  <anime anidbid="10736" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Kuusen Madoushi Kouhosei no Kyoukan</name>
+  </anime>
+  <anime anidbid="10737" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Eiga Doraemon: Nobita no Space Heroes</name>
+  </anime>
+  <anime anidbid="10739" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Dia no Ace (2014)</name>
+  </anime>
+  <anime anidbid="10741" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Kyokugen Dasshutsu ADV: Zennin Shibou Death</name>
+  </anime>
+  <anime anidbid="10742" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Dragon Ball Z (2015)</name>
+  </anime>
+  <anime anidbid="10743" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Moon Pride</name>
+  </anime>
+  <anime anidbid="10744" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Madan no Ou to Vanadis</name>
+  </anime>
+  <anime anidbid="10745" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Absolute Duo</name>
+  </anime>
+  <anime anidbid="10746" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Pocket Monsters XY: Koukoku no Princess Diancie</name>
+  </anime>
+  <anime anidbid="10747" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Chain Chronicle</name>
+  </anime>
+  <anime anidbid="10748" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
+    <name>Master of Torque Season 2</name>
   </anime>
 </anime-list>

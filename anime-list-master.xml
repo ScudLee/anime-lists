@@ -26354,6 +26354,9 @@
   </anime>
   <anime anidbid="9518" tvdbid="272697" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Kyoukai no Kanata</name>
+	<mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-6;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="9519" tvdbid="264531" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo? (2013)</name>

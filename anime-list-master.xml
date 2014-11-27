@@ -876,6 +876,9 @@
   </anime>
   <anime anidbid="217" tvdbid="80784" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Kidou Senshi Gundam: Dai 08 MS Shoutai</name>
+	<mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;5-2;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="218" tvdbid="movie" defaulttvdbseason="1" tmdbid="" imdbid="tt0164917">
     <name>Spriggan</name>

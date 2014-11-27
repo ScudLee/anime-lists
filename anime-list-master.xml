@@ -20493,7 +20493,7 @@
   <anime anidbid="7459" tvdbid="hentai" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Mahou Shoujo Isuka</name>
   </anime>
-  <anime anidbid="7460" tvdbid="83588" defaulttvdbseason="0" tmdbid="" imdbid="">
+  <anime anidbid="7460" tvdbid="273009" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Yozakura Quartet: Hoshi no Umi</name>
   </anime>
   <anime anidbid="7461" tvdbid="88161" defaulttvdbseason="0" tmdbid="" imdbid="unknown">
@@ -27091,11 +27091,14 @@
   <anime anidbid="9809" tvdbid="275583" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Tonari no Seki-kun</name>
   </anime>
-  <anime anidbid="9816" tvdbid="83588" defaulttvdbseason="2" tmdbid="" imdbid="">
+  <anime anidbid="9816" tvdbid="273009" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Yozakura Quartet: Hana no Uta</name>
   </anime>
-  <anime anidbid="9817" tvdbid="83588" defaulttvdbseason="0" tmdbid="" imdbid="">
+  <anime anidbid="9817" tvdbid="273009" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Yozakura Quartet: Tsuki ni Naku</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-3;2-4;3-5;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="9818" tvdbid="261667" defaulttvdbseason="9" tmdbid="" imdbid="">
     <name>Duel Masters Victory V3</name>

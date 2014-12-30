@@ -1819,6 +1819,7 @@
     <anime anidbid="9535">Eiga Precure All Stars New Stage 2: Kokoro no Tomodachi</anime>
     <anime anidbid="9698">Precure All Stars DX the Dance Live: Miracle Dance Stage e Youkoso</anime>
     <anime anidbid="10227">Eiga Precure All Stars New Stage 3: Eien no Tomodachi</anime>
+    <anime anidbid="10941">Eiga Precure All Stars: Haru no Carnival</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Precure All Stars Collection</title>
       <title type="official" xml:lang="en">Pretty Cure All Stars Collection</title>
@@ -2320,6 +2321,14 @@
     <anime anidbid="9632">Sonyeon 007 Jihajeguj</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Sonyeon 007 Collection</title>
+    </titles>
+  </set>
+  <set>
+    <anime anidbid="9734">Date a Live: Date to Date</anime>
+    <anime anidbid="10568">Date a Live: Encore</anime>
+    <anime anidbid="10688">Gekijouban Date a Live: Mayuri Judgement</anime>
+    <titles>
+      <title type="main" xml:lang="x-jat">Date a Live Collection</title>
     </titles>
   </set>
   <set>

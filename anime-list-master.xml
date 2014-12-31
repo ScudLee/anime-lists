@@ -27747,6 +27747,9 @@
   </anime>
   <anime anidbid="10046" tvdbid="102261" defaulttvdbseason="4" tmdbid="" imdbid="">
     <name>Hanamonogatari: Suruga Devil</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;2-10;3-11;4-12;5-13;6-14;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="10048" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Kuiba II: Dazhan Yuan Yang Jie</name>

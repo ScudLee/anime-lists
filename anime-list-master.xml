@@ -27747,7 +27747,10 @@
   </anime>
   <anime anidbid="10046" tvdbid="102261" defaulttvdbseason="4" tmdbid="" imdbid="">
     <name>Hanamonogatari: Suruga Devil</name>
-  </anime>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-10;2-10;3-11;4-12;5-13;6-14;</mapping>
+    </mapping-list>
+	</anime>
   <anime anidbid="10048" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Kuiba II: Dazhan Yuan Yang Jie</name>
   </anime>
@@ -28969,8 +28972,11 @@
   <anime anidbid="10570" tvdbid="web" defaulttvdbseason="1" tmdbid="" imdbid="">
     <name>Toki wa Meguru: Tokyo Station</name>
   </anime>
-  <anime anidbid="10571" tvdbid="79214" defaulttvdbseason="3" tmdbid="" imdbid="">
+  <anime anidbid="10571" tvdbid="79214" defaulttvdbseason="2" tmdbid="" imdbid="">
     <name>Mushishi Zoku Shou (2014)</name>
+	<mapping-list>
+		<mapping anidbseason="1" tvdbseason="2">;1-11;2-12;3-13;4-14;5-15;6-16;7-17;8-18;9-19;10-20;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="10572" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Mikakunin de Shinkoukei: Kamo Nikutte Midorippoi Aji ga Suru no ne.</name>
@@ -29770,8 +29776,11 @@
   <anime anidbid="10890" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Kaitou Tenshi Twin Angel: Kyun Kyun Tokimeki Paradise!! OVA</name>
   </anime>
-  <anime anidbid="10891" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
-    <name>Tsukimonogatari: Yotsugi Doll</name>
+  <anime anidbid="10891" tvdbid="102261" defaulttvdbseason="4" tmdbid="" imdbid="">
+    <name>Tsukimonogatari: Yotsugi Doll name</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-15;2-15;3-16;4-17;5-18;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="10892" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Shigatsu wa Kimi no Uso OAD</name>

@@ -22656,6 +22656,12 @@
   <anime anidbid="9836" tvdbid="273003" defaulttvdbseason="1">
     <name>Gingitsune</name>
   </anime>
+  <anime anidbid="9841" tvdbid="72454" defaulttvdbseason="0" imdbid="tt3335192">
+    <name>Lupin Sansei vs. Meitantei Conan The Movie</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-61;</mapping>
+    </mapping-list>
+  </anime>
   <anime anidbid="9842" tvdbid="90521" defaulttvdbseason="0">
     <name>Soukou Kihei Votoms: Woodo</name>
     <mapping-list>
@@ -23123,8 +23129,11 @@
   <anime anidbid="10044" tvdbid="hentai" defaulttvdbseason="1">
     <name>Junk Land The Animation</name>
   </anime>
-  <anime anidbid="10046" tvdbid="102261" defaulttvdbseason="4">
+  <anime anidbid="10046" tvdbid="102261" defaulttvdbseason="0">
     <name>Hanamonogatari: Suruga Devil</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-10;2-10;3-11;4-12;5-13;6-14;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="10049" tvdbid="284795" defaulttvdbseason="1">
     <name>Hybrid Child</name>
@@ -23549,8 +23558,11 @@
   <anime anidbid="10289" tvdbid="276347" defaulttvdbseason="1">
     <name>Minna Atsumare! Falcom Gakuen</name>
   </anime>
-  <anime anidbid="10290" tvdbid="72454" defaulttvdbseason="0">
+  <anime anidbid="10290" tvdbid="72454" defaulttvdbseason="0" imdbid="tt3455204">
     <name>Meitantei Conan: Ijigen no Sniper</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-62;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="10291" tvdbid="276777" defaulttvdbseason="1">
     <name>Buddy Complex</name>
@@ -23653,6 +23665,12 @@
   </anime>
   <anime anidbid="10366" tvdbid="278262" defaulttvdbseason="1">
     <name>Kenzen Robo Daimidaler</name>
+  </anime>
+  <anime anidbid="10370" tvdbid="72454" defaulttvdbseason="0" imdbid="tt4423846">
+    <name>Edogawa Conan Shissou Jiken: Shijou Saiaku no Futsukakan</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-63;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="10372" tvdbid="284211" defaulttvdbseason="1">
     <name>Ushinawareta Mirai o Motomete</name>
@@ -23894,7 +23912,7 @@
   <anime anidbid="10514" tvdbid="279829" defaulttvdbseason="1">
     <name>M3: Sono Kuroki Hagane</name>
   </anime>
-  <anime anidbid="10515" tvdbid="255925" defaulttvdbseason="4">
+  <anime anidbid="10515" tvdbid="282059" defaulttvdbseason="1">
     <name>PriPara</name>
   </anime>
   <anime anidbid="10517" tvdbid="281947" defaulttvdbseason="1">
@@ -23941,6 +23959,10 @@
   </anime>
   <anime anidbid="10538" tvdbid="281275" defaulttvdbseason="1">
     <name>Saenai Heroine no Sodatekata</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-1;</mapping>
+      <mapping anidbseason="1" tvdbseason="1">;2-1;3-2;4-3;5-4;6-5;7-6;8-7;9-8;10-9;11-10;12-11;13-12;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="10539" tvdbid="279830" defaulttvdbseason="1">
     <name>Shigatsu wa Kimi no Uso</name>
@@ -24010,6 +24032,9 @@
   </anime>
   <anime anidbid="10585" tvdbid="289763" defaulttvdbseason="1">
     <name>Idolmaster: Cinderella Girls</name>
+  </anime>
+  <anime anidbid="10588" tvdbid="283611" defaulttvdbseason="1">
+    <name>Ninja Slayer From Animation</name>
   </anime>
   <anime anidbid="10589" tvdbid="284755" defaulttvdbseason="1">
     <name>Ookami Shoujo to Kuro Ouji</name>
@@ -24092,6 +24117,9 @@
   <anime anidbid="10643" tvdbid="272309" defaulttvdbseason="2">
     <name>Yowamushi Pedal: Grande Road</name>
   </anime>
+  <anime anidbid="10648" tvdbid="278626" defaulttvdbseason="0">
+    <name>Hitsugi no Chaika: Nerawareta Hitsugi / Yomigaeru Iseki</name>
+  </anime>
   <anime anidbid="10652" tvdbid="hentai" defaulttvdbseason="1">
     <name>Mokkai Shiyo?</name>
   </anime>
@@ -24109,6 +24137,9 @@
   </anime>
   <anime anidbid="10662" tvdbid="257765" defaulttvdbseason="3">
     <name>Kuroko no Baske (2015)</name>
+  </anime>
+  <anime anidbid="10663" tvdbid="289886" defaulttvdbseason="1">
+    <name>Kekkai Sensen</name>
   </anime>
   <anime anidbid="10669" tvdbid="276777" defaulttvdbseason="0">
     <name>Buddy Complex: Kanketsuhen - Ano Sora ni Kaeru Mirai de</name>
@@ -24139,6 +24170,9 @@
   </anime>
   <anime anidbid="10690" tvdbid="web" defaulttvdbseason="1">
     <name>Shinrabanshou: Tenchishinmei no Shou</name>
+  </anime>
+  <anime anidbid="10691" tvdbid="254653" defaulttvdbseason="3">
+    <name>High School DxD Born</name>
   </anime>
   <anime anidbid="10692" tvdbid="284169" defaulttvdbseason="1">
     <name>Isuca</name>
@@ -24230,8 +24264,14 @@
   <anime anidbid="10757" tvdbid="hentai" defaulttvdbseason="1">
     <name>Boy Meets Harem The Animation</name>
   </anime>
+  <anime anidbid="10760" tvdbid="278626" defaulttvdbseason="2">
+    <name>Fate/Stay Night: Unlimited Blade Works (2015)</name>
+  </anime>
   <anime anidbid="10763" tvdbid="262106" defaulttvdbseason="1">
     <name>Kamisama Hajimemashita 2</name>
+  </anime>
+  <anime anidbid="10764" tvdbid="290290" defaulttvdbseason="1">
+    <name>Digimon Adventure Tri.</name>
   </anime>
   <anime anidbid="10766" tvdbid="284402" defaulttvdbseason="1">
     <name>Cross Ange: Tenshi to Ryuu no Rondo</name>
@@ -24251,6 +24291,9 @@
   <anime anidbid="10780" tvdbid="284582" defaulttvdbseason="1">
     <name>Bonjour: Koiaji Patisserie</name>
   </anime>
+  <anime anidbid="10782" tvdbid="289908" defaulttvdbseason="1">
+    <name>Re-Kan!</name>
+  </anime>
   <anime anidbid="10784" tvdbid="284585" defaulttvdbseason="1">
     <name>The Rolling Girls</name>
   </anime>
@@ -24259,6 +24302,9 @@
   </anime>
   <anime anidbid="10793" tvdbid="hentai" defaulttvdbseason="1">
     <name>Oppai Gakuen Marching Band Bu!</name>
+  </anime>
+  <anime anidbid="10795" tvdbid="81115" defaulttvdbseason="4">
+    <name>Mahou Shoujo Lyrical Nanoha Vivid</name>
   </anime>
   <anime anidbid="10798" tvdbid="276347" defaulttvdbseason="2">
     <name>Minna Atsumare! Falcom Gakuen SC</name>
@@ -24281,8 +24327,23 @@
   <anime anidbid="10811" tvdbid="289172" defaulttvdbseason="1">
     <name>Yurikuma Arashi</name>
   </anime>
+  <anime anidbid="10813" tvdbid="289906" defaulttvdbseason="1">
+    <name>Owari no Seraph</name>
+  </anime>
   <anime anidbid="10814" tvdbid="285358" defaulttvdbseason="1">
     <name>Tribe Cool Crew</name>
+  </anime>
+  <anime anidbid="10815" tvdbid="292689" defaulttvdbseason="1">
+    <name>Nagato Yuki-chan no Shoushitsu</name>
+  </anime>
+  <anime anidbid="10818" tvdbid="291625" defaulttvdbseason="1">
+    <name>Triage X</name>
+  </anime>
+  <anime anidbid="10820" tvdbid="262856" defaulttvdbseason="4">
+    <name>Teekyuu (2015)</name>
+  </anime>
+  <anime anidbid="10830" tvdbid="291726" defaulttvdbseason="1">
+    <name>Show by Rock!!</name>
   </anime>
   <anime anidbid="10832" tvdbid="286364" defaulttvdbseason="1">
     <name>Karen Senki</name>
@@ -24308,6 +24369,9 @@
   <anime anidbid="10853" tvdbid="286853" defaulttvdbseason="1">
     <name>Binan Koukou Chikyuu Bouei Bu Love!</name>
   </anime>
+  <anime anidbid="10854" tvdbid="291627" defaulttvdbseason="1">
+    <name>Plastic Memories</name>
+  </anime>
   <anime anidbid="10855" tvdbid="281947" defaulttvdbseason="2">
     <name>Shounen Hollywood: Holly Stage for 50</name>
   </anime>
@@ -24323,19 +24387,220 @@
   <anime anidbid="10878" tvdbid="OVA" defaulttvdbseason="1">
     <name>Kogitsune no Okurimono</name>
   </anime>
+  <anime anidbid="10879" tvdbid="291724" defaulttvdbseason="1">
+    <name>Urawa no Usagi-chan</name>
+  </anime>
   <anime anidbid="10887" tvdbid="244061" defaulttvdbseason="0">
     <name>Steins;Gate: Soumei Eichi no Cognitive Computing</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-3;2-4;3-5;4-6;</mapping>
     </mapping-list>
   </anime>
+  <anime anidbid="10889" tvdbid="289884" defaulttvdbseason="1">
+    <name>Hibike! Euphonium</name>
+  </anime>
+  <anime anidbid="10890" tvdbid="250088" defaulttvdbseason="0">
+    <name>Kaitou Tenshi Twin Angel: Kyun Kyun Tokimeki Paradise!! OVA</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-3;2-4;</mapping>
+    </mapping-list>
+  </anime>
+  <anime anidbid="10891" tvdbid="102261" defaulttvdbseason="0">
+    <name>Tsukimonogatari: Yotsugi Doll</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-15;2-15;3-16;4-17;5-18;</mapping>
+    </mapping-list>
+  </anime>
+  <anime anidbid="10894" tvdbid="289882" defaulttvdbseason="1">
+    <name>Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka</name>
+  </anime>
   <anime anidbid="10897" tvdbid="289174" defaulttvdbseason="1">
     <name>Yoru no Yatterman</name>
+  </anime>
+  <anime anidbid="10898" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0418801">
+    <name>Kokoro no Chikara</name>
+  </anime>
+  <anime anidbid="10899" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0418972">
+    <name>Numa no Taishou</name>
+  </anime>
+  <anime anidbid="10900" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Buta no Gotoki Sanzoku ni Torawarete Shojo o Ubawareru Kyonyuu Himekishi &amp; Onna Senshi: Zettai Chinpo Nanka ni Maketari Shinai!! The Animation</name>
+  </anime>
+  <anime anidbid="10901" tvdbid="289909" defaulttvdbseason="1">
+    <name>Shokugeki no Souma</name>
   </anime>
   <anime anidbid="10902" tvdbid="268588" defaulttvdbseason="2">
     <name>Ketsuekigata-kun! 2</name>
   </anime>
+  <anime anidbid="10903" tvdbid="291565" defaulttvdbseason="1">
+    <name>Go! Princess Precure</name>
+  </anime>
+  <anime anidbid="10904" tvdbid="291286" defaulttvdbseason="1">
+    <name>Etotama: Eto Tamashii</name>
+  </anime>
+  <anime anidbid="10905" tvdbid="289177" defaulttvdbseason="1">
+    <name>Death Parade</name>
+  </anime>
+  <anime anidbid="10907" tvdbid="web" defaulttvdbseason="1">
+    <name>Fastening Days</name>
+  </anime>
+  <anime anidbid="10910" tvdbid="291630" defaulttvdbseason="1">
+    <name>Arslan Senki (2015)</name>
+  </anime>
+  <anime anidbid="10913" tvdbid="290605" defaulttvdbseason="1">
+    <name>Sengoku Musou</name>
+  </anime>
   <anime anidbid="10914" tvdbid="283935" defaulttvdbseason="0">
     <name>Trinity Seven (2015)</name>
+  </anime>
+  <anime anidbid="10917" tvdbid="79895" defaulttvdbseason="0">
+    <name>Gintama (2014)</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-9;</mapping>
+    </mapping-list>
+  </anime>
+  <anime anidbid="10918" tvdbid="293388" defaulttvdbseason="1">
+    <name>Ore Monogatari!!</name>
+  </anime>
+  <anime anidbid="10919" tvdbid="284563" defaulttvdbseason="0">
+    <name>Ookami Shoujo to Kuro Ouji (2015)</name>
+  </anime>
+  <anime anidbid="10935" tvdbid="291567" defaulttvdbseason="1">
+    <name>Q Transformers: Kaette Kita Convoy no Nazo</name>
+  </anime>
+  <anime anidbid="10936" tvdbid="289903" defaulttvdbseason="1">
+    <name>Kyoukai no Rinne</name>
+  </anime>
+  <anime anidbid="10937" tvdbid="291565" defaulttvdbseason="0">
+    <name>Koe no Katachi</name>
+  </anime>
+  <anime anidbid="10939" tvdbid="278626" defaulttvdbseason="0">
+    <name>Gekijouban Sidonia no Kishi</name>
+  </anime>
+  <anime anidbid="10941" tvdbid="291565" defaulttvdbseason="0" tmdbid="315022">
+    <name>Eiga Precure All Stars: Haru no Carnival</name>
+  </anime>
+  <anime anidbid="10942" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Ikenai Koto The Animation</name>
+  </anime>
+  <anime anidbid="10943" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Nosewasure The Animation: Onna Kyoushi Chuuzenji Ayano no Inutsu na Kore kara</name>
+  </anime>
+  <anime anidbid="10944" tvdbid="267440" defaulttvdbseason="2">
+    <name>Shingeki no Kyojin (2016)</name>
+  </anime>
+  <anime anidbid="10948" tvdbid="289907" defaulttvdbseason="1">
+    <name>Punch Line</name>
+  </anime>
+  <anime anidbid="10953" tvdbid="72454" defaulttvdbseason="0" imdbid="tt3737650">
+    <name>Meitantei Conan: Gouka no Himawari</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-65;</mapping>
+    </mapping-list>
+  </anime>
+  <anime anidbid="10954" tvdbid="278157" defaulttvdbseason="0">
+    <name>Haikyuu!! (2015)</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
+    </mapping-list>
+  </anime>
+  <anime anidbid="10955" tvdbid="289744" defaulttvdbseason="1">
+    <name>Yamada-kun to 7-nin no Majo (2015)</name>
+  </anime>
+  <anime anidbid="10957" tvdbid="284169" defaulttvdbseason="0">
+    <name>Isuca OAD</name>
+  </anime>
+  <anime anidbid="10958" tvdbid="227891" defaulttvdbseason="1">
+    <name>Houkago no Pleiades (2015)</name>
+  </anime>
+  <anime anidbid="10959" tvdbid="movie" defaulttvdbseason="1" imdbid="tt4489416">
+    <name>Kokoro ga Sakebitagatterunda.</name>
+  </anime>
+  <anime anidbid="10965" tvdbid="289885" defaulttvdbseason="1">
+    <name>Gunslinger Stratos The Animation</name>
+  </anime>
+  <anime anidbid="10969" tvdbid="292926" defaulttvdbseason="1">
+    <name>Mikagura Gakuen Kumikyoku</name>
+  </anime>
+  <anime anidbid="10973" tvdbid="282059" defaulttvdbseason="2">
+    <name>PriPara (2015)</name>
+  </anime>
+  <anime anidbid="10974" tvdbid="272310" defaulttvdbseason="3">
+    <name>Tesagure! Bukatsumono Spin-off Purupurun Sharumu to Asobou</name>
+  </anime>
+  <anime anidbid="10978" tvdbid="292829" defaulttvdbseason="1">
+    <name>Takamiya Nasuno Desu!</name>
+  </anime>
+  <anime anidbid="10985" tvdbid="291723" defaulttvdbseason="1">
+    <name>Vampire Holmes</name>
+  </anime>
+  <anime anidbid="10993" tvdbid="79895" defaulttvdbseason="7">
+    <name>Gintama' (2015)</name>
+  </anime>
+  <anime anidbid="10994" tvdbid="293647" defaulttvdbseason="1">
+    <name>Ame-iro Cocoa</name>
+  </anime>
+  <anime anidbid="11002" tvdbid="285357" defaulttvdbseason="2">
+    <name>Danna ga Nani o Itteiruka Wakaranai Ken 2 Sureme</name>
+  </anime>
+  <anime anidbid="11008" tvdbid="281949" defaulttvdbseason="0">
+    <name>Grisaia no Meikyuu</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-7;</mapping>
+    </mapping-list>
+  </anime>
+  <anime anidbid="11009" tvdbid="281949" defaulttvdbseason="2">
+    <name>Grisaia no Rakuen</name>
+  </anime>
+  <anime anidbid="11018" tvdbid="283930" defaulttvdbseason="2">
+    <name>Kaitou Joker (2015)</name>
+  </anime>
+  <anime anidbid="11023" tvdbid="293491" defaulttvdbseason="1">
+    <name>Koukaku Kidoutai Arise: Alternative Architecture</name>
+  </anime>
+  <anime anidbid="11034" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Shoujo Kyouiku</name>
+  </anime>
+  <anime anidbid="11045" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Namaiki: Kissuisou e Youkoso! The Animation</name>
+  </anime>
+  <anime anidbid="11046" tvdbid="hentai" defaulttvdbseason="1">
+    <name>3Ping Lovers! Ippu Nisai no Sekai e Youkoso The Animation</name>
+  </anime>
+  <anime anidbid="11047" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Honoo no Haramase Paidol My Star Gakuen Z The Animation</name>
+  </anime>
+  <anime anidbid="11056" tvdbid="72775" defaulttvdbseason="9">
+    <name>Saint Seiya: Soul of Gold</name>
+  </anime>
+  <anime anidbid="11062" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Kedamono-tachi no Sumu Ie de</name>
+  </anime>
+  <anime anidbid="11068" tvdbid="272312" defaulttvdbseason="2">
+    <name>Diabolik Lovers 2</name>
+  </anime>
+  <anime anidbid="11079" tvdbid="72454" defaulttvdbseason="0">
+    <name>Meitantei Conan OAD</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-66;</mapping>
+    </mapping-list>
+  </anime>
+  <anime anidbid="11115" tvdbid="273005" defaulttvdbseason="2">
+    <name>Dia no Ace: Second Season</name>
+  </anime>
+  <anime anidbid="11153" tvdbid="263038" defaulttvdbseason="2">
+    <name>Gon (2015)</name>
+  </anime>
+  <anime anidbid="11154" tvdbid="272309" defaulttvdbseason="0">
+    <name>Gekijouban Yowamushi Pedal</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
+    </mapping-list>
+  </anime>
+  <anime anidbid="11161" tvdbid="279533" defaulttvdbseason="2">
+    <name>Kantai Collection: KanColle 2</name>
+  </anime>
+  <anime anidbid="11163" tvdbid="292689" defaulttvdbseason="0">
+    <name>Nagato Yuki-chan no Shoushitsu OAD</name>
   </anime>
 </anime-list>

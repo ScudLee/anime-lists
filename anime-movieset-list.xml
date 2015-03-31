@@ -194,6 +194,10 @@
     <anime anidbid="9181">Meitantei Conan Bonus File: Fantasista no Hana</anime>
     <anime anidbid="9505">Meitantei Conan: Zekkai no Private Eye</anime>
     <anime anidbid="9841">Lupin Sansei vs. Meitantei Conan The Movie</anime>
+    <anime anidbid="10290">Meitantei Conan: Ijigen no Sniper</anime>
+    <anime anidbid="10370">Edogawa Conan Shissou Jiken: Shijou Saiaku no Futsukakan</anime>
+    <anime anidbid="10953">Meitantei Conan: Gouka no Himawari</anime>
+    <anime anidbid="11079">Meitantei Conan OAD</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Meitantei Conan Collection</title>
       <title type="official" xml:lang="en">Case Closed Collection</title>
@@ -2329,6 +2333,14 @@
     <anime anidbid="10688">Gekijouban Date a Live: Mayuri Judgement</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Date a Live Collection</title>
+    </titles>
+  </set>
+  <set>
+    <anime anidbid="9790">Yowamushi Pedal: Special Ride</anime>
+    <anime anidbid="10769">Yowamushi Pedal Re:Ride</anime>
+    <anime anidbid="11154">Gekijouban Yowamushi Pedal</anime>
+    <titles>
+      <title type="main" xml:lang="x-jat">Yowamushi Pedal Collection</title>
     </titles>
   </set>
   <set>

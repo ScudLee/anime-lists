@@ -255,7 +255,7 @@
     <before>;1-12;2-11;</before>
   </anime>
   <anime anidbid="61" tvdbid="73749" defaulttvdbseason="0" imdbid="tt0113568">
-    <name>Koukaku Kidoutai</name>
+    <name>Ghost in the Shell</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-1;2-1;3-1;4-1;5-1;6-1;</mapping>
     </mapping-list>
@@ -389,7 +389,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="93" tvdbid="72792" defaulttvdbseason="1">
-    <name>I My Me! Strawberry Eggs</name>
+    <name>I My Me! Strawberry Egg</name>
   </anime>
   <anime anidbid="94" tvdbid="80456" defaulttvdbseason="1">
     <name>Gravitation (2000)</name>
@@ -5710,7 +5710,7 @@
     <name>Boukensha</name>
   </anime>
   <anime anidbid="1619" tvdbid="80659" defaulttvdbseason="2">
-    <name>Dokidoki Densetsu: Mahoujin Guruguru</name>
+    <name>Dokidoki Densetsu: Mahoujin Guru Guru</name>
   </anime>
   <anime anidbid="1622" tvdbid="hentai" defaulttvdbseason="1">
     <name>Kawarazaki-ke no Ichizoku 2 The Animation</name>
@@ -10094,7 +10094,7 @@
     <name>Bocchan</name>
   </anime>
   <anime anidbid="3142" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
-    <name>Bouken-tachi Gamba to Nanbiki no Nakama</name>
+    <name>Bouken-tachi: Gamba to Nanbiki no Nakama</name>
   </anime>
   <anime anidbid="3143" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Ganbare!! Tabuchi-kun!! Dai 2 Dan Gekitou Pennant Race</name>
@@ -16752,7 +16752,7 @@
     <name>Tetsuwan Birdy Decode:02</name>
   </anime>
   <anime anidbid="6122" tvdbid="73749" defaulttvdbseason="0" imdbid="tt1260502">
-    <name>Koukaku Kidoutai 2.0</name>
+    <name>Ghost in the Shell (2008)</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-6;</mapping>
     </mapping-list>
@@ -20322,7 +20322,7 @@
     <before>;1-26;</before>
   </anime>
   <anime anidbid="7507" tvdbid="movie" defaulttvdbseason="1" imdbid="tt1686865">
-    <name>Tezuka Osamu no Buddha: Akai Sabaku yo! Utsukushiku</name>
+    <name>Tezuka Osamu no Buddha</name>
   </anime>
   <anime anidbid="7508" tvdbid="79525" defaulttvdbseason="0">
     <name>Code Geass: Boukoku no Akito</name>
@@ -21148,7 +21148,7 @@
     <name>Hello Kitty no Minna no Mori o Mamore!</name>
   </anime>
   <anime anidbid="7780" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
-    <name>Hello Kitty no Oyayubi Hime</name>
+    <name>Hello Kitty no Oyayubi-hime</name>
   </anime>
   <anime anidbid="7782" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Hello Kitty no Cinderella</name>
@@ -21990,7 +21990,7 @@
     <name>Kaitou Tenshi Twin Angel: Kyun Kyun Tokimeki Paradise!!</name>
   </anime>
   <anime anidbid="8214" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
-    <name>Run Mazinger X</name>
+    <name>Dallyeora Maxinger X</name>
   </anime>
   <anime anidbid="8215" tvdbid="movie" defaulttvdbseason="1" imdbid="tt1430622">
     <name>Mak Dau Xiang Dang Dang</name>
@@ -22104,7 +22104,7 @@
     <name>Softenni!</name>
   </anime>
   <anime anidbid="8268" tvdbid="151281" defaulttvdbseason="0">
-    <name>Hakuouki Sekkaroku</name>
+    <name>Hakuouki: Sekka-roku - Shinsengumi Kitan</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;</mapping>
     </mapping-list>
@@ -22159,9 +22159,6 @@
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-18;</mapping>
     </mapping-list>
-  </anime>
-  <anime anidbid="8281" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
-    <name>Fig</name>
   </anime>
   <anime anidbid="8282" tvdbid="tv special" defaulttvdbseason="1" imdbid="tt2368866">
     <name>Kouchou-sensei to Kujira</name>
@@ -24138,7 +24135,7 @@
     <name>Gon</name>
   </anime>
   <anime anidbid="8999" tvdbid="151281" defaulttvdbseason="3">
-    <name>Hakuouki: Reimei-roku</name>
+    <name>Hakuouki: Reimei-roku - Shinsengumi Kitan</name>
   </anime>
   <anime anidbid="9000" tvdbid="151281" defaulttvdbseason="0">
     <name>Gekijouban Hakuouki</name>
@@ -24231,7 +24228,7 @@
     <name>Lupin the Third: Mine Fujiko to Iu Onna</name>
   </anime>
   <anime anidbid="9032" tvdbid="256705" defaulttvdbseason="0">
-    <name>Uchuu Kyoudai (2012)</name>
+    <name>Uchuu Kyoudai: Apo's Dream</name>
   </anime>
   <anime anidbid="9033" tvdbid="hentai" defaulttvdbseason="1">
     <name>Hime-sama Gentei!</name>
@@ -25070,7 +25067,7 @@
     <name>Maken-ki! Two</name>
   </anime>
   <anime anidbid="9409" tvdbid="254653" defaulttvdbseason="2">
-    <name>High School DxD New</name>
+    <name>High School DxD New: Gekkou Koutei no Excalibur</name>
   </anime>
   <anime anidbid="9410" tvdbid="194951" defaulttvdbseason="0">
     <name>Star Driver The Movie</name>
@@ -25648,9 +25645,6 @@
   <anime anidbid="9647" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Haejeotamheomdae Marin X</name>
   </anime>
-  <anime anidbid="9648" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
-    <name>Dallyeora Maxinger X</name>
-  </anime>
   <anime anidbid="9649" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Roboteugundangwa Meka3</name>
   </anime>
@@ -25676,7 +25670,7 @@
     <name>Gakkatsu! (2013)</name>
   </anime>
   <anime anidbid="9658" tvdbid="73749" defaulttvdbseason="0">
-    <name>Koukaku Kidoutai Arise</name>
+    <name>Koukaku Kidoutai Arise: Ghost in the Shell</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
       <mapping anidbseason="1" tvdbseason="0">;1-60;2-61;3-62;4-63;</mapping>
@@ -27305,7 +27299,7 @@
     <name>Spocon!</name>
   </anime>
   <anime anidbid="10511" tvdbid="hentai" defaulttvdbseason="1">
-    <name>Iinari! Saimin Kanojo</name>
+    <name>Iinari! Saimin Kanojo: Reizoku Sennou Nama Hame Seikatsu!!</name>
   </anime>
   <anime anidbid="10514" tvdbid="279829" defaulttvdbseason="1">
     <name>M3: Sono Kuroki Hagane</name>
@@ -27432,7 +27426,7 @@
     <name>Idolmaster: Cinderella Girls</name>
   </anime>
   <anime anidbid="10588" tvdbid="283611" defaulttvdbseason="1">
-    <name>Ninja Slayer From Animation</name>
+    <name>Ninja Slayer from Animation</name>
   </anime>
   <anime anidbid="10589" tvdbid="284755" defaulttvdbseason="1">
     <name>Ookami Shoujo to Kuro Ouji</name>
@@ -27810,7 +27804,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="10894" tvdbid="289882" defaulttvdbseason="1">
-    <name>Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka</name>
+    <name>Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth</name>
   </anime>
   <anime anidbid="10897" tvdbid="289174" defaulttvdbseason="1">
     <name>Yoru no Yatterman</name>
@@ -27852,7 +27846,7 @@
     <name>Trinity Seven (2015)</name>
   </anime>
   <anime anidbid="10917" tvdbid="79895" defaulttvdbseason="0">
-    <name>Gintama (2014)</name>
+    <name>Gintama' (2014)</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-9;</mapping>
     </mapping-list>
@@ -27920,20 +27914,17 @@
   <anime anidbid="10969" tvdbid="292926" defaulttvdbseason="1">
     <name>Mikagura Gakuen Kumikyoku</name>
   </anime>
-  <anime anidbid="10973" tvdbid="282059" defaulttvdbseason="2">
-    <name>PriPara (2015)</name>
-  </anime>
   <anime anidbid="10974" tvdbid="272310" defaulttvdbseason="3">
     <name>Tesagure! Bukatsumono Spin-off Purupurun Sharumu to Asobou</name>
   </anime>
   <anime anidbid="10978" tvdbid="292829" defaulttvdbseason="1">
-    <name>Takamiya Nasuno Desu!</name>
+    <name>Takamiya Nasuno Desu! Teekyuu Spin-off</name>
   </anime>
   <anime anidbid="10985" tvdbid="291723" defaulttvdbseason="1">
     <name>Vampire Holmes</name>
   </anime>
   <anime anidbid="10993" tvdbid="79895" defaulttvdbseason="7">
-    <name>Gintama' (2015)</name>
+    <name>Gintama (2015)</name>
   </anime>
   <anime anidbid="10994" tvdbid="293647" defaulttvdbseason="1">
     <name>Ame-iro Cocoa</name>
@@ -27942,7 +27933,7 @@
     <name>Danna ga Nani o Itteiruka Wakaranai Ken 2 Sureme</name>
   </anime>
   <anime anidbid="11008" tvdbid="281949" defaulttvdbseason="0">
-    <name>Grisaia no Meikyuu</name>
+    <name>Grisaia no Meikyuu: Caprice no Mayu 0</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-7;</mapping>
     </mapping-list>
@@ -27975,7 +27966,7 @@
     <name>Kedamono-tachi no Sumu Ie de</name>
   </anime>
   <anime anidbid="11068" tvdbid="272312" defaulttvdbseason="2">
-    <name>Diabolik Lovers 2</name>
+    <name>Diabolik Lovers More, Blood</name>
   </anime>
   <anime anidbid="11079" tvdbid="72454" defaulttvdbseason="0">
     <name>Meitantei Conan OAD</name>

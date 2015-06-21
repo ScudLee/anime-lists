@@ -734,7 +734,7 @@
     </supplemental-info>
   </anime>
   <anime anidbid="185" tvdbid="81073" defaulttvdbseason="1">
-    <name>Top o Nerae!</name>
+    <name>Top o Nerae! Gunbuster</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;3-4;4-5;5-7;6-8;</mapping>
     </mapping-list>
@@ -3797,10 +3797,10 @@
     <name>Ginga Tetsudou Monogatari</name>
   </anime>
   <anime anidbid="1001" tvdbid="74957" defaulttvdbseason="1">
-    <name>Kousetsu Hyaku Monogatari</name>
+    <name>Kyougoku Natsuhiko: Kousetsu Hyaku Monogatari</name>
   </anime>
   <anime anidbid="1002" tvdbid="78812" defaulttvdbseason="1">
-    <name>Gunslinger Girl</name>
+    <name>Gunslinger Girl.</name>
   </anime>
   <anime anidbid="1003" tvdbid="78963" defaulttvdbseason="1">
     <name>Gungrave</name>
@@ -5247,7 +5247,7 @@
     <name>Cleopatra DC</name>
   </anime>
   <anime anidbid="1466" tvdbid="OVA" defaulttvdbseason="1" imdbid="tt0167846">
-    <name>Hon Ran</name>
+    <name>Hong Lang</name>
   </anime>
   <anime anidbid="1467" tvdbid="OVA" defaulttvdbseason="1" imdbid="tt0159387">
     <name>Kindan no Mokushiroku Crystal Triangle</name>
@@ -6211,7 +6211,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="1786" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Heart Cocktail</name>
+    <name>Tabako Ippon no Story: Heart Cocktail</name>
   </anime>
   <anime anidbid="1787" tvdbid="77777" defaulttvdbseason="1">
     <name>Mach Go Go Go</name>
@@ -13076,7 +13076,7 @@
     <name>Donburi Kazoku</name>
   </anime>
   <anime anidbid="4526" tvdbid="81073" defaulttvdbseason="0" imdbid="unknown">
-    <name>Top o Nerae! (2006)</name>
+    <name>Top o Nerae! Gunbuster (2006)</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-10;2-10;3-11+10;</mapping>
     </mapping-list>
@@ -15084,7 +15084,7 @@
     <name>Hito no Kurashi no Hyakuman Nen: Mani Mani March</name>
   </anime>
   <anime anidbid="5292" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0062616">
-    <name>Kyubi no Kitsune to Tobimaru (Sesshoseki)</name>
+    <name>Kyuubi no Kitsune to Tobimaru (Sesshouseki)</name>
   </anime>
   <anime anidbid="5293" tvdbid="unknown" defaulttvdbseason="1">
     <name>Sabu to Ichi Torimono Hikae</name>
@@ -19408,7 +19408,7 @@
     <name>Kaitou Reinya</name>
   </anime>
   <anime anidbid="7188" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
-    <name>Apo Apo World: Giant Baba 90-bun 1-hon Shoubu</name>
+    <name>Apo Apo World: Giant Baba 90-bun Ippon Shoubu</name>
   </anime>
   <anime anidbid="7189" tvdbid="119781" defaulttvdbseason="0" imdbid="unknown">
     <name>Ningen Shikkaku: Director's Cut Ban</name>
@@ -24243,7 +24243,7 @@
     <name>Kami-Usagi Rope</name>
   </anime>
   <anime anidbid="9037" tvdbid="movie" defaulttvdbseason="0" imdbid="unknown">
-    <name>Eiga Kami-Usagi Rope</name>
+    <name>Eiga Kami-Usagi Rope: Tsuka, Natsuyasumi Rasuichitte Majissuka!?</name>
   </anime>
   <anime anidbid="9038" tvdbid="76547" defaulttvdbseason="0">
     <name>Ring of Gundam</name>
@@ -27603,7 +27603,7 @@
     <name>Juuou Mujin no Fafnir</name>
   </anime>
   <anime anidbid="10713" tvdbid="278154" defaulttvdbseason="2">
-    <name>Sidonia no Kishi: Daikyuu Wakusei Seneki</name>
+    <name>Sidonia no Kishi: Daikyuu Wakusei Sen'eki</name>
   </anime>
   <anime anidbid="10714" tvdbid="283930" defaulttvdbseason="1">
     <name>Kaitou Joker</name>
@@ -27967,12 +27967,6 @@
   </anime>
   <anime anidbid="11068" tvdbid="272312" defaulttvdbseason="2">
     <name>Diabolik Lovers More, Blood</name>
-  </anime>
-  <anime anidbid="11079" tvdbid="72454" defaulttvdbseason="0">
-    <name>Meitantei Conan OAD</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-66;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="11115" tvdbid="273005" defaulttvdbseason="2">
     <name>Dia no Ace: Second Season</name>

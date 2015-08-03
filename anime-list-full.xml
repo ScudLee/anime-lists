@@ -25398,6 +25398,9 @@
   </anime>
   <anime anidbid="9541" tvdbid="267440" defaulttvdbseason="1">
     <name>Shingeki no Kyojin</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;2-3;3-4;4-5;5-6;6-7;8-9;9-10;10-11;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="9546" tvdbid="275614" defaulttvdbseason="1">
     <name>Saikin, Imouto no Yousu ga Chotto Okashiinda ga.</name>
@@ -25976,7 +25979,7 @@
   <anime anidbid="9826" tvdbid="267440" defaulttvdbseason="0">
     <name>Shingeki no Kyojin OAD</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-2;2-12;3-13;4-16;5-17;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="9830" tvdbid="273006" defaulttvdbseason="1">

@@ -27075,6 +27075,9 @@
   </anime>
   <anime anidbid="10384" tvdbid="79214" defaulttvdbseason="2">
     <name>Mushishi Zoku Shou</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;11-3;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="10385" tvdbid="279554" defaulttvdbseason="1">
     <name>Ao Haru Ride</name>
@@ -27397,6 +27400,9 @@
   </anime>
   <anime anidbid="10571" tvdbid="79214" defaulttvdbseason="3">
     <name>Mushishi Zoku Shou (2014)</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="2">;1-11;2-12;3-13;4-14;5-15;6-16;7-17;8-18;9-19;10-20;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="10575" tvdbid="280327" defaulttvdbseason="0">
     <name>Love Stage!! OAD</name>

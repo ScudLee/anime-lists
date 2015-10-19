@@ -27524,8 +27524,11 @@
   <anime anidbid="10643" tvdbid="272309" defaulttvdbseason="2">
     <name>Yowamushi Pedal: Grande Road</name>
   </anime>
-  <anime anidbid="10648" tvdbid="278626" defaulttvdbseason="0">
+  <anime anidbid="10648" tvdbid="278127" defaulttvdbseason="0">
     <name>Hitsugi no Chaika: Nerawareta Hitsugi / Yomigaeru Iseki</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-1+2;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="10652" tvdbid="hentai" defaulttvdbseason="1">
     <name>Mokkai Shiyo?</name>

@@ -29180,8 +29180,11 @@
   <anime anidbid="10647" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Shitcom</name>
   </anime>
-  <anime anidbid="10648" tvdbid="278626" defaulttvdbseason="0" tmdbid="" imdbid="">
+  <anime anidbid="10648" tvdbid="278127" defaulttvdbseason="0" tmdbid="" imdbid="">
     <name>Hitsugi no Chaika: Nerawareta Hitsugi / Yomigaeru Iseki</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-1+2;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="10649" tvdbid="" defaulttvdbseason="" tmdbid="" imdbid="">
     <name>Hashi no Mukou</name>

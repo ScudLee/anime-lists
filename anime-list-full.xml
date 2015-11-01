@@ -10648,6 +10648,9 @@
   </anime>
   <anime anidbid="3395" tvdbid="79604" defaulttvdbseason="1">
     <name>Black Lagoon</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;5-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="3396" tvdbid="250606" defaulttvdbseason="1">
     <name>Jikuu Tantei Genshi-kun</name>
@@ -13253,8 +13256,11 @@
   <anime anidbid="4596" tvdbid="80000" defaulttvdbseason="1">
     <name>Shijou Saikyou no Deshi Ken'ichi</name>
   </anime>
-  <anime anidbid="4597" tvdbid="79604" defaulttvdbseason="2">
+  <anime anidbid="4597" tvdbid="79604" defaulttvdbseason="1" episodeoffset="12">
     <name>Black Lagoon: The Second Barrage</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="1">;1-5;2-6;3-7;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="4598" tvdbid="189741" defaulttvdbseason="1">
     <name>Underbar Summer</name>
@@ -17959,8 +17965,11 @@
       <mapping anidbseason="0" tvdbseason="0">;1-2;2-3;3-4;4-5;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="6645" tvdbid="79604" defaulttvdbseason="3">
+  <anime anidbid="6645" tvdbid="79604" defaulttvdbseason="0" episodeoffset="7">
     <name>Black Lagoon: Roberta's Blood Trail</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="5" offset="12"/>
+    </mapping-list>
   </anime>
   <anime anidbid="6646" tvdbid="134581" defaulttvdbseason="1">
     <name>Hanamaru Youchien</name>
@@ -17997,7 +18006,6 @@
   </anime>
   <anime anidbid="6671" tvdbid="133341" defaulttvdbseason="1">
     <name>Durarara!!</name>
-    <before>;2-25;</before>
   </anime>
   <anime anidbid="6672" tvdbid="88391" defaulttvdbseason="2">
     <name>Natsu no Arashi! Akinai-chuu</name>
@@ -23803,7 +23811,7 @@
       <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="8880" tvdbid="275798" defaulttvdbseason="2">
+  <anime anidbid="8880" tvdbid="275798" defaulttvdbseason="1" episodeoffset="13">
     <name>Fate/Zero (2012)</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-6;2-7;3-8;</mapping>
@@ -24303,7 +24311,7 @@
   <anime anidbid="9075" tvdbid="81463" defaulttvdbseason="4">
     <name>Minami-ke Tadaima</name>
   </anime>
-  <anime anidbid="9076" tvdbid="257756" defaulttvdbseason="2">
+  <anime anidbid="9076" tvdbid="257756" defaulttvdbseason="1" episodeoffset="12">
     <name>Jormungand: Perfect Order</name>
   </anime>
   <anime anidbid="9077" tvdbid="259634" defaulttvdbseason="1">
@@ -26457,6 +26465,9 @@
   </anime>
   <anime anidbid="10027" tvdbid="272849" defaulttvdbseason="1">
     <name>Space Dandy</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-1:3-2</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="10031" tvdbid="273616" defaulttvdbseason="1">
     <name>Pocket Monsters: The Origin</name>
@@ -27380,7 +27391,7 @@
   <anime anidbid="10551" tvdbid="272128" defaulttvdbseason="2">
     <name>Log Horizon (2014)</name>
   </anime>
-  <anime anidbid="10553" tvdbid="272849" defaulttvdbseason="2">
+  <anime anidbid="10553" tvdbid="272849" defaulttvdbseason="1" episodeoffset="13">
     <name>Space Dandy 2</name>
   </anime>
   <anime anidbid="10554" tvdbid="279983" defaulttvdbseason="1">
@@ -27398,10 +27409,10 @@
   <anime anidbid="10570" tvdbid="web" defaulttvdbseason="1">
     <name>Toki wa Meguru: Tokyo Station</name>
   </anime>
-  <anime anidbid="10571" tvdbid="79214" defaulttvdbseason="3">
+  <anime anidbid="10571" tvdbid="79214" defaulttvdbseason="2" episodeoffset="10">
     <name>Mushishi Zoku Shou (2014)</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="2">;1-11;2-12;3-13;4-14;5-15;6-16;7-17;8-18;9-19;10-20;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="10575" tvdbid="280327" defaulttvdbseason="0">
@@ -27689,8 +27700,11 @@
   <anime anidbid="10759" tvdbid="84230" defaulttvdbseason="3">
     <name>Junjou Romantica 3</name>
   </anime>
-  <anime anidbid="10760" tvdbid="278626" defaulttvdbseason="2">
+  <anime anidbid="10760" tvdbid="278626" defaulttvdbseason="1" episodeoffset="12">
     <name>Fate/Stay Night: Unlimited Blade Works (2015)</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="10763" tvdbid="262106" defaulttvdbseason="1">
     <name>Kamisama Hajimemashita 2</name>
@@ -27782,7 +27796,7 @@
   <anime anidbid="10833" tvdbid="269319" defaulttvdbseason="3">
     <name>Fate/Kaleid Liner Prisma Illya Zwei Herz!</name>
   </anime>
-  <anime anidbid="10835" tvdbid="282240" defaulttvdbseason="2">
+  <anime anidbid="10835" tvdbid="262954" defaulttvdbseason="2" episodeoffset="24">
     <name>JoJo no Kimyou na Bouken: Stardust Crusaders (2015)</name>
   </anime>
   <anime anidbid="10839" tvdbid="hentai" defaulttvdbseason="1">
@@ -27794,7 +27808,7 @@
   <anime anidbid="10842" tvdbid="295224" defaulttvdbseason="1">
     <name>God Eater</name>
   </anime>
-  <anime anidbid="10846" tvdbid="279827" defaulttvdbseason="2">
+  <anime anidbid="10846" tvdbid="279827" defaulttvdbseason="1" episodeoffset="12">
     <name>Aldnoah.Zero (2015)</name>
   </anime>
   <anime anidbid="10847" tvdbid="278152" defaulttvdbseason="2">
@@ -27818,10 +27832,13 @@
   <anime anidbid="10864" tvdbid="299516" defaulttvdbseason="1">
     <name>Heavy Object</name>
   </anime>
-  <anime anidbid="10866" tvdbid="133341" defaulttvdbseason="3">
+  <anime anidbid="10866" tvdbid="133341" defaulttvdbseason="2" episodeoffset="12">
     <name>Durarara!!x2 Ten</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-4;</mapping>
+    </mapping-list>
   </anime>
-  <anime anidbid="10867" tvdbid="133341" defaulttvdbseason="4">
+  <anime anidbid="10867" tvdbid="133341" defaulttvdbseason="2" episodeoffset="24">
     <name>Durarara!!x2 Ketsu</name>
   </anime>
   <anime anidbid="10875" tvdbid="281249" defaulttvdbseason="2">
@@ -28019,11 +28036,17 @@
   <anime anidbid="10982" tvdbid="295222" defaulttvdbseason="1">
     <name>Gate: Jieitai Kanochi nite, Kaku Tatakaeri</name>
   </anime>
-  <anime anidbid="10984" tvdbid="289906" defaulttvdbseason="2">
+  <anime anidbid="10984" tvdbid="289906" defaulttvdbseason="1" episodeoffset="12">
     <name>Owari no Seraph: Nagoya Kessen Hen</name>
   </anime>
   <anime anidbid="10985" tvdbid="291723" defaulttvdbseason="1">
     <name>Vampire Holmes</name>
+  </anime>
+  <anime anidbid="10991" tvdbid="79214" defaulttvdbseason="0">
+    <name>Mushishi Zoku Shou: Suzu no Shizuku</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-5;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="10992" tvdbid="81831" defaulttvdbseason="4">
     <name>To Love-Ru: Trouble - Darkness 2nd</name>
@@ -28145,7 +28168,7 @@
   <anime anidbid="11130" tvdbid="293119" defaulttvdbseason="1">
     <name>Monster Musume no Iru Nichijou</name>
   </anime>
-  <anime anidbid="11135" tvdbid="289763" defaulttvdbseason="2">
+  <anime anidbid="11135" tvdbid="289763" defaulttvdbseason="1" episodeoffset="13">
     <name>Idolmaster: Cinderella Girls (2015)</name>
   </anime>
   <anime anidbid="11139" tvdbid="293775" defaulttvdbseason="1">

@@ -22086,8 +22086,11 @@
   <anime anidbid="7989" tvdbid="245821" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Cardfight!! Vanguard</name>
   </anime>
-  <anime anidbid="7991" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="7991" tvdbid="73752" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Berserk: Ougon Jidai Hen</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="7992" tvdbid="214891" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Haiyoru! Nyaruani: Remember My Love(craft-sensei)</name>
@@ -22537,7 +22540,7 @@
   <anime anidbid="8148" tvdbid="248035" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Ao no Exorcist</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;5-11;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="2" end="11" offset="-1">;1-11;12-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="8149" tvdbid="239951" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -24070,7 +24073,7 @@
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-1;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="8689" tvdbid="248035" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="8689" tvdbid="248035" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt3028018">
     <name>Ao no Exorcist Gekijouban</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-12;</mapping>
@@ -25524,10 +25527,10 @@
   <anime anidbid="9205" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Junkers Come Here: Memories of You</name>
   </anime>
-  <anime anidbid="9206" tvdbid="251908" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="9206" tvdbid="251908" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="">
     <name>Boku wa Tomodachi ga Sukunai: Relay Shousetsu wa Ketsumatsu ga Hanpanai</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="9207" tvdbid="264054" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">

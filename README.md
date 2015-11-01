@@ -37,7 +37,7 @@ Format
 
 A typical entry in anime-list-master.xml:
 
-    <anime anidbid="23" tvdbid="76885" defaulttvdbseason="1" tmdbid="" imdbid="">
+    <anime anidbid="23" tvdbid="76885" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
       <name>Cowboy Bebop</name>
       <mapping-list>
         <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
@@ -51,15 +51,19 @@ Each entry consists of an **anime** node with the following attributes:
 
 *   **anidbid** - The AniDb.net id (pre-filled).
 
-*   **tvdbid** - theTVDB.com id.  Multi-episode titles not found on the tvdbid are marked as "unknown".
-    One-off titles that won't ever be added to theTVDB.com (movies, TV specials, one-shot OVAs) are marked by their AniDb.net type,
-    unless they can be associated to a multi-episode series (in which case they use the corresponding theTVDB.com id or "unknown").
+*   **tvdbid** - theTVDB.com id.  Multi-episode titles not found on theTVDB.com are marked as "unknown", as they may eventually get added and
+    this makes it easier to re-check (via anime-list-unknown.xml).  One-off titles that won't ever be added to theTVDB.com (movies, TV specials, one-shot OVAs)
+    are marked by their AniDb.net type, unless they can be associated to a multi-episode series (in which case they use the corresponding theTVDB.com id or "unknown").
 
     Pornographic titles are marked by "hentai" regardless of episode count as they will never appear on theTVDB.com.
 
 *   **defaulttvdbseason** - The corresponding theTVDB.com season.
     For one-off titles it will be `1` unless associated to a multi-episode series, in which case it will be `0`.
     Series that span multiple seasons on theTVDB.com may be marked as `a` if the absolute episode numbering is defined and matches AniDb.net.
+
+*   **episodeoffset** - Number to add to each regular AniDb.net episode number to get the corresponding theTVDB.com episode number in the defaulttvdbseason.
+    Not necessary if the episode numbers match up exactly.
+    For special episodes and more complex situations the mapping-list is used (see below).
 
 *   **tmdbid**/**imdbid** - themoviedb.org/imdb.com id.  Only used for one-off titles, unless there's definitely a themoviedb.org entry.
     Only one will be filled, with preference going to the imdb.com id, but the imdb.com entry must correspond exactly with AniDb.net.
@@ -91,10 +95,19 @@ The mapping-list node consists of one or more **mapping** nodes with the followi
 
 *   **tvdbseason** - The corresponding theTVDB.com season.
 
-    The format for the mapping is: ` ;1-5;2-6;...; ` where the first number in each mapping is the AniDb.net episode number
+*   **start** - The first AniDb.net episode the offset applies to.
+
+*   **end** - The last AniDb.net episode the offset applies to.
+
+*  **offset**  - The number to add to each AniDb.net episode between the start and end values.
+
+    The format for mapping individual episodes is: ` ;1-5;2-6;...; ` where the first number in each mapping is the AniDb.net episode number
     and the second is the corresponding theTVDB.com episode number for the season specified.
 
-    Episodes on AniDb.net that don't match anything on theTVDB.com are mapped to 0 (or 99) if there's a conflict.
+    The start, end, and offset attributes are not necessary if only individual episodes are being mapped.
+    The offset and/or episodeoffset will be ignored in favour of an individual mapping.
+
+    Episodes on AniDb.net that don't match anything on theTVDB.com are mapped to 0 (or 99) if and only if there's a conflict.
 
 #### supplemental-info
 The supplemental-info node may contain an optional attribute of **replace="true"**, in which case the information will replace that supplied by AniDb.net, otherwise it is just added to (and prioritised over) the AniDb.net information.

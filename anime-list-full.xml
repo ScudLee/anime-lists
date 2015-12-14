@@ -10596,7 +10596,7 @@
   <anime anidbid="3395" tvdbid="79604" defaulttvdbseason="1">
     <name>Black Lagoon</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;5-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;5-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="3396" tvdbid="250606" defaulttvdbseason="1">
@@ -13206,7 +13206,7 @@
   <anime anidbid="4597" tvdbid="79604" defaulttvdbseason="1" episodeoffset="12">
     <name>Black Lagoon: The Second Barrage</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="1">;1-5;2-6;3-7;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-5;2-6;3-7;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="4598" tvdbid="189741" defaulttvdbseason="1">
@@ -13372,7 +13372,7 @@
   <anime anidbid="4658" tvdbid="unknown" defaulttvdbseason="1">
     <name>Pinka to Umi no Otomodachi</name>
   </anime>
-  <anime anidbid="4659" tvdbid="unknown" defaulttvdbseason="1">
+  <anime anidbid="4659" tvdbid="271794" defaulttvdbseason="1">
     <name>Fushigi Mahou Fun Fun Pharmacy</name>
   </anime>
   <anime anidbid="4660" tvdbid="unknown" defaulttvdbseason="1">
@@ -25453,11 +25453,8 @@
   <anime anidbid="9584" tvdbid="80554" defaulttvdbseason="4">
     <name>Hayate no Gotoku! Cuties</name>
   </anime>
-  <anime anidbid="9585" tvdbid="249827" defaulttvdbseason="0">
+  <anime anidbid="9585" tvdbid="249827" defaulttvdbseason="0" episodeoffset="1">
     <name>Mirai Nikki Redial: Data Ikou</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-8;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="9589" tvdbid="movie" defaulttvdbseason="1" imdbid="tt2591814">
     <name>Kotonoha no Niwa</name>
@@ -27800,6 +27797,9 @@
   <anime anidbid="10876" tvdbid="hentai" defaulttvdbseason="1">
     <name>Otome Hime</name>
   </anime>
+  <anime anidbid="10877" tvdbid="292098" defaulttvdbseason="1">
+    <name>Anime de Wakaru Shinryounaika</name>
+  </anime>
   <anime anidbid="10878" tvdbid="OVA" defaulttvdbseason="1">
     <name>Kogitsune no Okurimono</name>
   </anime>
@@ -28136,7 +28136,7 @@
   <anime anidbid="11147" tvdbid="295220" defaulttvdbseason="1">
     <name>Classroom Crisis</name>
   </anime>
-  <anime anidbid="11148" tvdbid="300104" defaulttvdbseason="1">
+  <anime anidbid="11148" tvdbid="299326" defaulttvdbseason="1">
     <name>Valkyrie Drive: Mermaid</name>
   </anime>
   <anime anidbid="11150" tvdbid="79886" defaulttvdbseason="3">
@@ -28244,7 +28244,7 @@
   <anime anidbid="11202" tvdbid="hentai" defaulttvdbseason="1">
     <name>Gakuen no Ikenie: Nagusami Mono to Kashita Kyonyuu Furyou Shoujo</name>
   </anime>
-  <anime anidbid="11210" tvdbid="295068" defaulttvdbseason="1">
+  <anime anidbid="11210" tvdbid="295068" defaulttvdbseason="a">
     <name>Dragon Ball Super</name>
   </anime>
   <anime anidbid="11213" tvdbid="296881" defaulttvdbseason="1">

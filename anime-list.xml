@@ -56,7 +56,8 @@
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-3;2-4;</mapping>
       <mapping anidbseason="1" tvdbseason="0">;9-1;18-2;</mapping>
-      <mapping anidbseason="1" tvdbseason="1">;10-9;11-10;12-11;13-12;14-13;15-14;16-15;17-16;19-17;20-18;21-19;22-20;23-21;24-22;25-23;26-24;</mapping>
+      <mapping anidbseason="1" tvdbseason="1" start="10" end="17" offset="-1"/>
+      <mapping anidbseason="1" tvdbseason="1" start="19" end="26" offset="-2"/>
     </mapping-list>
     <before>;1-27;2-28;</before>
   </anime>
@@ -232,7 +233,7 @@
   <anime anidbid="55" tvdbid="109881" defaulttvdbseason="1">
     <name>eX-Driver</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-3;2-4;3-5;4-6;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="4" offset="2"/>
     </mapping-list>
   </anime>
   <anime anidbid="56" tvdbid="73532" defaulttvdbseason="a">
@@ -449,7 +450,7 @@
     <name>Chikyuu Shoujo Arjuna</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="1">;1-9;</mapping>
-      <mapping anidbseason="1" tvdbseason="1">;9-10;10-11;11-12;12-13;</mapping>
+      <mapping anidbseason="1" tvdbseason="1" start="9" end="12" offset="1"/>
     </mapping-list>
     <before>;1-9;</before>
   </anime>
@@ -457,7 +458,7 @@
     <name>Galaxy Angel</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="1">;1-21;2-26;</mapping>
-      <mapping anidbseason="1" tvdbseason="1">;21-22;22-23;23-24;24-25;</mapping>
+      <mapping anidbseason="1" tvdbseason="1" start="21" end="24" offset="1"/>
     </mapping-list>
     <before>;1-21;2-25;</before>
   </anime>
@@ -594,8 +595,7 @@
   <anime anidbid="146" tvdbid="71682" defaulttvdbseason="1">
     <name>Rockman.EXE</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="1">;1-1;2-2;3-3;4-4;5-5;6-6;7-7;8-8;9-9;10-10;11-11;12-12;13-13;14-14;15-15;16-16;17-17;18-18;19-19;20-20;21-21;22-22;23-23;24-24;25-25;</mapping>
-      <mapping anidbseason="1" tvdbseason="2">;26-1;27-2;28-3;29-4;30-5;31-6;32-7;33-8;34-9;35-10;36-11;37-12;38-13;39-14;40-15;41-16;42-17;43-18;44-19;45-20;46-21;47-22;48-23;49-24;50-25;51-26;52-27;53-28;54-29;55-30;56-31;</mapping>
+      <mapping anidbseason="1" tvdbseason="2" start="26" end="56" offset="-25"/>
     </mapping-list>
   </anime>
   <anime anidbid="147" tvdbid="79295" defaulttvdbseason="1" imdbid="tt0107061">
@@ -649,17 +649,11 @@
   <anime anidbid="163" tvdbid="71444" defaulttvdbseason="3">
     <name>Fushigi Yuugi (1996)</name>
   </anime>
-  <anime anidbid="164" tvdbid="71444" defaulttvdbseason="3">
+  <anime anidbid="164" tvdbid="71444" defaulttvdbseason="3" episodeoffset="3">
     <name>Fushigi Yuugi: Dai Ni Bu</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="3">;1-4;2-5;3-6;4-7;5-8;6-9;</mapping>
-    </mapping-list>
   </anime>
-  <anime anidbid="165" tvdbid="71444" defaulttvdbseason="3">
+  <anime anidbid="165" tvdbid="71444" defaulttvdbseason="3" episodeoffset="9">
     <name>Fushigi Yuugi: Eikouden</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="3">;1-10;2-11;3-12;4-13;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="166" tvdbid="OVA" defaulttvdbseason="1" imdbid="tt0094668">
     <name>Appleseed</name>
@@ -684,7 +678,7 @@
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;3-1;4-0;</mapping>
       <mapping anidbseason="0" tvdbseason="1">;1-16;2-23;</mapping>
-      <mapping anidbseason="1" tvdbseason="1">;16-17;17-18;19-20;20-21;21-22;22-24;23-25;24-26;</mapping>
+      <mapping anidbseason="1" tvdbseason="1" start="16" end="21" offset="1">;22-24;23-25;24-26;</mapping>
     </mapping-list>
     <before>;1-16;2-22;</before>
     <supplemental-info>
@@ -733,7 +727,7 @@
   <anime anidbid="185" tvdbid="81073" defaulttvdbseason="1">
     <name>Top o Nerae! Gunbuster</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;3-4;4-5;5-7;6-8;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;7-0;8-0;9-7;10-8;11-9;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="186" tvdbid="79411" defaulttvdbseason="1">
@@ -763,12 +757,12 @@
   <anime anidbid="193" tvdbid="76932" defaulttvdbseason="2">
     <name>Ranma 1/2 Nettou Hen</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="2">;1-1;2-2;3-3;4-4;5-5;6-6;7-7;8-8;9-9;10-10;11-11;12-12;13-13;14-14;15-15;16-16;17-17;18-18;19-19;20-20;21-21;22-22;</mapping>
-      <mapping anidbseason="1" tvdbseason="3">;23-1;24-2;25-3;26-4;27-5;28-6;29-7;30-8;31-9;32-10;33-11;34-12;35-13;36-14;37-15;38-16;39-17;40-18;41-19;42-20;43-21;44-22;51-23;45-24;</mapping>
-      <mapping anidbseason="1" tvdbseason="4">;46-1;47-2;48-3;49-4;50-5;52-6;53-7;54-8;55-9;56-10;57-11;58-12;59-13;60-14;61-15;62-16;63-17;64-18;65-19;66-20;67-21;68-22;69-23;72-24;</mapping>
-      <mapping anidbseason="1" tvdbseason="5">;70-1;71-2;73-3;74-4;75-5;76-6;77-7;78-8;79-9;80-10;81-11;82-12;83-13;84-14;85-15;86-16;87-17;88-18;89-19;90-20;91-21;92-22;93-23;94-24;</mapping>
-      <mapping anidbseason="1" tvdbseason="6">;95-1;96-2;97-3;98-4;99-5;100-6;101-7;102-8;108-9;103-10;104-11;112-12;105-13;106-14;113-15;107-16;109-17;114-18;110-19;111-20;117-21;115-22;116-23;118-24;</mapping>
-      <mapping anidbseason="1" tvdbseason="7">;119-1;120-2;121-3;122-4;123-5;124-6;125-7;126-8;127-9;128-10;129-11;130-12;131-13;132-14;133-15;134-16;135-17;138-18;136-19;137-20;139-21;140-22;141-23;142-24;143-25;</mapping>
+      <mapping anidbseason="1" tvdbseason="3" start="23" end="44" offset="-22">;45-24;51-23;</mapping>
+      <mapping anidbseason="1" tvdbseason="4" start="46" end="50" offset="-45"/>
+      <mapping anidbseason="1" tvdbseason="4" start="52" end="69" offset="-46">;72-24;</mapping>
+      <mapping anidbseason="1" tvdbseason="5" start="73" end="94" offset="-70">;70-1;71-2;</mapping>
+      <mapping anidbseason="1" tvdbseason="6" start="95" end="118" offset="-94"/>
+      <mapping anidbseason="1" tvdbseason="7" start="119" end="143" offset="-118"/>
     </mapping-list>
     <supplemental-info>
       <studio>Studio Deen</studio>
@@ -889,11 +883,8 @@
   <anime anidbid="221" tvdbid="93251" defaulttvdbseason="1">
     <name>Colorful</name>
   </anime>
-  <anime anidbid="222" tvdbid="79099" defaulttvdbseason="0">
+  <anime anidbid="222" tvdbid="79099" defaulttvdbseason="0" episodeoffset="1">
     <name>.hack//Liminality</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-2;2-3;3-4;4-5;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="223" tvdbid="82443" defaulttvdbseason="1">
     <name>Seihou Tenshi Angel Links</name>
@@ -1200,11 +1191,8 @@
       <mapping anidbseason="1" tvdbseason="0">;1-1;2-1;3-1;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="305" tvdbid="152531" defaulttvdbseason="0">
+  <anime anidbid="305" tvdbid="152531" defaulttvdbseason="0" episodeoffset="7">
     <name>El-Hazard: The Magnificent World 2</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-8;2-9;3-10;4-11;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="306" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0104652">
     <name>Kurenai no Buta</name>
@@ -1341,9 +1329,6 @@
   </anime>
   <anime anidbid="348" tvdbid="72412" defaulttvdbseason="0">
     <name>Shadow Skill (1996)</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-2;2-3;3-4;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="349" tvdbid="77681" defaulttvdbseason="0" imdbid="tt0161981">
     <name>Gekijouban Slayers</name>
@@ -1357,7 +1342,7 @@
   <anime anidbid="350" tvdbid="77681" defaulttvdbseason="0" imdbid="tt0161979">
     <name>Slayers Return</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-8;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-8;2-8;3-8;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="351" tvdbid="163791" defaulttvdbseason="1">
@@ -1375,8 +1360,7 @@
     <name>HeatGuy J</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="2">;1-2;</mapping>
-      <mapping anidbseason="1" tvdbseason="1">;1-1;2-2;3-3;4-4;5-5;6-6;7-7;8-8;9-9;10-10;11-11;12-12;13-13;</mapping>
-      <mapping anidbseason="1" tvdbseason="2">;14-1;15-3;16-4;17-5;18-6;19-7;20-8;21-9;22-10;23-11;24-12;25-13;</mapping>
+      <mapping anidbseason="1" tvdbseason="2" start="15" end="25" offset="-12">;14-1;</mapping>
     </mapping-list>
     <before>;1-15;</before>
   </anime>
@@ -1395,7 +1379,7 @@
   <anime anidbid="359" tvdbid="80009" defaulttvdbseason="0" imdbid="tt0117876">
     <name>Tenchi Muyou! in Love</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-2;3-2;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="360" tvdbid="165861" defaulttvdbseason="1">
@@ -1413,11 +1397,8 @@
       <studio>AIC</studio>
     </supplemental-info>
   </anime>
-  <anime anidbid="363" tvdbid="77681" defaulttvdbseason="0">
+  <anime anidbid="363" tvdbid="77681" defaulttvdbseason="0" episodeoffset="3">
     <name>Slayers Excellent</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-4;2-5;3-6;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="364" tvdbid="77681" defaulttvdbseason="3">
     <name>Slayers Try</name>
@@ -1431,19 +1412,16 @@
   <anime anidbid="367" tvdbid="76932" defaulttvdbseason="0" imdbid="tt0101583">
     <name>Ranma 1/2: Chuugoku Nekonron Daikessen! Okite Yaburi no Gekitou Hen!!</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-1;2-1;3-1;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;2-1;3-1;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="368" tvdbid="76932" defaulttvdbseason="0" imdbid="tt0104604">
+  <anime anidbid="368" tvdbid="76932" defaulttvdbseason="0" episodeoffset="1" imdbid="tt0104604">
     <name>Ranma 1/2: Kessen Tougenkyou! Hanayome o Torimodose!</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="369" tvdbid="71313" defaulttvdbseason="0" imdbid="tt0407924">
     <name>Kidou Senkan Nadesico: The Prince of Darkness</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-1;2-1;3-1;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;2-1;3-1;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="370" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0206013">
@@ -1458,17 +1436,14 @@
   <anime anidbid="373" tvdbid="77681" defaulttvdbseason="0" imdbid="tt1796619">
     <name>Slayers Gorgeous</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-10;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-10;2-10;3-10;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="374" tvdbid="87481" defaulttvdbseason="1">
     <name>I Wish You Were Here</name>
   </anime>
-  <anime anidbid="375" tvdbid="80009" defaulttvdbseason="0" imdbid="tt0152979">
+  <anime anidbid="375" tvdbid="80009" defaulttvdbseason="0" episodeoffset="2" imdbid="tt0152979">
     <name>Tenchi Muyou! Manatsu no Eve</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
-    </mapping-list>
     <supplemental-info>
       <studio>AIC</studio>
     </supplemental-info>
@@ -1476,7 +1451,7 @@
   <anime anidbid="376" tvdbid="80009" defaulttvdbseason="0" imdbid="tt0205451">
     <name>Tenchi Muyou! in Love 2 - Haruka Naru Omoi</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-4;2-4;3-4;</mapping>
     </mapping-list>
     <supplemental-info>
       <studio>AIC</studio>
@@ -1503,46 +1478,34 @@
       <studio>Kitty Film</studio>
     </supplemental-info>
   </anime>
-  <anime anidbid="380" tvdbid="75113" defaulttvdbseason="0" imdbid="tt0090244">
+  <anime anidbid="380" tvdbid="75113" defaulttvdbseason="0" episodeoffset="4" imdbid="tt0090244">
     <name>Urusei Yatsura 3: Remember My Love</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-5;</mapping>
-    </mapping-list>
     <supplemental-info>
       <studio>Kitty Film</studio>
     </supplemental-info>
   </anime>
-  <anime anidbid="381" tvdbid="75113" defaulttvdbseason="0" imdbid="tt0092141">
+  <anime anidbid="381" tvdbid="75113" defaulttvdbseason="0" episodeoffset="6" imdbid="tt0092141">
     <name>Urusei Yatsura 4: Lum the Forever</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-7;</mapping>
-    </mapping-list>
     <supplemental-info>
       <studio>Kitty Film</studio>
     </supplemental-info>
   </anime>
-  <anime anidbid="382" tvdbid="75113" defaulttvdbseason="0" imdbid="tt0096353">
+  <anime anidbid="382" tvdbid="75113" defaulttvdbseason="0" episodeoffset="9" imdbid="tt0096353">
     <name>Urusei Yatsura: Kanketsu Hen</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-10;</mapping>
-    </mapping-list>
     <supplemental-info>
       <studio>Kitty Film</studio>
     </supplemental-info>
   </anime>
-  <anime anidbid="383" tvdbid="75113" defaulttvdbseason="0" imdbid="tt0103178">
+  <anime anidbid="383" tvdbid="75113" defaulttvdbseason="0" episodeoffset="18" imdbid="tt0103178">
     <name>Urusei Yatsura: Itsudatte My Darling</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-19;</mapping>
-    </mapping-list>
     <supplemental-info>
       <studio>Kitty Film</studio>
     </supplemental-info>
   </anime>
-  <anime anidbid="384" tvdbid="75113" defaulttvdbseason="0">
+  <anime anidbid="384" tvdbid="75113" defaulttvdbseason="0" episodeoffset="7">
     <name>Urusei Yatsura OVA</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-6;2-8;3-9;4-11;5-12;6-13;7-14;8-15;9-16;10-20;11-18;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-6;2-8;3-9;</mapping>
     </mapping-list>
     <supplemental-info>
       <studio>Kitty Film</studio>
@@ -1569,11 +1532,11 @@
   <anime anidbid="389" tvdbid="84540" defaulttvdbseason="1">
     <name>Tales of Eternia The Animation</name>
   </anime>
-  <anime anidbid="391" tvdbid="70862" defaulttvdbseason="1">
+  <anime anidbid="391" tvdbid="70862" defaulttvdbseason="1" episodeoffset="1">
     <name>Kyuuketsuki Miyu (1997)</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="1">;1-2;</mapping>
-      <mapping anidbseason="1" tvdbseason="1">;1-1;2-3;3-4;4-5;5-6;6-7;7-8;8-9;9-10;10-11;11-12;12-13;13-14;14-15;15-16;16-17;17-18;18-19;19-20;20-21;21-22;22-23;23-24;24-25;25-26;</mapping>
+      <mapping anidbseason="1" tvdbseason="1">;1-1;</mapping>
     </mapping-list>
     <before>;1-2;</before>
   </anime>
@@ -1599,11 +1562,8 @@
   <anime anidbid="396" tvdbid="85073" defaulttvdbseason="1">
     <name>Geobreeders: File-X Chibi Neko Dakkan</name>
   </anime>
-  <anime anidbid="397" tvdbid="81472" defaulttvdbseason="0" imdbid="tt0142243">
+  <anime anidbid="397" tvdbid="81472" defaulttvdbseason="0" episodeoffset="12" imdbid="tt0142243">
     <name>Dragon Ball Z: Ryuuken Bakuhatsu!! Gokuu ga Yaraneba Dare ga Yaru</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-13;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="398" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0090658">
     <name>Arion</name>
@@ -1638,10 +1598,10 @@
   <anime anidbid="404" tvdbid="84049" defaulttvdbseason="0">
     <name>From I''s: Mou Hitotsu no Natsu no Monogatari</name>
   </anime>
-  <anime anidbid="405" tvdbid="76932" defaulttvdbseason="0">
+  <anime anidbid="405" tvdbid="76932" defaulttvdbseason="0" episodeoffset="2">
     <name>Ranma 1/2 OVA</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-3;2-4;3-5;4-6;5-7;6-8;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;</mapping>
     </mapping-list>
     <supplemental-info>
       <studio>Studio Deen</studio>
@@ -1686,7 +1646,7 @@
   <anime anidbid="415" tvdbid="82029" defaulttvdbseason="0" imdbid="tt0237687">
     <name>Sakura Taisen: Katsudou Shashin</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-1;2-1;3-1;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;2-1;3-1;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="416" tvdbid="76664" defaulttvdbseason="1">
@@ -1713,7 +1673,7 @@
   <anime anidbid="422" tvdbid="70863" defaulttvdbseason="0" imdbid="tt0184872">
     <name>Rurouni Kenshin: Meiji Kenkaku Romantan - Ishinshishi e no Requiem</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-7;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-7;2-7;3-7;</mapping>
     </mapping-list>
     <supplemental-info replace="true">
       <studio>Studio Deen</studio>
@@ -1767,7 +1727,7 @@
   <anime anidbid="437" tvdbid="77681" defaulttvdbseason="0" imdbid="tt0161978">
     <name>Slayers Great</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-9;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-9;2-9;3-9</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="438" tvdbid="80054" defaulttvdbseason="1">
@@ -1780,7 +1740,7 @@
     <name>eX-Driver the Movie</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-7;2-8;3-9;</mapping>
-      <mapping anidbseason="1" tvdbseason="0">;1-1;2-1;3-1;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;2-1;3-1;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="441" tvdbid="79223" defaulttvdbseason="0">
@@ -1789,11 +1749,8 @@
   <anime anidbid="442" tvdbid="72347" defaulttvdbseason="1">
     <name>Macross 7</name>
   </anime>
-  <anime anidbid="443" tvdbid="72347" defaulttvdbseason="0" imdbid="tt0160500">
+  <anime anidbid="443" tvdbid="72347" defaulttvdbseason="0" episodeoffset="12" imdbid="tt0160500">
     <name>Macross 7: Ginga ga Ore o Yonde Iru!</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-13;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="444" tvdbid="84620" defaulttvdbseason="1">
     <name>Rikujou Bouei-tai Mao-chan</name>
@@ -1819,7 +1776,7 @@
   <anime anidbid="449" tvdbid="79060" defaulttvdbseason="1">
     <name>Wolf's Rain</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="1">;1-27;2-28;3-29;4-30;</mapping>
+      <mapping anidbseason="0" tvdbseason="1" start="1" end="4" offset="26"/>
     </mapping-list>
     <before>;1-27;2-28;3-29;4-30;</before>
   </anime>
@@ -1844,11 +1801,8 @@
       <studio>AIC</studio>
     </supplemental-info>
   </anime>
-  <anime anidbid="456" tvdbid="73526" defaulttvdbseason="0">
+  <anime anidbid="456" tvdbid="73526" defaulttvdbseason="0" episodeoffset="1">
     <name>Burn Up! W</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-2;2-3;3-4;4-5;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="457" tvdbid="84749" defaulttvdbseason="1">
     <name>Tokyo Babylon</name>
@@ -1868,11 +1822,8 @@
   <anime anidbid="462" tvdbid="71744" defaulttvdbseason="0">
     <name>Vandread Taidouhen</name>
   </anime>
-  <anime anidbid="463" tvdbid="71744" defaulttvdbseason="0">
+  <anime anidbid="463" tvdbid="71744" defaulttvdbseason="0" episodeoffset="1">
     <name>Vandread Gekitouhen</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="464" tvdbid="72241" defaulttvdbseason="4">
     <name>Digimon Frontier</name>
@@ -1883,11 +1834,11 @@
   <anime anidbid="466" tvdbid="72843" defaulttvdbseason="1">
     <name>Gokudou-kun Man'yuuki</name>
   </anime>
-  <anime anidbid="467" tvdbid="83406" defaulttvdbseason="1">
+  <anime anidbid="467" tvdbid="83406" defaulttvdbseason="1" episodeoffset="1">
     <name>Licensed by Royal</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="1">;1-4;</mapping>
-      <mapping anidbseason="1" tvdbseason="1">;4-5;5-6;6-7;7-8;8-9;9-10;10-11;11-12;12-13;</mapping>
+      <mapping anidbseason="1" tvdbseason="1">;1-1;2-2;3-3;</mapping>
     </mapping-list>
     <before>;1-4;</before>
   </anime>
@@ -1897,7 +1848,7 @@
   <anime anidbid="469" tvdbid="101441" defaulttvdbseason="1" imdbid="tt0381348">
     <name>Kumo no Mukou, Yakusoku no Basho</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="1">;1-1;2-1;3-1;4-1;5-1;6-1;</mapping>
+      <mapping anidbseason="1" tvdbseason="1">;2-1;3-1;4-1;5-1;6-1;</mapping>
     </mapping-list>
     <supplemental-info replace="true">
       <studio>CoMix Wave</studio>
@@ -1959,7 +1910,7 @@
   <anime anidbid="485" tvdbid="100171" defaulttvdbseason="0" imdbid="tt0080772">
     <name>Ginga Tetsudou 999 (1979)</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-1;2-1;3-1;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;2-1;3-1;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="486" tvdbid="99471" defaulttvdbseason="1">
@@ -2024,9 +1975,6 @@
   </anime>
   <anime anidbid="506" tvdbid="84045" defaulttvdbseason="0">
     <name>Shin Captain Tsubasa</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-4;2-5;3-6;4-7;5-8;6-9;7-10;8-11;9-12;10-13;11-14;12-15;13-16;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="507" tvdbid="84045" defaulttvdbseason="6">
     <name>Captain Tsubasa J</name>
@@ -2034,8 +1982,7 @@
   <anime anidbid="508" tvdbid="84045" defaulttvdbseason="7">
     <name>Captain Tsubasa (2001)</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="7">;1-1;2-2;3-3;4-4;5-5;6-6;7-7;8-8;9-9;10-10;11-11;12-12;13-13;14-14;15-15;16-16;17-17;18-18;19-19;20-20;21-21;22-22;23-23;24-24;25-25;26-26;</mapping>
-      <mapping anidbseason="1" tvdbseason="8">;27-1;28-2;29-3;30-4;31-5;32-6;33-7;34-8;35-9;36-10;37-11;38-12;39-13;40-14;41-15;42-16;43-17;44-18;45-19;46-20;47-21;48-22;49-23;50-24;51-25;52-26;</mapping>
+      <mapping anidbseason="1" tvdbseason="8" start="27" end="52" offset="-26"/>
     </mapping-list>
   </anime>
   <anime anidbid="509" tvdbid="72845" defaulttvdbseason="1">

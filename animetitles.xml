@@ -14043,6 +14043,7 @@
 	</anime>
 	<anime aid="1352">
 		<title type="main" xml:lang="x-jat">8 Man</title>
+		<title type="official" xml:lang="en">Eighth Man</title>
 		<title type="official" xml:lang="ja">エイトマン</title>
 		<title type="short" xml:lang="x-jat">8man</title>
 		<title type="syn" xml:lang="en">Tobor the Eighth Man</title>
@@ -15191,12 +15192,12 @@
 		<title type="main" xml:lang="x-jat">Jungle Taitei Susume Leo!</title>
 		<title type="official" xml:lang="ar">الليث الأبيض</title>
 		<title type="official" xml:lang="de">Boubou, König der Tiere</title>
+		<title type="official" xml:lang="en">Leo the Lion</title>
 		<title type="official" xml:lang="fr">Le roi Léo (1966)</title>
 		<title type="official" xml:lang="ja">ジャングル大帝 進めレオ!</title>
 		<title type="syn" xml:lang="de">Boubou, der Löwenkönig</title>
 		<title type="syn" xml:lang="de">Der Löwenkönig</title>
 		<title type="syn" xml:lang="en">Jungle Emperor, Onward Leo!</title>
-		<title type="syn" xml:lang="en">Leo the Lion</title>
 		<title type="syn" xml:lang="en">New Jungle Emperor, Go Ahead Leo!</title>
 		<title type="syn" xml:lang="it">Kimba Il Leone Bianco II</title>
 		<title type="syn" xml:lang="x-jat">Jungle Taitei Susume Leo</title>
@@ -28244,6 +28245,7 @@
 		<title type="official" xml:lang="en">Tomorrow I`ll be Lively ~Half Sweet Potato~</title>
 		<title type="official" xml:lang="ja">あした元気にな~れ!~半分のさつまいも~</title>
 		<title type="syn" xml:lang="x-jat">Ashita Genki</title>
+		<title type="syn" xml:lang="x-jat">Ashita Genki ni Nare!: Hanbun no Satsumaimo</title>
 	</anime>
 	<anime aid="3439">
 		<title type="main" xml:lang="x-jat">Sanctuary</title>
@@ -28718,7 +28720,7 @@
 	</anime>
 	<anime aid="3512">
 		<title type="main" xml:lang="x-jat">Noein: Mou Hitori no Kimi e</title>
-		<title type="official" xml:lang="en">Noein: to your other self</title>
+		<title type="official" xml:lang="en">Noein: To Your Other Self</title>
 		<title type="official" xml:lang="ja">ノエイン もうひとりの君へ</title>
 		<title type="short" xml:lang="uk">Ноеін</title>
 		<title type="short" xml:lang="x-jat">Noein</title>
@@ -35455,6 +35457,7 @@
 		<title type="official" xml:lang="it">Il fantastico mondo di Paul</title>
 		<title type="official" xml:lang="ja">ポールのミラクル大作戦</title>
 		<title type="official" xml:lang="pl">Fantastyczny Świat Paula</title>
+		<title type="syn" xml:lang="en">Paul in Fantasy Island</title>
 	</anime>
 	<anime aid="4791">
 		<title type="main" xml:lang="x-jat">Ryuusei no Rockman</title>
@@ -58377,7 +58380,7 @@
 		<title type="syn" xml:lang="en">Saint Slut Academy Dating Diary</title>
 	</anime>
 	<anime aid="9534">
-		<title type="main" xml:lang="x-jat">Ark IX</title>
+		<title type="main" xml:lang="x-jat">Ark Nine</title>
 		<title type="official" xml:lang="ja">アークIX</title>
 		<title type="syn" xml:lang="en">arknine</title>
 		<title type="syn" xml:lang="en">Ark Nine</title>
@@ -60997,6 +61000,7 @@
 	<anime aid="10143">
 		<title type="main" xml:lang="x-jat">"0"</title>
 		<title type="official" xml:lang="ja">「0」</title>
+		<title type="syn" xml:lang="x-jat">Chiaki Kuriyama: 「0」</title>
 	</anime>
 	<anime aid="10144">
 		<title type="main" xml:lang="x-jat">My Life</title>
@@ -63207,6 +63211,7 @@
 	<anime aid="10688">
 		<title type="main" xml:lang="x-jat">Gekijouban Date a Live: Mayuri Judgement</title>
 		<title type="official" xml:lang="ja">劇場版デート・ア・ライブ 万由里ジャッジメント</title>
+		<title type="syn" xml:lang="bg">Среща на живо: Възмездието на Маюри</title>
 	</anime>
 	<anime aid="10689">
 		<title type="main" xml:lang="x-jat">Keshikasu-kun</title>
@@ -64027,6 +64032,7 @@
 	<anime aid="10882">
 		<title type="main" xml:lang="x-jat">Lupin Sansei (2015)</title>
 		<title type="official" xml:lang="bg">Люпен III: Италианско приключение</title>
+		<title type="official" xml:lang="fr">Lupin the Third - L`aventure Italienne</title>
 		<title type="official" xml:lang="it">Lupin III: L`avventura Italiana</title>
 		<title type="official" xml:lang="ja">ルパン三世 LUPIN THE THIRD</title>
 		<title type="syn" xml:lang="en">Blue jacket</title>
@@ -64354,6 +64360,7 @@
 	<anime aid="10951">
 		<title type="main" xml:lang="x-jat">Koutetsujou no Kabaneri</title>
 		<title type="official" xml:lang="ja">甲鉄城のカバネリ</title>
+		<title type="syn" xml:lang="en">Kabaneri of the Iron Fortress</title>
 	</anime>
 	<anime aid="10952">
 		<title type="main" xml:lang="x-jat">Shisha no Teikoku</title>
@@ -64519,6 +64526,7 @@
 	</anime>
 	<anime aid="10984">
 		<title type="main" xml:lang="x-jat">Owari no Seraph: Nagoya Kessen Hen</title>
+		<title type="official" xml:lang="bg">Геят на опустошението: Битката за гей парада</title>
 		<title type="official" xml:lang="en">Seraph of the End: Battle in Nagoya</title>
 		<title type="official" xml:lang="fr">Seraph of the End Arc 2</title>
 		<title type="official" xml:lang="ja">終わりのセラフ Seraph of the end 名古屋決戦編</title>
@@ -65422,7 +65430,7 @@
 	<anime aid="11207">
 		<title type="main" xml:lang="x-jat">Akai Shouzou: Char, Soshite Frontal e</title>
 		<title type="official" xml:lang="en">Portrait of the Red</title>
-		<title type="official" xml:lang="ja">赤い肖像　～シャア、そしてフロンタルへ～</title>
+		<title type="official" xml:lang="ja">赤い肖像　~シャア, そしてフロンタルへ~</title>
 		<title type="syn" xml:lang="en">Mobile Suit Gundam Recap</title>
 	</anime>
 	<anime aid="11209">
@@ -65693,8 +65701,8 @@
 		<title type="official" xml:lang="ja">うたわれるもの 偽りの仮面</title>
 	</anime>
 	<anime aid="11273">
-		<title type="main" xml:lang="x-jat">Tales of Zestiria</title>
-		<title type="official" xml:lang="ja">テイルズ オブ ゼスティリア</title>
+		<title type="main" xml:lang="x-jat">Tales of Zestiria: The Cross</title>
+		<title type="official" xml:lang="ja">テイルズ オブ ゼスティリア ザ クロス</title>
 		<title type="syn" xml:lang="ja">テイルズオブ20thアニバーサリーアニメーション</title>
 		<title type="syn" xml:lang="x-jat">Tales of 20th Anniversary Animation</title>
 	</anime>
@@ -66990,8 +66998,8 @@
 		<title type="syn" xml:lang="en">Ace Attorney</title>
 	</anime>
 	<anime aid="11599">
-		<title type="main" xml:lang="x-jat">Monster Hunter Stories</title>
-		<title type="official" xml:lang="ja">モンスターハンター ストーリーズ</title>
+		<title type="main" xml:lang="x-jat">Monster Hunter Stories: Ride On</title>
+		<title type="official" xml:lang="ja">モンスターハンターストーリーズ RIDE ON</title>
 	</anime>
 	<anime aid="11600">
 		<title type="main" xml:lang="x-jat">Sushi Police</title>
@@ -67097,8 +67105,8 @@
 		<title type="official" xml:lang="ja">河童の腕</title>
 	</anime>
 	<anime aid="11628">
-		<title type="main" xml:lang="x-jat">Kaitou Joker 3</title>
-		<title type="official" xml:lang="ja">怪盗ジョーカー 3</title>
+		<title type="main" xml:lang="x-jat">Kaitou Joker (2016)</title>
+		<title type="official" xml:lang="ja">怪盗ジョーカー Mysterious Joker (2016)</title>
 	</anime>
 	<anime aid="11629">
 		<title type="main" xml:lang="x-kot">Larva</title>
@@ -67131,8 +67139,8 @@
 		<title type="official" xml:lang="ja">出番ですよ!オニギリズ</title>
 	</anime>
 	<anime aid="11637">
-		<title type="main" xml:lang="x-jat">One Punch Man OAD</title>
-		<title type="official" xml:lang="ja">ワンパンマン OAD</title>
+		<title type="main" xml:lang="x-jat">One Punch Man: Road to Hero</title>
+		<title type="official" xml:lang="ja">ONE PUNCH MAN ワンパンマン ロード・トゥ・ヒーロー</title>
 	</anime>
 	<anime aid="11638">
 		<title type="main" xml:lang="x-jat">Masou Gakuen HxH</title>
@@ -67667,8 +67675,8 @@
 		<title type="official" xml:lang="ja">巨乳人妻女教師催眠</title>
 	</anime>
 	<anime aid="11775">
-		<title type="main" xml:lang="x-jat">Kimi ga Sumu Machi</title>
-		<title type="official" xml:lang="ja">君が棲む街</title>
+		<title type="main" xml:lang="x-jat">Kimi no Sumu Machi</title>
+		<title type="official" xml:lang="ja">君の棲む街</title>
 	</anime>
 	<anime aid="11776">
 		<title type="main" xml:lang="x-jat">Ijigen Gattai Mojibakeru Z</title>
@@ -67910,6 +67918,35 @@
 		<title type="main" xml:lang="x-jat">Lupin Sansei: Italian Game</title>
 		<title type="official" xml:lang="ja">ルパン三世 イタリアン・ゲーム</title>
 	</anime>
+	<anime aid="11840">
+		<title type="main" xml:lang="x-jat">Shirogane no Guardian</title>
+		<title type="official" xml:lang="ja">銀の墓守り[ガーディアン]</title>
+	</anime>
+	<anime aid="11841">
+		<title type="main" xml:lang="x-jat">Yes! Bang Dream!</title>
+		<title type="official" xml:lang="ja">Yes! BanG_Dream!</title>
+	</anime>
+	<anime aid="11842">
+		<title type="main" xml:lang="x-jat">Pokemon The Movie XY&amp;Z 2016</title>
+		<title type="official" xml:lang="ja">ポケモン・ザ・ムービーXY&amp;Z 2016</title>
+	</anime>
+	<anime aid="11843">
+		<title type="main" xml:lang="x-jat">Bonobono (2016)</title>
+		<title type="official" xml:lang="ja">ぼのぼの (2016)</title>
+	</anime>
+	<anime aid="11844">
+		<title type="main" xml:lang="x-jat">High School DxD Born: Yomigaeranai Fushichou</title>
+		<title type="official" xml:lang="ja">ハイスクールDxD BorN 蘇らない不死鳥</title>
+		<title type="syn" xml:lang="en">The Unresurrected Phoenix</title>
+	</anime>
+	<anime aid="11846">
+		<title type="main" xml:lang="x-jat">Qualidea Code</title>
+		<title type="official" xml:lang="ja">クオリディア・コード</title>
+	</anime>
+	<anime aid="11847">
+		<title type="main" xml:lang="x-jat">Soul Worker</title>
+		<title type="official" xml:lang="ja">Soul Worker</title>
+	</anime>
 </animetitles>
 
-<!-- Created: Mon Dec 14 03:00:16 2015 (9257 anime, 49396 titles) -->
+<!-- Created: Sun Dec 20 03:00:18 2015 (9264 anime, 49419 titles) -->

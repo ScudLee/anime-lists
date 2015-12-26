@@ -291,7 +291,7 @@
   <anime anidbid="69" tvdbid="81797" defaulttvdbseason="a">
     <name>One Piece</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-3;2-9;3-10;4-14;5-28;6-99;7-99;8-99;9-99;10-99;11-99;12-99;13-99;14-99;15-99;16-23;17-24;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-3;2-9;3-10;4-14;5-28;6-0;7-0;8-0;9-0;10-0;11-0;12-0;13-0;14-0;15-0;16-23;17-24;18-29;19-30;20-0;21-31;22-32;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="70" tvdbid="73616" defaulttvdbseason="1">

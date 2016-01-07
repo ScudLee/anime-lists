@@ -17862,6 +17862,9 @@
   </anime>
   <anime anidbid="7729" tvdbid="244061" defaulttvdbseason="1">
     <name>Steins;Gate</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;2-7;</mapping>
+    </mapping-list>
     <before>;1-25;</before>
   </anime>
   <anime anidbid="7732" tvdbid="hentai" defaulttvdbseason="1">
@@ -21170,6 +21173,9 @@
   </anime>
   <anime anidbid="9230" tvdbid="262092" defaulttvdbseason="1">
     <name>Onii-chan Dakedo Ai sae Areba Kankei Nai yo ne!</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="7" offset="-1"/>
+    </mapping-list>
   </anime>
   <anime anidbid="9235" tvdbid="262107" defaulttvdbseason="1">
     <name>Tonari no Kaibutsu-kun</name>
@@ -21350,9 +21356,6 @@
   </anime>
   <anime anidbid="9302" tvdbid="259642" defaulttvdbseason="0">
     <name>Dakara Boku wa, H ga Dekinai. (2013)</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="9304" tvdbid="262954" defaulttvdbseason="1">
     <name>JoJo no Kimyou na Bouken (2012)</name>

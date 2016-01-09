@@ -21231,7 +21231,7 @@
   <anime anidbid="9250" tvdbid="259863" defaulttvdbseason="3">
     <name>Little Witch Academia</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="3">;1-2;</mapping>
+      <mapping anidbseason="1" tvdbseason="3">;1-3;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="9251" tvdbid="259863" defaulttvdbseason="3">
@@ -22763,6 +22763,12 @@
       <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
+  <anime anidbid="9971" tvdbid="259863" defaulttvdbseason="0">
+    <name>Little Witch Academia: The Enchanted Parade</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
+  </anime>
   <anime anidbid="9973" tvdbid="278127" defaulttvdbseason="1">
     <name>Hitsugi no Chaika</name>
   </anime>
@@ -23848,7 +23854,7 @@
   <anime anidbid="10588" tvdbid="283611" defaulttvdbseason="1">
     <name>Ninja Slayer from Animation</name>
   </anime>
-  <anime anidbid="10589" tvdbid="284755" defaulttvdbseason="1">
+  <anime anidbid="10589" tvdbid="284563" defaulttvdbseason="1">
     <name>Ookami Shoujo to Kuro Ouji</name>
   </anime>
   <anime anidbid="10592" tvdbid="283932" defaulttvdbseason="1">

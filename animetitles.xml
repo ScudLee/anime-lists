@@ -1544,7 +1544,7 @@
 		<title type="official" xml:lang="ko">카드캡터 체리</title>
 		<title type="official" xml:lang="nl">Cardcaptor Sakura</title>
 		<title type="official" xml:lang="pl">Zdobywczyni kart Sakura</title>
-		<title type="official" xml:lang="pt">Sakura, Caçadora de Cartas</title>
+		<title type="official" xml:lang="pt">Sakura, a Caçadora de Cartas</title>
 		<title type="official" xml:lang="pt-BR">Sakura Card Captors</title>
 		<title type="official" xml:lang="ro">Sakura , Stăpâna Cărţilor Magice</title>
 		<title type="official" xml:lang="sv">Cardcaptor Sakura</title>
@@ -2529,6 +2529,7 @@
 		<title type="official" xml:lang="it">Lady Oscar</title>
 		<title type="official" xml:lang="ja">ベルサイユのばら</title>
 		<title type="official" xml:lang="pl">Lady Oscar</title>
+		<title type="official" xml:lang="pt">Lady Oscar</title>
 		<title type="official" xml:lang="pt-BR">A Rosa de Versalhes</title>
 		<title type="official" xml:lang="tr">Versay`ın Gülü</title>
 		<title type="short" xml:lang="de">Lady Oscar</title>
@@ -4242,7 +4243,9 @@
 		<title type="official" xml:lang="sv">Porco Rosso</title>
 		<title type="official" xml:lang="th">พอร์โค รอสโซ สลัดอากาศประจัญบาน</title>
 		<title type="official" xml:lang="tr">Kızıl Kanatlar</title>
-		<title type="official" xml:lang="zh">飛天紅豬俠</title>
+		<title type="official" xml:lang="zh">紅豬</title>
+		<title type="official" xml:lang="zh-Hans">红猪</title>
+		<title type="official" xml:lang="zh-Hant">飛天紅豬俠</title>
 		<title type="short" xml:lang="en">PR</title>
 		<title type="short" xml:lang="ja">くれぶた</title>
 		<title type="short" xml:lang="ja">くれ豚</title>
@@ -4255,7 +4258,6 @@
 		<title type="syn" xml:lang="fi">Punainen sika</title>
 		<title type="syn" xml:lang="uk">Порко Россо</title>
 		<title type="syn" xml:lang="uk">Червоний кабан</title>
-		<title type="syn" xml:lang="zh">紅豬</title>
 	</anime>
 	<anime aid="307">
 		<title type="main" xml:lang="x-jat">Little Monica Monogatari</title>
@@ -4894,6 +4896,7 @@
 		<title type="main" xml:lang="x-jat">Marmalade Boy</title>
 		<title type="official" xml:lang="es">Marmalade Boy (La Familia Crece)</title>
 		<title type="official" xml:lang="ja">ママレード・ボーイ</title>
+		<title type="official" xml:lang="pt">Marmalade Boy</title>
 		<title type="short" xml:lang="x-jat">mb</title>
 		<title type="short" xml:lang="x-jat">mbtv</title>
 		<title type="syn" xml:lang="it">Piccoli problemi di cuore</title>
@@ -9721,6 +9724,7 @@
 		<title type="main" xml:lang="x-jat">Kaitou Saint Tail</title>
 		<title type="official" xml:lang="en">Saint Tail</title>
 		<title type="official" xml:lang="ja">怪盗 セイント・テール</title>
+		<title type="official" xml:lang="pt">A Ladra Meimi</title>
 		<title type="syn" xml:lang="en">Mysterious Thief Saint Tail</title>
 		<title type="syn" xml:lang="zh-Hans">圣少女</title>
 	</anime>
@@ -14289,7 +14293,7 @@
 		<title type="official" xml:lang="it">Marco dagli Appennini alle Ande</title>
 		<title type="official" xml:lang="ja">母をたずねて三千里</title>
 		<title type="official" xml:lang="ko">엄마찾아 삼만리</title>
-		<title type="official" xml:lang="pt">Marco</title>
+		<title type="official" xml:lang="pt">Marco: Dos Apeninos aos Andes</title>
 		<title type="official" xml:lang="pt-BR">Marco</title>
 		<title type="official" xml:lang="tr">Marco</title>
 		<title type="official" xml:lang="uk">Марко</title>
@@ -17598,6 +17602,7 @@
 		<title type="official" xml:lang="it">Gigi la trottola</title>
 		<title type="official" xml:lang="ja">ダッシュ勝平</title>
 		<title type="official" xml:lang="pl">Gigi</title>
+		<title type="official" xml:lang="tr">Çiko</title>
 		<title type="syn" xml:lang="en">Dashing Kappei</title>
 	</anime>
 	<anime aid="1823">
@@ -18776,7 +18781,7 @@
 		<title type="official" xml:lang="it">Papà Gambalunga</title>
 		<title type="official" xml:lang="ja">私のあしながおじさん</title>
 		<title type="official" xml:lang="pl">Tajemniczy Opiekun</title>
-		<title type="official" xml:lang="pt">Pipi das meias altas</title>
+		<title type="official" xml:lang="pt">O Papá das Pernas Altas</title>
 		<title type="official" xml:lang="ru">Длинноногий дядюшка</title>
 		<title type="official" xml:lang="tr">Judy ve Uzunbacak</title>
 		<title type="syn" xml:lang="ru">Длинноногий папочка</title>
@@ -21226,6 +21231,7 @@
 		<title type="official" xml:lang="it">Una classe di monelli per Jo</title>
 		<title type="official" xml:lang="ja">若草物語ナンとジョー先生</title>
 		<title type="official" xml:lang="ko">왈가닥 작은 아씨</title>
+		<title type="official" xml:lang="pt">As Mulherzinhas II</title>
 		<title type="syn" xml:lang="en">Little Women 2</title>
 		<title type="syn" xml:lang="x-jat">Ai no Wakakusa Monogatari II</title>
 		<title type="syn" xml:lang="x-jat">Little Men</title>
@@ -21308,6 +21314,7 @@
 		<title type="official" xml:lang="fr">Pollyanna</title>
 		<title type="official" xml:lang="it">Pollyanna</title>
 		<title type="official" xml:lang="ja">愛少女ポリアンナ物語[ストーリー]</title>
+		<title type="official" xml:lang="pt">Pollyanna</title>
 		<title type="official" xml:lang="tr">Polyanna</title>
 		<title type="official" xml:lang="uk">Поліана</title>
 		<title type="syn" xml:lang="ru">Поллианна</title>
@@ -21386,6 +21393,7 @@
 		<title type="official" xml:lang="it">Flo, la piccola Robinson</title>
 		<title type="official" xml:lang="ja">家族ロビンソン漂流記ふしぎな島のフローネ</title>
 		<title type="official" xml:lang="nl">De Familie Robinson</title>
+		<title type="official" xml:lang="pt">A Família Robinson</title>
 		<title type="official" xml:lang="ru">Флона на чудесном острове</title>
 		<title type="syn" xml:lang="de">Die schweizer Familie Robinson</title>
 		<title type="syn" xml:lang="en">Swiss Family Robinson</title>
@@ -23006,6 +23014,7 @@
 		<title type="official" xml:lang="it">Sailor Moon e il Cristallo del Cuore</title>
 		<title type="official" xml:lang="ja">美少女戦士セーラームーン S</title>
 		<title type="official" xml:lang="pl">Czarodziejka z Księżyca: Sailor Moon S</title>
+		<title type="official" xml:lang="pt">A Navegante da Lua S</title>
 		<title type="official" xml:lang="pt-BR">Sailor Moon S</title>
 		<title type="official" xml:lang="ro">Sailor Moon S</title>
 		<title type="official" xml:lang="ru">Сейлормун - супервоин</title>
@@ -23026,6 +23035,7 @@
 		<title type="official" xml:lang="it">Sailor Moon, la Luna splende</title>
 		<title type="official" xml:lang="ja">美少女戦士セーラームーン R</title>
 		<title type="official" xml:lang="pl">Czarodziejka z Księżyca R</title>
+		<title type="official" xml:lang="pt">A Navegante da Lua R</title>
 		<title type="official" xml:lang="pt-BR">Sailor Moon R</title>
 		<title type="official" xml:lang="ro">Sailor Moon R</title>
 		<title type="official" xml:lang="ru">Сейлормун снова с нами</title>
@@ -23044,6 +23054,7 @@
 		<title type="official" xml:lang="it">Sailor Moon e il mistero dei sogni</title>
 		<title type="official" xml:lang="ja">美少女戦士セーラームーンSuperS</title>
 		<title type="official" xml:lang="pl">Czarodziejka z Księżyca: Sailor Moon Super S</title>
+		<title type="official" xml:lang="pt">A Navegante da Lua SuperS</title>
 		<title type="official" xml:lang="pt-BR">Sailor Moon SuperS</title>
 		<title type="official" xml:lang="ro">Sailor Moon Super S</title>
 		<title type="official" xml:lang="ru">Сейлормун</title>
@@ -23060,6 +23071,7 @@
 		<title type="official" xml:lang="it">Petali di stelle per Sailor Moon</title>
 		<title type="official" xml:lang="ja">美少女戦士セーラームーン セーラースターズ</title>
 		<title type="official" xml:lang="pl">Czarodziejka z Księżyca: Sailor Moon Sailor Stars</title>
+		<title type="official" xml:lang="pt">A Navegante da Lua Sailor Stars</title>
 		<title type="official" xml:lang="pt-BR">Sailor Moon Sailor Stars</title>
 		<title type="official" xml:lang="ro">Sailor Moon Sailor Stars</title>
 		<title type="official" xml:lang="th">เซเลอร์มูน เซเลอร์สตาร์ส</title>
@@ -25168,7 +25180,7 @@
 		<title type="official" xml:lang="it">Mila e Shiro, due cuori nella pallavolo</title>
 		<title type="official" xml:lang="ja">アタッカーYOU!</title>
 		<title type="official" xml:lang="pl">Pojedynek aniołów</title>
-		<title type="official" xml:lang="pt">Joana e Sérgio</title>
+		<title type="official" xml:lang="pt">Joana e Sérgio: O Desafio dos Anjos</title>
 		<title type="syn" xml:lang="it">Mila e Shiro</title>
 		<title type="syn" xml:lang="ja">アタッカーユウ!</title>
 		<title type="syn" xml:lang="ja">アタッカー・ユウ!</title>
@@ -29260,6 +29272,7 @@
 		<title type="main" xml:lang="x-jat">Manga Nippon Mukashibanashi (1976)</title>
 		<title type="official" xml:lang="fr">Contes animés du Vieux Japon</title>
 		<title type="official" xml:lang="ja">まんが日本昔ばなし (1976)</title>
+		<title type="official" xml:lang="pt">Velhos Contos do Japão</title>
 		<title type="syn" xml:lang="en">Japanese Folklore Tales 2</title>
 		<title type="syn" xml:lang="x-jat">Manga Nippon Mukashibanashi 2</title>
 	</anime>
@@ -29432,7 +29445,7 @@
 	<anime aid="3608">
 		<title type="main" xml:lang="x-jat">Eiga Atashin`chi</title>
 		<title type="official" xml:lang="ja">映画 あたしンち</title>
-		<title type="syn" xml:lang="x-jat">atashinchi movie</title>
+		<title type="syn" xml:lang="en">Atashinchi Movie</title>
 	</anime>
 	<anime aid="3609">
 		<title type="main" xml:lang="x-jat">Kabatotto</title>
@@ -29977,6 +29990,7 @@
 		<title type="official" xml:lang="it">Mary e il giardino dei misteri</title>
 		<title type="official" xml:lang="ja">アニメ ひみつの花園</title>
 		<title type="official" xml:lang="pl">Tajemniczy ogród</title>
+		<title type="official" xml:lang="pt">O Jardim Secreto</title>
 		<title type="official" xml:lang="ro">Mary şi grădina secretă</title>
 		<title type="syn" xml:lang="en">Secret Flower Garden</title>
 		<title type="syn" xml:lang="en">The Animated Secret Garden</title>
@@ -29992,6 +30006,7 @@
 		<title type="official" xml:lang="hu">Hüvelyk Panna nyomában</title>
 		<title type="official" xml:lang="ja">おやゆび姫物語</title>
 		<title type="official" xml:lang="pl">Calineczka</title>
+		<title type="official" xml:lang="pt">O Livro de Thumbelina</title>
 		<title type="syn" xml:lang="el">H Τοσοδούλα</title>
 		<title type="syn" xml:lang="en">Story of Princess Thumbelina</title>
 		<title type="syn" xml:lang="en">Thumb Princess Story</title>
@@ -30792,6 +30807,7 @@
 		<title type="official" xml:lang="fr">Tsubasa Chronicle - Saison 2</title>
 		<title type="official" xml:lang="ja">ツバサ・クロニクル 第2シリーズ</title>
 		<title type="official" xml:lang="pl">Tsubasa Chronicle - Sezon 2</title>
+		<title type="official" xml:lang="pt">Tsubasa: As Crónicas de Sakura 2</title>
 		<title type="official" xml:lang="th">สึบาสะ สงครามเทพข้ามมิติ ปี 2</title>
 		<title type="short" xml:lang="x-jat">tsubasa2</title>
 		<title type="short" xml:lang="x-jat">Tsubasa S2</title>
@@ -49161,6 +49177,7 @@
 	<anime aid="7615">
 		<title type="main" xml:lang="x-jat">Ohayou! Spank (1982)</title>
 		<title type="official" xml:lang="ja">おはよう! スパンク (1982)</title>
+		<title type="official" xml:lang="pt">Hello! Spank</title>
 		<title type="syn" xml:lang="en">Hello! Spank (1982)</title>
 	</anime>
 	<anime aid="7616">
@@ -51430,6 +51447,7 @@
 	</anime>
 	<anime aid="8090">
 		<title type="main" xml:lang="x-jat">Hagane no Renkinjutsushi: Milos no Seinaru Hoshi</title>
+		<title type="official" xml:lang="de">Full Metal Alchemist - The Sacred Star of Milos</title>
 		<title type="official" xml:lang="en">Fullmetal Alchemist: The Sacred Star of Milos</title>
 		<title type="official" xml:lang="fr">Fullmetal Alchemist le film: L`étoile sacrée de Milos</title>
 		<title type="official" xml:lang="hu">Fullmetal Alchemist: Milos szent csillaga</title>
@@ -57945,6 +57963,7 @@
 		<title type="short" xml:lang="x-jat">nmgk</title>
 		<title type="syn" xml:lang="en">Cat Story (Black)</title>
 		<title type="syn" xml:lang="en">Nekomonogatari Black: Tsubasa Family</title>
+		<title type="syn" xml:lang="en">Nekomonogatari (Kuro)</title>
 		<title type="syn" xml:lang="ko">고양이 이야기 (흑)</title>
 		<title type="syn" xml:lang="x-jat">Tsubasa Family</title>
 	</anime>
@@ -60686,6 +60705,7 @@
 	<anime aid="10053">
 		<title type="main" xml:lang="x-jat">Pocket Monsters: Best Wishes! Hikari to Kage no Tenkyuugi</title>
 		<title type="official" xml:lang="ja">ポケットモンスター ベストウイッシュ~光と影のテンキュウギ~</title>
+		<title type="syn" xml:lang="en">Pokemon: Best Wishes! Celestial Globe of Light and Shadow</title>
 	</anime>
 	<anime aid="10054">
 		<title type="main" xml:lang="x-jat">Norman the Snowman: Kita no Kuni no Aurora (Kari)</title>
@@ -62790,10 +62810,10 @@
 	</anime>
 	<anime aid="10576">
 		<title type="main" xml:lang="x-jat">Glass no Hana to Kowasu Sekai</title>
+		<title type="official" xml:lang="en">Garakowa: Restore the World</title>
 		<title type="official" xml:lang="ja">ガラスの花と壊す世界</title>
 		<title type="short" xml:lang="x-jat">garakowa</title>
-		<title type="syn" xml:lang="en">Garakowa: Restore the World</title>
-		<title type="syn" xml:lang="en">Vitreous Flower Destroy the World</title>
+		<title type="syn" xml:lang="en">Vitreous Flower &amp; Destroy the World</title>
 	</anime>
 	<anime aid="10577">
 		<title type="main" xml:lang="x-jat">Gudetama</title>
@@ -65215,6 +65235,7 @@
 	</anime>
 	<anime aid="11142">
 		<title type="main" xml:lang="x-jat">Shinmai Maou no Testament Burst</title>
+		<title type="official" xml:lang="en">The Testament of Sister New Devil BURST</title>
 		<title type="official" xml:lang="ja">新妹魔王の契約者 BURST</title>
 	</anime>
 	<anime aid="11143">
@@ -65729,6 +65750,7 @@
 	<anime aid="11266">
 		<title type="main" xml:lang="x-jat">Divine Gate</title>
 		<title type="official" xml:lang="en">Divine Gate</title>
+		<title type="official" xml:lang="fr">Divine Gate</title>
 		<title type="official" xml:lang="ja">ディバインゲート</title>
 	</anime>
 	<anime aid="11267">
@@ -66775,8 +66797,8 @@
 		<title type="official" xml:lang="ja">文豪ストレイドッグス</title>
 	</anime>
 	<anime aid="11524">
-		<title type="main" xml:lang="x-jat">Akagami no Shirayuki-hime OAD</title>
-		<title type="official" xml:lang="ja">赤髪の白雪姫 OAD</title>
+		<title type="main" xml:lang="x-jat">Akagami no Shirayuki-hime: Nandemonai Takaramono, Kono Page</title>
+		<title type="official" xml:lang="ja">赤髪の白雪姫 なんでもない宝物, この頁</title>
 		<title type="syn" xml:lang="x-jat">Akagami no Shirayukihime OAD</title>
 	</anime>
 	<anime aid="11526">
@@ -66894,6 +66916,7 @@
 	<anime aid="11552">
 		<title type="main" xml:lang="x-jat">Prince of Stride: Alternative</title>
 		<title type="official" xml:lang="en">Prince of Stride: Alternative</title>
+		<title type="official" xml:lang="fr">Prince of Stride Alternative</title>
 		<title type="official" xml:lang="ja">プリンス・オブ・ストライド オルタナティブ</title>
 	</anime>
 	<anime aid="11553">
@@ -67242,7 +67265,7 @@
 		<title type="syn" xml:lang="ja">Rewrite（リライト）</title>
 	</anime>
 	<anime aid="11645">
-		<title type="main" xml:lang="x-jat">Kimi no Kokoro wa Kagayaite Irukai?</title>
+		<title type="main" xml:lang="x-jat">Kimi no Kokoro wa Kagayaiteru kai?</title>
 		<title type="official" xml:lang="ja">君のこころは輝いてるかい?</title>
 	</anime>
 	<anime aid="11646">
@@ -67344,8 +67367,8 @@
 		<title type="official" xml:lang="ja">SUGIO~森林で恋をして~</title>
 	</anime>
 	<anime aid="11669">
-		<title type="main" xml:lang="x-jat">Ryuuzou to Shichinin no Kobun-tachi</title>
-		<title type="official" xml:lang="ja">龍三と七人の子分たち</title>
+		<title type="main" xml:lang="x-jat">Ryuuzou to Shichinin no Kobun-tachi x Frogman</title>
+		<title type="official" xml:lang="ja">龍三と七人の子分たちxFROGMAN</title>
 	</anime>
 	<anime aid="11670">
 		<title type="main" xml:lang="x-jat">Nanairo Kakumei</title>
@@ -67564,6 +67587,7 @@
 	<anime aid="11725">
 		<title type="main" xml:lang="x-jat">Shoujo-tachi wa Kouya o Mezasu</title>
 		<title type="official" xml:lang="en">Girls Beyond the Wasteland</title>
+		<title type="official" xml:lang="fr">Shôjotachi wa kôya wo mezasu</title>
 		<title type="official" xml:lang="ja">少女たちは荒野を目指す</title>
 	</anime>
 	<anime aid="11726">
@@ -67593,10 +67617,6 @@
 		<title type="syn" xml:lang="en">fullmetal panic 2016</title>
 		<title type="syn" xml:lang="ja">フルメタル・パニック! 3</title>
 		<title type="syn" xml:lang="x-jat">Fullmetal Panic! 3</title>
-	</anime>
-	<anime aid="11732">
-		<title type="main" xml:lang="x-jat">Koukaku no Pandora: Ghost Urn</title>
-		<title type="official" xml:lang="ja">紅殻のパンドラ -GHOST URN-</title>
 	</anime>
 	<anime aid="11733">
 		<title type="main" xml:lang="x-jat">Alice in Dreamland</title>
@@ -67783,6 +67803,7 @@
 	</anime>
 	<anime aid="11779">
 		<title type="main" xml:lang="x-jat">Fairy Tail Zero</title>
+		<title type="official" xml:lang="en">Fairy Tail Zero</title>
 		<title type="official" xml:lang="ja">FAIRY TAIL ZERO</title>
 		<title type="syn" xml:lang="ja">フェアリーテイル ゼロ</title>
 	</anime>
@@ -67913,7 +67934,7 @@
 		<title type="official" xml:lang="ko">라바 (2013)</title>
 	</anime>
 	<anime aid="11815">
-		<title type="main" xml:lang="x-jat">Koukaku no Pandora: Ghost Urn (2016)</title>
+		<title type="main" xml:lang="x-jat">Koukaku no Pandora: Ghost Urn</title>
 		<title type="official" xml:lang="en">Pandora in the Crimson Shell: Ghost Urn</title>
 		<title type="official" xml:lang="ja">紅殻のパンドラ GHOST URN</title>
 	</anime>
@@ -68176,6 +68197,34 @@
 		<title type="main" xml:lang="x-jat">Sakamoto Desu ga?</title>
 		<title type="official" xml:lang="ja">坂本ですが?</title>
 	</anime>
+	<anime aid="11882">
+		<title type="main" xml:lang="en">ADVENTURES OF THE MONKEY KING (Pilot Film)</title>
+		<title type="official" xml:lang="ja">孫悟空が始まるよー　黄風大王の巻</title>
+	</anime>
+	<anime aid="11883">
+		<title type="main" xml:lang="x-jat">Stella no Mahou</title>
+		<title type="official" xml:lang="ja">ステラのまほう</title>
+	</anime>
+	<anime aid="11884">
+		<title type="main" xml:lang="x-jat">Meow no Hoshi</title>
+		<title type="official" xml:lang="ja">ミャウの星</title>
+	</anime>
+	<anime aid="11886">
+		<title type="main" xml:lang="x-jat">Kamiwaza Wanda</title>
+		<title type="official" xml:lang="ja">カミワザ・ワンダ</title>
+	</anime>
+	<anime aid="11887">
+		<title type="main" xml:lang="x-jat">Shounen Ashibe: Go! Go! Goma-chan</title>
+		<title type="official" xml:lang="ja">少年アシベ GO! GO! ゴマちゃん</title>
+	</anime>
+	<anime aid="11888">
+		<title type="main" xml:lang="x-jat">Neko Neko Nihonshi</title>
+		<title type="official" xml:lang="ja">ねこねこ日本史</title>
+	</anime>
+	<anime aid="11889">
+		<title type="main" xml:lang="x-jat">Kekkai Sensen: Ou-sama no Restaurant no Ou-sama</title>
+		<title type="official" xml:lang="ja">血界戦線 王様のレストランの王様</title>
+	</anime>
 </animetitles>
 
-<!-- Created: Sat Jan 16 03:00:17 2016 (9295 anime, 49586 titles) -->
+<!-- Created: Fri Jan 22 03:00:18 2016 (9301 anime, 49623 titles) -->

@@ -3440,6 +3440,9 @@
   <anime anidbid="10084" tvdbid="unknown" defaulttvdbseason="1">
     <name>Yonimo Kimyou na Man Gatarou</name>
   </anime>
+  <anime anidbid="10150" tvdbid="unknown" defaulttvdbseason="0" imdbid="tt3912854">
+    <name>Shimajirou to Kujira no Uta</name>
+  </anime>
   <anime anidbid="10217" tvdbid="unknown" defaulttvdbseason="1">
     <name>Mechano: Scientific Attack Force</name>
   </anime>
@@ -3458,10 +3461,16 @@
   <anime anidbid="10454" tvdbid="unknown" defaulttvdbseason="0">
     <name>Gekijouban Yuuto-kun ga Iku</name>
   </anime>
+  <anime anidbid="10916" tvdbid="unknown" defaulttvdbseason="0" imdbid="tt4794852">
+    <name>Shimajirou to Ookinaki</name>
+  </anime>
   <anime anidbid="11180" tvdbid="unknown" defaulttvdbseason="1">
     <name>The Snack World</name>
   </anime>
   <anime anidbid="11181" tvdbid="unknown" defaulttvdbseason="0">
     <name>Eiga The Snack World</name>
+  </anime>
+  <anime anidbid="11757" tvdbid="unknown" defaulttvdbseason="0" imdbid="tt5185564">
+    <name>Shimajirou to Ehon no Kuni</name>
   </anime>
 </anime-list>

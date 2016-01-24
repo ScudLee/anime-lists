@@ -811,6 +811,7 @@
     <anime anidbid="7228">Naruto: The Cross Roads</anime>
     <anime anidbid="8159">Naruto x UT</anime>
     <anime anidbid="8387">Gekijouban Naruto Soyokazeden: Naruto to Mashin to Mitsu no Onegai Datte ba yo!!</anime>
+    <anime anidbid="9685">Naruto Narutimate Hero 3: Tsui ni Gekitotsu! Jounin tai Genin!! Musabetsu Dairansen Taikai Kaisai!!</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Naruto Collection</title>
     </titles>
@@ -1630,6 +1631,8 @@
     <anime anidbid="8312">Gekijouban Naruto: Blood Prison</anime>
     <anime anidbid="8384">Honoo no Chuunin Shiken! Naruto vs Konohamaru!!</anime>
     <anime anidbid="9023">Road to Ninja: Naruto the Movie</anime>
+    <anime anidbid="9588">The Last: Naruto the Movie</anime>
+    <anime anidbid="10961">Boruto: Naruto the Movie</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Naruto Shippuuden Collection</title>
     </titles>
@@ -2319,6 +2322,15 @@
     <anime anidbid="9299">Persona 3 the Movie</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Persona Collection</title>
+    </titles>
+  </set>
+  <set>
+    <anime anidbid="9500">Gekijouban Shimajirou to Fufu no Daibouken: Sukue! Nanairo no Hana</anime>
+    <anime anidbid="10150">Shimajirou to Kujira no Uta</anime>
+    <anime anidbid="10916">Shimajirou to Ookinaki</anime>
+    <anime anidbid="11757">Shimajirou to Ehon no Kuni</anime>
+    <titles>
+      <title type="main" xml:lang="x-jat">Shimajirou Collection</title>
     </titles>
   </set>
   <set>

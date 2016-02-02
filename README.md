@@ -1,7 +1,7 @@
 Anime Lists
 ===========
 
-Anime mapping lists used by the [AniDb.net [MOD] scrapers](http://forum.xbmc.org/showthread.php?tid=142835) for [XBMC](http://xbmc.org).
+Anime mapping lists used by the [AniDb.net [MOD] scrapers](http://forum.kodi.tv/showthread.php?tid=142835) for [Kodi](http://kodi.tv/).
 
 These lists map information between [AniDb.net](http://anidb.net), [theTVDB.com](http://www.thetvdb.com), and [themoviedb.org](http://www.themoviedb.org).
 
@@ -109,7 +109,7 @@ The mapping-list node consists of one or more **mapping** nodes with the followi
 
     Episodes on AniDb.net that don't match anything on theTVDB.com are mapped to 0 (or 99) if and only if there's a conflict.
 
-#### supplemental-info
+#### supplemental-info ####
 The supplemental-info node may contain an optional attribute of **replace="true"**, in which case the information will replace that supplied by AniDb.net, otherwise it is just added to (and prioritised over) the AniDb.net information.
 
 Any of the following nodes are allowed multiple times in a supplemental-info node:
@@ -159,23 +159,49 @@ Each **title** node consists of two attributes, either **type="main" xml:lang="x
 
 The "main" title is always present and is derived from an appropriate "main" (romaji) title on AniDb.net, while the "official" titles are derived from the corresponding "official" titles in the relevant languages.  Unofficial translations are not used.
 
+Batch Files
+-----------
+The Windows batch files are used to automate the updating of the lists.
+They require the following programs to work:
+*   **[curl.exe](http://curl.haxx.se/)** - Used to download animetitles.xml from AniDb.net.
+*   **[xsltproc.exe](https://www.zlatkovic.com/libxml.en.html)** - Used to apply the xsl transformations to the lists.
+  *  **libxslt.dll**
+  *  **libexslt.dll**
+  *  **libxml2.dll**
+  *  **iconv.dll**
+  *  **zlib1.dll**
+*   **git** - Used to automatically commit the update of animetitles.xml.
+
+curl and xsltproc (and dependencies) should either be in the folder or added somewhere in the Windows PATH.
+
+(PRs for equivalent scripts and instructions for Mac and GNU/Linux are welcome.)
+
+### update.bat ###
+Downloads the latest animetitles.xml, sorts it, updates anime-list-master.xml, calls generate-lists.bat, and commits the changed files.
+
+### generate-lists.bat ###
+Generates all the other lists based on anime-list-master.xml, and updates/sorts anime-movieset-list.xml.
+
 Contributing
 ------------
 There are a couple of ways to contribute updates:
 
-The simplest way is to just post the details of the update, either in the [XBMC forum thread](http://forum.xbmc.org/showthread.php?tid=142835) or as an [Issue](https://github.com/ScudLee/anime-lists/issues) on GitHub, and they will be dealt with when noticed.
+The simplest way is to just post the details of the update, either in the [XBMC forum thread](http://forum.kodi.tv/showthread.php?tid=142835) or as an [Issue](https://github.com/ScudLee/anime-lists/issues) on GitHub, and they will be dealt with when noticed.
 
 Or you can post a [Pull Request](https://github.com/ScudLee/anime-lists/pulls):
 
 1.   Fork the [repo](https://github.com/ScudLee/anime-lists)
 2.   Create a new branch (`git checkout -b new_branch`)
 3.   Edit either the **anime-list-master.xml** or **anime-movieset-list.xml** (or both)
+  *   Run **generate-lists.bat** (optional)   
 4.   Commit your changes (`git commit -am "Added some titles"`)
 5.   Push to the branch (`git push origin new_branch`)
 6.   Submit the Pull Request
 7.   ???
 8.   Profit
 
-**Do not edit any other lists** as they are automatically generated and will get updated after the Pull Request has been pulled.
+**Do not edit any other lists** as they are automatically generated, either use **generate-lists.bat** or leave them to be updated after the Pull Request has been pulled.
 
 Likewise, the anime names and the sort order in anime-movieset-list.xml will be automatically fixed based on the **anidbid**s, so don't be overly concerned about getting them exactly right (but obviously do get the **title** nodes right).
+
+Also, **do not run update.bat in a Pull Request.**  If you need animetitles.xml updated, just ask.

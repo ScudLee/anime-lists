@@ -26486,11 +26486,10 @@
   <anime anidbid="9657" tvdbid="257951" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Gakkatsu! (2013)</name>
   </anime>
-  <anime anidbid="9658" tvdbid="73749" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="9658" tvdbid="293491" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="">
     <name>Koukaku Kidoutai Arise: Ghost in the Shell</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
-      <mapping anidbseason="1" tvdbseason="0">;1-60;2-61;3-62;4-63;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="4" offset="6">;5-0;6-0;206-11</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="9659" tvdbid="273002" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -27331,7 +27330,7 @@
   <anime anidbid="9979" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Koroshiya-san: The Hired Gun</name>
   </anime>
-  <anime anidbid="9980" tvdbid="114801" defaulttvdbseason="5" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="9980" tvdbid="114801" defaulttvdbseason="a" episodeoffset="175" tmdbid="" imdbid="">
     <name>Fairy Tail (2014)</name>
   </anime>
   <anime anidbid="9982" tvdbid="79685" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
@@ -30781,7 +30780,7 @@
   <anime anidbid="11347" tvdbid="300989" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Osomatsu-san</name>
   </anime>
-  <anime anidbid="11348" tvdbid="295205" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="11348" tvdbid="295205" defaulttvdbseason="1" episodeoffset="12" tmdbid="" imdbid="">
     <name>Akagami no Shirayuki-hime (2016)</name>
   </anime>
   <anime anidbid="11349" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -31924,7 +31923,7 @@
   <anime anidbid="11778" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Eiga Gantz</name>
   </anime>
-  <anime anidbid="11779" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="11779" tvdbid="114801" defaulttvdbseason="7" episodeoffset="" tmdbid="" imdbid="">
     <name>Fairy Tail Zero</name>
   </anime>
   <anime anidbid="11780" tvdbid="303955" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">

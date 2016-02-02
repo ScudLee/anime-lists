@@ -22167,11 +22167,10 @@
   <anime anidbid="9657" tvdbid="257951" defaulttvdbseason="2">
     <name>Gakkatsu! (2013)</name>
   </anime>
-  <anime anidbid="9658" tvdbid="73749" defaulttvdbseason="0">
+  <anime anidbid="9658" tvdbid="293491" defaulttvdbseason="0" episodeoffset="1">
     <name>Koukaku Kidoutai Arise: Ghost in the Shell</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
-      <mapping anidbseason="1" tvdbseason="0">;1-60;2-61;3-62;4-63;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="4" offset="6">;5-0;6-0;206-11</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="9659" tvdbid="273002" defaulttvdbseason="1">
@@ -22784,7 +22783,7 @@
   <anime anidbid="9977" tvdbid="278626" defaulttvdbseason="1">
     <name>Fate/Stay Night: Unlimited Blade Works (2014)</name>
   </anime>
-  <anime anidbid="9980" tvdbid="114801" defaulttvdbseason="5">
+  <anime anidbid="9980" tvdbid="114801" defaulttvdbseason="a" episodeoffset="175">
     <name>Fairy Tail (2014)</name>
   </anime>
   <anime anidbid="9982" tvdbid="79685" defaulttvdbseason="3">
@@ -24935,7 +24934,7 @@
   <anime anidbid="11347" tvdbid="300989" defaulttvdbseason="1">
     <name>Osomatsu-san</name>
   </anime>
-  <anime anidbid="11348" tvdbid="295205" defaulttvdbseason="2">
+  <anime anidbid="11348" tvdbid="295205" defaulttvdbseason="1" episodeoffset="12">
     <name>Akagami no Shirayuki-hime (2016)</name>
   </anime>
   <anime anidbid="11350" tvdbid="102261" defaulttvdbseason="4">
@@ -25099,6 +25098,9 @@
   </anime>
   <anime anidbid="11774" tvdbid="hentai" defaulttvdbseason="1">
     <name>Kyonyuu Hitozuma Onna Kyoushi Saimin</name>
+  </anime>
+  <anime anidbid="11779" tvdbid="114801" defaulttvdbseason="7">
+    <name>Fairy Tail Zero</name>
   </anime>
   <anime anidbid="11780" tvdbid="303955" defaulttvdbseason="1">
     <name>Luck and Logic</name>

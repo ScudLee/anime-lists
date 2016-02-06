@@ -24,4 +24,3 @@ transform('anime-list-full.xml', 'transforms/create-anime-list-full.xsl', 'anime
 transform('anime-list-unknown.xml', 'transforms/create-anime-list-unknown.xsl', 'anime-list-master.xml')
 transform('anime-list-todo.xml', 'transforms/create-anime-list-todo.xsl', 'anime-list-master.xml')
 transform('anime-movieset-list.xml', 'transforms/update-anime-movieset-list.xsl', 'anime-movieset-list.xml')
-transform('anime-movieset-list.xml', 'transforms/update-anime-movieset-list.xsl', 'anime-movieset-list.xml')

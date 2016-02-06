@@ -14,7 +14,8 @@ def transform = { out, xs, xml ->
     parser.keepIgnorableWhitespace = false
     def dom = parser.parseText(buffer as String)
 
-    def result = XmlUtil.serialize(dom).replaceAll(/></, '>\n<') // JAVA XML PRETTY PRINTING IS BUGGY
+    def result = XmlUtil.serialize(dom)
+    result = result.replace('<?xml version="1.0" encoding="UTF-8"?>', '<?xml version="1.0" encoding="utf-8"?>' + System.lineSeparator()) // JAVA XML PRETTY PRINTING IS PRETTY BUGGY :(
     new File(out).setText(result, 'UTF-8')
 }
 

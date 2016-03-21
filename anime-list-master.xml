@@ -425,7 +425,7 @@
   <anime anidbid="102" tvdbid="70668" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>Cardcaptor Sakura</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-4;2-5;3-6;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-3;2-4;3-5;4-6;5-6;7-6;8-6;9-6;10-6;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="103" tvdbid="74462" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">

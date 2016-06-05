@@ -960,7 +960,7 @@
   <anime anidbid="241" tvdbid="83105" defaulttvdbseason="a">
     <name>Touch</name>
   </anime>
-  <anime anidbid="242" tvdbid="146921" defaulttvdbseason="1">
+  <anime anidbid="242" tvdbid="85068" defaulttvdbseason="1">
     <name>Futari Ecchi</name>
   </anime>
   <anime anidbid="243" tvdbid="hentai" defaulttvdbseason="1">
@@ -2414,11 +2414,8 @@
   <anime anidbid="641" tvdbid="169991" defaulttvdbseason="1">
     <name>Dear Boys</name>
   </anime>
-  <anime anidbid="642" tvdbid="79134" defaulttvdbseason="1">
+  <anime anidbid="642" tvdbid="230211" defaulttvdbseason="1">
     <name>Tantei Gakuen Q</name>
-    <supplemental-info>
-      <studio>Studio Pierrot</studio>
-    </supplemental-info>
   </anime>
   <anime anidbid="644" tvdbid="76695" defaulttvdbseason="1">
     <name>Blue Seed</name>
@@ -4655,7 +4652,7 @@
   <anime anidbid="1382" tvdbid="73315" defaulttvdbseason="a">
     <name>Zoids</name>
   </anime>
-  <anime anidbid="1383" tvdbid="137801" defaulttvdbseason="1">
+  <anime anidbid="1383" tvdbid="122151" defaulttvdbseason="1">
     <name>Haha o Tazunete Sanzenri</name>
   </anime>
   <anime anidbid="1384" tvdbid="82971" defaulttvdbseason="0" imdbid="tt0163494">
@@ -5664,7 +5661,7 @@
   <anime anidbid="1768" tvdbid="82378" defaulttvdbseason="5">
     <name>Ojamajo Doremi Na-i-sho</name>
   </anime>
-  <anime anidbid="1769" tvdbid="84119" defaulttvdbseason="1">
+  <anime anidbid="1769" tvdbid="82856" defaulttvdbseason="1">
     <name>Ninin ga Shinobuden: The Nonsense Kunoichi Fiction</name>
   </anime>
   <anime anidbid="1771" tvdbid="85230" defaulttvdbseason="0" episodeoffset="6">
@@ -19481,6 +19478,9 @@
   <anime anidbid="8516" tvdbid="web" defaulttvdbseason="1">
     <name>Sorette Dakara ne!</name>
   </anime>
+  <anime anidbid="8517" tvdbid="142601" defaulttvdbseason="0" episodeoffset="8">
+    <name>Kidou Senshi Gundam: The Origin</name>
+  </anime>
   <anime anidbid="8520" tvdbid="music video" defaulttvdbseason="1">
     <name>Natsu-iro Egao de 1, 2, Jump!</name>
   </anime>
@@ -19742,6 +19742,9 @@
   </anime>
   <anime anidbid="8620" tvdbid="255056" defaulttvdbseason="1">
     <name>Ano Natsu de Matteru</name>
+  </anime>
+  <anime anidbid="8624" tvdbid="285209" defaulttvdbseason="1">
+    <name>Gensou Mangekyou: The Memories of Phantasm</name>
   </anime>
   <anime anidbid="8625" tvdbid="254349" defaulttvdbseason="0">
     <name>Another: The Other - Inga</name>
@@ -20372,7 +20375,7 @@
   <anime anidbid="8870" tvdbid="257762" defaulttvdbseason="1">
     <name>Sakamichi no Apollon: Kids on the Slope</name>
   </anime>
-  <anime anidbid="8873" tvdbid="OVA" defaulttvdbseason="1">
+  <anime anidbid="8873" tvdbid="260634" defaulttvdbseason="0">
     <name>Asa made Jugyou Chu!</name>
   </anime>
   <anime anidbid="8874" tvdbid="music video" defaulttvdbseason="1">
@@ -22864,7 +22867,7 @@
   <anime anidbid="10027" tvdbid="272849" defaulttvdbseason="1">
     <name>Space Dandy</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;2-1:3-2</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-1;3-2;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="10031" tvdbid="273616" defaulttvdbseason="1">
@@ -23205,6 +23208,9 @@
   </anime>
   <anime anidbid="10226" tvdbid="269873" defaulttvdbseason="2">
     <name>Gatchaman Crowds Insight</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="10227" tvdbid="278061" defaulttvdbseason="0">
     <name>Eiga Precure All Stars New Stage 3: Eien no Tomodachi</name>
@@ -23846,6 +23852,9 @@
   <anime anidbid="10612" tvdbid="hentai" defaulttvdbseason="1">
     <name>Sei Shoujo The Animation</name>
   </anime>
+  <anime anidbid="10613" tvdbid="85068" defaulttvdbseason="0">
+    <name>Futari Ecchi (2014)</name>
+  </anime>
   <anime anidbid="10617" tvdbid="245821" defaulttvdbseason="0" tmdbid="287098">
     <name>Gekijouban Cardfight!! Vanguard: Neon Messiah</name>
   </anime>
@@ -23929,6 +23938,9 @@
   </anime>
   <anime anidbid="10663" tvdbid="289886" defaulttvdbseason="1">
     <name>Kekkai Sensen</name>
+  </anime>
+  <anime anidbid="10666" tvdbid="302177" defaulttvdbseason="1">
+    <name>Tales of Zestiria: Doushi no Yoake</name>
   </anime>
   <anime anidbid="10669" tvdbid="276777" defaulttvdbseason="0">
     <name>Buddy Complex: Kanketsuhen - Ano Sora ni Kaeru Mirai de</name>
@@ -24555,6 +24567,9 @@
   <anime anidbid="10998" tvdbid="263851" defaulttvdbseason="3">
     <name>Wooser no Sono Higurashi Mugen Hen</name>
   </anime>
+  <anime anidbid="11000" tvdbid="284719" defaulttvdbseason="0">
+    <name>Shinmai Maou no Testament OAD</name>
+  </anime>
   <anime anidbid="11002" tvdbid="285357" defaulttvdbseason="2">
     <name>Danna ga Nani o Itte Iruka Wakaranai Ken 2 Sureme</name>
   </anime>
@@ -24716,6 +24731,9 @@
   </anime>
   <anime anidbid="11165" tvdbid="movie" defaulttvdbseason="1" imdbid="tt4002296">
     <name>Nemure Omoi Ko Sora no Shitone ni</name>
+  </anime>
+  <anime anidbid="11169" tvdbid="72745" defaulttvdbseason="0" episodeoffset="2">
+    <name>Cyborg 009 vs. Devilman</name>
   </anime>
   <anime anidbid="11170" tvdbid="275610" defaulttvdbseason="2">
     <name>Noragami Aragoto</name>

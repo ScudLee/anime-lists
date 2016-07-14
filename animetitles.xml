@@ -22566,6 +22566,7 @@
 	<anime aid="2447">
 		<title type="main" xml:lang="x-jat">Oira Uchuu no Tankoufu</title>
 		<title type="official" xml:lang="en">Mighty Space Miners</title>
+		<title type="official" xml:lang="it">Il minatore dello spazio</title>
 		<title type="official" xml:lang="ja">おいら宇宙の探鉱夫</title>
 	</anime>
 	<anime aid="2448">
@@ -26363,11 +26364,13 @@
 	<anime aid="3096">
 		<title type="main" xml:lang="x-jat">Fuuma no Kojirou: Saishuushou - Fuuma Hanran Hen</title>
 		<title type="official" xml:lang="fr">Kojirô !</title>
+		<title type="official" xml:lang="it">Kojiro: la ribellione dei Fuma</title>
 		<title type="official" xml:lang="ja">風魔の小次郎 最終章 風魔反乱篇</title>
 	</anime>
 	<anime aid="3097">
 		<title type="main" xml:lang="x-jat">Fuuma no Kojirou: Yasha Hen</title>
 		<title type="official" xml:lang="fr">Kojirô ! La légende des dix épées</title>
+		<title type="official" xml:lang="it">Kojiro: lo spirito del vento</title>
 		<title type="official" xml:lang="ja">風魔の小次郎 夜叉篇</title>
 	</anime>
 	<anime aid="3098">
@@ -26380,6 +26383,7 @@
 	<anime aid="3099">
 		<title type="main" xml:lang="x-jat">Fuuma no Kojirou: Seiken Sensou Hen</title>
 		<title type="official" xml:lang="fr">Kojirô ! La légende des dix épées - Série II</title>
+		<title type="official" xml:lang="it">Kojiro: la guerra per le spade sacre</title>
 		<title type="official" xml:lang="ja">風魔の小次郎 聖剣戦争篇</title>
 	</anime>
 	<anime aid="3100">
@@ -32439,6 +32443,7 @@
 		<title type="official" xml:lang="cs">Kubix</title>
 		<title type="official" xml:lang="hu">Cubix</title>
 		<title type="official" xml:lang="ja">さいころボット コンボック</title>
+		<title type="official" xml:lang="ko">큐빅스</title>
 		<title type="official" xml:lang="ro">Cubix</title>
 		<title type="syn" xml:lang="en">Cubix: Robots for Everyone</title>
 	</anime>
@@ -34035,7 +34040,7 @@
 		<title type="official" xml:lang="bg">Ди Грей Мен</title>
 		<title type="official" xml:lang="cs">D.Gray-Man</title>
 		<title type="official" xml:lang="de">D.Gray-man</title>
-		<title type="official" xml:lang="en">D.Gray-Man</title>
+		<title type="official" xml:lang="en">D.Gray-man</title>
 		<title type="official" xml:lang="es">D.Gray-man</title>
 		<title type="official" xml:lang="fr">D.Gray-Man</title>
 		<title type="official" xml:lang="hu">D.Gray-man</title>
@@ -36706,7 +36711,7 @@
 	</anime>
 	<anime aid="4989">
 		<title type="main" xml:lang="x-jat">Sirius no Densetsu</title>
-		<title type="official" xml:lang="en">The Sea Prince and the Fire Child</title>
+		<title type="official" xml:lang="en">Sea Prince and the Fire Child</title>
 		<title type="official" xml:lang="ja">シリウスの伝説</title>
 		<title type="syn" xml:lang="en">Legend of Sirius</title>
 		<title type="syn" xml:lang="en">Legend of Syrius</title>
@@ -42324,6 +42329,7 @@
 	</anime>
 	<anime aid="6203">
 		<title type="main" xml:lang="x-jat">Yasai no Yousei: N.Y. Salad</title>
+		<title type="official" xml:lang="en">Vegetable Fairies N.Y. Salad</title>
 		<title type="official" xml:lang="ja">やさいのようせい N.Y.SALAD</title>
 	</anime>
 	<anime aid="6204">
@@ -48616,6 +48622,7 @@
 	<anime aid="7467">
 		<title type="main" xml:lang="x-jat">I Can</title>
 		<title type="official" xml:lang="ja">あい☆きゃん</title>
+		<title type="official" xml:lang="x-jat">Ai Kyan</title>
 		<title type="syn" xml:lang="ko">아이☆캔</title>
 	</anime>
 	<anime aid="7469">
@@ -56998,6 +57005,7 @@
 	</anime>
 	<anime aid="9208">
 		<title type="main" xml:lang="x-jat">Nerawareta Gakuen</title>
+		<title type="official" xml:lang="en">Psychic School Wars</title>
 		<title type="official" xml:lang="ja">ねらわれた学園</title>
 		<title type="short" xml:lang="x-jat">neragaku</title>
 		<title type="syn" xml:lang="en">Haunted Academy</title>
@@ -60189,7 +60197,7 @@
 		<title type="official" xml:lang="ja">どーにゃつ</title>
 	</anime>
 	<anime aid="9890">
-		<title type="main" xml:lang="x-jat">Yahari Ore no Seishun Lovecome wa Machigatte Iru. Kochira to Shite mo Karera Kanojora no Yukusue ni Sachi Ookaran Koto o Negawazaru o Enai.</title>
+		<title type="main" xml:lang="x-jat">Yahari Ore no Seishun LoveCome wa Machigatte Iru. Kochira to Shite mo Karera Kanojora no Yukusue ni Sachi Ookaran Koto o Negawazaru o Enai.</title>
 		<title type="official" xml:lang="ja">やはり俺の青春ラブコメはまちがっている. こちらとしても彼ら彼女らの行く末に幸多からんことを願わざるを得ない.</title>
 		<title type="official" xml:lang="zh-Hans">我的青春恋爱喜剧果然有问题 OAD</title>
 		<title type="official" xml:lang="zh-Hant">果然我的青春戀愛喜劇搞錯了 OAD</title>
@@ -60371,6 +60379,7 @@
 		<title type="official" xml:lang="zh-Hans">野良神</title>
 		<title type="syn" xml:lang="bg">Уличен бог</title>
 		<title type="syn" xml:lang="en">Stray God</title>
+		<title type="syn" xml:lang="ru">Бездомный Бог</title>
 	</anime>
 	<anime aid="9926">
 		<title type="main" xml:lang="x-jat">Mewtwo: Kakusei e no Prologue</title>
@@ -60398,6 +60407,7 @@
 	<anime aid="9930">
 		<title type="main" xml:lang="x-jat">Youkai Watch</title>
 		<title type="official" xml:lang="ja">妖怪ウォッチ</title>
+		<title type="official" xml:lang="pt">Yo-kai Watch</title>
 	</anime>
 	<anime aid="9931">
 		<title type="main" xml:lang="x-jat">Walkure Romanze</title>
@@ -63177,7 +63187,7 @@
 		<title type="official" xml:lang="ja">迷走! アンダーワールド</title>
 	</anime>
 	<anime aid="10601">
-		<title type="main" xml:lang="x-jat">Yahari Ore no Seishun Lovecome wa Machigatte Iru. Zoku</title>
+		<title type="main" xml:lang="x-jat">Yahari Ore no Seishun LoveCome wa Machigatte Iru. Zoku</title>
 		<title type="official" xml:lang="en">My Teen Romantic Comedy: SNAFU Too!</title>
 		<title type="official" xml:lang="ja">やはり俺の青春ラブコメはまちがっている. 続</title>
 		<title type="short" xml:lang="x-jat">Oregairu 2</title>
@@ -64588,6 +64598,7 @@
 	</anime>
 	<anime aid="10925">
 		<title type="main" xml:lang="x-jat">Tsukiuta. The Animation</title>
+		<title type="official" xml:lang="en">Tsukiuta. The Animation</title>
 		<title type="official" xml:lang="ja">ツキウタ. THE ANIMATION</title>
 	</anime>
 	<anime aid="10927">
@@ -64669,8 +64680,8 @@
 		<title type="syn" xml:lang="en">Nosewasure The Animation: Female Teacher Chuuzenji Ayano`s Upcoming Sexual Frustrations</title>
 	</anime>
 	<anime aid="10944">
-		<title type="main" xml:lang="x-jat">Shingeki no Kyojin (2016)</title>
-		<title type="official" xml:lang="ja">進撃の巨人 (2016)</title>
+		<title type="main" xml:lang="x-jat">Shingeki no Kyojin Season 2</title>
+		<title type="official" xml:lang="ja">進撃の巨人 Season 2</title>
 	</anime>
 	<anime aid="10946">
 		<title type="main" xml:lang="x-jat">Pac-World</title>
@@ -64713,6 +64724,7 @@
 	</anime>
 	<anime aid="10952">
 		<title type="main" xml:lang="x-jat">Shisha no Teikoku</title>
+		<title type="official" xml:lang="en">The Empire of Corpses</title>
 		<title type="official" xml:lang="fr">The Empire of Corpses</title>
 		<title type="official" xml:lang="ja">屍者の帝国 The Empire of Corpses</title>
 		<title type="syn" xml:lang="ja">ししゃのていこく</title>
@@ -64769,6 +64781,7 @@
 	</anime>
 	<anime aid="10962">
 		<title type="main" xml:lang="x-jat">Ange Vierge</title>
+		<title type="official" xml:lang="en">Ange Vierge</title>
 		<title type="official" xml:lang="ja">アンジュ・ヴィエルジュ</title>
 	</anime>
 	<anime aid="10963">
@@ -65126,6 +65139,7 @@
 	</anime>
 	<anime aid="11039">
 		<title type="main" xml:lang="x-jat">Taboo-Tattoo</title>
+		<title type="official" xml:lang="en">Taboo Tattoo</title>
 		<title type="official" xml:lang="ja">タブー・タトゥー</title>
 	</anime>
 	<anime aid="11040">
@@ -65680,6 +65694,7 @@
 		<title type="main" xml:lang="x-jat">Noragami Aragoto</title>
 		<title type="official" xml:lang="en">Noragami Aragoto</title>
 		<title type="official" xml:lang="ja">ノラガミ ARAGOTO</title>
+		<title type="syn" xml:lang="ru">Бездомный Бог 2</title>
 	</anime>
 	<anime aid="11171">
 		<title type="main" xml:lang="x-jat">Hero Company</title>
@@ -65802,6 +65817,9 @@
 		<title type="official" xml:lang="en">Assassination Classroom: Second Season</title>
 		<title type="official" xml:lang="ja">暗殺教室 ASSASSINATION CLASSROOM SECOND SEASON</title>
 		<title type="syn" xml:lang="en">Assassination Classroom 2</title>
+		<title type="syn" xml:lang="en">Assassination Classroom: Final Season</title>
+		<title type="syn" xml:lang="ja">暗殺教室 ASSASSINATION CLASSROOM FINAL SEASON</title>
+		<title type="syn" xml:lang="x-jat">Ansatsu Kyoushitsu: Final Season</title>
 	</anime>
 	<anime aid="11204">
 		<title type="main" xml:lang="x-jat">Dies Irae</title>
@@ -66109,8 +66127,10 @@
 	</anime>
 	<anime aid="11273">
 		<title type="main" xml:lang="x-jat">Tales of Zestiria: The Cross</title>
-		<title type="official" xml:lang="ja">テイルズ オブ ゼスティリア ザ クロス</title>
+		<title type="official" xml:lang="en">Tales of Zestiria the X</title>
+		<title type="official" xml:lang="ja">Tales of Zestiria the X</title>
 		<title type="short" xml:lang="x-jat">ToZ-X</title>
+		<title type="syn" xml:lang="ja">テイルズ オブ ゼスティリア ザ クロス</title>
 		<title type="syn" xml:lang="ja">テイルズオブ20thアニバーサリーアニメーション</title>
 		<title type="syn" xml:lang="x-jat">Tales of 20th Anniversary Animation</title>
 		<title type="syn" xml:lang="x-jat">Tales of Zestiria: The X</title>
@@ -66359,6 +66379,7 @@
 	</anime>
 	<anime aid="11326">
 		<title type="main" xml:lang="x-jat">Hatsukoi Monster</title>
+		<title type="official" xml:lang="en">First Love Monster</title>
 		<title type="official" xml:lang="ja">初恋モンスター</title>
 	</anime>
 	<anime aid="11327">
@@ -66531,6 +66552,7 @@
 	</anime>
 	<anime aid="11366">
 		<title type="main" xml:lang="x-jat">Servamp</title>
+		<title type="official" xml:lang="en">Servamp</title>
 		<title type="official" xml:lang="ja">SERVAMP</title>
 		<title type="syn" xml:lang="ja">サーヴァンプ</title>
 	</anime>
@@ -67029,6 +67051,7 @@
 	</anime>
 	<anime aid="11488">
 		<title type="main" xml:lang="x-jat">Binan Koukou Chikyuu Bouei Bu Love! Love!</title>
+		<title type="official" xml:lang="en">Cute High Earth Defense Club Love! Love!</title>
 		<title type="official" xml:lang="ja">美男高校地球防衛部LOVE! LOVE!</title>
 	</anime>
 	<anime aid="11489">
@@ -67448,6 +67471,7 @@
 		<title type="main" xml:lang="x-jat">RS Keikaku: Rebirth Storage</title>
 		<title type="official" xml:lang="ja">RS計画 -Rebirth Storage-</title>
 		<title type="syn" xml:lang="en">RS Project</title>
+		<title type="syn" xml:lang="en">RS Project -Rebirth Storage-</title>
 	</anime>
 	<anime aid="11593">
 		<title type="main" xml:lang="x-jat">Kanojo ga Kanji o Sukina Riyuu.</title>
@@ -67632,15 +67656,19 @@
 	</anime>
 	<anime aid="11638">
 		<title type="main" xml:lang="x-jat">Masou Gakuen HxH</title>
+		<title type="official" xml:lang="en">Hybrid x Heart Magias Academy Ataraxia</title>
 		<title type="official" xml:lang="ja">魔装学園HxH</title>
+		<title type="syn" xml:lang="ja">ハイブリッド ハート</title>
 	</anime>
 	<anime aid="11639">
 		<title type="main" xml:lang="x-jat">Fate/Kaleid Liner Prisma Illya Drei!!</title>
+		<title type="official" xml:lang="en">Fate/Kaleid Liner Prisma Illya 3rei!!</title>
 		<title type="official" xml:lang="ja">Fate/kaleid liner プリズマ☆イリヤ 3rei!!</title>
 		<title type="short" xml:lang="en">F/K 3</title>
 	</anime>
 	<anime aid="11643">
 		<title type="main" xml:lang="x-jat">Rewrite</title>
+		<title type="official" xml:lang="en">Rewrite</title>
 		<title type="official" xml:lang="ja">Rewrite</title>
 		<title type="syn" xml:lang="ja">リライト</title>
 		<title type="syn" xml:lang="ja">Rewrite（リライト）</title>
@@ -67812,6 +67840,7 @@
 	</anime>
 	<anime aid="11683">
 		<title type="main" xml:lang="x-jat">Amanchu!</title>
+		<title type="official" xml:lang="en">Amanchu!</title>
 		<title type="official" xml:lang="ja">あまんちゅ!</title>
 	</anime>
 	<anime aid="11684">
@@ -67872,6 +67901,7 @@
 	</anime>
 	<anime aid="11699">
 		<title type="main" xml:lang="x-jat">Arslan Senki: Fuujin Ranbu</title>
+		<title type="official" xml:lang="en">The Heroic Legend of Arslan: Dust Storm Dance</title>
 		<title type="official" xml:lang="ja">アルスラーン戦記 THE HEROIC LEGEND OF ARSLAN 風塵乱舞</title>
 	</anime>
 	<anime aid="11700">
@@ -68019,6 +68049,7 @@
 	<anime aid="11731">
 		<title type="main" xml:lang="x-jat">Fullmetal Panic! (Shinsaku)</title>
 		<title type="official" xml:lang="ja">フルメタル・パニック! (新作)</title>
+		<title type="short" xml:lang="en">fmp3</title>
 		<title type="syn" xml:lang="en">fullmetal panic 2016</title>
 		<title type="syn" xml:lang="ja">フルメタル・パニック! 3</title>
 		<title type="syn" xml:lang="x-jat">Fullmetal Panic! 3</title>
@@ -68038,12 +68069,14 @@
 	</anime>
 	<anime aid="11735">
 		<title type="main" xml:lang="x-jat">Kono Bijutsubu ni wa Mondai ga Aru!</title>
+		<title type="official" xml:lang="en">This Art Club Has a Problem!</title>
 		<title type="official" xml:lang="ja">この美術部には問題がある!</title>
 		<title type="short" xml:lang="ja">この美</title>
 		<title type="short" xml:lang="x-jat">konobi</title>
 	</anime>
 	<anime aid="11736">
 		<title type="main" xml:lang="x-jat">New Game!</title>
+		<title type="official" xml:lang="en">New Game!</title>
 		<title type="official" xml:lang="ja">NEW GAME!</title>
 	</anime>
 	<anime aid="11737">
@@ -68091,10 +68124,12 @@
 	<anime aid="11746">
 		<title type="main" xml:lang="x-jat">Hibike! Euphonium 2</title>
 		<title type="official" xml:lang="ja">響け! ユーフォニアム 2</title>
+		<title type="syn" xml:lang="en">Sound! Euphonium 2</title>
 	</anime>
 	<anime aid="11747">
 		<title type="main" xml:lang="x-jat">Gekijouban Hibike! Euphonium: Kitauji Koukou Suisougaku Bu e Youkoso</title>
 		<title type="official" xml:lang="ja">劇場版 響け! ユーフォニアム ~北宇治高校吹奏楽部へようこそ~</title>
+		<title type="syn" xml:lang="en">Sound! Euphonium The Movie: Welcome to the Kitauji High School Concert Band</title>
 	</anime>
 	<anime aid="11748">
 		<title type="main" xml:lang="x-jat">Yami Shibai 3</title>
@@ -68167,11 +68202,12 @@
 		<title type="official" xml:lang="ja">正解するカド</title>
 	</anime>
 	<anime aid="11763">
-		<title type="main" xml:lang="x-jat">Show by Rock!! 2</title>
-		<title type="official" xml:lang="ja">SHOW BY ROCK!! 2</title>
+		<title type="main" xml:lang="x-jat">Show by Rock!! (2016)</title>
+		<title type="official" xml:lang="ja">SHOW BY ROCK!! (2016)</title>
 	</anime>
 	<anime aid="11764">
 		<title type="main" xml:lang="x-jat">Show by Rock!! Short!!</title>
+		<title type="official" xml:lang="en">Show by Rock!! Short!!</title>
 		<title type="official" xml:lang="ja">SHOW BY ROCK!! しょ~と!!</title>
 	</anime>
 	<anime aid="11765">
@@ -68328,11 +68364,13 @@
 	</anime>
 	<anime aid="11803">
 		<title type="main" xml:lang="x-jat">Mob Psycho 100</title>
+		<title type="official" xml:lang="en">Mob Psycho 100</title>
 		<title type="official" xml:lang="ja">モブサイコ100</title>
 		<title type="syn" xml:lang="bg">Моб Психо 100</title>
 	</anime>
 	<anime aid="11804">
 		<title type="main" xml:lang="x-jat">Danganronpa 3: The End of Kibougamine Gakuen - Mirai Hen</title>
+		<title type="official" xml:lang="en">Danganronpa 3: The End of Hope`s Peak High School - Future Arc</title>
 		<title type="official" xml:lang="ja">ダンガンロンパ3 -The End of 希望ヶ峰学園- 未来編</title>
 	</anime>
 	<anime aid="11805">
@@ -68419,6 +68457,7 @@
 	</anime>
 	<anime aid="11828">
 		<title type="main" xml:lang="x-jat">Shokugeki no Souma: Ni no Sara</title>
+		<title type="official" xml:lang="en">Food Wars! The Second Plate</title>
 		<title type="official" xml:lang="ja">食戟のソーマ 弐ノ皿</title>
 	</anime>
 	<anime aid="11829">
@@ -68493,14 +68532,17 @@
 	</anime>
 	<anime aid="11846">
 		<title type="main" xml:lang="x-jat">Qualidea Code</title>
+		<title type="official" xml:lang="en">Qualidea Code</title>
 		<title type="official" xml:lang="ja">クオリディア・コード</title>
 	</anime>
 	<anime aid="11848">
 		<title type="main" xml:lang="x-jat">D.Gray-man Hallow</title>
+		<title type="official" xml:lang="en">D.Gray-man Hallow</title>
 		<title type="official" xml:lang="ja">D.Gray-man HALLOW</title>
 		<title type="syn" xml:lang="bg">Сивият (2016)</title>
 		<title type="syn" xml:lang="bg">Сивият: Светията</title>
 		<title type="syn" xml:lang="ja">ディー・グレイマン (2016)</title>
+		<title type="syn" xml:lang="tr">Akuma’nın Gri Çocuğu: Azizlerin Gecesi</title>
 	</anime>
 	<anime aid="11849">
 		<title type="main" xml:lang="x-jat">Monster High: Kowai-ke Girls</title>
@@ -68512,9 +68554,9 @@
 	</anime>
 	<anime aid="11851">
 		<title type="main" xml:lang="x-jat">Berserk</title>
+		<title type="official" xml:lang="en">Berserk (2016)</title>
 		<title type="official" xml:lang="ja">ベルセルク</title>
 		<title type="syn" xml:lang="bg">Берсерк (2016)</title>
-		<title type="syn" xml:lang="en">Berserk (2016)</title>
 	</anime>
 	<anime aid="11852">
 		<title type="main" xml:lang="x-jat">Wake Up, Miyagi! Fure-Ai Project in Taiwan</title>
@@ -68606,6 +68648,8 @@
 	</anime>
 	<anime aid="11875">
 		<title type="main" xml:lang="x-jat">Days</title>
+		<title type="official" xml:lang="en">Days</title>
+		<title type="official" xml:lang="fr">Days</title>
 		<title type="official" xml:lang="ja">DAYS</title>
 		<title type="syn" xml:lang="bg">Ден след ден</title>
 		<title type="syn" xml:lang="ja">デイズ</title>
@@ -68620,6 +68664,7 @@
 	</anime>
 	<anime aid="11878">
 		<title type="main" xml:lang="x-jat">Love Live! Sunshine!!</title>
+		<title type="official" xml:lang="en">Love Live! Sunshine!!</title>
 		<title type="official" xml:lang="ja">ラブライブ! サンシャイン!!</title>
 	</anime>
 	<anime aid="11879">
@@ -68634,7 +68679,7 @@
 		<title type="main" xml:lang="x-jat">Sakamoto Desu ga?</title>
 		<title type="official" xml:lang="en">Haven`t You Heard? I`m Sakamoto</title>
 		<title type="official" xml:lang="ja">坂本ですが?</title>
-		<title type="syn" xml:lang="zh-Hant">在下坂本，有何貴幹？</title>
+		<title type="syn" xml:lang="zh-Hant">在下坂本, 有何貴幹?</title>
 		<title type="syn" xml:lang="zh-Hant">我叫坂本我最屌</title>
 	</anime>
 	<anime aid="11883">
@@ -68744,6 +68789,7 @@
 	</anime>
 	<anime aid="11908">
 		<title type="main" xml:lang="x-jat">Handa-kun</title>
+		<title type="official" xml:lang="en">Handa-kun</title>
 		<title type="official" xml:lang="ja">はんだくん</title>
 	</anime>
 	<anime aid="11909">
@@ -68752,6 +68798,7 @@
 	</anime>
 	<anime aid="11910">
 		<title type="main" xml:lang="x-jat">Bananya</title>
+		<title type="official" xml:lang="en">Bananya</title>
 		<title type="official" xml:lang="ja">ばなにゃ</title>
 	</anime>
 	<anime aid="11911">
@@ -68782,6 +68829,7 @@
 	</anime>
 	<anime aid="11917">
 		<title type="main" xml:lang="x-jat">Thunderbolt Fantasy: Touri-ken Yuuki</title>
+		<title type="official" xml:lang="en">Thunderbolt Fantasy</title>
 		<title type="official" xml:lang="ja">Thunderbolt Fantasy 東離劍遊紀[とうりけんゆうき]</title>
 		<title type="official" xml:lang="zh">Thunderbolt Fantasy 東離劍遊紀</title>
 	</anime>
@@ -68810,12 +68858,15 @@
 	</anime>
 	<anime aid="11924">
 		<title type="main" xml:lang="x-jat">Fukigen na Mononokean</title>
+		<title type="official" xml:lang="en">The Morose Mononokean</title>
 		<title type="official" xml:lang="ja">不機嫌なモノノケ庵</title>
-		<title type="syn" xml:lang="en">The Morose Mononokean</title>
+		<title type="syn" xml:lang="tr">Asık Suratlı Mononokean</title>
 	</anime>
 	<anime aid="11925">
 		<title type="main" xml:lang="x-jat">Ozmafia!!</title>
+		<title type="official" xml:lang="en">Ozmafia!!</title>
 		<title type="official" xml:lang="ja">OZMAFIA!!</title>
+		<title type="syn" xml:lang="ja">オズマフィア</title>
 	</anime>
 	<anime aid="11926">
 		<title type="main" xml:lang="x-jat">Monster Musume no Iru Nichijou OAD</title>
@@ -68823,7 +68874,9 @@
 	</anime>
 	<anime aid="11927">
 		<title type="main" xml:lang="x-jat">PazuDora Cross</title>
+		<title type="official" xml:lang="en">Puzzle &amp; Dragons X</title>
 		<title type="official" xml:lang="ja">パズドラクロス</title>
+		<title type="syn" xml:lang="en">Puzzle and Dragons Cross</title>
 		<title type="syn" xml:lang="ja">パズル＆ドラゴンズ</title>
 		<title type="syn" xml:lang="ja">パズドラX</title>
 		<title type="syn" xml:lang="x-jat">PuzzDra Cross</title>
@@ -68870,6 +68923,7 @@
 	</anime>
 	<anime aid="11938">
 		<title type="main" xml:lang="x-jat">Orange</title>
+		<title type="official" xml:lang="en">Orange</title>
 		<title type="official" xml:lang="ja">orange</title>
 	</anime>
 	<anime aid="11939">
@@ -69107,6 +69161,7 @@
 	</anime>
 	<anime aid="12003">
 		<title type="main" xml:lang="x-jat">Regalia: The Three Sacred Stars</title>
+		<title type="official" xml:lang="en">Regalia: The Three Sacred Stars</title>
 		<title type="official" xml:lang="ja">レガリア The Three Sacred Stars</title>
 	</anime>
 	<anime aid="12004">
@@ -69150,6 +69205,7 @@
 	</anime>
 	<anime aid="12014">
 		<title type="main" xml:lang="x-jat">91 Days</title>
+		<title type="official" xml:lang="en">91 Days</title>
 		<title type="official" xml:lang="ja">91 Days</title>
 		<title type="syn" xml:lang="ja">91Days</title>
 	</anime>
@@ -69163,8 +69219,8 @@
 	</anime>
 	<anime aid="12019">
 		<title type="main" xml:lang="x-jat">Cheer Danshi!!</title>
+		<title type="official" xml:lang="en">Cheer Boys!!</title>
 		<title type="official" xml:lang="ja">チア男子!!</title>
-		<title type="syn" xml:lang="en">Cheer Boys!!</title>
 	</anime>
 	<anime aid="12020">
 		<title type="main" xml:lang="x-jat">Island</title>
@@ -69221,6 +69277,7 @@
 	</anime>
 	<anime aid="12035">
 		<title type="main" xml:lang="x-jat">Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou Hen</title>
+		<title type="official" xml:lang="en">Danganronpa 3: The End of Hope`s Peak High School - Despair Arc</title>
 		<title type="official" xml:lang="ja">ダンガンロンパ3 -The End of 希望ヶ峰学園-　絶望編</title>
 	</anime>
 	<anime aid="12036">
@@ -69232,8 +69289,8 @@
 		<title type="official" xml:lang="ja">きんいろモザイク Pretty Days</title>
 	</anime>
 	<anime aid="12038">
-		<title type="main" xml:lang="x-jat">Drifters OAD</title>
-		<title type="official" xml:lang="ja">ドリフターズ OAD</title>
+		<title type="main" xml:lang="x-jat">Drifters: Special Edition</title>
+		<title type="official" xml:lang="ja">DRIFTERS Special edition</title>
 	</anime>
 	<anime aid="12039">
 		<title type="main" xml:lang="x-jat">Starmyu (2016)</title>
@@ -69257,6 +69314,7 @@
 	</anime>
 	<anime aid="12044">
 		<title type="main" xml:lang="x-jat">B-Project: Kodou Ambitious</title>
+		<title type="official" xml:lang="en">B-Project</title>
 		<title type="official" xml:lang="ja">B-PROJECT 鼓動＊アンビシャス</title>
 	</anime>
 	<anime aid="12045">
@@ -69335,6 +69393,7 @@
 	</anime>
 	<anime aid="12065">
 		<title type="main" xml:lang="x-jat">Scared Rider Xechs</title>
+		<title type="official" xml:lang="en">Scar-red Rider Xechs</title>
 		<title type="official" xml:lang="ja">スカーレッドライダーゼクス</title>
 	</anime>
 	<anime aid="12066">
@@ -69386,6 +69445,8 @@
 	<anime aid="12077">
 		<title type="main" xml:lang="x-jat">Yahari Ore no Seishun LoveCome wa Machigatte Iru. Zoku: Kitto, Onna no Ko wa Osatou to Spice to Suteki na Nanika de Dekite Iru.</title>
 		<title type="official" xml:lang="ja">やはり俺の青春ラブコメはまちがっている. 続 きっと, 女の子はお砂糖とスパイスと素敵な何かでできている.</title>
+		<title type="short" xml:lang="x-jat">Oregairu Zoku OAD</title>
+		<title type="short" xml:lang="x-jat">Oregairu Zoku OVA</title>
 	</anime>
 	<anime aid="12078">
 		<title type="main" xml:lang="x-jat">Tokyogurashi!</title>
@@ -69418,6 +69479,7 @@
 	</anime>
 	<anime aid="12085">
 		<title type="main" xml:lang="x-jat">Planetarian: Chiisana Hoshi no Yume</title>
+		<title type="official" xml:lang="en">Planetarian</title>
 		<title type="official" xml:lang="ja">planetarian~ちいさなほしのゆめ~</title>
 	</anime>
 	<anime aid="12087">
@@ -69455,6 +69517,7 @@
 	</anime>
 	<anime aid="12095">
 		<title type="main" xml:lang="x-jat">Fudanshi Koukou Seikatsu</title>
+		<title type="official" xml:lang="en">The Highschool Life of a Fudanshi</title>
 		<title type="official" xml:lang="ja">腐男子高校生活</title>
 	</anime>
 	<anime aid="12096">
@@ -69520,6 +69583,7 @@
 	</anime>
 	<anime aid="12112">
 		<title type="main" xml:lang="x-jat">Saiki Kusuo no Psi Nan (2016)</title>
+		<title type="official" xml:lang="en">The Disastrous Life of Saiki K.</title>
 		<title type="official" xml:lang="ja">斉木楠雄のΨ難 (2016)</title>
 	</anime>
 	<anime aid="12113">
@@ -69564,8 +69628,8 @@
 		<title type="official" xml:lang="ja">芋川椋三宙返りの巻</title>
 	</anime>
 	<anime aid="12123">
-		<title type="main" xml:lang="x-jat">Gundam Build Fighters Try (2016)</title>
-		<title type="official" xml:lang="ja">ガンダムビルドファイターズトライ (2016)</title>
+		<title type="main" xml:lang="x-jat">Gundam Build Fighters Try: Island Wars</title>
+		<title type="official" xml:lang="ja">ガンダムビルドファイターズトライ アイランド・ウォーズ</title>
 	</anime>
 	<anime aid="12124">
 		<title type="main" xml:lang="x-jat">Shounen Ashibe OVA</title>
@@ -69613,6 +69677,7 @@
 	</anime>
 	<anime aid="12137">
 		<title type="main" xml:lang="x-jat">Time Travel Shoujo: Mari Waka to 8-nin no Kagakusha-tachi</title>
+		<title type="official" xml:lang="en">Time Travel Girl: Mari &amp; Waka</title>
 		<title type="official" xml:lang="ja">タイムトラベル少女 ~マリ・ワカと8人の科学者たち~</title>
 		<title type="syn" xml:lang="en">Time Travel Girl</title>
 	</anime>
@@ -69685,6 +69750,7 @@
 	</anime>
 	<anime aid="12158">
 		<title type="main" xml:lang="x-jat">Mahou Shoujo? Naria Girls</title>
+		<title type="official" xml:lang="en">Mahou Shoujo? Naria Girls</title>
 		<title type="official" xml:lang="ja">魔法少女? なりあ☆がーるず</title>
 	</anime>
 	<anime aid="12191">
@@ -69727,6 +69793,7 @@
 	</anime>
 	<anime aid="12200">
 		<title type="main" xml:lang="x-jat">Hitori no Shita: The Outcast</title>
+		<title type="official" xml:lang="en">Hitorinoshita: The Outcast</title>
 		<title type="official" xml:lang="ja">一人之下 THE OUTCAST</title>
 	</anime>
 	<anime aid="12201">
@@ -69878,8 +69945,8 @@
 		<title type="official" xml:lang="ja">妻みぐい3 THE ANIMATION</title>
 	</anime>
 	<anime aid="12240">
-		<title type="main" xml:lang="x-jat">Ao no Exorcist (2017)</title>
-		<title type="official" xml:lang="ja">青の祓魔師 (2017)</title>
+		<title type="main" xml:lang="x-jat">Ao no Exorcist: Kyoto Fujouou Hen</title>
+		<title type="official" xml:lang="ja">青の祓魔師 京都不浄王篇</title>
 	</anime>
 	<anime aid="12241">
 		<title type="main" xml:lang="x-jat">Etotama: Eto Tamashii - Kids</title>
@@ -69894,11 +69961,11 @@
 		<title type="official" xml:lang="ja">misuzu -イケナイコト-</title>
 	</anime>
 	<anime aid="12244">
-		<title type="main" xml:lang="x-jat">Koro-sensei Q!</title>
-		<title type="official" xml:lang="ja">殺せんせーQ!</title>
+		<title type="main" xml:lang="x-jat">Koro-sensei Quest!</title>
+		<title type="official" xml:lang="ja">殺せんせーQ[クエスト]!</title>
 	</anime>
 	<anime aid="12245">
-		<title type="main" xml:lang="x-jat">Gekijouban Ansatsu Kyoushitsu: 365 Hi no Jikan</title>
+		<title type="main" xml:lang="x-jat">Gekijouban Ansatsu Kyoushitsu: 365-nichi no Jikan</title>
 		<title type="official" xml:lang="ja">劇場版 暗殺教室 365日の時間</title>
 	</anime>
 	<anime aid="12246">
@@ -69909,6 +69976,90 @@
 		<title type="main" xml:lang="x-zht">Dabing Jinbao</title>
 		<title type="official" xml:lang="zh-Hant">大兵金寶</title>
 	</anime>
+	<anime aid="12248">
+		<title type="main" xml:lang="x-zht">Sun Wukong Qiyu Xiaodingding</title>
+		<title type="official" xml:lang="zh-Hant">孫悟空奇遇小丁丁</title>
+	</anime>
+	<anime aid="12249">
+		<title type="main" xml:lang="x-zht">Sun Wukong: Yusanjian Baobei</title>
+		<title type="official" xml:lang="zh-Hant">孙悟空: 与三件宝贝</title>
+	</anime>
+	<anime aid="12250">
+		<title type="main" xml:lang="x-zht">Sun Wukong: Dazhan Huoyanshan</title>
+		<title type="official" xml:lang="zh-Hant">孙悟空: 大戰火焰山</title>
+	</anime>
+	<anime aid="12251">
+		<title type="main" xml:lang="x-zht">Wukong Dazhan Er Lang Shen</title>
+		<title type="official" xml:lang="zh-Hant">悟空大战二郎神</title>
+	</anime>
+	<anime aid="12252">
+		<title type="main" xml:lang="x-jat">The Next</title>
+		<title type="official" xml:lang="ja">THE NEXT</title>
+	</anime>
+	<anime aid="12253">
+		<title type="main" xml:lang="x-jat">Kaitou Tenshi Twin Angel TV</title>
+		<title type="official" xml:lang="ja">快盗天使ツインエンジェル TV</title>
+	</anime>
+	<anime aid="12254">
+		<title type="main" xml:lang="x-jat">Bishoujo Yuugi Unit Crane Game 2</title>
+		<title type="official" xml:lang="ja">美少女遊戯ユニット クレーンゲール 2</title>
+	</anime>
+	<anime aid="12255">
+		<title type="main" xml:lang="x-jat">Chiba Pedal: Yowamushi Pedal to  Manabu Jitensha Koutsuuanzen</title>
+		<title type="official" xml:lang="ja">ちばペダル ~弱虫ペダルと学ぶ自転車交通安全~</title>
+	</anime>
+	<anime aid="12256">
+		<title type="main" xml:lang="x-jat">Tales of Zestiria: The Cross (2017)</title>
+		<title type="official" xml:lang="ja">テイルズ オブ ゼスティリア ザ クロス (2017)</title>
+	</anime>
+	<anime aid="12257">
+		<title type="main" xml:lang="x-jat">Armed Blue: Gunvolt</title>
+		<title type="official" xml:lang="ja">蒼き雷霆[アームドブルー] ガンヴォルト</title>
+	</anime>
+	<anime aid="12258">
+		<title type="main" xml:lang="x-jat">Baki</title>
+		<title type="official" xml:lang="ja">刃牙</title>
+	</anime>
+	<anime aid="12260">
+		<title type="main" xml:lang="x-jat">Sky Crawlers (2017)</title>
+		<title type="official" xml:lang="ja">スカイ・クロラ (2017)</title>
+	</anime>
+	<anime aid="12261">
+		<title type="main" xml:lang="x-jat">Idol Memories</title>
+		<title type="official" xml:lang="ja">アイドルメモリーズ</title>
+	</anime>
+	<anime aid="12262">
+		<title type="main" xml:lang="x-jat">Bang Dream!</title>
+		<title type="official" xml:lang="ja">BanG Dream!</title>
+	</anime>
+	<anime aid="12263">
+		<title type="main" xml:lang="x-jat">Gekijouban Trinity Seven</title>
+		<title type="official" xml:lang="ja">劇場版 トリニティセブン</title>
+	</anime>
+	<anime aid="12264">
+		<title type="main" xml:lang="x-jat">ViVid Strike!</title>
+		<title type="official" xml:lang="ja">ViVid Strike!</title>
+	</anime>
+	<anime aid="12265">
+		<title type="main" xml:lang="x-kot">Jebulchalssi Iyagi</title>
+		<title type="official" xml:lang="ja">제불찰씨 이야기</title>
+	</anime>
+	<anime aid="12266">
+		<title type="main" xml:lang="x-jat">Hitorijime My Hero</title>
+		<title type="official" xml:lang="ja">ひとりじめマイヒーロー</title>
+	</anime>
+	<anime aid="12267">
+		<title type="main" xml:lang="x-jat">Alps no Shoujo Heidi? Chara Onji</title>
+		<title type="official" xml:lang="ja">アルプスの少女ハイジ? ちゃらおんじ</title>
+	</anime>
+	<anime aid="12268">
+		<title type="main" xml:lang="x-jat">Choujuu Giga</title>
+		<title type="official" xml:lang="ja">鳥獣戯画</title>
+	</anime>
+	<anime aid="12269">
+		<title type="main" xml:lang="x-jat">Eiga Mahou Tsukai Precure! Kiseki no Henshin! Cure Mofurun!</title>
+		<title type="official" xml:lang="ja">映画 魔法つかいプリキュア! 奇跡の変身! キュアモフルン!</title>
+	</anime>
 </animetitles>
 
-<!-- Created: Fri Jul  1 03:00:18 2016 (9588 anime, 50733 titles) -->
+<!-- Created: Thu Jul 14 03:00:17 2016 (9609 anime, 50842 titles) -->

@@ -24205,7 +24205,7 @@
   <anime anidbid="9162" tvdbid="81831" defaulttvdbseason="0">
     <name>To Love-Ru: Trouble - Darkness OAD</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-7;2-8;3-9;4-10;</mapping>
+      <mapping anidbseason="1" tvdbseason="0" start="1" end="9" offset="6"/>
     </mapping-list>
   </anime>
   <anime anidbid="9164" tvdbid="movie" defaulttvdbseason="1" imdbid="tt2332523">
@@ -24524,7 +24524,7 @@
   <anime anidbid="9306" tvdbid="275039" defaulttvdbseason="1">
     <name>Bishoujo Senshi Sailor Moon Crystal</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="2">;14-1;15-2;16-3;17-4;18-5;19-6;20-7;21-8;22-9;23-10;24-11;25-12;26-13;</mapping>
+      <mapping anidbseason="1" tvdbseason="2" start="15" end="26" offset="-14"/>
     </mapping-list>
   </anime>
   <anime anidbid="9307" tvdbid="264524" defaulttvdbseason="1">
@@ -27152,6 +27152,9 @@
   <anime anidbid="10576" tvdbid="movie" defaulttvdbseason="1" tmdbid="372756">
     <name>Glass no Hana to Kowasu Sekai</name>
   </anime>
+  <anime anidbid="10579" tvdbid="114921" defaulttvdbseason="0" episodeoffset="2">
+    <name>Toaru Kagaku no Railgun: Entenka no Satsuei Model mo Raku Ja Arimasen wa ne.</name>
+  </anime>
   <anime anidbid="10580" tvdbid="264522" defaulttvdbseason="2">
     <name>Choboraunyopomi Gekijou Dai Ni Maku Ai Mai Mii: Mousou Catastrophe</name>
   </anime>
@@ -28502,6 +28505,9 @@
   </anime>
   <anime anidbid="11645" tvdbid="music video" defaulttvdbseason="1">
     <name>Kimi no Kokoro wa Kagayaiterukai?</name>
+  </anime>
+  <anime anidbid="11665" tvdbid="275039" defaulttvdbseason="3">
+    <name>Bishoujo Senshi Sailor Moon Crystal Season III</name>
   </anime>
   <anime anidbid="11672" tvdbid="262094" defaulttvdbseason="3">
     <name>Magi: Sinbad no Bouken (2016)</name>

@@ -25107,11 +25107,17 @@
   <anime anidbid="11569" tvdbid="268588" defaulttvdbseason="3">
     <name>Ketsuekigata-kun! 3</name>
   </anime>
+  <anime anidbid="11572" tvdbid="316815" defaulttvdbseason="1">
+    <name>Mahou Shoujo Ikusei Keikaku</name>
+  </anime>
   <anime anidbid="11577" tvdbid="300835" defaulttvdbseason="1">
     <name>Ajin (2016)</name>
   </anime>
   <anime anidbid="11578" tvdbid="300627" defaulttvdbseason="1">
     <name>JK Meshi!</name>
+  </anime>
+  <anime anidbid="11580" tvdbid="308030" defaulttvdbseason="1">
+    <name>All Out!!</name>
   </anime>
   <anime anidbid="11591" tvdbid="289903" defaulttvdbseason="2">
     <name>Kyoukai no Rinne (2016)</name>
@@ -25121,6 +25127,9 @@
   </anime>
   <anime anidbid="11598" tvdbid="305077" defaulttvdbseason="1">
     <name>Gyakuten Saiban: Sono "Shinjitsu", Igi Ari!</name>
+  </anime>
+  <anime anidbid="11599" tvdbid="314480" defaulttvdbseason="1">
+    <name>Monster Hunter Stories: Ride On</name>
   </anime>
   <anime anidbid="11600" tvdbid="304487" defaulttvdbseason="1">
     <name>Sushi Police</name>
@@ -25260,10 +25269,10 @@
   <anime anidbid="11761" tvdbid="304106" defaulttvdbseason="1">
     <name>Bubuki Buranki</name>
   </anime>
-  <anime anidbid="11763" tvdbid="291726" defaulttvdbseason="3">
+  <anime anidbid="11763" tvdbid="291726" defaulttvdbseason="2">
     <name>Show by Rock!! #</name>
   </anime>
-  <anime anidbid="11764" tvdbid="291726" defaulttvdbseason="2">
+  <anime anidbid="11764" tvdbid="291726" defaulttvdbseason="0">
     <name>Show by Rock!! Short!!</name>
   </anime>
   <anime anidbid="11774" tvdbid="hentai" defaulttvdbseason="1">
@@ -25374,6 +25383,9 @@
   <anime anidbid="11899" tvdbid="289796" defaulttvdbseason="1">
     <name>12-Sai. Chicchana Mune no Tokimeki</name>
   </anime>
+  <anime anidbid="11901" tvdbid="297315" defaulttvdbseason="2">
+    <name>Okusama ga Seitokaichou! Plus!</name>
+  </anime>
   <anime anidbid="11902" tvdbid="306845" defaulttvdbseason="1">
     <name>Endride</name>
   </anime>
@@ -25413,6 +25425,9 @@
   <anime anidbid="11938" tvdbid="307868" defaulttvdbseason="1">
     <name>Orange</name>
   </anime>
+  <anime anidbid="11945" tvdbid="309201" defaulttvdbseason="1">
+    <name>Nyanboard!</name>
+  </anime>
   <anime anidbid="11952" tvdbid="308521" defaulttvdbseason="1">
     <name>Amaama to Inazuma</name>
   </anime>
@@ -25428,8 +25443,14 @@
   <anime anidbid="11969" tvdbid="309152" defaulttvdbseason="1">
     <name>Nameko: Sekai no Tomodachi</name>
   </anime>
+  <anime anidbid="11971" tvdbid="315091" defaulttvdbseason="1">
+    <name>Tiger Mask W</name>
+  </anime>
   <anime anidbid="11975" tvdbid="hentai" defaulttvdbseason="1">
     <name>Chijoku no Seifuku</name>
+  </anime>
+  <anime anidbid="11979" tvdbid="316814" defaulttvdbseason="1">
+    <name>Watashi ga Motete Dou Sunda</name>
   </anime>
   <anime anidbid="11983" tvdbid="309151" defaulttvdbseason="1">
     <name>Bishoujo Yuugi Unit Crane Game</name>
@@ -25443,17 +25464,47 @@
   <anime anidbid="12003" tvdbid="312665" defaulttvdbseason="1">
     <name>Regalia: The Three Sacred Stars</name>
   </anime>
+  <anime anidbid="12005" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Ima kara Atashi...</name>
+  </anime>
+  <anime anidbid="12007" tvdbid="314286" defaulttvdbseason="1">
+    <name>Flip Flappers</name>
+  </anime>
+  <anime anidbid="12009" tvdbid="82788" defaulttvdbseason="5">
+    <name>Natsume Yuujinchou Go</name>
+  </anime>
+  <anime anidbid="12012" tvdbid="317004" defaulttvdbseason="1">
+    <name>Yuuri!!! on Ice</name>
+  </anime>
   <anime anidbid="12014" tvdbid="309530" defaulttvdbseason="1">
     <name>91 Days</name>
   </anime>
   <anime anidbid="12019" tvdbid="309493" defaulttvdbseason="1">
     <name>Cheer Danshi!!</name>
   </anime>
+  <anime anidbid="12031" tvdbid="315098" defaulttvdbseason="1">
+    <name>Touken Ranbu: Hanamaru</name>
+  </anime>
+  <anime anidbid="12042" tvdbid="317436" defaulttvdbseason="1">
+    <name>Dream-Fes!</name>
+  </anime>
+  <anime anidbid="12043" tvdbid="304106" defaulttvdbseason="2">
+    <name>Bubuki Buranki: Hoshi no Kyojin</name>
+  </anime>
   <anime anidbid="12044" tvdbid="313487" defaulttvdbseason="1">
     <name>B-Project: Kodou Ambitious</name>
   </anime>
+  <anime anidbid="12048" tvdbid="299497" defaulttvdbseason="2">
+    <name>Kidou Senshi Gundam: Tekketsu no Orphans 2</name>
+  </anime>
+  <anime anidbid="12059" tvdbid="316864" defaulttvdbseason="1">
+    <name>Www.Working!!</name>
+  </anime>
   <anime anidbid="12065" tvdbid="312304" defaulttvdbseason="1">
     <name>Scared Rider Xechs</name>
+  </anime>
+  <anime anidbid="12079" tvdbid="303728" defaulttvdbseason="0">
+    <name>Niji-iro Days OAD</name>
   </anime>
   <anime anidbid="12085" tvdbid="312664" defaulttvdbseason="1">
     <name>Planetarian: Chiisana Hoshi no Yume</name>
@@ -25461,13 +25512,46 @@
   <anime anidbid="12095" tvdbid="313533" defaulttvdbseason="1">
     <name>Fudanshi Koukou Seikatsu</name>
   </anime>
+  <anime anidbid="12106" tvdbid="293647" defaulttvdbseason="3">
+    <name>Ame-iro Cocoa in Hawaii</name>
+  </anime>
   <anime anidbid="12112" tvdbid="313435" defaulttvdbseason="1">
     <name>Saiki Kusuo no Sainan (2016)</name>
+  </anime>
+  <anime anidbid="12125" tvdbid="317392" defaulttvdbseason="1">
+    <name>Magic-Kyun! Renaissance</name>
+  </anime>
+  <anime anidbid="12132" tvdbid="317566" defaulttvdbseason="1">
+    <name>Digimon Universe: Appli Monsters</name>
   </anime>
   <anime anidbid="12137" tvdbid="313702" defaulttvdbseason="1">
     <name>Time Travel Shoujo: Mari Waka to 8-nin no Kagakusha-tachi</name>
   </anime>
+  <anime anidbid="12147" tvdbid="294002" defaulttvdbseason="0" episodeoffset="8">
+    <name>Ple Ple Pleiades</name>
+  </anime>
+  <anime anidbid="12199" tvdbid="316838" defaulttvdbseason="1">
+    <name>Heybot!</name>
+  </anime>
   <anime anidbid="12200" tvdbid="313488" defaulttvdbseason="1">
     <name>Hitori no Shita: The Outcast</name>
+  </anime>
+  <anime anidbid="12201" tvdbid="313867" defaulttvdbseason="1">
+    <name>Shuumatsu no Izetta</name>
+  </anime>
+  <anime anidbid="12239" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Tsumamigui 3 The Animation</name>
+  </anime>
+  <anime anidbid="12372" tvdbid="316837" defaulttvdbseason="1">
+    <name>Bloodivores</name>
+  </anime>
+  <anime anidbid="12394" tvdbid="245821" defaulttvdbseason="8">
+    <name>Cardfight!! Vanguard G: Next</name>
+  </anime>
+  <anime anidbid="12409" tvdbid="316998" defaulttvdbseason="1">
+    <name>Pokemon Generations</name>
+  </anime>
+  <anime anidbid="12424" tvdbid="314361" defaulttvdbseason="0">
+    <name>Danganronpa 3: The End of Kibougamine Gakuen - Kibou Hen</name>
   </anime>
 </anime-list>

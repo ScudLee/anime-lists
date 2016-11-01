@@ -7943,7 +7943,7 @@
     <name>2112 Nen Doraemon Tanjou</name>
   </anime>
   <anime anidbid="2692" tvdbid="75141" defaulttvdbseason="0" imdbid="unknown">
-    <name>Kaettekita Doraemon</name>
+    <name>Kaette Kita Doraemon</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
@@ -15121,7 +15121,7 @@
     <name>Katanagatari</name>
   </anime>
   <anime anidbid="6621" tvdbid="movie" defaulttvdbseason="1" imdbid="tt1492701">
-    <name>8-gatsu no Symphony: Shibuya 2002-2003</name>
+    <name>Hachigatsu no Symphony: Shibuya 2002-2003</name>
   </anime>
   <anime anidbid="6623" tvdbid="75112" defaulttvdbseason="0" imdbid="unknown">
     <name>Dr. Slump: Arale-chan Ncha! Penguin Mura wa Hare Nochi Hare</name>
@@ -16089,9 +16089,6 @@
   <anime anidbid="7000" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Fusha no Sha</name>
   </anime>
-  <anime anidbid="7002" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
-    <name>Kokyuu Suru Kumo</name>
-  </anime>
   <anime anidbid="7004" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0419883">
     <name>Kinken Chochiku Shiobara Tasuke</name>
   </anime>
@@ -16200,7 +16197,7 @@
     <name>Self Portrait</name>
   </anime>
   <anime anidbid="7047" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
-    <name>3tsu no Kumo</name>
+    <name>Mittsu no Kumo</name>
   </anime>
   <anime anidbid="7048" tvdbid="OVA" defaulttvdbseason="1" imdbid="unknown">
     <name>Mellow</name>
@@ -25159,7 +25156,7 @@
     <name>Taimanin Asagi 2</name>
   </anime>
   <anime anidbid="11606" tvdbid="306269" defaulttvdbseason="1">
-    <name>3-gatsu no Lion</name>
+    <name>Sangatsu no Lion</name>
   </anime>
   <anime anidbid="11628" tvdbid="11628" defaulttvdbseason="3">
     <name>Kaitou Joker (2016)</name>
@@ -25291,7 +25288,7 @@
     <name>Bubuki Buranki</name>
   </anime>
   <anime anidbid="11763" tvdbid="291726" defaulttvdbseason="2">
-    <name>Show by Rock!! #</name>
+    <name>Show by Rock!!#</name>
   </anime>
   <anime anidbid="11764" tvdbid="291726" defaulttvdbseason="0">
     <name>Show by Rock!! Short!!</name>
@@ -25666,10 +25663,10 @@
     <name>Teekyuu (2016)</name>
   </anime>
   <anime anidbid="12322" tvdbid="317391" defaulttvdbseason="1">
-    <name>Aooni: The Animation</name>
+    <name>Ao Oni: The Animation</name>
   </anime>
   <anime anidbid="12323" tvdbid="317391" defaulttvdbseason="0">
-    <name>Aooni The Animation</name>
+    <name>Ao Oni The Animation</name>
   </anime>
   <anime anidbid="12365" tvdbid="hentai" defaulttvdbseason="1">
     <name>Kowaremono: Risa Plus The Animation</name>

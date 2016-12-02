@@ -2186,7 +2186,7 @@
   <anime anidbid="564" tvdbid="133011" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Ginsoukikou Ordian</name>
   </anime>
-  <anime anidbid="565" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="565" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt3508318">
     <name>Hand Maid Mai</name>
   </anime>
   <anime anidbid="566" tvdbid="229241" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
@@ -19384,7 +19384,7 @@
   <anime anidbid="7189" tvdbid="119781" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
     <name>Ningen Shikkaku: Director's Cut Ban</name>
   </anime>
-  <anime anidbid="7190" tvdbid="web" defaulttvdbseason="1" episodeoffset="" tmdbid="73786" imdbid="">
+  <anime anidbid="7190" tvdbid="web" defaulttvdbseason="1" episodeoffset="" tmdbid="73786" imdbid="tt3970004">
     <name>Fumiko no Kokuhaku</name>
   </anime>
   <anime anidbid="7191" tvdbid="72454" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
@@ -21770,7 +21770,7 @@
   <anime anidbid="7984" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Anime Shounen Maid Curo-kun: Tenshi no Uta</name>
   </anime>
-  <anime anidbid="7985" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="7985" tvdbid="301205" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Yuri Seijin Naoko-san</name>
   </anime>
   <anime anidbid="7986" tvdbid="84371" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
@@ -23538,8 +23538,11 @@
   <anime anidbid="8601" tvdbid="73532" defaulttvdbseason="13" episodeoffset="" tmdbid="" imdbid="">
     <name>Shin Tennis no Ouji-sama</name>
   </anime>
-  <anime anidbid="8602" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="8602" tvdbid="301205" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Yuri Seijin Naoko-san (2012)</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="1">;1-2;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="8603" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
     <name>Histoire d'Etty</name>
@@ -27114,7 +27117,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-15;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="9921" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="9921" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="tt3178174">
     <name>Giovanni no Shima</name>
   </anime>
   <anime anidbid="9922" tvdbid="275576" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -28570,7 +28573,7 @@
   <anime anidbid="10527" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Choubakuretsu Ijigen Menko Battle: Gigant Shooter Tsukasa</name>
   </anime>
-  <anime anidbid="10528" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="10528" tvdbid="250022" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="">
     <name>Yuru Yuri Nachuyachumi!</name>
   </anime>
   <anime anidbid="10529" tvdbid="284719" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -28709,7 +28712,7 @@
   <anime anidbid="10575" tvdbid="280327" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Love Stage!! OAD</name>
   </anime>
-  <anime anidbid="10576" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="372756" imdbid="">
+  <anime anidbid="10576" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="372756" imdbid="tt5330596">
     <name>Glass no Hana to Kowasu Sekai</name>
   </anime>
   <anime anidbid="10577" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -30084,7 +30087,7 @@
   <anime anidbid="11099" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Nyuru Nyuru!! Kakusen-kun 2-ki</name>
   </anime>
-  <anime anidbid="11100" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="11100" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="334493" imdbid="">
     <name>Aki no Kanade</name>
   </anime>
   <anime anidbid="11101" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -30183,7 +30186,7 @@
   <anime anidbid="11142" tvdbid="284719" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Shinmai Maou no Testament Burst</name>
   </anime>
-  <anime anidbid="11143" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="11143" tvdbid="283942" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Akatsuki no Yona (2015)</name>
   </anime>
   <anime anidbid="11144" tvdbid="299742" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -30547,7 +30550,7 @@
   <anime anidbid="11275" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Hoopa no Odemashi Daisakusen!!</name>
   </anime>
-  <anime anidbid="11276" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="11276" tvdbid="250022" defaulttvdbseason="0" episodeoffset="2" tmdbid="" imdbid="">
     <name>Yuru Yuri Nachuyachumi!+</name>
   </anime>
   <anime anidbid="11277" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -31621,7 +31624,7 @@
   <anime anidbid="11679" tvdbid="309206" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Nejimaki Seirei Senki: Tenkyou no Alderamin</name>
   </anime>
-  <anime anidbid="11680" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="11680" tvdbid="257516" defaulttvdbseason="0" episodeoffset="10" tmdbid="" imdbid="">
     <name>Accel World: Infinite Burst</name>
   </anime>
   <anime anidbid="11681" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -32248,7 +32251,7 @@
   <anime anidbid="11914" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Oniku Daisuki! Zeushi-kun (2014)</name>
   </anime>
-  <anime anidbid="11915" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="11915" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="tt5439612">
     <name>Noblesse: Awakening</name>
   </anime>
   <anime anidbid="11916" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -32278,7 +32281,7 @@
   <anime anidbid="11925" tvdbid="313675" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Ozmafia!!</name>
   </anime>
-  <anime anidbid="11926" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="11926" tvdbid="293119" defaulttvdbseason="0" episodeoffset="72" tmdbid="" imdbid="">
     <name>Monster Musume no Iru Nichijou (2016)</name>
   </anime>
   <anime anidbid="11927" tvdbid="308036" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -32776,7 +32779,7 @@
   <anime anidbid="12112" tvdbid="313435" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Saiki Kusuo no Sainan (2016)</name>
   </anime>
-  <anime anidbid="12113" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12113" tvdbid="291630" defaulttvdbseason="0" episodeoffset="9" tmdbid="" imdbid="">
     <name>Arslan Senki (2016)</name>
   </anime>
   <anime anidbid="12114" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">

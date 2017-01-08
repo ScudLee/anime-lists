@@ -15859,7 +15859,7 @@
       <mapping anidbseason="0" tvdbseason="2">;1-23;2-24;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="5842" tvdbid="83263" defaulttvdbseason="1">
+  <anime anidbid="5842" tvdbid="82834" defaulttvdbseason="1">
     <name>Bounen no Xamdou</name>
   </anime>
   <anime anidbid="5843" tvdbid="83479" defaulttvdbseason="1">
@@ -22864,7 +22864,7 @@
   <anime anidbid="8655" tvdbid="244061" defaulttvdbseason="0" tmdbid="83380">
     <name>Gekijouban Steins;Gate: Fuka Ryouiki no Deja vu</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-2;2-0;3-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="8656" tvdbid="unknown" defaulttvdbseason="3">
@@ -23985,7 +23985,7 @@
   <anime anidbid="9042" tvdbid="269319" defaulttvdbseason="1">
     <name>Fate/Kaleid Liner Prisma Illya</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-2;2-3;3-4;4-5;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;2-3;3-4;4-5;5-6;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="9043" tvdbid="261249" defaulttvdbseason="1">
@@ -26147,13 +26147,14 @@
   <anime anidbid="10008" tvdbid="262098" defaulttvdbseason="0">
     <name>Girls und Panzer Gekijouban</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-32;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-37;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="10009" tvdbid="262098" defaulttvdbseason="0">
     <name>Girls und Panzer: Kore ga Hontou no Anzio-sen Desu!</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-33;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-34;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-35;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="10010" tvdbid="272310" defaulttvdbseason="1">
@@ -26330,6 +26331,9 @@
   </anime>
   <anime anidbid="10091" tvdbid="269319" defaulttvdbseason="2">
     <name>Fate/Kaleid Liner Prisma Illya Zwei!</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-7;2-8;3-9;4-10;5-11;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="10093" tvdbid="music video" defaulttvdbseason="1">
     <name>Lies, Lies.</name>
@@ -27615,6 +27619,9 @@
   </anime>
   <anime anidbid="10833" tvdbid="269319" defaulttvdbseason="3">
     <name>Fate/Kaleid Liner Prisma Illya Zwei Herz!</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-13;2-14;3-15;4-16;5-17;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="10835" tvdbid="262954" defaulttvdbseason="2" episodeoffset="24">
     <name>JoJo no Kimyou na Bouken: Stardust Crusaders (2015)</name>
@@ -28124,6 +28131,9 @@
   </anime>
   <anime anidbid="11123" tvdbid="293088" defaulttvdbseason="1">
     <name>One Punch Man</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;2-3;3-4;4-5;5-6;6-7;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="11124" tvdbid="250022" defaulttvdbseason="3">
     <name>Yuru Yuri San Hai!</name>
@@ -28645,6 +28655,9 @@
   </anime>
   <anime anidbid="11639" tvdbid="269319" defaulttvdbseason="4">
     <name>Fate/Kaleid Liner Prisma Illya Drei!!</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="5" offset="17"/>
+    </mapping-list>
   </anime>
   <anime anidbid="11643" tvdbid="301165" defaulttvdbseason="1">
     <name>Rewrite</name>

@@ -23406,6 +23406,9 @@
   </anime>
   <anime anidbid="8556" tvdbid="254349" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Another</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;2-3;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="8557" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt2261471">
     <name>Dragon Age: Blood Mage no Seisen</name>
@@ -23797,7 +23800,7 @@
   <anime anidbid="8693" tvdbid="music video" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Nexus</name>
   </anime>
-  <anime anidbid="8694" tvdbid="83322" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
+      <mapping anidbseason="0" tvdbseason="0">;1-6;</mapping>
     <name>Gekijouban Toaru Majutsu no Index: Endymion no Kiseki</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-5;</mapping>
@@ -27815,11 +27818,8 @@
   <anime anidbid="10197" tvdbid="173271" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Seitokai Yakuindomo *</name>
   </anime>
-  <anime anidbid="10198" tvdbid="82484" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="10198" tvdbid="82484" defaulttvdbseason="0" episodeoffset="2" tmdbid="" imdbid="">
     <name>Strike Witches: Operation Victory Arrow</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="4">;1-3;2-4;3-5;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="10199" tvdbid="259863" defaulttvdbseason="4" episodeoffset="" tmdbid="257474" imdbid="">
     <name>Parol no Miraijima</name>
@@ -28433,7 +28433,7 @@
   <anime anidbid="10453" tvdbid="114921" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Toaru Kagaku no Railgun S: Daiji na Koto wa Zenbu Sentou ni Osowatta</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-9;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="10454" tvdbid="unknown" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
@@ -29501,6 +29501,9 @@
   </anime>
   <anime anidbid="10889" tvdbid="289884" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Hibike! Euphonium</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-8</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="10890" tvdbid="250088" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Kaitou Tenshi Twin Angel: Kyun Kyun Tokimeki Paradise!! OVA</name>
@@ -31069,6 +31072,10 @@
   </anime>
   <anime anidbid="11469" tvdbid="300816" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Flying Witch</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;10-6;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="6" end="8" offset="1"/>
+    </mapping-list>
   </anime>
   <anime anidbid="11470" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Kataribe Shoujo Honoka</name>
@@ -31783,6 +31790,9 @@
   </anime>
   <anime anidbid="11746" tvdbid="289884" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Hibike! Euphonium 2</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-10</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="11747" tvdbid="289884" defaulttvdbseason="0" episodeoffset="8" tmdbid="374056" imdbid="">
     <name>Gekijouban Hibike! Euphonium: Kitauji Koukou Suisougaku Bu e Youkoso</name>
@@ -32723,7 +32733,7 @@
   <anime anidbid="12102" tvdbid="313992" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Honobono Log</name>
   </anime>
-  <anime anidbid="12103" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12103" tvdbid="81844" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
     <name>Koneko no Chii: Ponponra Daibouken</name>
   </anime>
   <anime anidbid="12104" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">

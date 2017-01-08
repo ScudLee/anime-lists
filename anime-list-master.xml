@@ -23800,10 +23800,11 @@
   <anime anidbid="8693" tvdbid="music video" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Nexus</name>
   </anime>
-      <mapping anidbseason="0" tvdbseason="0">;1-6;</mapping>
+  <anime anidbid="8694" tvdbid="83322" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt3163844">
     <name>Gekijouban Toaru Majutsu no Index: Endymion no Kiseki</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-5;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-6;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="8695" tvdbid="83348" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
@@ -29503,6 +29504,7 @@
     <name>Hibike! Euphonium</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-8</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="2" end="8" offset="-1"/>
     </mapping-list>
   </anime>
   <anime anidbid="10890" tvdbid="250088" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">

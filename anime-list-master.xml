@@ -151,6 +151,9 @@
   </anime>
   <anime anidbid="35" tvdbid="70861" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Love Hina</name>
+    <mapping-list>
+        <mapping anidbseason="0" tvdbseason="1">;1-25;</mapping>
+    </mapping-list>
     <supplemental-info>
       <studio>XEBEC</studio>
     </supplemental-info>
@@ -200,8 +203,11 @@
   <anime anidbid="48" tvdbid="79445" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Ippatsu Kikimusume</name>
   </anime>
-  <anime anidbid="49" tvdbid="70861" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="49" tvdbid="70861" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Love Hina Again</name>
+    <mapping-list>
+        <mapping anidbseason="1" tvdbseason="0">;1-5;2-6;3-7;</mapping>
+    </mapping-list>
     <supplemental-info>
       <studio>XEBEC</studio>
     </supplemental-info>
@@ -12810,11 +12816,8 @@
   <anime anidbid="4509" tvdbid="159551" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Kin'iro no Chord: Primo Passo</name>
   </anime>
-  <anime anidbid="4510" tvdbid="75869" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="4510" tvdbid="305488" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Negima!? Haru Special!?</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-5;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="4512" tvdbid="251162" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Futari no Joe</name>
@@ -12951,7 +12954,7 @@
   <anime anidbid="4564" tvdbid="79527" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Ghost Hunt</name>
   </anime>
-  <anime anidbid="4565" tvdbid="75869" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="4565" tvdbid="305488" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Negima!?</name>
   </anime>
   <anime anidbid="4566" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -13643,10 +13646,10 @@
   <anime anidbid="4810" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Tokumu Sousakan Rei &amp; Fuko</name>
   </anime>
-  <anime anidbid="4812" tvdbid="75869" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="4812" tvdbid="305488" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Negima!? Natsu Special!?</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-6;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="4816" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -15992,8 +15995,11 @@
   <anime anidbid="5867" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Namakemono ga Miteta</name>
   </anime>
-  <anime anidbid="5868" tvdbid="75869" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="5868" tvdbid="305488" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Mahou Sensei Negima! Shiroki Tsubasa Ala Alba</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-3;2-4;3-5;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="5869" tvdbid="80147" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Blue Dragon: Tenkai no Shichi Ryuu</name>
@@ -17361,10 +17367,11 @@
   <anime anidbid="6486" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Chinetsu Karte: The Devilish Cherry</name>
   </anime>
-  <anime anidbid="6489" tvdbid="75869" defaulttvdbseason="4" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="6489" tvdbid="305488" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Mahou Sensei Negima! Mou Hitotsu no Sekai</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-7;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-6;2-7;3-8;4-9;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-10;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="6491" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
@@ -22611,10 +22618,10 @@
   <anime anidbid="8273" tvdbid="web" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Out of Sight</name>
   </anime>
-  <anime anidbid="8274" tvdbid="75869" defaulttvdbseason="0" episodeoffset="" tmdbid="102070" imdbid="">
+  <anime anidbid="8274" tvdbid="305488" defaulttvdbseason="0" episodeoffset="" tmdbid="102070" imdbid="">
     <name>Mahou Sensei Negima! Anime Final Gekijouban</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-15;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-11;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="8275" tvdbid="249873" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">

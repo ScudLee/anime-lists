@@ -25725,6 +25725,9 @@
   <anime anidbid="12007" tvdbid="314286" defaulttvdbseason="1">
     <name>Flip Flappers</name>
   </anime>
+  <anime anidbid="12008" tvdbid="319275" defaulttvdbseason="1">
+    <name>Hand Shakers</name>
+  </anime>
   <anime anidbid="12009" tvdbid="82788" defaulttvdbseason="5">
     <name>Natsume Yuujinchou Go</name>
   </anime>
@@ -25737,11 +25740,17 @@
   <anime anidbid="12019" tvdbid="309493" defaulttvdbseason="1">
     <name>Cheer Danshi!!</name>
   </anime>
+  <anime anidbid="12021" tvdbid="317665" defaulttvdbseason="1">
+    <name>Kaijuu Girls: Ultra Kaijuu Gijinka Keikaku</name>
+  </anime>
   <anime anidbid="12031" tvdbid="315098" defaulttvdbseason="1">
     <name>Touken Ranbu: Hanamaru</name>
   </anime>
   <anime anidbid="12032" tvdbid="317820" defaulttvdbseason="1">
     <name>Time Bokan 24</name>
+  </anime>
+  <anime anidbid="12035" tvdbid="314361" defaulttvdbseason="2">
+    <name>Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou Hen</name>
   </anime>
   <anime anidbid="12040" tvdbid="316844" defaulttvdbseason="1">
     <name>Shakunetsu no Takkyuu Musume</name>
@@ -25857,6 +25866,9 @@
   <anime anidbid="12244" tvdbid="321496" defaulttvdbseason="0">
     <name>Koro-sensei Quest!</name>
   </anime>
+  <anime anidbid="12246" tvdbid="Movie" tmdbid="431802,431803">
+    <name>Koutetsujou no Kabaneri Soushuuhen</name>
+  </anime>
   <anime anidbid="12254" tvdbid="309151" defaulttvdbseason="2">
     <name>Bishoujo Yuugi Unit Crane Game Galaxy</name>
   </anime>
@@ -25917,6 +25929,9 @@
   <anime anidbid="12366" tvdbid="317865" defaulttvdbseason="1">
     <name>3-Nen D-Gumi Glass no Kamen</name>
   </anime>
+  <anime anidbid="12369" tvdbid="319999" defaulttvdbseason="1">
+    <name>Onihei</name>
+  </anime>
   <anime anidbid="12372" tvdbid="316837" defaulttvdbseason="1">
     <name>Bloodivores</name>
   </anime>
@@ -25928,6 +25943,9 @@
   </anime>
   <anime anidbid="12386" tvdbid="hentai" defaulttvdbseason="1">
     <name>Seikatsu Shidou!! Anime Edition</name>
+  </anime>
+  <anime anidbid="12387" tvdbid="683236" defaulttvdbseason="1">
+    <name>Hagane Orchestra</name>
   </anime>
   <anime anidbid="12394" tvdbid="245821" defaulttvdbseason="8">
     <name>Cardfight!! Vanguard G: Next</name>
@@ -25976,5 +25994,8 @@
   </anime>
   <anime anidbid="12656" tvdbid="321503" defaulttvdbseason="1">
     <name>Spirit Pact</name>
+  </anime>
+  <anime anidbid="12682" tvdbid="TV Special" tmdbid="432369">
+    <name>6HP</name>
   </anime>
 </anime-list>

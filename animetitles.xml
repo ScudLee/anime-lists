@@ -51814,6 +51814,7 @@
 		<title type="official" xml:lang="hu">A kaptár: Kárhozat</title>
 		<title type="official" xml:lang="ja">バイオハザード ダムネーション</title>
 		<title type="official" xml:lang="pl">Resident Evil: Potępienie</title>
+		<title type="syn" xml:lang="ja">biohazard DAMNATION</title>
 		<title type="syn" xml:lang="ru">Обитель зла: Проклятие</title>
 	</anime>
 	<anime aid="8080">
@@ -56100,6 +56101,7 @@
 	<anime aid="8931">
 		<title type="main" xml:lang="x-jat">Sora no Otoshimono Final: Eternal My Master</title>
 		<title type="official" xml:lang="ja">そらのおとしもの Final 永遠の私の鳥籠[エターナルマイマスター]</title>
+		<title type="syn" xml:lang="en">Heaven`s Lost Property Final: Eternal My Master</title>
 	</anime>
 	<anime aid="8932">
 		<title type="main" xml:lang="x-jat">Nekogami Yaoyorozu: Ohanami Ghostbusters</title>
@@ -64590,6 +64592,8 @@
 	<anime aid="10843">
 		<title type="main" xml:lang="x-jat">Eiga Crayon Shin-chan: Ora no Hikkoshi Monogatari - Saboten Dai Shuugeki</title>
 		<title type="official" xml:lang="ja">映画 クレヨンしんちゃん オラの引越し物語 ~サボテン大襲撃~</title>
+		<title type="short" xml:lang="x-unk">Crayon Shin-chan - Movie 23</title>
+		<title type="syn" xml:lang="en">Crayon Shin-chan: My Moving Story - The Great Cactus Attack!</title>
 	</anime>
 	<anime aid="10846">
 		<title type="main" xml:lang="x-jat">Aldnoah.Zero (2015)</title>
@@ -68098,6 +68102,7 @@
 	<anime aid="11633">
 		<title type="main" xml:lang="x-jat">Ari Ningen Monogatari</title>
 		<title type="official" xml:lang="ja">蟻人間物語</title>
+		<title type="syn" xml:lang="en">Future Man</title>
 	</anime>
 	<anime aid="11634">
 		<title type="main" xml:lang="x-jat">Milpom</title>
@@ -68326,6 +68331,7 @@
 	</anime>
 	<anime aid="11689">
 		<title type="main" xml:lang="x-jat">Yowamushi Pedal: New Generation</title>
+		<title type="official" xml:lang="en">Yowamushi Pedal New Generation</title>
 		<title type="official" xml:lang="ja">弱虫ペダル NEW GENERATION</title>
 		<title type="official" xml:lang="x-kot">겁쟁이 페달: New Generation</title>
 	</anime>
@@ -68942,7 +68948,8 @@
 	<anime aid="11829">
 		<title type="main" xml:lang="x-jat">Kimi no Na wa.</title>
 		<title type="official" xml:lang="en">Your Name.</title>
-		<title type="official" xml:lang="ja">君の名は.</title>
+		<title type="official" xml:lang="fr">Your Name.</title>
+		<title type="official" xml:lang="ja">君の名は. your name.</title>
 		<title type="official" xml:lang="ko">너의 이름은.</title>
 		<title type="official" xml:lang="zh-Hant">你的名字。</title>
 		<title type="syn" xml:lang="zh-Hant">你的名字</title>
@@ -69033,7 +69040,9 @@
 	</anime>
 	<anime aid="11850">
 		<title type="main" xml:lang="x-jat">Gintama (2016)</title>
-		<title type="official" xml:lang="ja">銀魂 (2016)</title>
+		<title type="official" xml:lang="ja">銀魂゜(2016)</title>
+		<title type="syn" xml:lang="ja">銀魂° (2016)</title>
+		<title type="syn" xml:lang="x-jat">Gintama° (2016)</title>
 	</anime>
 	<anime aid="11851">
 		<title type="main" xml:lang="x-jat">Berserk</title>
@@ -69176,6 +69185,7 @@
 	<anime aid="11884">
 		<title type="main" xml:lang="x-jat">Meow no Hoshi</title>
 		<title type="official" xml:lang="ja">ミャウの星</title>
+		<title type="syn" xml:lang="en">Meow`s Star</title>
 	</anime>
 	<anime aid="11886">
 		<title type="main" xml:lang="x-jat">Kamiwaza Wanda</title>
@@ -69554,6 +69564,7 @@
 	</anime>
 	<anime aid="11970">
 		<title type="main" xml:lang="x-jat">Eldlive</title>
+		<title type="official" xml:lang="en">Eldlive</title>
 		<title type="official" xml:lang="ja">elDLIVE</title>
 		<title type="syn" xml:lang="ja">エルドライブ</title>
 	</anime>
@@ -70029,6 +70040,7 @@
 		<title type="main" xml:lang="x-jat">Battle Girl High School</title>
 		<title type="official" xml:lang="ja">バトルガール ハイスクール</title>
 		<title type="short" xml:lang="x-jat">bghs</title>
+		<title type="syn" xml:lang="ja">バトルガールハイスクール</title>
 	</anime>
 	<anime aid="12081">
 		<title type="main" xml:lang="x-jat">Peace Maker Kurogane (Shinsaku)</title>
@@ -70519,6 +70531,7 @@
 	<anime aid="12235">
 		<title type="main" xml:lang="x-jat">Little Witch Academia (2017)</title>
 		<title type="official" xml:lang="ja">リトルウィッチアカデミア (2017)</title>
+		<title type="short" xml:lang="x-jat">lwatv</title>
 	</anime>
 	<anime aid="12237">
 		<title type="main" xml:lang="x-jat">Kaitou Joker 4</title>
@@ -70605,6 +70618,7 @@
 	</anime>
 	<anime aid="12256">
 		<title type="main" xml:lang="x-jat">Tales of Zestiria the Cross (2017)</title>
+		<title type="official" xml:lang="en">Tales of Zestiria the X (2017)</title>
 		<title type="official" xml:lang="ja">Tales of Zestiria the X (2017)</title>
 		<title type="syn" xml:lang="ja">テイルズ オブ ゼスティリア ザ クロス (2017)</title>
 	</anime>
@@ -70728,6 +70742,7 @@
 	</anime>
 	<anime aid="12290">
 		<title type="main" xml:lang="x-jat">Gabriel Dropout</title>
+		<title type="official" xml:lang="en">Gabriel Dropout</title>
 		<title type="official" xml:lang="ja">ガヴリールドロップアウト</title>
 		<title type="official" xml:lang="x-kot">가브릴 드롭아웃</title>
 	</anime>
@@ -70838,13 +70853,9 @@
 		<title type="syn" xml:lang="ja">アイディーゼロ</title>
 	</anime>
 	<anime aid="12319">
-		<title type="main" xml:lang="x-jat">Sengoku Choujuu Giga</title>
+		<title type="main" xml:lang="x-jat">Sengoku Choujuu Giga: Kou</title>
 		<title type="official" xml:lang="en">Sengokuchojyugiga</title>
-		<title type="official" xml:lang="ja">戦国鳥獣戯画</title>
-		<title type="syn" xml:lang="ja">戦国鳥獣戯画~乙~</title>
-		<title type="syn" xml:lang="ja">戦国鳥獣戯画~甲~</title>
-		<title type="syn" xml:lang="x-jat">Sengoku Choujuu Giga: Kou</title>
-		<title type="syn" xml:lang="x-jat">Sengoku Choujuu Giga: Otsu</title>
+		<title type="official" xml:lang="ja">戦国鳥獣戯画~甲~</title>
 	</anime>
 	<anime aid="12320">
 		<title type="main" xml:lang="x-jat">Girl Friend (Onpu)</title>
@@ -71126,6 +71137,7 @@
 	</anime>
 	<anime aid="12400">
 		<title type="main" xml:lang="x-jat">Idol Jihen</title>
+		<title type="official" xml:lang="en">Idol Incidents</title>
 		<title type="official" xml:lang="ja">アイドル事変</title>
 	</anime>
 	<anime aid="12402">
@@ -71190,11 +71202,14 @@
 	</anime>
 	<anime aid="12418">
 		<title type="main" xml:lang="x-jat">Chiruran: Nibun no Ichi</title>
+		<title type="official" xml:lang="en">Chiruran One-Half</title>
 		<title type="official" xml:lang="ja">ちるらん にぶんの壱</title>
+		<title type="syn" xml:lang="en">Chiruran 1/2</title>
 	</anime>
 	<anime aid="12419">
-		<title type="main" xml:lang="x-jat">Gintama (2017)</title>
-		<title type="official" xml:lang="ja">銀魂 (2017)</title>
+		<title type="main" xml:lang="x-jat">Gintama.</title>
+		<title type="official" xml:lang="en">Gintama Season 4</title>
+		<title type="official" xml:lang="ja">銀魂.</title>
 		<title type="short" xml:lang="en">gintama5</title>
 	</anime>
 	<anime aid="12420">
@@ -71254,6 +71269,7 @@
 	</anime>
 	<anime aid="12433">
 		<title type="main" xml:lang="x-jat">Nyanko Days</title>
+		<title type="official" xml:lang="en">Nyanko Days</title>
 		<title type="official" xml:lang="ja">にゃんこデイズ</title>
 	</anime>
 	<anime aid="12434">
@@ -72355,6 +72371,26 @@
 		<title type="main" xml:lang="x-jat">Terajima-chou Kidan: Ginnagashi</title>
 		<title type="official" xml:lang="ja">寺島町奇譚 ぎんながし</title>
 	</anime>
+	<anime aid="12718">
+		<title type="main" xml:lang="x-jat">Sengoku Choujuu Giga: Otsu</title>
+		<title type="official" xml:lang="ja">戦国鳥獣戯画~乙~</title>
+	</anime>
+	<anime aid="12719">
+		<title type="main" xml:lang="x-jat">Tenkousei wa Uchuujin</title>
+		<title type="official" xml:lang="ja">転校生は宇宙人</title>
+	</anime>
+	<anime aid="12720">
+		<title type="main" xml:lang="x-jat">Aikodesho</title>
+		<title type="official" xml:lang="ja">あいこでしょ</title>
+	</anime>
+	<anime aid="12721">
+		<title type="main" xml:lang="x-jat">Tomica Hyper Rescue Drive Head: Kidou Kyuukyuu Keisatsu</title>
+		<title type="official" xml:lang="ja">トミカハイパーレスキュー ドライブヘッド 機動救急警察</title>
+	</anime>
+	<anime aid="12722">
+		<title type="main" xml:lang="x-kot">Kkoma-beoseu Tayo</title>
+		<title type="official" xml:lang="ko">꼬마버스 타요</title>
+	</anime>
 </animetitles>
 
-<!-- Created: Sun Jan  8 03:00:26 2017 (9992 anime, 52371 titles) -->
+<!-- Created: Tue Jan 10 03:00:27 2017 (9997 anime, 52397 titles) -->

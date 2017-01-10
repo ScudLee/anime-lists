@@ -23137,7 +23137,7 @@
   <anime anidbid="10178" tvdbid="286856" defaulttvdbseason="1">
     <name>Junketsu no Maria</name>
   </anime>
-  <anime anidbid="10179" tvdbid="275610">
+  <anime anidbid="10179" tvdbid="275610" defaulttvdbseason="0">
     <name>Noragami OAD</name>
   </anime>
   <anime anidbid="10181" tvdbid="276890" defaulttvdbseason="1">
@@ -23834,7 +23834,7 @@
       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="10572" tvdbid="275633">
+  <anime anidbid="10572" tvdbid="275633" defaulttvdbseason="0" episodeoffset="1">
     <name>Mikakunin de Shinkoukei: Kamo Nikutte Midorippoi Aji ga Suru no ne.</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
@@ -25494,7 +25494,7 @@
   <anime anidbid="11804" tvdbid="270058" defaulttvdbseason="2">
     <name>Danganronpa 3: The End of Kibougamine Gakuen - Mirai Hen</name>
   </anime>
-  <anime anidbid="11805" tvdbid="293267">
+  <anime anidbid="11805" tvdbid="293267" defaulttvdbseason="0">
     <name>Prison School: Mad Wax</name>
   </anime>
   <anime anidbid="11809" tvdbid="289906" defaulttvdbseason="0" episodeoffset="11">
@@ -25545,7 +25545,7 @@
   <anime anidbid="11858" tvdbid="hentai" defaulttvdbseason="1">
     <name>Pretty x Cation The Animation</name>
   </anime>
-  <anime anidbid="11860" tvdbid="275610" episodeoffset="2">
+  <anime anidbid="11860" tvdbid="275610" defaulttvdbseason="0" episodeoffset="2">
     <name>Noragami Aragoto OAD</name>
   </anime>
   <anime anidbid="11863" tvdbid="305099" defaulttvdbseason="1">
@@ -25909,7 +25909,7 @@
     <name>Mahou Shoujo Nante Mou Ii Desu kara. Second Season</name>
   </anime>
   <anime anidbid="12319" tvdbid="317829" defaulttvdbseason="1">
-    <name>Sengoku Choujuu Giga</name>
+    <name>Sengoku Choujuu Giga: Kou</name>
   </anime>
   <anime anidbid="12321" tvdbid="262856" defaulttvdbseason="8">
     <name>Teekyuu (2016)</name>
@@ -25994,6 +25994,9 @@
   </anime>
   <anime anidbid="12656" tvdbid="321503" defaulttvdbseason="1">
     <name>Spirit Pact</name>
+  </anime>
+  <anime anidbid="12674" tvdbid="319999" defaulttvdbseason="0">
+    <name>Onihei: Sono Otoko, Hasegawa Heizou</name>
   </anime>
   <anime anidbid="12682" tvdbid="TV Special" tmdbid="432369">
     <name>6HP</name>

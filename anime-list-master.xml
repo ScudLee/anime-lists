@@ -27781,7 +27781,7 @@
   <anime anidbid="10178" tvdbid="286856" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Junketsu no Maria</name>
   </anime>
-  <anime anidbid="10179" tvdbid="275610" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="10179" tvdbid="275610" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Noragami OAD</name>
   </anime>
   <anime anidbid="10180" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -28694,7 +28694,7 @@
       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="10572" tvdbid="275633" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="10572" tvdbid="275633" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="">
     <name>Mikakunin de Shinkoukei: Kamo Nikutte Midorippoi Aji ga Suru no ne.</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
@@ -31971,7 +31971,7 @@
   <anime anidbid="11804" tvdbid="270058" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Danganronpa 3: The End of Kibougamine Gakuen - Mirai Hen</name>
   </anime>
-  <anime anidbid="11805" tvdbid="293267" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="11805" tvdbid="293267" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Prison School: Mad Wax</name>
   </anime>
   <anime anidbid="11806" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -32106,7 +32106,7 @@
   <anime anidbid="11859" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Nirvana</name>
   </anime>
-  <anime anidbid="11860" tvdbid="275610" defaulttvdbseason="" episodeoffset="2" tmdbid="" imdbid="">
+  <anime anidbid="11860" tvdbid="275610" defaulttvdbseason="0" episodeoffset="2" tmdbid="" imdbid="">
     <name>Noragami Aragoto OAD</name>
   </anime>
   <anime anidbid="11861" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">

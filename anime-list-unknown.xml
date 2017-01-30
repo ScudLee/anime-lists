@@ -180,9 +180,6 @@
   <anime anidbid="1521" tvdbid="unknown" defaulttvdbseason="1">
     <name>Asobot Senki Gokuu</name>
   </anime>
-  <anime anidbid="1522" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Dream Hunter Rem</name>
-  </anime>
   <anime anidbid="1527" tvdbid="unknown" defaulttvdbseason="1">
     <name>Cyborg 009</name>
   </anime>
@@ -2109,9 +2106,6 @@
   <anime anidbid="5231" tvdbid="unknown" defaulttvdbseason="1">
     <name>Shin Karate Jigoku Hen</name>
   </anime>
-  <anime anidbid="5232" tvdbid="unknown" defaulttvdbseason="2">
-    <name>New Dream Hunter Rem</name>
-  </anime>
   <anime anidbid="5239" tvdbid="unknown" defaulttvdbseason="1">
     <name>Hokuro Kyoudai Full Throttle!!!!</name>
   </anime>
@@ -3458,5 +3452,8 @@
   </anime>
   <anime anidbid="11757" tvdbid="unknown" defaulttvdbseason="0" imdbid="tt5185564">
     <name>Shimajirou to Ehon no Kuni</name>
+  </anime>
+  <anime anidbid="12509" tvdbid="unknown" tmdbid="432128">
+    <name>Eiga Precure Dream Stars!</name>
   </anime>
 </anime-list>

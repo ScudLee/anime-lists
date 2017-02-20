@@ -13802,6 +13802,7 @@
       <mapping anidbseason="1" tvdbseason="2">;14-1;15-2;16-3;17-4;18-5;19-6;20-7;21-8;22-9;23-10;24-11;25-12;26-13;</mapping>
       <mapping anidbseason="1" tvdbseason="3">;27-1;28-2;29-3;30-4;31-5;32-6;33-7;34-8;35-9;36-10;37-11;38-12;39-13;</mapping>
       <mapping anidbseason="1" tvdbseason="4">;40-1;41-2;42-3;43-4;44-5;45-6;46-7;47-8;48-9;49-10;50-11;51-12;52-13;</mapping>
+      <mapping anidbseason="1" tvdbseason="5" start="53" end="65" offset="-52"/>
     </mapping-list>
   </anime>
   <anime anidbid="5920" tvdbid="82683" defaulttvdbseason="1">
@@ -24320,7 +24321,7 @@
   <anime anidbid="10768" tvdbid="293267" defaulttvdbseason="1">
     <name>Prison School</name>
   </anime>
-  <anime anidbid="10769" tvdbid="272309" defaulttvdbseason="0">
+  <anime anidbid="10769" tvdbid="272309" defaulttvdbseason="0" tmdbid="292740">
     <name>Yowamushi Pedal Re:Ride</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
@@ -24997,7 +24998,7 @@
   <anime anidbid="11153" tvdbid="263038" defaulttvdbseason="2">
     <name>Gon (2015)</name>
   </anime>
-  <anime anidbid="11154" tvdbid="272309" defaulttvdbseason="0">
+  <anime anidbid="11154" tvdbid="272309" defaulttvdbseason="0" tmdbid="334372">
     <name>Gekijouban Yowamushi Pedal</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
@@ -25152,6 +25153,9 @@
   </anime>
   <anime anidbid="11251" tvdbid="295897" defaulttvdbseason="1">
     <name>Bikini Warriors</name>
+  </anime>
+  <anime anidbid="11252" tvdbid="272309" defaulttvdbseason="0" episodeoffset="2" tmdbid="387931">
+    <name>Yowamushi Pedal Re:Road</name>
   </anime>
   <anime anidbid="11253" tvdbid="304987" defaulttvdbseason="1">
     <name>Bakuon!!</name>
@@ -26067,6 +26071,9 @@
   <anime anidbid="12125" tvdbid="314482" defaulttvdbseason="1">
     <name>Magic-Kyun! Renaissance</name>
   </anime>
+  <anime anidbid="12129" tvdbid="272309" defaulttvdbseason="0" episodeoffset="4" tmdbid="403895">
+    <name>Yowamushi Pedal: Spare Bike</name>
+  </anime>
   <anime anidbid="12130" tvdbid="TV Special" defaulttvdbseason="1" tmdbid="415286">
     <name>Tantei Opera Milky Holmes: Fun Fun Pearly Night - Ken to Janet no Okurimono</name>
   </anime>
@@ -26195,6 +26202,9 @@
   </anime>
   <anime anidbid="12344" tvdbid="12344" defaulttvdbseason="0">
     <name>Boku no Hero Academia (2016)</name>
+  </anime>
+  <anime anidbid="12359" tvdbid="324355" defaulttvdbseason="1">
+    <name>Ryuu no Haisha</name>
   </anime>
   <anime anidbid="12365" tvdbid="hentai" defaulttvdbseason="1">
     <name>Kowaremono: Risa Plus The Animation</name>

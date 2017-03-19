@@ -182,6 +182,9 @@ Downloads the latest animetitles.xml, sorts it, updates anime-list-master.xml, c
 ### generate-lists.bat ###
 Generates all the other lists based on anime-list-master.xml, and updates/sorts anime-movieset-list.xml.
 
+### generate-lists.sh ###
+Same as `generate-lists.bat` but for POSIX platforms. As most POSIX style systems already have xsl and xml tools installed, this is just a shell script to generate the xml files.
+
 ### generate-lists.groovy ###
 Same as `generate-lists.bat` but for all platforms. It requires [Groovy](http://www.groovy-lang.org/) and [Java](http://www.oracle.com/technetwork/java/javase/downloads/index.html) and works on Windows, Linux and Mac OS X.
 

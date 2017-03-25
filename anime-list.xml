@@ -25648,6 +25648,9 @@
   <anime anidbid="11761" tvdbid="304106" defaulttvdbseason="1">
     <name>Bubuki Buranki</name>
   </anime>
+  <anime anidbid="11762" tvdbid="321535" defaulttvdbseason="1">
+    <name>Seikai Suru Kado</name>
+  </anime>
   <anime anidbid="11763" tvdbid="291726" defaulttvdbseason="2">
     <name>Show by Rock!!#</name>
   </anime>
@@ -25731,6 +25734,9 @@
   </anime>
   <anime anidbid="11831" tvdbid="303730" defaulttvdbseason="1" episodeoffset="12">
     <name>Active Raid: Kidou Kyoushuushitsu Dai Hachi Gakari - 2nd</name>
+  </anime>
+  <anime anidbid="11834" tvdbid="311832" defaulttvdbseason="1">
+    <name>Rilu Rilu Fairilu: Yousei no Door</name>
   </anime>
   <anime anidbid="11836" tvdbid="299491" defaulttvdbseason="1" episodeoffset="13">
     <name>Concrete Revolutio: Choujin Gensou - The Last Song</name>
@@ -26380,6 +26386,9 @@
   <anime anidbid="12621" tvdbid="311149" defaulttvdbseason="2">
     <name>Days 2</name>
   </anime>
+  <anime anidbid="12647" tvdbid="movie" imdbid="tt6335734">
+    <name>Yoru wa Mijikashi Aruke yo Otome</name>
+  </anime>
   <anime anidbid="12656" tvdbid="321503" defaulttvdbseason="1">
     <name>Spirit Pact</name>
   </anime>
@@ -26394,5 +26403,14 @@
   </anime>
   <anime anidbid="12682" tvdbid="TV Special" defaulttvdbseason="1" tmdbid="432369">
     <name>6HP</name>
+  </anime>
+  <anime anidbid="12761" tvdbid="325197" defaulttvdbseason="1">
+    <name>Tsuki ga Kirei</name>
+  </anime>
+  <anime anidbid="12825" tvdbid="311832" defaulttvdbseason="2">
+    <name>Rilu Rilu Fairilu: Mahou no Kagami</name>
+  </anime>
+  <anime anidbid="12915" tvdbid="music video" defaulttvdbseason="1">
+    <name>Happy Party Train</name>
   </anime>
 </anime-list>

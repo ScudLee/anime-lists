@@ -10592,11 +10592,17 @@
   <anime anidbid="3466" tvdbid="unknown" defaulttvdbseason="1">
     <name>Sasuga no Sarutobi</name>
   </anime>
-  <anime anidbid="3468" tvdbid="79895" defaulttvdbseason="a">
+  <anime anidbid="3468" tvdbid="79895" defaulttvdbseason="1">
     <name>Gintama</name>
     <supplemental-info>
       <studio>Sunrise</studio>
     </supplemental-info>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;4-3;</mapping>
+      <mapping anidbseason="1" tvdbseason="2" start="50" end="99" offset="-49"/>
+      <mapping anidbseason="1" tvdbseason="3" start="100" end="150" offset="-99"/>
+      <mapping anidbseason="1" tvdbseason="4" start="151" end="201" offset="-150"/>
+    </mapping-list>
   </anime>
   <anime anidbid="3469" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0055760">
     <name>Aru Machi Kado no Monogatari</name>
@@ -19152,8 +19158,8 @@
   <anime anidbid="7177" tvdbid="79895" defaulttvdbseason="0" imdbid="tt1636780">
     <name>Gekijouban Gintama: Shinyaku Benizakura Hen</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-4;</mapping>
-      <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-5;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="7178" tvdbid="79283" defaulttvdbseason="0">
@@ -21533,6 +21539,9 @@
   </anime>
   <anime anidbid="8126" tvdbid="79895" defaulttvdbseason="5">
     <name>Gintama'</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-6;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="8127" tvdbid="hentai" defaulttvdbseason="1">
     <name>Floating Material</name>
@@ -24821,7 +24830,7 @@
   <anime anidbid="9384" tvdbid="79895" defaulttvdbseason="0" imdbid="tt2374144">
     <name>Gekijouban Gintama Kanketsuhen: Yorozuya yo Eien Nare</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-5;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-7;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="9385" tvdbid="hentai" defaulttvdbseason="1">
@@ -26998,7 +27007,7 @@
   <anime anidbid="10405" tvdbid="79895" defaulttvdbseason="0">
     <name>Yorinuki Gintama-san on Theater 2D</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-0;2-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-10;2-11;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="10406" tvdbid="87881" defaulttvdbseason="3">
@@ -28141,6 +28150,9 @@
   </anime>
   <anime anidbid="10993" tvdbid="79895" defaulttvdbseason="7">
     <name>Gintama (2015)</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-12;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="10994" tvdbid="293647" defaulttvdbseason="1">
     <name>Ame-iro Cocoa</name>
@@ -28489,6 +28501,9 @@
   </anime>
   <anime anidbid="11246" tvdbid="297313" defaulttvdbseason="1">
     <name>Kaijuu Sakaba Kanpai!</name>
+  </anime>
+  <anime anidbid="11249" tvdbid="tv special" defaulttvdbseason="1">
+    <name>Gintama x Mameshiba</name>
   </anime>
   <anime anidbid="11251" tvdbid="295897" defaulttvdbseason="1">
     <name>Bikini Warriors</name>
@@ -29449,7 +29464,7 @@
   <anime anidbid="12129" tvdbid="272309" defaulttvdbseason="0" episodeoffset="4" tmdbid="403895">
     <name>Yowamushi Pedal: Spare Bike</name>
   </anime>
-  <anime anidbid="12130" tvdbid="TV Special" defaulttvdbseason="1" tmdbid="415286">
+  <anime anidbid="12130" tvdbid="tv special" defaulttvdbseason="1" tmdbid="415286">
     <name>Tantei Opera Milky Holmes: Fun Fun Pearly Night - Ken to Janet no Okurimono</name>
   </anime>
   <anime anidbid="12132" tvdbid="317566" defaulttvdbseason="1">
@@ -29647,6 +29662,9 @@
   <anime anidbid="12418" tvdbid="320560" defaulttvdbseason="1">
     <name>Chiruran: Nibun no Ichi</name>
   </anime>
+  <anime anidbid="12419" tvdbid="79895" defaulttvdbseason="8">
+    <name>Gintama.</name>
+  </anime>
   <anime anidbid="12422" tvdbid="320169" defaulttvdbseason="1">
     <name>Sagrada Reset</name>
   </anime>
@@ -29680,7 +29698,7 @@
   <anime anidbid="12509" tvdbid="unknown" tmdbid="432128">
     <name>Eiga Precure Dream Stars!</name>
   </anime>
-  <anime anidbid="12519" tvdbid="TV Special" defaulttvdbseason="1" imdbid="tt6213810">
+  <anime anidbid="12519" tvdbid="tv special" defaulttvdbseason="1" imdbid="tt6213810">
     <name>Fate/Grand Order: First Order</name>
   </anime>
   <anime anidbid="12526" tvdbid="324709" defaulttvdbseason="1">
@@ -29740,7 +29758,7 @@
   <anime anidbid="12674" tvdbid="319999" defaulttvdbseason="0">
     <name>Onihei: Sono Otoko, Hasegawa Heizou</name>
   </anime>
-  <anime anidbid="12682" tvdbid="TV Special" defaulttvdbseason="1" tmdbid="432369">
+  <anime anidbid="12682" tvdbid="tv special" defaulttvdbseason="1" tmdbid="432369">
     <name>6HP</name>
   </anime>
   <anime anidbid="12761" tvdbid="325197" defaulttvdbseason="1">

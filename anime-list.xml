@@ -24089,6 +24089,9 @@
   <anime anidbid="10630" tvdbid="hentai" defaulttvdbseason="1">
     <name>Love Colon</name>
   </anime>
+  <anime anidbid="10633" tvdbid="283243" defaulttvdbseason="0">
+    <name>World Fool News</name>
+  </anime>
   <anime anidbid="10635" tvdbid="283926" defaulttvdbseason="1">
     <name>Orenchi no Furo Jijou</name>
   </anime>
@@ -24163,6 +24166,9 @@
   </anime>
   <anime anidbid="10684" tvdbid="284794" defaulttvdbseason="1">
     <name>Koufuku Graffiti</name>
+  </anime>
+  <anime anidbid="10685" tvdbid="283243" defaulttvdbseason="1">
+    <name>World Fool News (2014)</name>
   </anime>
   <anime anidbid="10688" tvdbid="264663" defaulttvdbseason="0" imdbid="tt5331768">
     <name>Gekijouban Date a Live: Mayuri Judgement</name>
@@ -25135,6 +25141,7 @@
   </anime>
   <anime anidbid="11221" tvdbid="281275" defaulttvdbseason="2">
     <name>Saenai Heroine no Sodatekata Flat</name>
+    <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
   </anime>
   <anime anidbid="11223" tvdbid="284133" defaulttvdbseason="2">
     <name>Shingeki no Bahamut: Virgin Soul</name>
@@ -25156,6 +25163,9 @@
   </anime>
   <anime anidbid="11234" tvdbid="299501" defaulttvdbseason="1">
     <name>Hundred</name>
+  </anime>
+  <anime anidbid="11238" tvdbid="301920" defaulttvdbseason="1">
+    <name>Monster Strike</name>
   </anime>
   <anime anidbid="11245" tvdbid="hentai" defaulttvdbseason="1">
     <name>Maid-san to Boin Damashii The Animation</name>
@@ -25951,6 +25961,9 @@
   <anime anidbid="11979" tvdbid="316814" defaulttvdbseason="1">
     <name>Watashi ga Motete Dou Sunda</name>
   </anime>
+  <anime anidbid="11981" tvdbid="319410" defaulttvdbseason="1">
+    <name>Eromanga Sensei</name>
+  </anime>
   <anime anidbid="11982" tvdbid="317128" defaulttvdbseason="0">
     <name>Mahou Tsukai no Yome: Hoshi Matsu Hito</name>
   </anime>
@@ -26076,6 +26089,9 @@
   </anime>
   <anime anidbid="12087" tvdbid="317206" defaulttvdbseason="1">
     <name>Lostorage Incited WIXOSS</name>
+  </anime>
+  <anime anidbid="12088" tvdbid="321672" defaulttvdbseason="1">
+    <name>Fukumenkei Noise</name>
   </anime>
   <anime anidbid="12089" tvdbid="Movie" defaulttvdbseason="0" imdbid="tt5731132">
     <name>Hirune-hime: Shiranai Watashi no Monogatari</name>
@@ -26224,6 +26240,9 @@
   <anime anidbid="12280" tvdbid="315099" defaulttvdbseason="1">
     <name>Nazotokine</name>
   </anime>
+  <anime anidbid="12284" tvdbid="movie" defaulttvdbseason="1" imdbid="tt6210806">
+    <name>Monster Strike The Movie: Hajimari no Basho e</name>
+  </anime>
   <anime anidbid="12290" tvdbid="318984" defaulttvdbseason="1">
     <name>Gabriel Dropout</name>
   </anime>
@@ -26244,6 +26263,9 @@
   </anime>
   <anime anidbid="12317" tvdbid="304110" defaulttvdbseason="2">
     <name>Mahou Shoujo Nante Mou Ii Desu kara. Second Season</name>
+  </anime>
+  <anime anidbid="12318" tvdbid="324711" defaulttvdbseason="1">
+    <name>ID-0</name>
   </anime>
   <anime anidbid="12319" tvdbid="317829" defaulttvdbseason="1">
     <name>Sengoku Choujuu Giga: Kou</name>
@@ -26320,6 +26342,9 @@
   <anime anidbid="12414" tvdbid="307111" defaulttvdbseason="2">
     <name>Berserk (2017)</name>
   </anime>
+  <anime anidbid="12417" tvdbid="269876" defaulttvdbseason="2">
+    <name>Uchouten Kazoku 2</name>
+  </anime>
   <anime anidbid="12418" tvdbid="320560" defaulttvdbseason="1">
     <name>Chiruran: Nibun no Ichi</name>
   </anime>
@@ -26346,6 +26371,12 @@
   </anime>
   <anime anidbid="12433" tvdbid="320003" defaulttvdbseason="1">
     <name>Nyanko Days</name>
+  </anime>
+  <anime anidbid="12450" tvdbid="317828" defaulttvdbseason="1">
+    <name>Zero kara Hajimeru Mahou no Sho</name>
+  </anime>
+  <anime anidbid="12483" tvdbid="326337" defaulttvdbseason="1">
+    <name>Idolmaster Cinderella Girls Gekijou</name>
   </anime>
   <anime anidbid="12485" tvdbid="325373" defaulttvdbseason="1">
     <name>Oushitsu Kyoushi Haine</name>
@@ -26407,6 +26438,9 @@
   <anime anidbid="12647" tvdbid="movie" imdbid="tt6335734">
     <name>Yoru wa Mijikashi Aruke yo Otome</name>
   </anime>
+  <anime anidbid="12655" tvdbid="283189" defaulttvdbseason="4">
+    <name>Warau Salesman New</name>
+  </anime>
   <anime anidbid="12656" tvdbid="321503" defaulttvdbseason="1">
     <name>Spirit Pact</name>
   </anime>
@@ -26422,13 +26456,28 @@
   <anime anidbid="12682" tvdbid="tv special" defaulttvdbseason="1" tmdbid="432369">
     <name>6HP</name>
   </anime>
+  <anime anidbid="12703" tvdbid="301920" defaulttvdbseason="2">
+    <name>Monster Strike Anime</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-3;</mapping>
+    </mapping-list>
+  </anime>
+  <anime anidbid="12760" tvdbid="325375" defaulttvdbseason="1">
+    <name>Souryo to Majiwaru Shikiyoku no Yoru ni...</name>
+  </anime>
   <anime anidbid="12761" tvdbid="325197" defaulttvdbseason="1">
     <name>Tsuki ga Kirei</name>
   </anime>
   <anime anidbid="12825" tvdbid="311832" defaulttvdbseason="2">
     <name>Rilu Rilu Fairilu: Mahou no Kagami</name>
   </anime>
+  <anime anidbid="12900" tvdbid="315092" defaulttvdbseason="2">
+    <name>Nobunaga no Shinobi: Ise Kanegasaki Hen</name>
+  </anime>
   <anime anidbid="12915" tvdbid="music video" defaulttvdbseason="1">
     <name>Happy Party Train</name>
+  </anime>
+  <anime anidbid="12947" tvdbid="326336" defaulttvdbseason="1">
+    <name>Sekai no Yami Zukan</name>
   </anime>
 </anime-list>

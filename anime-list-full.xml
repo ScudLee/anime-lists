@@ -6948,7 +6948,7 @@
   <anime anidbid="2105" tvdbid="unknown" defaulttvdbseason="1">
     <name>Hanitarou Desu</name>
   </anime>
-  <anime anidbid="2106" tvdbid="unknown" defaulttvdbseason="1">
+  <anime anidbid="2106" tvdbid="283189" defaulttvdbseason="a">
     <name>Warau Salesman</name>
   </anime>
   <anime anidbid="2107" tvdbid="251801" defaulttvdbseason="1">
@@ -20969,6 +20969,12 @@
   <anime anidbid="7848" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
     <name>Ikkyuu-san Tora Taiji</name>
   </anime>
+  <anime anidbid="7849" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Kateikyoushi no Onee-san 2 The Animation: H no Hensachi Agechaimasu</name>
+  </anime>
+  <anime anidbid="7850" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Oni Chichi 2</name>
+  </anime>
   <anime anidbid="7873" tvdbid="219811" defaulttvdbseason="1">
     <name>Fractale</name>
   </anime>
@@ -21955,6 +21961,9 @@
   </anime>
   <anime anidbid="8283" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Kipling Jr.</name>
+  </anime>
+  <anime anidbid="8285" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Oni Chichi: Re-birth</name>
   </anime>
   <anime anidbid="8286" tvdbid="82788" defaulttvdbseason="3">
     <name>Natsume Yuujinchou San</name>
@@ -28334,6 +28343,9 @@
   <anime anidbid="11148" tvdbid="299326" defaulttvdbseason="1">
     <name>Valkyrie Drive: Mermaid</name>
   </anime>
+  <anime anidbid="11149" tvdbid="325022" defaulttvdbseason="1">
+    <name>Pikaia!</name>
+  </anime>
   <anime anidbid="11150" tvdbid="79886" defaulttvdbseason="3">
     <name>Aquarion Logos</name>
   </anime>
@@ -28555,6 +28567,9 @@
   </anime>
   <anime anidbid="11268" tvdbid="281249" defaulttvdbseason="0" episodeoffset="2">
     <name>OVA Tokyo Ghoul</name>
+  </anime>
+  <anime anidbid="11269" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Oni Chichi: Refresh</name>
   </anime>
   <anime anidbid="11270" tvdbid="303729" defaulttvdbseason="1">
     <name>Haruchika: Haruta to Chika wa Seishun Suru</name>
@@ -29728,6 +29743,9 @@
   <anime anidbid="12485" tvdbid="325373" defaulttvdbseason="1">
     <name>Oushitsu Kyoushi Haine</name>
   </anime>
+  <anime anidbid="12501" tvdbid="284263" defaulttvdbseason="0" episodeoffset="2" imdbid="tt6728412">
+    <name>Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou</name>
+  </anime>
   <anime anidbid="12502" tvdbid="319998" defaulttvdbseason="1">
     <name>Schoolgirl Strikers: Animation Channel</name>
   </anime>
@@ -29791,7 +29809,7 @@
   <anime anidbid="12647" tvdbid="movie" imdbid="tt6335734">
     <name>Yoru wa Mijikashi Aruke yo Otome</name>
   </anime>
-  <anime anidbid="12655" tvdbid="283189" defaulttvdbseason="4">
+  <anime anidbid="12655" tvdbid="326439" defaulttvdbseason="1">
     <name>Warau Salesman New</name>
   </anime>
   <anime anidbid="12656" tvdbid="321503" defaulttvdbseason="1">
@@ -29824,6 +29842,9 @@
   <anime anidbid="12761" tvdbid="325197" defaulttvdbseason="1">
     <name>Tsuki ga Kirei</name>
   </anime>
+  <anime anidbid="12789" tvdbid="325022" defaulttvdbseason="2">
+    <name>Pikaia!!</name>
+  </anime>
   <anime anidbid="12825" tvdbid="311832" defaulttvdbseason="2">
     <name>Rilu Rilu Fairilu: Mahou no Kagami</name>
   </anime>
@@ -29835,5 +29856,11 @@
   </anime>
   <anime anidbid="12947" tvdbid="326336" defaulttvdbseason="1">
     <name>Sekai no Yami Zukan</name>
+  </anime>
+  <anime anidbid="13050" tvdbid="257755" defaulttvdbseason="6">
+    <name>Furusato Meguri Nippon no Mukashibanashi</name>
+  </anime>
+  <anime anidbid="13071" tvdbid="283243" defaulttvdbseason="2">
+    <name>World Fool News Part II</name>
   </anime>
 </anime-list>

@@ -20856,7 +20856,7 @@
   <anime anidbid="9015" tvdbid="259649" defaulttvdbseason="1">
     <name>Hagure Yuusha no Aesthetica</name>
   </anime>
-  <anime anidbid="9016" tvdbid="257755" defaulttvdbseason="1">
+  <anime anidbid="9016" tvdbid="257755" defaulttvdbseason="a">
     <name>Furusato Saisei Nippon no Mukashibanashi</name>
   </anime>
   <anime anidbid="9019" tvdbid="81983" defaulttvdbseason="0" imdbid="unknown">
@@ -23853,6 +23853,8 @@
   </anime>
   <anime anidbid="10515" tvdbid="282059" defaulttvdbseason="1">
     <name>PriPara</name>
+    <mapping anidbseason="1" tvdbseason="2" start="39" end="89" offset="-38"/>
+    <mapping anidbseason="1" tvdbseason="3" start="90" end="140" offset="-89"/>
   </anime>
   <anime anidbid="10517" tvdbid="281947" defaulttvdbseason="1">
     <name>Shounen Hollywood: Holly Stage for 49</name>
@@ -25949,6 +25951,9 @@
   <anime anidbid="11971" tvdbid="315091" defaulttvdbseason="1">
     <name>Tiger Mask W</name>
   </anime>
+  <anime anidbid="11974" tvdbid="321670" defaulttvdbseason="0">
+    <name>Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka Gaiden: Sword Oratoria</name>
+  </anime>
   <anime anidbid="11975" tvdbid="hentai" defaulttvdbseason="1">
     <name>Chijoku no Seifuku</name>
   </anime>
@@ -26068,6 +26073,9 @@
   </anime>
   <anime anidbid="12057" tvdbid="319997" defaulttvdbseason="1">
     <name>Kemono Friends</name>
+  </anime>
+  <anime anidbid="12058" tvdbid="312664" defaulttvdbseason="0" imdbid="tt6047388">
+    <name>Planetarian: Hoshi no Hito</name>
   </anime>
   <anime anidbid="12059" tvdbid="317802" defaulttvdbseason="1">
     <name>Www.Working!!</name>
@@ -26279,6 +26287,9 @@
   <anime anidbid="12323" tvdbid="317391" defaulttvdbseason="0">
     <name>Ao Oni The Animation</name>
   </anime>
+  <anime anidbid="12324" tvdbid="318951" defaulttvdbseason="0">
+    <name>Sin: Nanatsu no Taizai</name>
+  </anime>
   <anime anidbid="12327" tvdbid="319454" defaulttvdbseason="1">
     <name>Seiren</name>
   </anime>
@@ -26408,6 +26419,9 @@
   <anime anidbid="12550" tvdbid="319995" defaulttvdbseason="1">
     <name>One Room</name>
   </anime>
+  <anime anidbid="12551" tvdbid="325192" defaulttvdbseason="1">
+    <name>Room Mate</name>
+  </anime>
   <anime anidbid="12552" tvdbid="hentai" defaulttvdbseason="1">
     <name>Taimanin Asagi 3</name>
   </anime>
@@ -26431,6 +26445,9 @@
   </anime>
   <anime anidbid="12602" tvdbid="321536" defaulttvdbseason="1">
     <name>Sakura Quest</name>
+  </anime>
+  <anime anidbid="12608" tvdbid="321531" defaulttvdbseason="1">
+    <name>Kenka Banchou Otome: Girl Beats Boys</name>
   </anime>
   <anime anidbid="12621" tvdbid="311149" defaulttvdbseason="2">
     <name>Days 2</name>
@@ -26461,6 +26478,9 @@
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-3;</mapping>
     </mapping-list>
+  </anime>
+  <anime anidbid="12737" tvdbid="282059" defaulttvdbseason="4">
+    <name>Idol Time PriPara</name>
   </anime>
   <anime anidbid="12760" tvdbid="325375" defaulttvdbseason="1">
     <name>Souryo to Majiwaru Shikiyoku no Yoru ni...</name>

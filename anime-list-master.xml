@@ -24795,7 +24795,7 @@
   <anime anidbid="9015" tvdbid="259649" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Hagure Yuusha no Aesthetica</name>
   </anime>
-  <anime anidbid="9016" tvdbid="257755" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="9016" tvdbid="257755" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>Furusato Saisei Nippon no Mukashibanashi</name>
   </anime>
   <anime anidbid="9018" tvdbid="unknown" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
@@ -28629,6 +28629,8 @@
   </anime>
   <anime anidbid="10515" tvdbid="282059" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>PriPara</name>
+    <mapping anidbseason="1" tvdbseason="2" start="39" end="89" offset="-38"/>
+    <mapping anidbseason="1" tvdbseason="3" start="90" end="140" offset="-89"/>
   </anime>
   <anime anidbid="10517" tvdbid="281947" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Shounen Hollywood: Holly Stage for 49</name>
@@ -32513,7 +32515,7 @@
   <anime anidbid="11972" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Nuwa Chengzhang Riji</name>
   </anime>
-  <anime anidbid="11974" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="11974" tvdbid="321670" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka Gaiden: Sword Oratoria</name>
   </anime>
   <anime anidbid="11975" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -32732,7 +32734,7 @@
   <anime anidbid="12057" tvdbid="319997" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Kemono Friends</name>
   </anime>
-  <anime anidbid="12058" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12058" tvdbid="312664" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt6047388">
     <name>Planetarian: Hoshi no Hito</name>
   </anime>
   <anime anidbid="12059" tvdbid="317802" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -33359,7 +33361,7 @@
   <anime anidbid="12323" tvdbid="317391" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Ao Oni The Animation</name>
   </anime>
-  <anime anidbid="12324" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12324" tvdbid="318951" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Sin: Nanatsu no Taizai</name>
   </anime>
   <anime anidbid="12326" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -33932,7 +33934,7 @@
   <anime anidbid="12550" tvdbid="319995" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>One Room</name>
   </anime>
-  <anime anidbid="12551" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12551" tvdbid="325192" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Room Mate</name>
   </anime>
   <anime anidbid="12552" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -34097,7 +34099,7 @@
   <anime anidbid="12607" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Inazma Delivery</name>
   </anime>
-  <anime anidbid="12608" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12608" tvdbid="321531" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Kenka Banchou Otome: Girl Beats Boys</name>
   </anime>
   <anime anidbid="12609" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -34460,7 +34462,7 @@
   <anime anidbid="12735" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Tama Shichi!</name>
   </anime>
-  <anime anidbid="12737" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12737" tvdbid="282059" defaulttvdbseason="4" episodeoffset="" tmdbid="" imdbid="">
     <name>Idol Time PriPara</name>
   </anime>
   <anime anidbid="12738" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">

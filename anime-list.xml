@@ -9457,15 +9457,15 @@
   </anime>
   <anime anidbid="3468" tvdbid="79895" defaulttvdbseason="1">
     <name>Gintama</name>
-    <supplemental-info>
-      <studio>Sunrise</studio>
-    </supplemental-info>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;4-3;</mapping>
       <mapping anidbseason="1" tvdbseason="2" start="50" end="99" offset="-49"/>
       <mapping anidbseason="1" tvdbseason="3" start="100" end="150" offset="-99"/>
       <mapping anidbseason="1" tvdbseason="4" start="151" end="201" offset="-150"/>
     </mapping-list>
+    <supplemental-info>
+      <studio>Sunrise</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="3469" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0055760">
     <name>Aru Machi Kado no Monogatari</name>
@@ -23853,8 +23853,6 @@
   </anime>
   <anime anidbid="10515" tvdbid="282059" defaulttvdbseason="1">
     <name>PriPara</name>
-    <mapping anidbseason="1" tvdbseason="2" start="39" end="89" offset="-38"/>
-    <mapping anidbseason="1" tvdbseason="3" start="90" end="140" offset="-89"/>
   </anime>
   <anime anidbid="10517" tvdbid="281947" defaulttvdbseason="1">
     <name>Shounen Hollywood: Holly Stage for 49</name>
@@ -25106,7 +25104,7 @@
     <name>Victorian Maid: Maria no Houshi</name>
   </anime>
   <anime anidbid="11195" tvdbid="movie" defaulttvdbseason="1">
-    <name>Anime-gatari</name>
+    <name>Anime-Gatari</name>
   </anime>
   <anime anidbid="11197" tvdbid="278327" defaulttvdbseason="0" episodeoffset="3" tmdbid="372765">
     <name>Gekijouban Selector Destructed WIXOSS</name>
@@ -25143,7 +25141,6 @@
   </anime>
   <anime anidbid="11221" tvdbid="281275" defaulttvdbseason="2">
     <name>Saenai Heroine no Sodatekata Flat</name>
-    <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
   </anime>
   <anime anidbid="11223" tvdbid="284133" defaulttvdbseason="2">
     <name>Shingeki no Bahamut: Virgin Soul</name>
@@ -25913,7 +25910,7 @@
     <name>Orange</name>
   </anime>
   <anime anidbid="11941" tvdbid="289882" defaulttvdbseason="0">
-    <name>Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth OVA</name>
+    <name>Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth - Dungeon ni Onsen o Motomeru no wa Machigatte Iru Darouka</name>
   </anime>
   <anime anidbid="11945" tvdbid="309201" defaulttvdbseason="1">
     <name>Nyanbo!</name>
@@ -25967,7 +25964,7 @@
     <name>Watashi ga Motete Dou Sunda</name>
   </anime>
   <anime anidbid="11981" tvdbid="319410" defaulttvdbseason="1">
-    <name>Eromanga Sensei</name>
+    <name>Eromanga-sensei</name>
   </anime>
   <anime anidbid="11982" tvdbid="317128" defaulttvdbseason="0">
     <name>Mahou Tsukai no Yome: Hoshi Matsu Hito</name>
@@ -26120,7 +26117,7 @@
     <name>Honobono Log</name>
   </anime>
   <anime anidbid="12103" tvdbid="81844" defaulttvdbseason="3">
-    <name>Koneko no Chii: Ponponra Daibouken</name>
+    <name>Koneko no Chii: Ponponraa Daibouken</name>
   </anime>
   <anime anidbid="12105" tvdbid="316334" defaulttvdbseason="1">
     <name>Kiitarou Shounen no Youkai Enikki</name>

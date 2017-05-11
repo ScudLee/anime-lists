@@ -19266,7 +19266,7 @@
   <anime anidbid="7209" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Yume Miru Kikai</name>
   </anime>
-  <anime anidbid="7210" tvdbid="web">
+  <anime anidbid="7210" tvdbid="web" defaulttvdbseason="1">
     <name>Idol Ace</name>
   </anime>
   <anime anidbid="7213" tvdbid="unknown" defaulttvdbseason="1">
@@ -19296,7 +19296,7 @@
   <anime anidbid="7222" tvdbid="hentai" defaulttvdbseason="1">
     <name>Haha Sange</name>
   </anime>
-  <anime anidbid="7223" tvdbid="OVA">
+  <anime anidbid="7223" tvdbid="OVA" defaulttvdbseason="1">
     <name>Kiss wa Hitomi ni Shite</name>
   </anime>
   <anime anidbid="7224" tvdbid="173211" defaulttvdbseason="1">
@@ -24115,7 +24115,7 @@
   <anime anidbid="9052" tvdbid="OVA" defaulttvdbseason="1">
     <name>Ano Yama ni Noborou yo</name>
   </anime>
-  <anime anidbid="9053" tvdbid="OVA">
+  <anime anidbid="9053" tvdbid="OVA" defaulttvdbseason="1">
     <name>Kagayake! Yuujou no V Sign</name>
   </anime>
   <anime anidbid="9063" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
@@ -29560,6 +29560,9 @@
   <anime anidbid="12237" tvdbid="283930" defaulttvdbseason="4">
     <name>Kaitou Joker 4</name>
   </anime>
+  <anime anidbid="12238" tvdbid="325208" defaulttvdbseason="1">
+    <name>Shuumatsu Nani Shitemasuka? Isogashii Desuka? Sukutte Moratte Ii Desuka?</name>
+  </anime>
   <anime anidbid="12239" tvdbid="hentai" defaulttvdbseason="1">
     <name>Tsumamigui 3 The Animation</name>
   </anime>
@@ -29806,7 +29809,7 @@
   <anime anidbid="12621" tvdbid="311149" defaulttvdbseason="2">
     <name>Days 2</name>
   </anime>
-  <anime anidbid="12647" tvdbid="movie" imdbid="tt6335734">
+  <anime anidbid="12647" tvdbid="movie" defaulttvdbseason="1" imdbid="tt6335734">
     <name>Yoru wa Mijikashi Aruke yo Otome</name>
   </anime>
   <anime anidbid="12655" tvdbid="326439" defaulttvdbseason="1">

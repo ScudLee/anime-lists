@@ -14395,6 +14395,7 @@
     <name>Clannad</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="1">;1-23;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;2-2;</mapping>
     </mapping-list>
     <before>;1-23;</before>
   </anime>
@@ -15912,6 +15913,7 @@
     <name>Clannad: After Story</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="2">;1-23;2-24;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;3-3;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="5842" tvdbid="82834" defaulttvdbseason="1">

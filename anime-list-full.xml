@@ -26257,10 +26257,10 @@
   <anime anidbid="10007" tvdbid="273007" defaulttvdbseason="1">
     <name>Super Seishun Brothers</name>
   </anime>
-  <anime anidbid="10008" tvdbid="262098" defaulttvdbseason="0">
+  <anime anidbid="10008" tvdbid="262098" defaulttvdbseason="0" imdbid="tt5284414">
     <name>Girls und Panzer Gekijouban</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-36;2-38;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-36;2-38;3-39;4-40;</mapping>
       <mapping anidbseason="1" tvdbseason="0">;1-37;</mapping>
     </mapping-list>
   </anime>
@@ -29046,6 +29046,12 @@
   </anime>
   <anime anidbid="11780" tvdbid="303955" defaulttvdbseason="1">
     <name>Luck and Logic</name>
+  </anime>
+  <anime anidbid="11782" tvdbid="80304" defaulttvdbseason="0" imdbid="tt6574146">
+    <name>Blame! (2017)</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-3</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="11783" tvdbid="305104" defaulttvdbseason="1">
     <name>Tanaka-kun wa Itsumo Kedaruge</name>

@@ -10901,7 +10901,7 @@
   <anime anidbid="3547" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Super Zugan</name>
   </anime>
-  <anime anidbid="3548" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="3548" tvdbid="312723" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Bonobono (1995)</name>
   </anime>
   <anime anidbid="3549" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -20440,7 +20440,7 @@
   <anime anidbid="7522" tvdbid="223711" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Koi Suru Boukun</name>
   </anime>
-  <anime anidbid="7523" tvdbid="unknown" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
+  <anime anidbid="7523" tvdbid="312723" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
     <name>Bonobono</name>
   </anime>
   <anime anidbid="7525" tvdbid="194961" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -24798,7 +24798,7 @@
   <anime anidbid="9016" tvdbid="257755" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>Furusato Saisei Nippon no Mukashibanashi</name>
   </anime>
-  <anime anidbid="9018" tvdbid="unknown" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
+  <anime anidbid="9018" tvdbid="312723" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="unknown">
     <name>Bonobono: Kumomo no Ki no Koto</name>
   </anime>
   <anime anidbid="9019" tvdbid="81983" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
@@ -29744,7 +29744,7 @@
   <anime anidbid="10936" tvdbid="289903" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Kyoukai no Rinne</name>
   </anime>
-  <anime anidbid="10937" tvdbid="291565" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="10937" tvdbid="328719" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt5323662">
     <name>Eiga Koe no Katachi</name>
   </anime>
   <anime anidbid="10938" tvdbid="295243" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -32167,8 +32167,9 @@
   <anime anidbid="11842" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Pokemon The Movie XY&amp;Z: Volcanion to Karakuri no Magiana</name>
   </anime>
-  <anime anidbid="11843" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="11843" tvdbid="312723" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Bonobono (2016)</name>
+    <mapping anidbseason="1" tvdbseason="3" start="51" end="60" offset="-50"/>
   </anime>
   <anime anidbid="11844" tvdbid="254653" defaulttvdbseason="0" episodeoffset="14" tmdbid="" imdbid="">
     <name>High School DxD Born: Yomigaeranai Fushichou</name>
@@ -33559,7 +33560,7 @@
   <anime anidbid="12409" tvdbid="316998" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Pokemon Generations</name>
   </anime>
-  <anime anidbid="12410" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12410" tvdbid="327035" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>100% Pascal-sensei</name>
   </anime>
   <anime anidbid="12411" tvdbid="319456" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -34480,7 +34481,7 @@
   <anime anidbid="12744" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Zekkyou Gakkyuu</name>
   </anime>
-  <anime anidbid="12745" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12745" tvdbid="327037" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Puripuri Chii-chan!!</name>
   </anime>
   <anime anidbid="12746" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">

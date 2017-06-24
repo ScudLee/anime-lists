@@ -8164,7 +8164,7 @@
     <name>4-Day Weekend</name>
   </anime>
   <anime anidbid="2760" tvdbid="OVA" defaulttvdbseason="1">
-    <name>Super Kid</name>
+    <name>Super Child</name>
   </anime>
   <anime anidbid="2761" tvdbid="76894" defaulttvdbseason="0" imdbid="tt0403703">
     <name>Yuu Gi Ou: Duel Monsters - Hikari no Pyramid</name>
@@ -15364,7 +15364,7 @@
     <name>Nezumi no Rusuban</name>
   </anime>
   <anime anidbid="6691" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0419177">
-    <name>Doubutsu Mura no Sports Day</name>
+    <name>Taiiku Day</name>
   </anime>
   <anime anidbid="6692" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0443299">
     <name>Ooatari Sora no Entaku</name>
@@ -24738,7 +24738,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="10954" tvdbid="278157" defaulttvdbseason="0">
-    <name>Haikyuu!! (2015)</name>
+    <name>Haikyuu!! (2014)</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
@@ -25353,7 +25353,7 @@
   <anime anidbid="11372" tvdbid="299497" defaulttvdbseason="1">
     <name>Kidou Senshi Gundam: Tekketsu no Orphans</name>
   </anime>
-  <anime anidbid="11376" tvdbid="movie" defaulttvdbseason="1" tmdbid="374853">
+  <anime anidbid="11376" tvdbid="movie" defaulttvdbseason="1" imdbid="tt5889338">
     <name>Zutto Mae kara Suki Deshita. Kokuhaku Jikkouiinkai</name>
   </anime>
   <anime anidbid="11395" tvdbid="music video" defaulttvdbseason="1">
@@ -25806,7 +25806,6 @@
   </anime>
   <anime anidbid="11843" tvdbid="312723" defaulttvdbseason="2">
     <name>Bonobono (2016)</name>
-    <mapping anidbseason="1" tvdbseason="3" start="51" end="60" offset="-50"/>
   </anime>
   <anime anidbid="11844" tvdbid="254653" defaulttvdbseason="0" episodeoffset="14">
     <name>High School DxD Born: Yomigaeranai Fushichou</name>
@@ -25964,6 +25963,9 @@
   <anime anidbid="11954" tvdbid="hentai" defaulttvdbseason="1">
     <name>Nudist Beach ni Shuugakuryokou de!! The Animation</name>
   </anime>
+  <anime anidbid="11955" tvdbid="254667" defaulttvdbseason="4">
+    <name>Senki Zesshou Symphogear AXZ</name>
+  </anime>
   <anime anidbid="11960" tvdbid="277063" defaulttvdbseason="3">
     <name>Future Card Buddyfight DDD</name>
   </anime>
@@ -26057,6 +26059,9 @@
   <anime anidbid="12014" tvdbid="309530" defaulttvdbseason="1">
     <name>91 Days</name>
   </anime>
+  <anime anidbid="12018" tvdbid="329987" defaulttvdbseason="1">
+    <name>Hina Logi: From Luck &amp; Logic</name>
+  </anime>
   <anime anidbid="12019" tvdbid="309493" defaulttvdbseason="1">
     <name>Cheer Danshi!!</name>
   </anime>
@@ -26065,6 +26070,9 @@
   </anime>
   <anime anidbid="12022" tvdbid="305101" defaulttvdbseason="0">
     <name>Super Lovers (2017)</name>
+  </anime>
+  <anime anidbid="12027" tvdbid="327574" defaulttvdbseason="1">
+    <name>Katsugeki: Touken Ranbu</name>
   </anime>
   <anime anidbid="12030" tvdbid="304479" defaulttvdbseason="2">
     <name>Reikenzan: Eichi e no Shikaku</name>
@@ -26092,6 +26100,9 @@
   </anime>
   <anime anidbid="12040" tvdbid="316844" defaulttvdbseason="1">
     <name>Shakunetsu no Takkyuu Musume</name>
+  </anime>
+  <anime anidbid="12041" tvdbid="movie" defaulttvdbseason="1" imdbid="tt6327570">
+    <name>Suki ni Naru Sono Shunkan o. Kokuhaku Jikkouiinkai</name>
   </anime>
   <anime anidbid="12042" tvdbid="317436" defaulttvdbseason="1">
     <name>Dream-Fes!</name>
@@ -26139,7 +26150,7 @@
     <name>Hirune-hime: Shiranai Watashi no Monogatari</name>
   </anime>
   <anime anidbid="12091" tvdbid="318893" defaulttvdbseason="1">
-    <name>Kobayashi-san Chi no Maid Dragon</name>
+    <name>Kobayashi-san Chi no Maidragon</name>
   </anime>
   <anime anidbid="12095" tvdbid="313533" defaulttvdbseason="1">
     <name>Fudanshi Koukou Seikatsu</name>
@@ -26333,6 +26344,9 @@
   <anime anidbid="12329" tvdbid="321696" defaulttvdbseason="1">
     <name>Kabukibu!</name>
   </anime>
+  <anime anidbid="12332" tvdbid="movie" defaulttvdbseason="1" imdbid="tt6799508,tt6799518">
+    <name>Gekijouban Free! Timeless Medley</name>
+  </anime>
   <anime anidbid="12344" tvdbid="305074" defaulttvdbseason="0">
     <name>Boku no Hero Academia (2016)</name>
   </anime>
@@ -26407,6 +26421,9 @@
   </anime>
   <anime anidbid="12424" tvdbid="314361" defaulttvdbseason="0">
     <name>Danganronpa 3: The End of Kibougamine Gakuen - Kibou Hen - Kibou no Gakuen to Zetsubou no Kokousei</name>
+  </anime>
+  <anime anidbid="12425" tvdbid="327507" defaulttvdbseason="1">
+    <name>Knight's &amp; Magic</name>
   </anime>
   <anime anidbid="12426" tvdbid="289903" defaulttvdbseason="3">
     <name>Kyoukai no Rinne (2017)</name>
@@ -26522,6 +26539,9 @@
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-3;</mapping>
     </mapping-list>
   </anime>
+  <anime anidbid="12704" tvdbid="326332" defaulttvdbseason="1">
+    <name>Fate/Apocrypha</name>
+  </anime>
   <anime anidbid="12737" tvdbid="282059" defaulttvdbseason="4">
     <name>Idol Time PriPara</name>
   </anime>
@@ -26536,6 +26556,9 @@
   </anime>
   <anime anidbid="12789" tvdbid="325022" defaulttvdbseason="2">
     <name>Pikaia!!</name>
+  </anime>
+  <anime anidbid="12819" tvdbid="309532" defaulttvdbseason="2">
+    <name>New Game!!</name>
   </anime>
   <anime anidbid="12825" tvdbid="311832" defaulttvdbseason="2">
     <name>Rilu Rilu Fairilu: Mahou no Kagami</name>

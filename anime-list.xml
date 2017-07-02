@@ -18125,7 +18125,7 @@
   <anime anidbid="7880" tvdbid="movie" defaulttvdbseason="1" imdbid="tt1788392">
     <name>Kuma no Gakkou: Jackie to Katie</name>
   </anime>
-  <anime anidbid="7882" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
+  <anime anidbid="7882" tvdbid="movie" defaulttvdbseason="1" imdbid="tt5740532">
     <name>Junod</name>
   </anime>
   <anime anidbid="7883" tvdbid="79099" defaulttvdbseason="0">
@@ -22725,7 +22725,7 @@
   <anime anidbid="9904" tvdbid="82788" defaulttvdbseason="0">
     <name>Natsume Yuujinchou: Nyanko-sensei to Hajimete no Otsukai</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-1;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="9905" tvdbid="272317" defaulttvdbseason="1">
@@ -26052,6 +26052,9 @@
   </anime>
   <anime anidbid="12009" tvdbid="82788" defaulttvdbseason="5">
     <name>Natsume Yuujinchou Go</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;2-3;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="12012" tvdbid="317004" defaulttvdbseason="1">
     <name>Yuuri!!! on Ice</name>
@@ -26136,6 +26139,9 @@
   </anime>
   <anime anidbid="12079" tvdbid="303728" defaulttvdbseason="0">
     <name>Niji-iro Days OAD</name>
+  </anime>
+  <anime anidbid="12080" tvdbid="329825" defaulttvdbseason="1">
+    <name>Battle Girl High School</name>
   </anime>
   <anime anidbid="12085" tvdbid="312664" defaulttvdbseason="1">
     <name>Planetarian: Chiisana Hoshi no Yume</name>
@@ -26299,6 +26305,9 @@
   <anime anidbid="12284" tvdbid="movie" defaulttvdbseason="1" imdbid="tt6210806">
     <name>Monster Strike The Movie: Hajimari no Basho e</name>
   </anime>
+  <anime anidbid="12287" tvdbid="329415" defaulttvdbseason="1">
+    <name>Saiyuuki Reload Blast</name>
+  </anime>
   <anime anidbid="12290" tvdbid="318984" defaulttvdbseason="1">
     <name>Gabriel Dropout</name>
   </anime>
@@ -26379,6 +26388,9 @@
   </anime>
   <anime anidbid="12384" tvdbid="317682" defaulttvdbseason="1">
     <name>To Be Hero</name>
+  </anime>
+  <anime anidbid="12385" tvdbid="329820" defaulttvdbseason="1">
+    <name>Isekai Shokudou</name>
   </anime>
   <anime anidbid="12386" tvdbid="hentai" defaulttvdbseason="1">
     <name>Seikatsu Shidou!! Anime Edition</name>
@@ -26467,6 +26479,9 @@
   <anime anidbid="12526" tvdbid="324709" defaulttvdbseason="1">
     <name>Alice to Zouroku</name>
   </anime>
+  <anime anidbid="12542" tvdbid="329823" defaulttvdbseason="1">
+    <name>Vatican Kiseki Chousakan</name>
+  </anime>
   <anime anidbid="12547" tvdbid="hentai" defaulttvdbseason="1">
     <name>Shikkoku no Shaga The Animation</name>
   </anime>
@@ -26497,6 +26512,9 @@
   <anime anidbid="12575" tvdbid="271591" defaulttvdbseason="4">
     <name>Yami Shibai 4</name>
   </anime>
+  <anime anidbid="12576" tvdbid="327010" defaulttvdbseason="1">
+    <name>18 If</name>
+  </anime>
   <anime anidbid="12593" tvdbid="music video" defaulttvdbseason="1">
     <name>Compiler: Music Clips in Trackdown</name>
   </anime>
@@ -26515,6 +26533,9 @@
   <anime anidbid="12647" tvdbid="movie" defaulttvdbseason="1" imdbid="tt6335734">
     <name>Yoru wa Mijikashi Aruke yo Otome</name>
   </anime>
+  <anime anidbid="12652" tvdbid="321691" defaulttvdbseason="1">
+    <name>Dive!!</name>
+  </anime>
   <anime anidbid="12655" tvdbid="326439" defaulttvdbseason="1">
     <name>Warau Salesman New</name>
   </anime>
@@ -26527,8 +26548,17 @@
   <anime anidbid="12661" tvdbid="321285" defaulttvdbseason="1">
     <name>Boruto: Naruto Next Generations</name>
   </anime>
+  <anime anidbid="12673" tvdbid="328826" defaulttvdbseason="1">
+    <name>Nanamaru Sanbatsu</name>
+  </anime>
   <anime anidbid="12674" tvdbid="319999" defaulttvdbseason="0">
     <name>Onihei: Sono Otoko, Hasegawa Heizou</name>
+  </anime>
+  <anime anidbid="12675" tvdbid="82788" defaulttvdbseason="6">
+    <name>Natsume Yuujinchou Roku</name>
+  </anime>
+  <anime anidbid="12681" tvdbid="326109" defaulttvdbseason="1">
+    <name>Made in Abyss</name>
   </anime>
   <anime anidbid="12682" tvdbid="tv special" defaulttvdbseason="1" tmdbid="432369">
     <name>6HP</name>
@@ -26548,20 +26578,38 @@
   <anime anidbid="12745" tvdbid="327037" defaulttvdbseason="1">
     <name>Puripuri Chii-chan!!</name>
   </anime>
+  <anime anidbid="12746" tvdbid="329829" defaulttvdbseason="1">
+    <name>Action Heroine Cheer Fruits</name>
+  </anime>
   <anime anidbid="12760" tvdbid="325375" defaulttvdbseason="1">
     <name>Souryo to Majiwaru Shikiyoku no Yoru ni...</name>
   </anime>
   <anime anidbid="12761" tvdbid="325197" defaulttvdbseason="1">
     <name>Tsuki ga Kirei</name>
   </anime>
+  <anime anidbid="12762" tvdbid="328823" defaulttvdbseason="1">
+    <name>Keppeki Danshi! Aoyama-kun</name>
+  </anime>
   <anime anidbid="12789" tvdbid="325022" defaulttvdbseason="2">
     <name>Pikaia!!</name>
+  </anime>
+  <anime anidbid="12803" tvdbid="329821" defaulttvdbseason="1">
+    <name>Aho Girl</name>
+  </anime>
+  <anime anidbid="12814" tvdbid="328822" defaulttvdbseason="1">
+    <name>Tsurezure Children</name>
   </anime>
   <anime anidbid="12819" tvdbid="309532" defaulttvdbseason="2">
     <name>New Game!!</name>
   </anime>
   <anime anidbid="12825" tvdbid="311832" defaulttvdbseason="2">
     <name>Rilu Rilu Fairilu: Mahou no Kagami</name>
+  </anime>
+  <anime anidbid="12834" tvdbid="327572" defaulttvdbseason="1">
+    <name>Kakegurui</name>
+  </anime>
+  <anime anidbid="12835" tvdbid="327015" defaulttvdbseason="1">
+    <name>Koi to Uso</name>
   </anime>
   <anime anidbid="12900" tvdbid="315092" defaulttvdbseason="2">
     <name>Nobunaga no Shinobi: Ise Kanegasaki Hen</name>
@@ -26572,10 +26620,37 @@
   <anime anidbid="12947" tvdbid="326336" defaulttvdbseason="1">
     <name>Sekai no Yami Zukan</name>
   </anime>
+  <anime anidbid="12985" tvdbid="329828" defaulttvdbseason="1">
+    <name>Clione no Akari</name>
+  </anime>
+  <anime anidbid="13017" tvdbid="329827" defaulttvdbseason="1">
+    <name>Youkai Apato no Yuuga na Nichijou</name>
+  </anime>
+  <anime anidbid="13019" tvdbid="327718" defaulttvdbseason="1">
+    <name>Kidou Senshi Gundam: Twilight Axis</name>
+  </anime>
   <anime anidbid="13050" tvdbid="257755" defaulttvdbseason="6">
     <name>Furusato Meguri Nippon no Mukashibanashi</name>
   </anime>
   <anime anidbid="13071" tvdbid="283243" defaulttvdbseason="2">
     <name>World Fool News Part II</name>
+  </anime>
+  <anime anidbid="13117" tvdbid="329993" defaulttvdbseason="1">
+    <name>Konbini Kareshi</name>
+  </anime>
+  <anime anidbid="13153" tvdbid="329822" defaulttvdbseason="1">
+    <name>Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e</name>
+  </anime>
+  <anime anidbid="13192" tvdbid="330086" defaulttvdbseason="1">
+    <name>Skirt no Naka wa Kedamono Deshita.</name>
+  </anime>
+  <anime anidbid="13197" tvdbid="330138" defaulttvdbseason="1">
+    <name>Monster Sonic! D'Artagnan no Idol Sengen</name>
+  </anime>
+  <anime anidbid="13198" tvdbid="329326" defaulttvdbseason="1">
+    <name>Enmusubi no Youko-chan</name>
+  </anime>
+  <anime anidbid="13219" tvdbid="271591" defaulttvdbseason="5">
+    <name>Yami Shibai 5</name>
   </anime>
 </anime-list>

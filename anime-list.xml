@@ -22514,6 +22514,10 @@
   </anime>
   <anime anidbid="9805" tvdbid="262856" defaulttvdbseason="2">
     <name>Teekyuu (2013)</name>
+    <mapping-list>
+        <mapping anidbseason="1" tvdbseason="3" start="13" end="24" offset="-12"/>
+        <mapping anidbseason="0" tvdbseason="0">;5-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="9807" tvdbid="262094" defaulttvdbseason="2">
     <name>Magi: The Kingdom of Magic</name>
@@ -24443,6 +24447,12 @@
   </anime>
   <anime anidbid="10820" tvdbid="262856" defaulttvdbseason="4">
     <name>Teekyuu (2015)</name>
+    <mapping-list>
+        <mapping anidbseason="1" tvdbseason="5" start="13" end="24" offset="-12"/>
+        <mapping anidbseason="1" tvdbseason="6" start="25" end="36" offset="-24"/>
+        <mapping anidbseason="1" tvdbseason="7" start="37" end="48" offset="-36"/>
+        <mapping anidbseason="0" tvdbseason="0">;1-5;2-6;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="10824" tvdbid="293491" defaulttvdbseason="0" imdbid="tt4337072">
     <name>Koukaku Kidoutai: Shin Gekijouban</name>
@@ -26485,7 +26495,7 @@
   <anime anidbid="12494" tvdbid="327007" defaulttvdbseason="1">
     <name>Gamers!</name>
   </anime>
-  <anime anidbid="12501" tvdbid="284263" defaulttvdbseason="0" episodeoffset="2" imdbid="tt6728412">
+  <anime anidbid="12501" tvdbid="284263" defaulttvdbseason="0" episodeoffset="2" imdbid="tt6728412,tt6903382,tt7092940">
     <name>Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou</name>
   </anime>
   <anime anidbid="12502" tvdbid="319998" defaulttvdbseason="1">
@@ -26500,11 +26510,17 @@
   <anime anidbid="12519" tvdbid="tv special" defaulttvdbseason="1" imdbid="tt6213810">
     <name>Fate/Grand Order: First Order</name>
   </anime>
+  <anime anidbid="12524" tvdbid="330087" defaulttvdbseason="1">
+    <name>Ikemen Sengoku: Toki o Kakeru ga Koi wa Hajimaranai</name>
+  </anime>
   <anime anidbid="12526" tvdbid="324709" defaulttvdbseason="1">
     <name>Alice to Zouroku</name>
   </anime>
   <anime anidbid="12542" tvdbid="329823" defaulttvdbseason="1">
     <name>Vatican Kiseki Chousakan</name>
+  </anime>
+  <anime anidbid="12546" tvdbid="327008" defaulttvdbseason="1">
+    <name>Netsuzou Trap: NTR</name>
   </anime>
   <anime anidbid="12547" tvdbid="hentai" defaulttvdbseason="1">
     <name>Shikkoku no Shaga The Animation</name>
@@ -26526,6 +26542,9 @@
   </anime>
   <anime anidbid="12553" tvdbid="321698" defaulttvdbseason="1">
     <name>Love Kome: We Love Rice</name>
+  </anime>
+  <anime anidbid="12554" tvdbid="329422" defaulttvdbseason="1">
+    <name>Hajimete no Gal</name>
   </anime>
   <anime anidbid="12558" tvdbid="315103" defaulttvdbseason="2">
     <name>Nanbaka (2017)</name>
@@ -26674,6 +26693,9 @@
   <anime anidbid="12985" tvdbid="329828" defaulttvdbseason="1">
     <name>Clione no Akari</name>
   </anime>
+  <anime anidbid="13004" tvdbid="329992" defaulttvdbseason="1">
+    <name>Isekai wa Smartphone to Tomo ni.</name>
+  </anime>
   <anime anidbid="13017" tvdbid="329827" defaulttvdbseason="1">
     <name>Youkai Apato no Yuuga na Nichijou</name>
   </anime>
@@ -26709,5 +26731,8 @@
   </anime>
   <anime anidbid="13219" tvdbid="271591" defaulttvdbseason="5">
     <name>Yami Shibai 5</name>
+  </anime>
+  <anime anidbid="13224" tvdbid="330088" defaulttvdbseason="1">
+    <name>Musekinin Galaxy Tylor</name>
   </anime>
 </anime-list>

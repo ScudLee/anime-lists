@@ -26864,6 +26864,10 @@
   </anime>
   <anime anidbid="9805" tvdbid="262856" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Teekyuu (2013)</name>
+    <mapping-list>
+        <mapping anidbseason="1" tvdbseason="3" start="13" end="24" offset="-12"/>
+        <mapping anidbseason="0" tvdbseason="0">;5-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="9806" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Magunekko</name>
@@ -29435,6 +29439,12 @@
   </anime>
   <anime anidbid="10820" tvdbid="262856" defaulttvdbseason="4" episodeoffset="" tmdbid="" imdbid="">
     <name>Teekyuu (2015)</name>
+    <mapping-list>
+        <mapping anidbseason="1" tvdbseason="5" start="13" end="24" offset="-12"/>
+        <mapping anidbseason="1" tvdbseason="6" start="25" end="36" offset="-24"/>
+        <mapping anidbseason="1" tvdbseason="7" start="37" end="48" offset="-36"/>
+        <mapping anidbseason="0" tvdbseason="0">;1-5;2-6;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="10822" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Shinkyoku no Grimoire The Animation</name>
@@ -33796,7 +33806,7 @@
   <anime anidbid="12500" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou</name>
   </anime>
-  <anime anidbid="12501" tvdbid="284263" defaulttvdbseason="0" episodeoffset="2" tmdbid="" imdbid="tt6728412">
+  <anime anidbid="12501" tvdbid="284263" defaulttvdbseason="0" episodeoffset="2" tmdbid="" imdbid="tt6728412,tt6903382,tt7092940">
     <name>Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou</name>
   </anime>
   <anime anidbid="12502" tvdbid="319998" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -33859,7 +33869,7 @@
   <anime anidbid="12523" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Lost Song</name>
   </anime>
-  <anime anidbid="12524" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12524" tvdbid="330087" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Ikemen Sengoku: Toki o Kakeru ga Koi wa Hajimaranai</name>
   </anime>
   <anime anidbid="12525" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -33925,7 +33935,7 @@
   <anime anidbid="12545" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Citrus</name>
   </anime>
-  <anime anidbid="12546" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12546" tvdbid="327008" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Netsuzou Trap: NTR</name>
   </anime>
   <anime anidbid="12547" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -33949,7 +33959,7 @@
   <anime anidbid="12553" tvdbid="321698" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Love Kome: We Love Rice</name>
   </anime>
-  <anime anidbid="12554" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12554" tvdbid="329422" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Hajimete no Gal</name>
   </anime>
   <anime anidbid="12555" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -35218,7 +35228,7 @@
   <anime anidbid="13003" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Happy Hour</name>
   </anime>
-  <anime anidbid="13004" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="13004" tvdbid="329992" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Isekai wa Smartphone to Tomo ni.</name>
   </anime>
   <anime anidbid="13005" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -35842,7 +35852,7 @@
   <anime anidbid="13223" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Mayohiga no Onee-san The Animation</name>
   </anime>
-  <anime anidbid="13224" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="13224" tvdbid="330088" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Musekinin Galaxy Tylor</name>
   </anime>
   <anime anidbid="13225" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">

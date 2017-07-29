@@ -9740,7 +9740,7 @@
     <name>Juudou Sanka</name>
   </anime>
   <anime anidbid="3111" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Chargeman Ken</name>
+    <name>Chargeman Ken!</name>
   </anime>
   <anime anidbid="3112" tvdbid="81965" defaulttvdbseason="0">
     <name>TANK S.W.A.T. 01</name>
@@ -10159,7 +10159,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="3317" tvdbid="76023" defaulttvdbseason="0" imdbid="tt0466551">
-    <name>Tsubasa Chronicle: Tori Kago no Kuni no Himegimi</name>
+    <name>Gekijouban Tsubasa Chronicle: Tori Kago no Kuni no Himegimi</name>
   </anime>
   <anime anidbid="3318" tvdbid="OVA" defaulttvdbseason="1" imdbid="tt1020870">
     <name>Boku wa Imouto ni Koi o Suru</name>
@@ -18568,7 +18568,7 @@
     <name>Shinsetsu Kachikachi Yama</name>
   </anime>
   <anime anidbid="6945" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0419943">
-    <name>Shin Saru Kani Gassen</name>
+    <name>Manguwa Shin Saru Kani Gassen</name>
   </anime>
   <anime anidbid="6946" tvdbid="hentai" defaulttvdbseason="1">
     <name>Tony's Heroine Series: Kanojo wa Hanayome Kouhosei? Cinderella Collection</name>
@@ -18710,9 +18710,6 @@
   </anime>
   <anime anidbid="6996" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Kiekaketa Monogatari-tachi no Tame ni</name>
-  </anime>
-  <anime anidbid="6997" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
-    <name>Yami o Mitsumeru Hane</name>
   </anime>
   <anime anidbid="6998" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0425120">
     <name>Ibara-hime Mata wa Nemurihime</name>
@@ -20786,9 +20783,6 @@
   <anime anidbid="7738" tvdbid="other" defaulttvdbseason="1">
     <name>Nougyou Musume!</name>
   </anime>
-  <anime anidbid="7739" tvdbid="167921" defaulttvdbseason="0" imdbid="unknown">
-    <name>Sore Ike! Anpanman: Keito no Shiro no Christmas</name>
-  </anime>
   <anime anidbid="7740" tvdbid="167921" defaulttvdbseason="0" imdbid="unknown">
     <name>Baikinman tai Baikinman!?</name>
     <mapping-list>
@@ -20870,14 +20864,8 @@
   <anime anidbid="7758" tvdbid="167921" defaulttvdbseason="0" imdbid="unknown">
     <name>Sore Ike! Anpanman: Kaiketsu Naganegiman to Doremi-hime</name>
   </anime>
-  <anime anidbid="7759" tvdbid="167921" defaulttvdbseason="0" imdbid="unknown">
-    <name>Sore Ike! Anpanman: Kieta Jam Ojisan</name>
-  </anime>
   <anime anidbid="7760" tvdbid="167921" defaulttvdbseason="0" imdbid="unknown">
     <name>Tekka no Maki-chan to Kin no Kamameshidon</name>
-  </anime>
-  <anime anidbid="7761" tvdbid="167921" defaulttvdbseason="0" imdbid="unknown">
-    <name>Sore Ike! Anpanman: Yuuki to Honoo to Christmas</name>
   </anime>
   <anime anidbid="7763" tvdbid="73011" defaulttvdbseason="1">
     <name>IGPX: Immortal Grand Prix</name>
@@ -22808,9 +22796,6 @@
       <mapping anidbseason="1" tvdbseason="0">;1-12;2-13;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="8598" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Shimanchu Mirika TV</name>
-  </anime>
   <anime anidbid="8599" tvdbid="movie" defaulttvdbseason="1" imdbid="tt1583243">
     <name>Ecophan</name>
   </anime>
@@ -23836,13 +23821,13 @@
     <name>Rui no Masaiban</name>
   </anime>
   <anime anidbid="8954" tvdbid="255898" defaulttvdbseason="1">
-    <name>Qin Shiming Yue Zhi Bai Bu Fei Jian</name>
+    <name>Qin Shi Mingyue: Bai Bu Fei Jian</name>
   </anime>
   <anime anidbid="8955" tvdbid="255898" defaulttvdbseason="2">
-    <name>Qin Shiming Yue Zhi Ye Jin Tianming</name>
+    <name>Qin Shi Mingyue: Ye Jin Tianming</name>
   </anime>
   <anime anidbid="8956" tvdbid="255898" defaulttvdbseason="3">
-    <name>Qin Shiming Yue Zhi Zhu Zi Bai Jia</name>
+    <name>Qin Shi Mingyue: Zhu Zi Bai Jia</name>
   </anime>
   <anime anidbid="8957" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
     <name>Eiga Jewelpet Sweets Dance Princess</name>
@@ -24260,7 +24245,7 @@
     <before>;1-14;2-15;3-16;</before>
   </anime>
   <anime anidbid="9140" tvdbid="tv special" defaulttvdbseason="1" tmdbid="85842">
-    <name>Watashi no Coffee Samurai: Jihanki Teki na Kareshi</name>
+    <name>Murim Ilgeomui Sasaenghwal</name>
   </anime>
   <anime anidbid="9142" tvdbid="movie" defaulttvdbseason="1" imdbid="tt2193271">
     <name>Xi Yang Yang Yu Hui Tai Lang Zhi Kaixin Chuang Long Nian</name>
@@ -25779,8 +25764,8 @@
   <anime anidbid="9805" tvdbid="262856" defaulttvdbseason="2">
     <name>Teekyuu (2013)</name>
     <mapping-list>
-        <mapping anidbseason="1" tvdbseason="3" start="13" end="24" offset="-12"/>
-        <mapping anidbseason="0" tvdbseason="0">;5-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;5-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="3" start="13" end="24" offset="-12"/>
     </mapping-list>
   </anime>
   <anime anidbid="9807" tvdbid="262094" defaulttvdbseason="2">
@@ -27604,7 +27589,7 @@
     <name>Eiga Happiness Charge Precure! Ningyou no Kuni no Ballerina</name>
   </anime>
   <anime anidbid="10725" tvdbid="283942" defaulttvdbseason="1">
-    <name>Akatsuki no Yona: The Girl Standing in the Blush of Dawn</name>
+    <name>Akatsuki no Yona</name>
   </anime>
   <anime anidbid="10726" tvdbid="272697" defaulttvdbseason="0">
     <name>Gekijouban Kyoukai no Kanata: I'll Be Here</name>
@@ -27772,10 +27757,10 @@
   <anime anidbid="10820" tvdbid="262856" defaulttvdbseason="4">
     <name>Teekyuu (2015)</name>
     <mapping-list>
-        <mapping anidbseason="1" tvdbseason="5" start="13" end="24" offset="-12"/>
-        <mapping anidbseason="1" tvdbseason="6" start="25" end="36" offset="-24"/>
-        <mapping anidbseason="1" tvdbseason="7" start="37" end="48" offset="-36"/>
-        <mapping anidbseason="0" tvdbseason="0">;1-5;2-6;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-5;2-6;</mapping>
+      <mapping anidbseason="1" tvdbseason="5" start="13" end="24" offset="-12"/>
+      <mapping anidbseason="1" tvdbseason="6" start="25" end="36" offset="-24"/>
+      <mapping anidbseason="1" tvdbseason="7" start="37" end="48" offset="-36"/>
     </mapping-list>
   </anime>
   <anime anidbid="10824" tvdbid="293491" defaulttvdbseason="0" imdbid="tt4337072">
@@ -28483,7 +28468,7 @@
     <name>Gakuen no Ikenie: Nagusami Mono to Kashita Kyonyuu Furyou Shoujo</name>
   </anime>
   <anime anidbid="11203" tvdbid="283947" defaulttvdbseason="2">
-    <name>Ansatsu Kyoushitsu: Second Season</name>
+    <name>Ansatsu Kyoushitsu (2016)</name>
   </anime>
   <anime anidbid="11204" tvdbid="321690" defaulttvdbseason="1">
     <name>Dies Irae</name>
@@ -28920,7 +28905,7 @@
     <name>Ero Manga! H mo Manga mo Step-up</name>
   </anime>
   <anime anidbid="11687" tvdbid="hentai" defaulttvdbseason="1">
-    <name>Oni Chichi: Kakeeshon</name>
+    <name>Oni Chichi: Bacation</name>
   </anime>
   <anime anidbid="11689" tvdbid="272309" defaulttvdbseason="3">
     <name>Yowamushi Pedal: New Generation</name>
@@ -29943,7 +29928,7 @@
     <name>Boruto: Naruto Next Generations</name>
   </anime>
   <anime anidbid="12673" tvdbid="328826" defaulttvdbseason="1">
-    <name>Nanamaru Sanbatsu</name>
+    <name>Nana Maru San Batsu</name>
   </anime>
   <anime anidbid="12674" tvdbid="319999" defaulttvdbseason="0">
     <name>Onihei: Sono Otoko, Hasegawa Heizou</name>
@@ -30030,7 +30015,7 @@
     <name>Isekai wa Smartphone to Tomo ni.</name>
   </anime>
   <anime anidbid="13017" tvdbid="329827" defaulttvdbseason="1">
-    <name>Youkai Apato no Yuuga na Nichijou</name>
+    <name>Youkai Apart no Yuuga na Nichijou</name>
   </anime>
   <anime anidbid="13019" tvdbid="327718" defaulttvdbseason="1">
     <name>Kidou Senshi Gundam: Twilight Axis</name>

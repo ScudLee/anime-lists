@@ -26567,6 +26567,9 @@
   <anime anidbid="12602" tvdbid="321536" defaulttvdbseason="1">
     <name>Sakura Quest</name>
   </anime>
+  <anime anidbid="12605" tvdbid="movie" defaulttvdbseason="0" imdbid="tt6317962">
+    <name>Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?</name>
+  </anime>
   <anime anidbid="12608" tvdbid="321531" defaulttvdbseason="1">
     <name>Kenka Banchou Otome: Girl Beats Boys</name>
   </anime>
@@ -26675,6 +26678,9 @@
   <anime anidbid="12889" tvdbid="79106" defaulttvdbseason="4">
     <name>Jigoku Shoujo: Yoi no Togi</name>
   </anime>
+  <anime anidbid="12899" tvdbid="330094" defaulttvdbseason="1">
+    <name>Marvel Future Avengers</name>
+  </anime>
   <anime anidbid="12900" tvdbid="315092" defaulttvdbseason="2">
     <name>Nobunaga no Shinobi: Ise Kanegasaki Hen</name>
   </anime>
@@ -26699,6 +26705,9 @@
   <anime anidbid="13031" tvdbid="328827" defaulttvdbseason="1">
     <name>Princess Principal</name>
   </anime>
+  <anime anidbid="13033" tvdbid="102261" defaulttvdbseason="0" episodeoffset="32">
+    <name>Owarimonogatari (2017)</name>
+  </anime>
   <anime anidbid="13050" tvdbid="257755" defaulttvdbseason="6">
     <name>Furusato Meguri Nippon no Mukashibanashi</name>
   </anime>
@@ -26710,6 +26719,9 @@
   </anime>
   <anime anidbid="13117" tvdbid="329993" defaulttvdbseason="1">
     <name>Konbini Kareshi</name>
+  </anime>
+  <anime anidbid="13145" tvdbid="329831" defaulttvdbseason="1">
+    <name>Karada Sagashi</name>
   </anime>
   <anime anidbid="13153" tvdbid="329822" defaulttvdbseason="1">
     <name>Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e</name>
@@ -26731,5 +26743,8 @@
   </anime>
   <anime anidbid="13244" tvdbid="289909" defaulttvdbseason="3">
     <name>Shokugeki no Souma: San no Sara</name>
+  </anime>
+  <anime anidbid="13317" tvdbid="303867" defaulttvdbseason="0" episodeoffset="3">
+    <name>Kono Subarashii Sekai ni Shukufuku o! 2: Kono Subarashii Geijutsu ni Shukufuku o!</name>
   </anime>
 </anime-list>

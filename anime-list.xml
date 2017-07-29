@@ -25062,7 +25062,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="11155" tvdbid="270065" defaulttvdbseason="0" episodeoffset="8">
+  <anime anidbid="11155" tvdbid="270065" defaulttvdbseason="0" episodeoffset="8" imdbid="tt4872210">
     <name>Eiga High Speed!: Free! Starting Days</name>
   </anime>
   <anime anidbid="11157" tvdbid="297311" defaulttvdbseason="1">
@@ -25678,6 +25678,9 @@
   </anime>
   <anime anidbid="11743" tvdbid="297315" defaulttvdbseason="0">
     <name>Okusama ga Seitokaichou! Seitokaichou to Ofuro Asobi</name>
+  </anime>
+  <anime anidbid="11745" tvdbid="327017" defaulttvdbseason="1">
+    <name>The Reflection Wave One</name>
   </anime>
   <anime anidbid="11746" tvdbid="289884" defaulttvdbseason="2">
     <name>Hibike! Euphonium 2</name>

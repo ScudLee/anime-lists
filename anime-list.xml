@@ -25412,7 +25412,7 @@
   <anime anidbid="11487" tvdbid="303728" defaulttvdbseason="1">
     <name>Niji-iro Days</name>
   </anime>
-  <anime anidbid="11488" tvdbid="286853" defaulttvdbseason="1">
+  <anime anidbid="11488" tvdbid="286853" defaulttvdbseason="2">
     <name>Binan Koukou Chikyuu Bouei Bu Love! Love!</name>
   </anime>
   <anime anidbid="11492" tvdbid="319985" defaulttvdbseason="1">
@@ -26066,7 +26066,7 @@
   <anime anidbid="12009" tvdbid="82788" defaulttvdbseason="5">
     <name>Natsume Yuujinchou Go</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;2-3;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;2-3;3-4;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="12012" tvdbid="317004" defaulttvdbseason="1">
@@ -26170,6 +26170,9 @@
   </anime>
   <anime anidbid="12091" tvdbid="318893" defaulttvdbseason="1">
     <name>Kobayashi-san Chi no Maidragon</name>
+  </anime>
+  <anime anidbid="12093" tvdbid="movie" defaulttvdbseason="1" tmdbid="461078">
+    <name>Kimi no Koe o Todoketai</name>
   </anime>
   <anime anidbid="12095" tvdbid="313533" defaulttvdbseason="1">
     <name>Fudanshi Koukou Seikatsu</name>
@@ -26321,6 +26324,9 @@
       <mapping anidbseason="1" tvdbseason="0">;1-7;</mapping>
     </mapping-list>
   </anime>
+  <anime anidbid="12278" tvdbid="music video" defaulttvdbseason="1">
+    <name>Imarine Project</name>
+  </anime>
   <anime anidbid="12280" tvdbid="315099" defaulttvdbseason="1">
     <name>Nazotokine</name>
   </anime>
@@ -26449,6 +26455,9 @@
   </anime>
   <anime anidbid="12419" tvdbid="79895" defaulttvdbseason="8">
     <name>Gintama.</name>
+  </anime>
+  <anime anidbid="12420" tvdbid="movie" defaulttvdbseason="1" tmdbid="461083">
+    <name>Gekijouban Fate/Kaleid Liner Prisma Illya: Sekka no Chikai</name>
   </anime>
   <anime anidbid="12422" tvdbid="320169" defaulttvdbseason="1">
     <name>Sagrada Reset</name>
@@ -26600,6 +26609,9 @@
   <anime anidbid="12657" tvdbid="321869" defaulttvdbseason="1">
     <name>Re:Creators</name>
   </anime>
+  <anime anidbid="12658" tvdbid="317436" defaulttvdbseason="2">
+    <name>Dream-Fes! R</name>
+  </anime>
   <anime anidbid="12660" tvdbid="327016" defaulttvdbseason="1">
     <name>Jikan no Shihaisha</name>
   </anime>
@@ -26696,6 +26708,9 @@
   <anime anidbid="13004" tvdbid="329992" defaulttvdbseason="1">
     <name>Isekai wa Smartphone to Tomo ni.</name>
   </anime>
+  <anime anidbid="13005" tvdbid="329528" defaulttvdbseason="1">
+    <name>The King of Fighters: Destiny</name>
+  </anime>
   <anime anidbid="13017" tvdbid="329827" defaulttvdbseason="1">
     <name>Youkai Apart no Yuuga na Nichijou</name>
   </anime>
@@ -26743,6 +26758,9 @@
   </anime>
   <anime anidbid="13244" tvdbid="289909" defaulttvdbseason="3">
     <name>Shokugeki no Souma: San no Sara</name>
+  </anime>
+  <anime anidbid="13311" tvdbid="332985" defaulttvdbseason="1">
+    <name>Dia Horizon</name>
   </anime>
   <anime anidbid="13317" tvdbid="303867" defaulttvdbseason="0" episodeoffset="3">
     <name>Kono Subarashii Sekai ni Shukufuku o! 2: Kono Subarashii Geijutsu ni Shukufuku o!</name>

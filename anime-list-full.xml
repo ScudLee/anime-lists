@@ -352,7 +352,7 @@
       <studio>AIC</studio>
     </supplemental-info>
   </anime>
-  <anime anidbid="83" tvdbid="movie" defaulttvdbseason="1" tmdbid="tt0193253">
+  <anime anidbid="83" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0193253">
     <name>Jin-Rou</name>
   </anime>
   <anime anidbid="84" tvdbid="72905" defaulttvdbseason="a">
@@ -18588,7 +18588,7 @@
   <anime anidbid="6951" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0424889">
     <name>Chibikuro Sambo to Futago no Otouto</name>
   </anime>
-  <anime anidbid="6952" tvdbid="movie" defaulttvdbseason="1" tmdbid="tt0422293">
+  <anime anidbid="6952" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0422293">
     <name>Fukusuke</name>
   </anime>
   <anime anidbid="6953" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0419873">
@@ -28739,6 +28739,9 @@
   <anime anidbid="11488" tvdbid="286853" defaulttvdbseason="2">
     <name>Binan Koukou Chikyuu Bouei Bu Love! Love!</name>
   </anime>
+  <anime anidbid="11489" tvdbid="279533" defaulttvdbseason="0" imdbid="tt6448970">
+    <name>Gekijouban KanColle</name>
+  </anime>
   <anime anidbid="11492" tvdbid="319985" defaulttvdbseason="1">
     <name>Minami Kamakura Koukou Joshi Jitensha Bu</name>
   </anime>
@@ -29954,7 +29957,7 @@
   <anime anidbid="12681" tvdbid="326109" defaulttvdbseason="1">
     <name>Made in Abyss</name>
   </anime>
-  <anime anidbid="12682" tvdbid="tv special" defaulttvdbseason="1" tmdbid="432369">
+  <anime anidbid="12682" tvdbid="tv special" defaulttvdbseason="1">
     <name>6HP</name>
   </anime>
   <anime anidbid="12700" tvdbid="327014" defaulttvdbseason="1">

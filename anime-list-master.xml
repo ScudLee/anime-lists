@@ -23840,7 +23840,7 @@
   <anime anidbid="8691" tvdbid="257516" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Accel World</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-2;2-3;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="8" offset="1"/>
     </mapping-list>
   </anime>
   <anime anidbid="8692" tvdbid="259640" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -25252,6 +25252,9 @@
     <supplemental-info>
       <studio>Sunrise</studio>
     </supplemental-info>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-1;2-10;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="9189" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Yama ni Kagayaku: Guide-ken Heiji Gou</name>

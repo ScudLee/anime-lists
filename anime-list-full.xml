@@ -28683,6 +28683,10 @@
   </anime>
   <anime anidbid="11370" tvdbid="305089" defaulttvdbseason="1">
     <name>Re: Zero kara Hajimeru Isekai Seikatsu</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="2" end="26" offset="-1"/>
+    </mapping-list>
   </anime>
   <anime anidbid="11372" tvdbid="299497" defaulttvdbseason="1">
     <name>Kidou Senshi Gundam: Tekketsu no Orphans</name>

@@ -8763,7 +8763,7 @@
   <anime anidbid="2701" tvdbid="81115" defaulttvdbseason="0">
     <name>Triangle Heart: Sazanami Joshiryou</name>
   </anime>
-  <anime anidbid="2702" tvdbid="unknown" defaulttvdbseason="1">
+  <anime anidbid="2702" tvdbid="314449" defaulttvdbseason="1">
     <name>Osomatsu-kun (1988)</name>
   </anime>
   <anime anidbid="2703" tvdbid="127151" defaulttvdbseason="1">
@@ -25007,7 +25007,7 @@
   <anime anidbid="9460" tvdbid="hentai" defaulttvdbseason="1">
     <name>Koiito Kinenbi The Animation</name>
   </anime>
-  <anime anidbid="9461" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
+  <anime anidbid="9461" tvdbid="314449" defaulttvdbseason="0" episodeoffset="1" imdbid="unknown">
     <name>Osomatsu-kun: Suika no Hoshi kara Konnichiwa zansu!</name>
   </anime>
   <anime anidbid="9463" tvdbid="unknown" defaulttvdbseason="1">
@@ -28662,6 +28662,10 @@
   </anime>
   <anime anidbid="11347" tvdbid="300989" defaulttvdbseason="1">
     <name>Osomatsu-san</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;2-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="3" end="10" offset="-1"/>
+    </mapping-list>
   </anime>
   <anime anidbid="11348" tvdbid="295205" defaulttvdbseason="1" episodeoffset="12">
     <name>Akagami no Shirayuki-hime (2016)</name>
@@ -29436,6 +29440,9 @@
   <anime anidbid="12032" tvdbid="317820" defaulttvdbseason="1">
     <name>Time Bokan 24</name>
   </anime>
+  <anime anidbid="12034" tvdbid="329252" defaulttvdbseason="1">
+    <name>Infini-T Force</name>
+  </anime>
   <anime anidbid="12035" tvdbid="314361" defaulttvdbseason="2">
     <name>Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou Hen</name>
   </anime>
@@ -29598,6 +29605,9 @@
   <anime anidbid="12226" tvdbid="316331" defaulttvdbseason="1">
     <name>Bernard Jou Iwaku.</name>
   </anime>
+  <anime anidbid="12227" tvdbid="332984" defaulttvdbseason="1">
+    <name>UQ Holder! Mahou Sensei Negima! 2</name>
+  </anime>
   <anime anidbid="12230" tvdbid="321671" defaulttvdbseason="1">
     <name>Busou Shoujo Machiavellianism</name>
   </anime>
@@ -29730,6 +29740,9 @@
   <anime anidbid="12350" tvdbid="304489" defaulttvdbseason="0">
     <name>Oshiete! Galko-chan OAD</name>
   </anime>
+  <anime anidbid="12351" tvdbid="331753" defaulttvdbseason="0">
+    <name>Black Clover</name>
+  </anime>
   <anime anidbid="12359" tvdbid="324355" defaulttvdbseason="1">
     <name>Ryuu no Haisha</name>
   </anime>
@@ -29826,6 +29839,12 @@
   <anime anidbid="12451" tvdbid="329826" defaulttvdbseason="1">
     <name>Tenshi no 3P!</name>
   </anime>
+  <anime anidbid="12472" tvdbid="300989" defaulttvdbseason="0">
+    <name>Osomatsu-san: Ouma de Kobanashi</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-10;</mapping>
+    </mapping-list>
+  </anime>
   <anime anidbid="12483" tvdbid="326337" defaulttvdbseason="1">
     <name>Idolmaster Cinderella Girls Gekijou</name>
   </anime>
@@ -29904,6 +29923,9 @@
   <anime anidbid="12576" tvdbid="327010" defaulttvdbseason="1">
     <name>18 If</name>
   </anime>
+  <anime anidbid="12578" tvdbid="333239" defaulttvdbseason="1">
+    <name>TsukiPro The Animation</name>
+  </anime>
   <anime anidbid="12593" tvdbid="music video" defaulttvdbseason="1">
     <name>Compiler: Music Clips in Trackdown</name>
   </anime>
@@ -29955,6 +29977,9 @@
   <anime anidbid="12661" tvdbid="321285" defaulttvdbseason="1">
     <name>Boruto: Naruto Next Generations</name>
   </anime>
+  <anime anidbid="12665" tvdbid="331753" defaulttvdbseason="1">
+    <name>Black Clover (2017)</name>
+  </anime>
   <anime anidbid="12673" tvdbid="328826" defaulttvdbseason="1">
     <name>Nana Maru San Batsu</name>
   </anime>
@@ -29969,6 +29994,9 @@
   </anime>
   <anime anidbid="12682" tvdbid="tv special" defaulttvdbseason="1">
     <name>6HP</name>
+  </anime>
+  <anime anidbid="12683" tvdbid="332984" defaulttvdbseason="0">
+    <name>UQ Holder! (2017)</name>
   </anime>
   <anime anidbid="12700" tvdbid="327014" defaulttvdbseason="1">
     <name>Ballroom e Youkoso</name>
@@ -30036,8 +30064,17 @@
   <anime anidbid="12915" tvdbid="music video" defaulttvdbseason="1">
     <name>Happy Party Train</name>
   </anime>
+  <anime anidbid="12944" tvdbid="300989" defaulttvdbseason="2">
+    <name>Osomatsu-san (2017)</name>
+  </anime>
   <anime anidbid="12947" tvdbid="326336" defaulttvdbseason="1">
     <name>Sekai no Yami Zukan</name>
+  </anime>
+  <anime anidbid="12956" tvdbid="333709" defaulttvdbseason="1">
+    <name>Juuni Taisen</name>
+  </anime>
+  <anime anidbid="12959" tvdbid="333152" defaulttvdbseason="1">
+    <name>Kino no Tabi: The Beautiful World - Animated Series</name>
   </anime>
   <anime anidbid="12985" tvdbid="329828" defaulttvdbseason="1">
     <name>Clione no Akari</name>
@@ -30054,11 +30091,20 @@
   <anime anidbid="13019" tvdbid="327718" defaulttvdbseason="1">
     <name>Kidou Senshi Gundam: Twilight Axis</name>
   </anime>
+  <anime anidbid="13030" tvdbid="332979" defaulttvdbseason="1">
+    <name>Konohana Kitan</name>
+  </anime>
   <anime anidbid="13031" tvdbid="328827" defaulttvdbseason="1">
     <name>Princess Principal</name>
   </anime>
   <anime anidbid="13033" tvdbid="102261" defaulttvdbseason="0" episodeoffset="32">
     <name>Owarimonogatari (2017)</name>
+  </anime>
+  <anime anidbid="13035" tvdbid="332980" defaulttvdbseason="1">
+    <name>Urahara</name>
+  </anime>
+  <anime anidbid="13036" tvdbid="333233" defaulttvdbseason="1">
+    <name>Sengoku Night Blood</name>
   </anime>
   <anime anidbid="13050" tvdbid="257755" defaulttvdbseason="6">
     <name>Furusato Meguri Nippon no Mukashibanashi</name>
@@ -30075,6 +30121,9 @@
   <anime anidbid="13145" tvdbid="329831" defaulttvdbseason="1">
     <name>Karada Sagashi</name>
   </anime>
+  <anime anidbid="13147" tvdbid="333232" defaulttvdbseason="1">
+    <name>Osake wa Fuufu ni Natte kara</name>
+  </anime>
   <anime anidbid="13153" tvdbid="329822" defaulttvdbseason="1">
     <name>Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e</name>
   </anime>
@@ -30087,6 +30136,9 @@
   <anime anidbid="13198" tvdbid="329326" defaulttvdbseason="1">
     <name>Enmusubi no Youko-chan</name>
   </anime>
+  <anime anidbid="13199" tvdbid="332160" defaulttvdbseason="1">
+    <name>Just Because!</name>
+  </anime>
   <anime anidbid="13219" tvdbid="271591" defaulttvdbseason="5">
     <name>Yami Shibai 5</name>
   </anime>
@@ -30095,6 +30147,12 @@
   </anime>
   <anime anidbid="13244" tvdbid="289909" defaulttvdbseason="3">
     <name>Shokugeki no Souma: San no Sara</name>
+  </anime>
+  <anime anidbid="13256" tvdbid="332983" defaulttvdbseason="1">
+    <name>Shoujo Shuumatsu Ryokou</name>
+  </anime>
+  <anime anidbid="13263" tvdbid="79895" defaulttvdbseason="9">
+    <name>Gintama. (2017)</name>
   </anime>
   <anime anidbid="13311" tvdbid="332985" defaulttvdbseason="1">
     <name>Dia Horizon</name>

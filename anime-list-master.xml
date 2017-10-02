@@ -8808,7 +8808,7 @@
   <anime anidbid="2701" tvdbid="81115" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Triangle Heart: Sazanami Joshiryou</name>
   </anime>
-  <anime anidbid="2702" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="2702" tvdbid="314449" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Osomatsu-kun (1988)</name>
   </anime>
   <anime anidbid="2703" tvdbid="127151" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -25976,7 +25976,7 @@
   <anime anidbid="9460" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Koiito Kinenbi The Animation</name>
   </anime>
-  <anime anidbid="9461" tvdbid="unknown" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
+  <anime anidbid="9461" tvdbid="314449" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="unknown">
     <name>Osomatsu-kun: Suika no Hoshi kara Konnichiwa zansu!</name>
   </anime>
   <anime anidbid="9462" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -30855,6 +30855,10 @@
   </anime>
   <anime anidbid="11347" tvdbid="300989" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Osomatsu-san</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;2-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="3" end="10" offset="-1"/>
+    </mapping-list>
   </anime>
   <anime anidbid="11348" tvdbid="295205" defaulttvdbseason="1" episodeoffset="12" tmdbid="" imdbid="">
     <name>Akagami no Shirayuki-hime (2016)</name>
@@ -32676,7 +32680,7 @@
   <anime anidbid="12033" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Gekijouban Majestic Prince: Kakusei no Idenshi</name>
   </anime>
-  <anime anidbid="12034" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12034" tvdbid="329252" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Infini-T Force</name>
   </anime>
   <anime anidbid="12035" tvdbid="314361" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
@@ -33117,7 +33121,7 @@
   <anime anidbid="12226" tvdbid="316331" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Bernard Jou Iwaku.</name>
   </anime>
-  <anime anidbid="12227" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12227" tvdbid="332984" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>UQ Holder! Mahou Sensei Negima! 2</name>
   </anime>
   <anime anidbid="12228" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -33432,7 +33436,7 @@
   <anime anidbid="12350" tvdbid="304489" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Oshiete! Galko-chan OAD</name>
   </anime>
-  <anime anidbid="12351" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12351" tvdbid="331753" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Black Clover</name>
   </anime>
   <anime anidbid="12352" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -33729,8 +33733,11 @@
   <anime anidbid="12471" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Curly</name>
   </anime>
-  <anime anidbid="12472" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12472" tvdbid="300989" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Osomatsu-san: Ouma de Kobanashi</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-10;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="12473" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Mutsugo to Ouma no Monogatari</name>
@@ -34020,7 +34027,7 @@
   <anime anidbid="12577" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Eiga Youkai Watch: Shadow Side - Oni Ou no Fukkatsu</name>
   </anime>
-  <anime anidbid="12578" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12578" tvdbid="333239" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>TsukiPro The Animation</name>
   </anime>
   <anime anidbid="12579" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -34263,7 +34270,7 @@
   <anime anidbid="12663" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Elsword: El-ui Yeoin</name>
   </anime>
-  <anime anidbid="12665" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12665" tvdbid="331753" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Black Clover (2017)</name>
   </anime>
   <anime anidbid="12666" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -34317,7 +34324,7 @@
   <anime anidbid="12682" tvdbid="tv special" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>6HP</name>
   </anime>
-  <anime anidbid="12683" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12683" tvdbid="332984" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>UQ Holder! (2017)</name>
   </anime>
   <anime anidbid="12684" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -35052,7 +35059,7 @@
   <anime anidbid="12942" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Mahou Tsukai no Yome</name>
   </anime>
-  <anime anidbid="12944" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12944" tvdbid="300989" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Osomatsu-san (2017)</name>
   </anime>
   <anime anidbid="12945" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -35082,7 +35089,7 @@
   <anime anidbid="12955" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Ttokttokbaksa Eddy</name>
   </anime>
-  <anime anidbid="12956" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12956" tvdbid="333709" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Juuni Taisen</name>
   </anime>
   <anime anidbid="12957" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -35091,7 +35098,7 @@
   <anime anidbid="12958" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Zhandou Wang Zhi Jufeng Zhan Hun 2</name>
   </anime>
-  <anime anidbid="12959" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12959" tvdbid="333152" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Kino no Tabi: The Beautiful World - Animated Series</name>
   </anime>
   <anime anidbid="12960" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -35292,7 +35299,7 @@
   <anime anidbid="13029" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Kuruneko (2017)</name>
   </anime>
-  <anime anidbid="13030" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="13030" tvdbid="332979" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Konohana Kitan</name>
   </anime>
   <anime anidbid="13031" tvdbid="328827" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -35304,10 +35311,10 @@
   <anime anidbid="13034" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Uma Musume: Pretty Derby</name>
   </anime>
-  <anime anidbid="13035" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="13035" tvdbid="332980" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Urahara</name>
   </anime>
-  <anime anidbid="13036" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="13036" tvdbid="333233" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Sengoku Night Blood</name>
   </anime>
   <anime anidbid="13037" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -35619,7 +35626,7 @@
   <anime anidbid="13146" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Teakamamire no Tenshi The Animation</name>
   </anime>
-  <anime anidbid="13147" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="13147" tvdbid="333232" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Osake wa Fuufu ni Natte kara</name>
   </anime>
   <anime anidbid="13148" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -35763,7 +35770,7 @@
   <anime anidbid="13198" tvdbid="329326" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Enmusubi no Youko-chan</name>
   </anime>
-  <anime anidbid="13199" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="13199" tvdbid="332160" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Just Because!</name>
   </anime>
   <anime anidbid="13200" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -35928,7 +35935,7 @@
   <anime anidbid="13255" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Angolmois: Genkou Kassenki</name>
   </anime>
-  <anime anidbid="13256" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="13256" tvdbid="332983" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Shoujo Shuumatsu Ryokou</name>
   </anime>
   <anime anidbid="13257" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -35949,7 +35956,7 @@
   <anime anidbid="13262" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Sayonara no Asa ni Yakusoku no Hana o Kazarou</name>
   </anime>
-  <anime anidbid="13263" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="13263" tvdbid="79895" defaulttvdbseason="9" episodeoffset="" tmdbid="" imdbid="">
     <name>Gintama. (2017)</name>
   </anime>
   <anime anidbid="13264" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">

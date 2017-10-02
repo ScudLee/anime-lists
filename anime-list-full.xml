@@ -4144,7 +4144,7 @@
     <name>Rockman.EXE Axess</name>
   </anime>
   <anime anidbid="1144" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Rockman Hoshi ni Negai o</name>
+    <name>Rockman: Hoshi ni Negai o</name>
   </anime>
   <anime anidbid="1146" tvdbid="OVA" defaulttvdbseason="1" imdbid="tt0380651">
     <name>Psycho Diver: Mashou Bosatsu</name>
@@ -15563,7 +15563,7 @@
     <name>Zero no Tsukaima: Princess no Rondo</name>
   </anime>
   <anime anidbid="5638" tvdbid="hentai" defaulttvdbseason="1">
-    <name>Ai no Katachi: Ecchi na Onna no Ko wa Kirai... Desuka?</name>
+    <name>Ai no Katachi: Ecchi na Onnanoko wa Kirai... Desuka?</name>
   </anime>
   <anime anidbid="5639" tvdbid="hentai" defaulttvdbseason="1">
     <name>Himekishi Angelica The Animation</name>
@@ -18017,7 +18017,7 @@
     <name>What's Michael? (1988)</name>
   </anime>
   <anime anidbid="6759" tvdbid="tv special" defaulttvdbseason="1">
-    <name>Aoi Hitomi no Onna no Ko no Ohanashi</name>
+    <name>Aoi Hitomi no Onnanoko no Ohanashi</name>
   </anime>
   <anime anidbid="6760" tvdbid="tv special" defaulttvdbseason="1">
     <name>Yakeato no, Okashi no Ki</name>
@@ -20741,7 +20741,7 @@
     <name>Yumekui Merry</name>
   </anime>
   <anime anidbid="7726" tvdbid="OVA" defaulttvdbseason="1" imdbid="unknown">
-    <name>Mayoeru Otoko no Ko</name>
+    <name>Mayoeru Otokonoko</name>
   </anime>
   <anime anidbid="7727" tvdbid="219131" defaulttvdbseason="1">
     <name>IS: Infinite Stratos</name>
@@ -24358,12 +24358,12 @@
   </anime>
   <anime anidbid="9187" tvdbid="257516" defaulttvdbseason="0">
     <name>Accel World OVA</name>
-    <supplemental-info>
-      <studio>Sunrise</studio>
-    </supplemental-info>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-1;2-10;</mapping>
     </mapping-list>
+    <supplemental-info>
+      <studio>Sunrise</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="9192" tvdbid="80406" defaulttvdbseason="0" imdbid="tt0062382">
     <name>Topo Gigio no Botan Sensou</name>
@@ -25934,7 +25934,7 @@
     <name>Joshikousei no Koshitsuki</name>
   </anime>
   <anime anidbid="9878" tvdbid="hentai" defaulttvdbseason="1">
-    <name>Tenioha! Onna no Ko datte Honto wa Ecchi Da yo?</name>
+    <name>Tenioha! Onnanoko datte Honto wa Ecchi Da yo?</name>
   </anime>
   <anime anidbid="9879" tvdbid="hentai" defaulttvdbseason="1">
     <name>Toriko no Chigiri: Kazoku no Tame ni Shintai o Sashidasu Ane to Imouto</name>
@@ -27961,7 +27961,7 @@
     <name>Sengoku Musou</name>
   </anime>
   <anime anidbid="10914" tvdbid="283935" defaulttvdbseason="0">
-    <name>Trinity Seven (2015)</name>
+    <name>Trinity Seven: Nanatsu no Taizai to Nana Madoushi</name>
   </anime>
   <anime anidbid="10915" tvdbid="hentai" defaulttvdbseason="1">
     <name>Kanojo wa Dare to demo Sex Suru.</name>
@@ -29009,7 +29009,7 @@
     <name>Okusama ga Seitokaichou! Seitokaichou to Ofuro Asobi</name>
   </anime>
   <anime anidbid="11745" tvdbid="327017" defaulttvdbseason="1">
-    <name>The Reflection Wave One</name>
+    <name>The Reflection</name>
   </anime>
   <anime anidbid="11746" tvdbid="289884" defaulttvdbseason="2">
     <name>Hibike! Euphonium 2</name>
@@ -29492,7 +29492,7 @@
     <name>Scared Rider Xechs</name>
   </anime>
   <anime anidbid="12077" tvdbid="267435" defaulttvdbseason="0" episodeoffset="1">
-    <name>Yahari Ore no Seishun LoveCome wa Machigatte Iru. Zoku: Kitto, Onna no Ko wa Osatou to Spice to Suteki na Nanika de Dekite Iru.</name>
+    <name>Yahari Ore no Seishun LoveCome wa Machigatte Iru. Zoku: Kitto, Onnanoko wa Osatou to Spice to Suteki na Nanika de Dekite Iru.</name>
   </anime>
   <anime anidbid="12079" tvdbid="303728" defaulttvdbseason="0">
     <name>Niji-iro Days OAD</name>
@@ -29996,7 +29996,7 @@
     <name>6HP</name>
   </anime>
   <anime anidbid="12683" tvdbid="332984" defaulttvdbseason="0">
-    <name>UQ Holder! (2017)</name>
+    <name>UQ Holder! Mahou Sensei Negima! 2 (2017)</name>
   </anime>
   <anime anidbid="12700" tvdbid="327014" defaulttvdbseason="1">
     <name>Ballroom e Youkoso</name>
@@ -30074,7 +30074,7 @@
     <name>Juuni Taisen</name>
   </anime>
   <anime anidbid="12959" tvdbid="333152" defaulttvdbseason="1">
-    <name>Kino no Tabi: The Beautiful World - Animated Series</name>
+    <name>Kino no Tabi: The Beautiful World - The Animated Series</name>
   </anime>
   <anime anidbid="12985" tvdbid="329828" defaulttvdbseason="1">
     <name>Clione no Akari</name>
@@ -30089,7 +30089,7 @@
     <name>Youkai Apart no Yuuga na Nichijou</name>
   </anime>
   <anime anidbid="13019" tvdbid="327718" defaulttvdbseason="1">
-    <name>Kidou Senshi Gundam: Twilight Axis</name>
+    <name>Mobile Suit Gundam: Twilight Axis</name>
   </anime>
   <anime anidbid="13030" tvdbid="332979" defaulttvdbseason="1">
     <name>Konohana Kitan</name>
@@ -30152,10 +30152,10 @@
     <name>Shoujo Shuumatsu Ryokou</name>
   </anime>
   <anime anidbid="13263" tvdbid="79895" defaulttvdbseason="9">
-    <name>Gintama. (2017)</name>
+    <name>Gintama. Porori Hen</name>
   </anime>
   <anime anidbid="13311" tvdbid="332985" defaulttvdbseason="1">
-    <name>Dia Horizon</name>
+    <name>Dia Horizon (Hi)</name>
   </anime>
   <anime anidbid="13317" tvdbid="303867" defaulttvdbseason="0" episodeoffset="3">
     <name>Kono Subarashii Sekai ni Shukufuku o! 2: Kono Subarashii Geijutsu ni Shukufuku o!</name>

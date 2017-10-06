@@ -27636,6 +27636,9 @@
   <anime anidbid="10751" tvdbid="289310" defaulttvdbseason="1">
     <name>Military!</name>
   </anime>
+  <anime anidbid="10755" tvdbid="movie" defaulttvdbseason="1" imdbid="tt4054952">
+    <name>Gekijouban Fate/Stay Night: Heaven's Feel</name>
+  </anime>
   <anime anidbid="10756" tvdbid="hentai" defaulttvdbseason="1">
     <name>Niku Mesu R30: Nikuyoku ni Ochita Mesu-tachi The Animation</name>
   </anime>
@@ -29930,6 +29933,9 @@
   <anime anidbid="12563" tvdbid="325198" defaulttvdbseason="1">
     <name>Frame Arms Girl</name>
   </anime>
+  <anime anidbid="12567" tvdbid="movie" defaulttvdbseason="1" tmdbid="477776">
+    <name>Gekijou Soushuuhen Code Geass: Hangyaku no Lelouch</name>
+  </anime>
   <anime anidbid="12571" tvdbid="289886" defaulttvdbseason="2">
     <name>Kekkai Sensen &amp; Beyond</name>
   </anime>
@@ -29966,6 +29972,9 @@
   <anime anidbid="12621" tvdbid="311149" defaulttvdbseason="2">
     <name>Days 2</name>
   </anime>
+  <anime anidbid="12625" tvdbid="332990" defaulttvdbseason="1">
+    <name>Wake Up, Girls! Shin Shou</name>
+  </anime>
   <anime anidbid="12637" tvdbid="327597" defaulttvdbseason="1">
     <name>Centaur no Nayami</name>
   </anime>
@@ -29980,6 +29989,9 @@
   </anime>
   <anime anidbid="12652" tvdbid="321691" defaulttvdbseason="1">
     <name>Dive!!</name>
+  </anime>
+  <anime anidbid="12653" tvdbid="321209" defaulttvdbseason="1">
+    <name>Inuyashiki</name>
   </anime>
   <anime anidbid="12655" tvdbid="326439" defaulttvdbseason="1">
     <name>Warau Salesman New</name>
@@ -30119,6 +30131,9 @@
   <anime anidbid="12985" tvdbid="329828" defaulttvdbseason="1">
     <name>Clione no Akari</name>
   </anime>
+  <anime anidbid="12994" tvdbid="306269" defaulttvdbseason="2">
+    <name>Sangatsu no Lion (2017)</name>
+  </anime>
   <anime anidbid="13004" tvdbid="329992" defaulttvdbseason="1">
     <name>Isekai wa Smartphone to Tomo ni.</name>
   </anime>
@@ -30191,6 +30206,9 @@
   <anime anidbid="13199" tvdbid="332160" defaulttvdbseason="1">
     <name>Just Because!</name>
   </anime>
+  <anime anidbid="13217" tvdbid="334706" defaulttvdbseason="1">
+    <name>Boku no Kanojo ga Majime Sugiru Shobitch na Ken</name>
+  </anime>
   <anime anidbid="13219" tvdbid="271591" defaulttvdbseason="5">
     <name>Yami Shibai 5</name>
   </anime>
@@ -30199,6 +30217,9 @@
   </anime>
   <anime anidbid="13244" tvdbid="289909" defaulttvdbseason="3">
     <name>Shokugeki no Souma: San no Sara</name>
+  </anime>
+  <anime anidbid="13245" tvdbid="272309" defaulttvdbseason="4">
+    <name>Yowamushi Pedal (2018)</name>
   </anime>
   <anime anidbid="13256" tvdbid="332983" defaulttvdbseason="1">
     <name>Shoujo Shuumatsu Ryokou</name>
@@ -30224,11 +30245,17 @@
   <anime anidbid="13335" tvdbid="332981" defaulttvdbseason="1">
     <name>Ou-sama Game The Animation</name>
   </anime>
+  <anime anidbid="13345" tvdbid="332771" defaulttvdbseason="1">
+    <name>Netojuu no Susume</name>
+  </anime>
   <anime anidbid="13389" tvdbid="335039" defaulttvdbseason="1">
     <name>Oretacha Youkai Ningen</name>
   </anime>
   <anime anidbid="13390" tvdbid="333881" defaulttvdbseason="1">
     <name>Garo: Vanishing Line</name>
+  </anime>
+  <anime anidbid="13417" tvdbid="335316" defaulttvdbseason="1">
+    <name>Evil or Live</name>
   </anime>
   <anime anidbid="13486" tvdbid="301920" defaulttvdbseason="2" episodeoffset="23">
     <name>Monster Strike Anime: Kieyuku Uchuu Hen</name>

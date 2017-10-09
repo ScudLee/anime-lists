@@ -4412,7 +4412,7 @@
   <anime anidbid="1240" tvdbid="79460" defaulttvdbseason="1">
     <name>Kindaichi Shounen no Jikenbo (1997)</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;2-0;3-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="1241" tvdbid="unknown" defaulttvdbseason="1">
@@ -7017,10 +7017,10 @@
   <anime anidbid="2125" tvdbid="189371" defaulttvdbseason="1">
     <name>Geisters: Fractions of the Earth</name>
   </anime>
-  <anime anidbid="2126" tvdbid="79460" defaulttvdbseason="1">
+  <anime anidbid="2126" tvdbid="79460" defaulttvdbseason="0">
     <name>Kindaichi Shounen no Jikenbo 2: Satsuriku no Deep Blue</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="2127" tvdbid="103261" defaulttvdbseason="1">
@@ -15414,7 +15414,7 @@
   <anime anidbid="5555" tvdbid="79460" defaulttvdbseason="0">
     <name>Kindaichi Shounen no Jikenbo Special</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-2;2-3;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-4;2-5;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="5557" tvdbid="82803" defaulttvdbseason="1">
@@ -24470,10 +24470,10 @@
   <anime anidbid="9247" tvdbid="tv special" defaulttvdbseason="1" tmdbid="149950">
     <name>Computer Kakumei</name>
   </anime>
-  <anime anidbid="9248" tvdbid="248458" defaulttvdbseason="0">
+  <anime anidbid="9248" tvdbid="79460" defaulttvdbseason="0">
     <name>Kindaichi Shounen no Jikenbo (2012)</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-0;2-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-6;2-7;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="9249" tvdbid="262095" defaulttvdbseason="1">
@@ -28695,8 +28695,11 @@
   <anime anidbid="11366" tvdbid="307110" defaulttvdbseason="1">
     <name>Servamp</name>
   </anime>
-  <anime anidbid="11367" tvdbid="287601" defaulttvdbseason="2">
+  <anime anidbid="11367" tvdbid="79460" defaulttvdbseason="3">
     <name>Kindaichi Shounen no Jikenbo Returns (2015)</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-8;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="11370" tvdbid="305089" defaulttvdbseason="1">
     <name>Re: Zero kara Hajimeru Isekai Seikatsu</name>
@@ -30052,6 +30055,9 @@
   </anime>
   <anime anidbid="12723" tvdbid="328847" defaulttvdbseason="1">
     <name>Mahoujin Guru Guru (2017)</name>
+  </anime>
+  <anime anidbid="12731" tvdbid="332992" defaulttvdbseason="1">
+    <name>Dynamic Chord</name>
   </anime>
   <anime anidbid="12737" tvdbid="282059" defaulttvdbseason="4">
     <name>Idol Time PriPara</name>

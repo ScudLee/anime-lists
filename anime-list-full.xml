@@ -30025,6 +30025,9 @@
   </anime>
   <anime anidbid="12675" tvdbid="82788" defaulttvdbseason="6">
     <name>Natsume Yuujinchou Roku</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-5;2-6;3-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="12681" tvdbid="326109" defaulttvdbseason="1">
     <name>Made in Abyss</name>
@@ -30259,6 +30262,9 @@
   </anime>
   <anime anidbid="13390" tvdbid="333881" defaulttvdbseason="1">
     <name>Garo: Vanishing Line</name>
+  </anime>
+  <anime anidbid="13398" tvdbid="97621" defaulttvdbseason="3">
+    <name>Fireball Humorous</name>
   </anime>
   <anime anidbid="13417" tvdbid="335316" defaulttvdbseason="1">
     <name>Evil or Live</name>

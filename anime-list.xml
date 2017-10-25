@@ -24164,6 +24164,9 @@
   </anime>
   <anime anidbid="10663" tvdbid="289886" defaulttvdbseason="1">
     <name>Kekkai Sensen</name>
+    <mapping-list>
+	    <mapping anidbseason="0" tvdbseason="0" offset="1"/>
+    </mapping-list>
   </anime>
   <anime anidbid="10665" tvdbid="278330" defaulttvdbseason="0">
     <name>Kanojo ga Flag o Oraretara: Christmas? Sonna Mono ga Boku ni Tsuuyou Suru to Omou no ka?</name>
@@ -25916,7 +25919,7 @@
   <anime anidbid="11886" tvdbid="309148" defaulttvdbseason="1">
     <name>Kamiwaza Wanda</name>
   </anime>
-  <anime anidbid="11889" tvdbid="289886" defaulttvdbseason="0" episodeoffset="1">
+  <anime anidbid="11889" tvdbid="289886" defaulttvdbseason="0">
     <name>Kekkai Sensen: Ou-sama no Restaurant no Ou-sama</name>
   </anime>
   <anime anidbid="11890" tvdbid="284719" defaulttvdbseason="0">

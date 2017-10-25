@@ -29027,6 +29027,9 @@
   </anime>
   <anime anidbid="10663" tvdbid="289886" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Kekkai Sensen</name>
+    <mapping-list>
+	    <mapping anidbseason="0" tvdbseason="0" offset="1"/>
+    </mapping-list>
   </anime>
   <anime anidbid="10665" tvdbid="278330" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Kanojo ga Flag o Oraretara: Christmas? Sonna Mono ga Boku ni Tsuuyou Suru to Omou no ka?</name>
@@ -32300,7 +32303,7 @@
   <anime anidbid="11888" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Neko Neko Nihonshi</name>
   </anime>
-  <anime anidbid="11889" tvdbid="289886" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="">
+  <anime anidbid="11889" tvdbid="289886" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Kekkai Sensen: Ou-sama no Restaurant no Ou-sama</name>
   </anime>
   <anime anidbid="11890" tvdbid="284719" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">

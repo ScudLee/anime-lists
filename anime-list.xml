@@ -21632,7 +21632,7 @@
   <anime anidbid="9375" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Himeyuri</name>
   </anime>
-  <anime anidbid="9376" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
+  <anime anidbid="9376" tvdbid="movie" defaulttvdbseason="1" imdbid="tt4769824">
     <name>Kono Sekai no Katasumi ni</name>
   </anime>
   <anime anidbid="9378" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
@@ -26440,6 +26440,9 @@
   </anime>
   <anime anidbid="12332" tvdbid="movie" defaulttvdbseason="1" imdbid="tt6799508,tt6799518">
     <name>Gekijouban Free! Timeless Medley</name>
+  </anime>
+  <anime anidbid="12339" tvdbid="337336" defaulttvdbseason="1">
+    <name>Idolish Seven</name>
   </anime>
   <anime anidbid="12344" tvdbid="305074" defaulttvdbseason="0">
     <name>Boku no Hero Academia (2016)</name>

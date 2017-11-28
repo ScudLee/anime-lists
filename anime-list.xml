@@ -17908,8 +17908,11 @@
       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="7728" tvdbid="258376" defaulttvdbseason="1">
+  <anime anidbid="7728" tvdbid="80587" defaulttvdbseason="0" episodeoffset="5">
     <name>Saiyuuki Gaiden</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="7729" tvdbid="244061" defaulttvdbseason="1">
     <name>Steins;Gate</name>
@@ -26390,7 +26393,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="12287" tvdbid="329415" defaulttvdbseason="1">
+  <anime anidbid="12287" tvdbid="80587" defaulttvdbseason="5">
     <name>Saiyuuki Reload Blast</name>
   </anime>
   <anime anidbid="12290" tvdbid="318984" defaulttvdbseason="1">

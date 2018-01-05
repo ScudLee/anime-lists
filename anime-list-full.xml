@@ -19566,7 +19566,7 @@
   <anime anidbid="7307" tvdbid="87501" defaulttvdbseason="2">
     <name>K-On!!</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;3-8;4-9;5-10;6-11;7-12;8-13;9-14;10-15;11-17;12-16;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;4-8;5-9;6-10;7-11;8-12;9-13;10-14;11-15;12-16;3-17;</mapping>
       <mapping anidbseason="0" tvdbseason="2">;1-25;2-26;</mapping>
     </mapping-list>
     <before>;1-22;2-23;</before>

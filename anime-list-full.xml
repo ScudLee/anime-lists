@@ -29582,6 +29582,9 @@
   <anime anidbid="12137" tvdbid="313702" defaulttvdbseason="1">
     <name>Time Travel Shoujo: Mari Waka to 8-nin no Kagakusha-tachi</name>
   </anime>
+  <anime anidbid="12138" tvdbid="330139" defaulttvdbseason="1">
+    <name>Violet Evergarden</name>
+  </anime>
   <anime anidbid="12140" tvdbid="70668" defaulttvdbseason="4">
     <name>Cardcaptor Sakura: Clear Card Hen</name>
   </anime>
@@ -29852,6 +29855,13 @@
   <anime anidbid="12433" tvdbid="320003" defaulttvdbseason="1">
     <name>Nyanko Days</name>
   </anime>
+  <anime anidbid="12439" tvdbid="294002" defaulttvdbseason="0">
+    <name>Gekijouban Soushuuhen Overlord</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-10;2-11;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-12;2-13;</mapping>
+    </mapping-list>
+  </anime>
   <anime anidbid="12450" tvdbid="317828" defaulttvdbseason="1">
     <name>Zero kara Hajimeru Mahou no Sho</name>
   </anime>
@@ -30098,6 +30108,9 @@
   <anime anidbid="12789" tvdbid="325022" defaulttvdbseason="2">
     <name>Pikaia!!</name>
   </anime>
+  <anime anidbid="12790" tvdbid="315098" defaulttvdbseason="2">
+    <name>Zoku Touken Ranbu: Hanamaru</name>
+  </anime>
   <anime anidbid="12803" tvdbid="329821" defaulttvdbseason="1">
     <name>Aho Girl</name>
   </anime>
@@ -30134,6 +30147,9 @@
   <anime anidbid="12900" tvdbid="315092" defaulttvdbseason="2">
     <name>Nobunaga no Shinobi: Ise Kanegasaki Hen</name>
   </anime>
+  <anime anidbid="12906" tvdbid="337122" defaulttvdbseason="1">
+    <name>Koi wa Ameagari no You ni</name>
+  </anime>
   <anime anidbid="12915" tvdbid="music video" defaulttvdbseason="1">
     <name>Happy Party Train</name>
   </anime>
@@ -30150,6 +30166,9 @@
   </anime>
   <anime anidbid="12947" tvdbid="326336" defaulttvdbseason="1">
     <name>Sekai no Yami Zukan</name>
+  </anime>
+  <anime anidbid="12952" tvdbid="294002" defaulttvdbseason="2">
+    <name>Overlord II</name>
   </anime>
   <anime anidbid="12954" tvdbid="275613" defaulttvdbseason="2">
     <name>Hoozuki no Reitetsu (2017)</name>
@@ -30277,6 +30296,9 @@
   <anime anidbid="13245" tvdbid="272309" defaulttvdbseason="4">
     <name>Yowamushi Pedal: Glory Line</name>
   </anime>
+  <anime anidbid="13252" tvdbid="337019" defaulttvdbseason="1">
+    <name>Miira no Kaikata</name>
+  </anime>
   <anime anidbid="13256" tvdbid="332983" defaulttvdbseason="1">
     <name>Shoujo Shuumatsu Ryokou</name>
   </anime>
@@ -30286,11 +30308,26 @@
   <anime anidbid="13263" tvdbid="79895" defaulttvdbseason="9">
     <name>Gintama. (2017)</name>
   </anime>
+  <anime anidbid="13270" tvdbid="337936" defaulttvdbseason="1">
+    <name>Karakai Jouzu no Takagi-san</name>
+  </anime>
+  <anime anidbid="13276" tvdbid="337617" defaulttvdbseason="1">
+    <name>Hakata Tonkotsu Ramens</name>
+  </anime>
+  <anime anidbid="13281" tvdbid="336406" defaulttvdbseason="1">
+    <name>Ryuuou no Oshigoto!</name>
+  </anime>
   <anime anidbid="13282" tvdbid="293647" defaulttvdbseason="4">
     <name>Ame-iro Cocoa Series: Ame-con!!</name>
   </anime>
+  <anime anidbid="13291" tvdbid="78881" defaulttvdbseason="2">
+    <name>Basilisk: Ouka Ninpou Chou</name>
+  </anime>
   <anime anidbid="13300" tvdbid="339401" defaulttvdbseason="1">
     <name>Dame x Prince Anime Caravan</name>
+  </anime>
+  <anime anidbid="13309" tvdbid="337123" defaulttvdbseason="1">
+    <name>Marchen Madchen</name>
   </anime>
   <anime anidbid="13311" tvdbid="332985" defaulttvdbseason="1">
     <name>Dia Horizon (Kabu)</name>
@@ -30307,8 +30344,20 @@
   <anime anidbid="13335" tvdbid="332981" defaulttvdbseason="1">
     <name>Ousama Game The Animation</name>
   </anime>
+  <anime anidbid="13336" tvdbid="337121" defaulttvdbseason="1">
+    <name>Hakyuu Houshin Engi</name>
+  </anime>
   <anime anidbid="13345" tvdbid="332771" defaulttvdbseason="1">
     <name>Netojuu no Susume</name>
+  </anime>
+  <anime anidbid="13355" tvdbid="303725" defaulttvdbseason="2">
+    <name>Dagashi Kashi 2</name>
+  </anime>
+  <anime anidbid="13362" tvdbid="339276" defaulttvdbseason="1">
+    <name>Hakumei to Mikochi</name>
+  </anime>
+  <anime anidbid="13376" tvdbid="337015" defaulttvdbseason="1">
+    <name>Takunomi.</name>
   </anime>
   <anime anidbid="13389" tvdbid="335039" defaulttvdbseason="1">
     <name>Oretacha Youkai Ningen</name>
@@ -30319,6 +30368,9 @@
   <anime anidbid="13398" tvdbid="97621" defaulttvdbseason="3">
     <name>Fireball Humorous</name>
   </anime>
+  <anime anidbid="13401" tvdbid="317665" defaulttvdbseason="2">
+    <name>Kaijuu Girls: Ultra Kaijuu Gijinka Keikaku (2018)</name>
+  </anime>
   <anime anidbid="13412" tvdbid="340233" defaulttvdbseason="1">
     <name>Micchiri Neko</name>
   </anime>
@@ -30328,10 +30380,22 @@
   <anime anidbid="13486" tvdbid="301920" defaulttvdbseason="2" episodeoffset="23">
     <name>Monster Strike Anime: Kieyuku Uchuu Hen</name>
   </anime>
+  <anime anidbid="13500" tvdbid="337020" defaulttvdbseason="1">
+    <name>Beatless</name>
+  </anime>
   <anime anidbid="13507" tvdbid="340263" defaulttvdbseason="1">
     <name>Shinkansen Henkei Robo Shinkalion The Animation</name>
   </anime>
   <anime anidbid="13513" tvdbid="336480" defaulttvdbseason="1">
     <name>Kokkoku</name>
+  </anime>
+  <anime anidbid="13559" tvdbid="340786" defaulttvdbseason="1">
+    <name>Mame Neko</name>
+  </anime>
+  <anime anidbid="13582" tvdbid="340462" defaulttvdbseason="1">
+    <name>Guda Men</name>
+  </anime>
+  <anime anidbid="13597" tvdbid="339331" defaulttvdbseason="1">
+    <name>25-sai no Joshikousei</name>
   </anime>
 </anime-list>

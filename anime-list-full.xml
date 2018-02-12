@@ -26150,8 +26150,11 @@
       <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="9977" tvdbid="278626" defaulttvdbseason="1">
+  <anime anidbid="9977" tvdbid="278626" defaulttvdbseason="1" episodeoffset="-1">
     <name>Fate/Stay Night: Unlimited Blade Works (2014)</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-1;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="9980" tvdbid="114801" defaulttvdbseason="a" episodeoffset="175">
     <name>Fairy Tail (2014)</name>
@@ -28071,7 +28074,7 @@
   <anime anidbid="10960" tvdbid="304316" defaulttvdbseason="1">
     <name>Shouwa Genroku Rakugo Shinjuu (2016)</name>
   </anime>
-  <anime anidbid="10961" tvdbid="79824" defaulttvdbseason="0" episodeoffset="14" imdbid="tt4618398">
+  <anime anidbid="10961" tvdbid="79824" defaulttvdbseason="0" episodeoffset="12" imdbid="tt4618398">
     <name>Boruto: Naruto the Movie</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>

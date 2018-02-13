@@ -815,10 +815,10 @@
       <mapping anidbseason="0" tvdbseason="0">;1-2;2-3;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="202" tvdbid="70350" defaulttvdbseason="0" imdbid="tt0169858">
+  <anime anidbid="202" tvdbid="70350" defaulttvdbseason="0" episodeoffset="1" imdbid="tt0169858">
     <name>Shinseiki Evangelion Gekijouban: The End of Evangelion</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-2;2-2;3-2;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;2-2;3-2;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="203" tvdbid="80053" defaulttvdbseason="1">
@@ -13688,11 +13688,8 @@
   <anime anidbid="4845" tvdbid="258961" defaulttvdbseason="1">
     <name>Nanako SOS</name>
   </anime>
-  <anime anidbid="4847" tvdbid="70350" defaulttvdbseason="0" imdbid="tt0923811">
+  <anime anidbid="4847" tvdbid="70350" defaulttvdbseason="0" episodeoffset="2" imdbid="tt0923811">
     <name>Evangelion Shin Gekijouban: Jo</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="4848" tvdbid="hentai" defaulttvdbseason="1">
     <name>Mahou no Rouge Lipstick</name>
@@ -16604,11 +16601,8 @@
       <mapping anidbseason="0" tvdbseason="0">;1-2;2-3;3-0;4-0;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="6171" tvdbid="70350" defaulttvdbseason="0" imdbid="tt0860906">
+  <anime anidbid="6171" tvdbid="70350" defaulttvdbseason="0" episodeoffset="3" imdbid="tt0860906">
     <name>Evangelion Shin Gekijouban: Ha</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="6172" tvdbid="250886" defaulttvdbseason="1">
     <name>Bihada Ichizoku</name>
@@ -20272,11 +20266,8 @@
   <anime anidbid="7564" tvdbid="164741" defaulttvdbseason="0" imdbid="unknown">
     <name>Ninja Hattori-kun: Nin Nin Ninpo Enikki no Maki</name>
   </anime>
-  <anime anidbid="7565" tvdbid="70350" defaulttvdbseason="0" imdbid="tt0860907">
+  <anime anidbid="7565" tvdbid="70350" defaulttvdbseason="0" episodeoffset="4" imdbid="tt0860907">
     <name>Evangelion Shin Gekijouban: Q</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-5;</mapping>
-    </mapping-list>
     <supplemental-info>
       <studio>Studio Khara</studio>
     </supplemental-info>
@@ -23630,11 +23621,8 @@
   <anime anidbid="8891" tvdbid="unknown" defaulttvdbseason="1">
     <name>Fushigi no Yappo Shima: Pukipuki to Poi</name>
   </anime>
-  <anime anidbid="8895" tvdbid="70350" defaulttvdbseason="0" imdbid="unknown">
+  <anime anidbid="8895" tvdbid="70350" defaulttvdbseason="0" tmdbid="5" imdbid="unknown">
     <name>Shin Evangelion Gekijouban:||</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-6;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="8896" tvdbid="195721" defaulttvdbseason="0">
     <name>Kore ga Umi e no Ai ja Naika!</name>
@@ -23753,11 +23741,10 @@
   <anime anidbid="8939" tvdbid="255904" defaulttvdbseason="0" episodeoffset="1" tmdbid="179883">
     <name>Eiga Smile Precure! Ehon no Naka wa Minna Chiguhagu!</name>
   </anime>
-  <anime anidbid="8940" tvdbid="81797" defaulttvdbseason="0" imdbid="tt2375379">
+  <anime anidbid="8940" tvdbid="81797" defaulttvdbseason="0" episodeoffset="26" imdbid="tt2375379">
     <name>One Piece Film: Z</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-26;2-26;</mapping>
-      <mapping anidbseason="1" tvdbseason="0">;1-27;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-26;2-26;3-26;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="8941" tvdbid="73988" defaulttvdbseason="2">
@@ -25299,7 +25286,7 @@
   <anime anidbid="9585" tvdbid="249827" defaulttvdbseason="0" episodeoffset="1">
     <name>Mirai Nikki Redial: Data Ikou</name>
   </anime>
-  <anime anidbid="9588" tvdbid="79824" defaulttvdbseason="0" episodeoffset="13" imdbid="tt3717532">
+  <anime anidbid="9588" tvdbid="79824" defaulttvdbseason="0" episodeoffset="11" imdbid="tt3717532">
     <name>The Last: Naruto the Movie</name>
   </anime>
   <anime anidbid="9589" tvdbid="movie" defaulttvdbseason="1" imdbid="tt2591814">
@@ -28787,10 +28774,10 @@
   <anime anidbid="11527" tvdbid="Movie" defaulttvdbseason="1" tmdbid="372762">
     <name>Gekijouban Tantei Opera Milky Holmes: Gyakushuu no Milky Holmes</name>
   </anime>
-  <anime anidbid="11529" tvdbid="81797" defaulttvdbseason="0" episodeoffset="34" imdbid="tt5251328">
+  <anime anidbid="11529" tvdbid="81797" defaulttvdbseason="0" episodeoffset="33" imdbid="tt5251328">
     <name>One Piece Film: Gold</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-36;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="11530" tvdbid="OVA" defaulttvdbseason="1">

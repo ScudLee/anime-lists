@@ -3542,6 +3542,7 @@
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="2">;1-1;2-2;</mapping>
       <mapping anidbseason="1" tvdbseason="0">;1-1;</mapping>
+      <mapping anidbseason="1" tvdbseason="2">;4-6;5-5;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="960" tvdbid="unknown" defaulttvdbseason="1">
@@ -7123,20 +7124,20 @@
   <anime anidbid="2151" tvdbid="78500" defaulttvdbseason="0" imdbid="tt0109277">
     <name>Bishoujo Senshi Sailor Moon S: Kaguya-hime no Koibito</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-7;2-7;3-7;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-4;2-4;3-4;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="2152" tvdbid="78500" defaulttvdbseason="0" imdbid="tt0106417">
     <name>Bishoujo Senshi Sailor Moon R (1993)</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-1;2-0;3-0;</mapping>
-      <mapping anidbseason="1" tvdbseason="0">;1-6;2-6;3-6;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-2;2-2;3-2;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="2153" tvdbid="78500" defaulttvdbseason="0" imdbid="tt0112513">
     <name>Bishoujo Senshi Sailor Moon Super S - Sailor 9 Senshi Shuuketsu! Black-Dream-Hole no Kiseki</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-2;2-2;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-9;2-0;3-0;</mapping>
       <mapping anidbseason="1" tvdbseason="0">;1-8;</mapping>
     </mapping-list>
   </anime>
@@ -8794,6 +8795,9 @@
   </anime>
   <anime anidbid="2710" tvdbid="78914" defaulttvdbseason="3">
     <name>Fullmetal Panic! The Second Raid</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="1">;1-0;2-2;</mapping>
+    </mapping-list>
     <before>;2-14;</before>
   </anime>
   <anime anidbid="2711" tvdbid="120041" defaulttvdbseason="0">
@@ -16340,7 +16344,7 @@
   <anime anidbid="6048" tvdbid="83996" defaulttvdbseason="1">
     <name>Kuroshitsuji</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;2-1;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-1;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="6049" tvdbid="93281" defaulttvdbseason="1">
@@ -17499,7 +17503,7 @@
   <anime anidbid="6564" tvdbid="150471" defaulttvdbseason="1">
     <name>Angel Beats!</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-2;2-1;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;2-1;3-4;4-0;5-5;6-0;7-0;8-0;9-3;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="6566" tvdbid="movie" defaulttvdbseason="1" imdbid="tt1496690">
@@ -17780,6 +17784,9 @@
   </anime>
   <anime anidbid="6671" tvdbid="133341" defaulttvdbseason="1">
     <name>Durarara!!</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-1;2-2;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="6672" tvdbid="88391" defaulttvdbseason="2">
     <name>Natsu no Arashi! Akinai-chuu</name>
@@ -19718,7 +19725,7 @@
   <anime anidbid="7369" tvdbid="83996" defaulttvdbseason="2">
     <name>Kuroshitsuji II</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;2-3;3-4;4-5;5-6;6-7;7-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="7370" tvdbid="187171" defaulttvdbseason="1">
@@ -21147,11 +21154,8 @@
   <anime anidbid="7989" tvdbid="245821" defaulttvdbseason="1">
     <name>Cardfight!! Vanguard</name>
   </anime>
-  <anime anidbid="7991" tvdbid="73752" defaulttvdbseason="0">
+  <anime anidbid="7991" tvdbid="307111" defaulttvdbseason="0">
     <name>Berserk: Ougon Jidai Hen</name>
-    <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="7992" tvdbid="214891" defaulttvdbseason="1">
     <name>Haiyoru! Nyaruani: Remember My Love(craft-sensei)</name>
@@ -21983,7 +21987,7 @@
   <anime anidbid="8310" tvdbid="unknown" defaulttvdbseason="1">
     <name>Chocolat no Mahou</name>
   </anime>
-  <anime anidbid="8311" tvdbid="245451" defaulttvdbseason="0" episodeoffset="4" imdbid="tt4232272,tt6302292">
+  <anime anidbid="8311" tvdbid="245451" defaulttvdbseason="0" episodeoffset="3" imdbid="tt4232272,tt6302292">
     <name>Gekijou Remix Han Appleseed XIII</name>
   </anime>
   <anime anidbid="8312" tvdbid="79824" defaulttvdbseason="0" imdbid="tt1999167">
@@ -25892,6 +25896,9 @@
   </anime>
   <anime anidbid="9875" tvdbid="272074" defaulttvdbseason="1">
     <name>Kill La Kill</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="9877" tvdbid="hentai" defaulttvdbseason="1">
     <name>Joshikousei no Koshitsuki</name>
@@ -26356,7 +26363,7 @@
   <anime anidbid="10065" tvdbid="262090" defaulttvdbseason="2">
     <name>Psycho-Pass 2</name>
   </anime>
-  <anime anidbid="10066" tvdbid="262090" defaulttvdbseason="0">
+  <anime anidbid="10066" tvdbid="262090" defaulttvdbseason="0" episodeoffset="11">
     <name>Gekijouban Psycho-Pass</name>
   </anime>
   <anime anidbid="10067" tvdbid="276893" defaulttvdbseason="1">
@@ -27171,6 +27178,9 @@
   </anime>
   <anime anidbid="10523" tvdbid="133341" defaulttvdbseason="2">
     <name>Durarara!!x2 Shou</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-3;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="10525" tvdbid="279981" defaulttvdbseason="1">
     <name>Sora no Method</name>
@@ -27812,6 +27822,9 @@
   </anime>
   <anime anidbid="10867" tvdbid="133341" defaulttvdbseason="2" episodeoffset="24">
     <name>Durarara!!x2 Ketsu</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-5;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="10875" tvdbid="281249" defaulttvdbseason="2">
     <name>Tokyo Ghoul Root A</name>
@@ -28641,6 +28654,9 @@
   </anime>
   <anime anidbid="11345" tvdbid="299963" defaulttvdbseason="1">
     <name>Dimension W</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-1;2-2;3-3;4-5;5-6;6-4;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="11347" tvdbid="300989" defaulttvdbseason="1">
     <name>Osomatsu-san</name>

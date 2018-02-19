@@ -24159,7 +24159,7 @@
   <anime anidbid="10663" tvdbid="289886" defaulttvdbseason="1">
     <name>Kekkai Sensen</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0" offset="1"/>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;2-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="10665" tvdbid="278330" defaulttvdbseason="0">

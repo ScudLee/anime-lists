@@ -2931,7 +2931,7 @@
   <anime anidbid="788" tvdbid="83950" defaulttvdbseason="1">
     <name>JoJo no Kimyou na Bouken</name>
   </anime>
-  <anime anidbid="789" tvdbid="83950" defaulttvdbseason="0">
+  <anime anidbid="789" tvdbid="83950" defaulttvdbseason="2">
     <name>JoJo no Kimyou na Bouken (2000)</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;6-0;7-0;</mapping>
@@ -8058,7 +8058,7 @@
   <anime anidbid="2710" tvdbid="78914" defaulttvdbseason="3">
     <name>Fullmetal Panic! The Second Raid</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="1">;1-0;2-2;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-2;</mapping>
     </mapping-list>
     <before>;2-14;</before>
   </anime>
@@ -12036,9 +12036,6 @@
   </anime>
   <anime anidbid="4918" tvdbid="83950" defaulttvdbseason="0" imdbid="unknown">
     <name>JoJo no Kimyou na Bouken: Phantom Blood</name>
-    <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="4919" tvdbid="80812" defaulttvdbseason="1">
     <name>Potemayo</name>

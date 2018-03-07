@@ -2399,4 +2399,13 @@
       <title type="main" xml:lang="x-jat">Amagami SS Collection</title>
     </titles>
   </set>
+  <set>
+    <anime anidbid="6747">Baka to Test to Shoukanjuu</anime>
+    <anime anidbid="8085">Baka to Test to Shoukanjuu: Matsuri</anime>
+    <anime anidbid="8235">Baka to Test to Shoukanjuu Ni!</anime>
+    <titles>
+      <title type="main" xml:lang="x-jat">Baka to Test to Shoukanjuu Collection</title>
+      <title type="official" xml:lang="en">Baka and Test: Summon the Beasts Collection</title>
+    </titles>
+  </set>
 </anime-set-list>

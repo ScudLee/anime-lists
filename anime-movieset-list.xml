@@ -2383,4 +2383,38 @@
       <title type="main" xml:lang="x-jat">Girls und Panzer Collection</title>
     </titles>
   </set>
+  <set>
+    <anime anidbid="6780">Working!!</anime>
+    <anime anidbid="8364">Working'!!</anime>
+    <anime anidbid="10995">Working!!!</anime>
+    <anime anidbid="12059">Www.Working!!</anime>
+    <titles>
+      <title type="main" xml:lang="x-jat">Working Collection</title>
+    </titles>
+  </set>
+  <set>
+    <anime anidbid="7506">Amagami SS</anime>
+    <anime anidbid="8573">Amagami SS Plus</anime>
+    <titles>
+      <title type="main" xml:lang="x-jat">Amagami SS Collection</title>
+    </titles>
+  </set>
+  <set>
+    <anime anidbid="6747">Baka to Test to Shoukanjuu</anime>
+    <anime anidbid="8085">Baka to Test to Shoukanjuu: Matsuri</anime>
+    <anime anidbid="8235">Baka to Test to Shoukanjuu Ni!</anime>
+    <titles>
+      <title type="main" xml:lang="x-jat">Baka to Test to Shoukanjuu Collection</title>
+      <title type="official" xml:lang="en">Baka and Test: Summon the Beasts Collection</title>
+    </titles>
+  </set>
+  <set>
+    <anime anidbid="8419">Boku wa Tomodachi ga Sukunai</anime>
+    <anime anidbid="8522">Boku wa Tomodachi ga Sukunai: Yaminabe wa Bishoujo ga Zannen na Nioi</anime>
+    <anime anidbid="9206">Boku wa Tomodachi ga Sukunai: Relay Shousetsu wa Ketsumatsu ga Hanpanai</anime>
+    <anime anidbid="9342">Boku wa Tomodachi ga Sukunai Next</anime>
+    <titles>
+      <title type="main" xml:lang="x-jat">Haganai Collection</title>
+    </titles>
+  </set>
 </anime-set-list>

@@ -2392,4 +2392,11 @@
       <title type="main" xml:lang="x-jat">Working Collection</title>
     </titles>
   </set>
+  <set>
+    <anime anidbid="7506">Amagami SS</anime>
+    <anime anidbid="8573">Amagami SS Plus</anime>
+    <titles>
+      <title type="main" xml:lang="x-jat">Amagami SS Collection</title>
+    </titles>
+  </set>
 </anime-set-list>

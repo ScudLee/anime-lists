@@ -25215,6 +25215,12 @@
   <anime anidbid="11246" tvdbid="297313" defaulttvdbseason="1">
     <name>Kaijuu Sakaba Kanpai!</name>
   </anime>
+  <anime anidbid="11247" tvdbid="114801" defaulttvdbseason="0" imdbid="tt6548966">
+    <name>Gekijouban Fairy Tail: Dragon Cry</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-12;</mapping>
+    </mapping-list>
+  </anime>
   <anime anidbid="11249" tvdbid="tv special" defaulttvdbseason="1">
     <name>Gintama x Mameshiba</name>
   </anime>
@@ -26015,6 +26021,9 @@
   <anime anidbid="11945" tvdbid="309201" defaulttvdbseason="1">
     <name>Nyanbo!</name>
   </anime>
+  <anime anidbid="11950" tvdbid="339353" defaulttvdbseason="1">
+    <name>B: The Beginning</name>
+  </anime>
   <anime anidbid="11951" tvdbid="315092" defaulttvdbseason="1">
     <name>Nobunaga no Shinobi</name>
   </anime>
@@ -26760,6 +26769,9 @@
   <anime anidbid="12683" tvdbid="332984" defaulttvdbseason="0">
     <name>UQ Holder! Mahou Sensei Negima! 2 (2017)</name>
   </anime>
+  <anime anidbid="12691" tvdbid="313435" defaulttvdbseason="2">
+    <name>Saiki Kusuo no Sainan (2018)</name>
+  </anime>
   <anime anidbid="12694" tvdbid="332162" defaulttvdbseason="1">
     <name>Blend S</name>
   </anime>
@@ -26856,6 +26868,12 @@
   <anime anidbid="12906" tvdbid="337122" defaulttvdbseason="1">
     <name>Koi wa Ameagari no You ni</name>
   </anime>
+  <anime anidbid="12909" tvdbid="81831" defaulttvdbseason="0">
+    <name>To Love-Ru: Trouble - Multiplication - Mae kara Ushiro kara</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-16;</mapping>
+    </mapping-list>
+  </anime>
   <anime anidbid="12915" tvdbid="music video" defaulttvdbseason="1">
     <name>Happy Party Train</name>
   </anime>
@@ -26926,6 +26944,9 @@
   </anime>
   <anime anidbid="13036" tvdbid="333233" defaulttvdbseason="1">
     <name>Sengoku Night Blood</name>
+  </anime>
+  <anime anidbid="13038" tvdbid="336385" defaulttvdbseason="1">
+    <name>Itsudatte Bokura no Koi wa 10 Centi Datta.</name>
   </anime>
   <anime anidbid="13039" tvdbid="317820" defaulttvdbseason="2">
     <name>Time Bokan: Gyakushuu no San-Okunin</name>
@@ -27002,6 +27023,9 @@
   <anime anidbid="13245" tvdbid="272309" defaulttvdbseason="4">
     <name>Yowamushi Pedal: Glory Line</name>
   </anime>
+  <anime anidbid="13248" tvdbid="329422" defaulttvdbseason="0">
+    <name>Hajimete no Gal (2017)</name>
+  </anime>
   <anime anidbid="13252" tvdbid="337019" defaulttvdbseason="1">
     <name>Miira no Kaikata</name>
   </anime>
@@ -27010,6 +27034,9 @@
   </anime>
   <anime anidbid="13257" tvdbid="337623" defaulttvdbseason="1">
     <name>Sora Yori mo Tooi Basho</name>
+  </anime>
+  <anime anidbid="13259" tvdbid="337017" defaulttvdbseason="1">
+    <name>Darling in the Franxx</name>
   </anime>
   <anime anidbid="13263" tvdbid="79895" defaulttvdbseason="9">
     <name>Gintama. (2017)</name>

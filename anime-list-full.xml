@@ -29904,8 +29904,11 @@
   <anime anidbid="12509" tvdbid="unknown" tmdbid="432128">
     <name>Eiga Precure Dream Stars!</name>
   </anime>
-  <anime anidbid="12519" tvdbid="tv special" defaulttvdbseason="1" imdbid="tt6213810">
+  <anime anidbid="12519" tvdbid="278626" defaulttvdbseason="0" episodeoffset="2" imdbid="tt6213810">
     <name>Fate/Grand Order: First Order</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="12524" tvdbid="330087" defaulttvdbseason="1">
     <name>Ikemen Sengoku: Toki o Kakeru ga Koi wa Hajimaranai</name>
@@ -30400,5 +30403,11 @@
   </anime>
   <anime anidbid="13597" tvdbid="339331" defaulttvdbseason="1">
     <name>25-sai no Joshikousei</name>
+  </anime>
+  <anime anidbid="13643" tvdbid="278626" defaulttvdbseason="0" episodeoffset="4">
+    <name>Fate/Grand Order: Moonlight/Lostroom</name>
+  </anime>
+  <anime anidbid="13644" tvdbid="278626" defaulttvdbseason="0" episodeoffset="5">
+    <name>Fate/Grand Order x Himuro no Tenchi: 7-nin no Saikyou Ijin Hen</name>
   </anime>
 </anime-list>

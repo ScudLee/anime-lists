@@ -22931,6 +22931,9 @@
   </anime>
   <anime anidbid="8660" tvdbid="254653" defaulttvdbseason="1">
     <name>High School DxD</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;2-3;3-4;4-5;5-6;6-7;7-1;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="8661" tvdbid="252808" defaulttvdbseason="1">
     <name>Gudaguda Fairies</name>
@@ -24853,6 +24856,9 @@
   </anime>
   <anime anidbid="9409" tvdbid="254653" defaulttvdbseason="2">
     <name>High School DxD New: Gekkou Koutei no Excalibur</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="9410" tvdbid="194951" defaulttvdbseason="0">
     <name>Star Driver The Movie</name>
@@ -29900,6 +29906,9 @@
   </anime>
   <anime anidbid="12496" tvdbid="335116" defaulttvdbseason="1">
     <name>Grancrest Senki</name>
+  </anime>
+  <anime anidbid="12498" tvdbid="254653" defaulttvdbseason="4">
+    <name>High School DxD Hero</name>
   </anime>
   <anime anidbid="12500" tvdbid="284263" defaulttvdbseason="2">
     <name>Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou</name>

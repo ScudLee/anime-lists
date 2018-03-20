@@ -26905,7 +26905,8 @@
     <name>Mahou Tsukai no Yome</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0" start="1" end="11" offset="3"/>
-      <mapping anidbseason="0" tvdbseason="0" start="13" end="26" offset="2"/>
+      <mapping anidbseason="0" tvdbseason="0" start="13" end="24" offset="2"/>
+      <mapping anidbseason="0" tvdbseason="0" start="26" end="28" offset="1"/>
       <mapping anidbseason="0" tvdbseason="0">;12-29;</mapping>
     </mapping-list>
   </anime>

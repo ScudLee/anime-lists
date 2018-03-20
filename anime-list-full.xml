@@ -30015,6 +30015,12 @@
   <anime anidbid="12608" tvdbid="321531" defaulttvdbseason="1">
     <name>Kenka Banchou Otome: Girl Beats Boys</name>
   </anime>
+  <anime anidbid="12618" tvdbid="173271" defaulttvdbseason="0" imdbid="tt6337252">
+    <name>Gekijouban Seitokai Yakuindomo</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-15;</mapping>
+    </mapping-list>
+  </anime>
   <anime anidbid="12621" tvdbid="311149" defaulttvdbseason="2">
     <name>Days: Touin Gakuen Ikusa!</name>
   </anime>
@@ -30448,6 +30454,12 @@
   </anime>
   <anime anidbid="13513" tvdbid="336480" defaulttvdbseason="1">
     <name>Kokkoku</name>
+  </anime>
+  <anime anidbid="13527" tvdbid="307375" defaulttvdbseason="0">
+    <name>Mob Psycho 100 Reigen: Shirarezaru Kiseki no Reinouryokusha</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-7;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="13559" tvdbid="340786" defaulttvdbseason="1">
     <name>Mame Neko</name>

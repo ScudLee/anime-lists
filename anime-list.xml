@@ -24376,6 +24376,9 @@
       <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
   </anime>
+  <anime anidbid="10770" tvdbid="342349" defaulttvdbseason="1">
+    <name>Mahou Shoujo Ore</name>
+  </anime>
   <anime anidbid="10773" tvdbid="304316" defaulttvdbseason="0">
     <name>Shouwa Genroku Rakugo Shinjuu</name>
   </anime>
@@ -25478,6 +25481,9 @@
   <anime anidbid="11493" tvdbid="279828" defaulttvdbseason="2">
     <name>Terra Formars: Revenge</name>
   </anime>
+  <anime anidbid="11495" tvdbid="343237" defaulttvdbseason="1">
+    <name>Ginga Eiyuu Densetsu: Die Neue These - Kaikou</name>
+  </anime>
   <anime anidbid="11498" tvdbid="306151" defaulttvdbseason="1">
     <name>Wagamama High Spec</name>
   </anime>
@@ -26375,6 +26381,9 @@
   <anime anidbid="12246" tvdbid="Movie" defaulttvdbseason="1" tmdbid="431802,431803">
     <name>Koutetsujou no Kabaneri Soushuuhen</name>
   </anime>
+  <anime anidbid="12252" tvdbid="341429" defaulttvdbseason="1">
+    <name>Juushinki Pandora</name>
+  </anime>
   <anime anidbid="12253" tvdbid="325190" defaulttvdbseason="1">
     <name>Twin Angel Break</name>
   </anime>
@@ -26631,6 +26640,9 @@
       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
+  <anime anidbid="12523" tvdbid="341395" defaulttvdbseason="1">
+    <name>Lost Song</name>
+  </anime>
   <anime anidbid="12524" tvdbid="330087" defaulttvdbseason="1">
     <name>Ikemen Sengoku: Toki o Kakeru ga Koi wa Hajimaranai</name>
   </anime>
@@ -26708,6 +26720,9 @@
   </anime>
   <anime anidbid="12602" tvdbid="321536" defaulttvdbseason="1">
     <name>Sakura Quest</name>
+  </anime>
+  <anime anidbid="12603" tvdbid="336404" defaulttvdbseason="1">
+    <name>Death March kara Hajimaru Isekai Kyousoukyoku</name>
   </anime>
   <anime anidbid="12605" tvdbid="movie" defaulttvdbseason="0" imdbid="tt6317962">
     <name>Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?</name>
@@ -26825,6 +26840,9 @@
   </anime>
   <anime anidbid="12738" tvdbid="movie" defaulttvdbseason="1" imdbid="tt6452332">
     <name>Yoake Tsugeru Lu no Uta</name>
+  </anime>
+  <anime anidbid="12739" tvdbid="341435" defaulttvdbseason="1">
+    <name>Jikkenhin Kazoku: Creatures Family Days</name>
   </anime>
   <anime anidbid="12743" tvdbid="330692" defaulttvdbseason="1">
     <name>Yuru Camp</name>
@@ -26964,6 +26982,9 @@
   <anime anidbid="13033" tvdbid="102261" defaulttvdbseason="0" episodeoffset="32">
     <name>Owarimonogatari (2017)</name>
   </anime>
+  <anime anidbid="13034" tvdbid="344220" defaulttvdbseason="1">
+    <name>Uma Musume: Pretty Derby</name>
+  </anime>
   <anime anidbid="13035" tvdbid="332980" defaulttvdbseason="1">
     <name>Urahara</name>
   </anime>
@@ -27003,6 +27024,9 @@
   <anime anidbid="13117" tvdbid="329993" defaulttvdbseason="1">
     <name>Konbini Kareshi</name>
   </anime>
+  <anime anidbid="13123" tvdbid="299508" defaulttvdbseason="0">
+    <name>Relife: Kanketsuhen</name>
+  </anime>
   <anime anidbid="13145" tvdbid="329831" defaulttvdbseason="1">
     <name>Karada Sagashi</name>
   </anime>
@@ -27041,6 +27065,9 @@
   </anime>
   <anime anidbid="13224" tvdbid="330088" defaulttvdbseason="1">
     <name>Musekinin Galaxy Tylor</name>
+  </anime>
+  <anime anidbid="13238" tvdbid="344076" defaulttvdbseason="1">
+    <name>Comic Girls</name>
   </anime>
   <anime anidbid="13244" tvdbid="289909" defaulttvdbseason="3">
     <name>Shokugeki no Souma: San no Sara</name>
@@ -27089,6 +27116,9 @@
   </anime>
   <anime anidbid="13311" tvdbid="332985" defaulttvdbseason="1">
     <name>Dia Horizon (Kabu)</name>
+  </anime>
+  <anime anidbid="13313" tvdbid="342001" defaulttvdbseason="1">
+    <name>Alice or Alice</name>
   </anime>
   <anime anidbid="13317" tvdbid="303867" defaulttvdbseason="0" episodeoffset="3">
     <name>Kono Subarashii Sekai ni Shukufuku o! 2: Kono Subarashii Geijutsu ni Shukufuku o!</name>
@@ -27141,8 +27171,14 @@
   <anime anidbid="13421" tvdbid="336973">
     <name>Pingu in the City</name>
   </anime>
+  <anime anidbid="13426" tvdbid="344222" defaulttvdbseason="1">
+    <name>Uchuu Senkan Tiramisu</name>
+  </anime>
   <anime anidbid="13486" tvdbid="301920" defaulttvdbseason="2" episodeoffset="23">
     <name>Monster Strike Anime: Kieyuku Uchuu Hen</name>
+  </anime>
+  <anime anidbid="13499" tvdbid="281249" defaulttvdbseason="3">
+    <name>Tokyo Ghoul:Re</name>
   </anime>
   <anime anidbid="13500" tvdbid="337020" defaulttvdbseason="1">
     <name>Beatless</name>
@@ -27156,6 +27192,12 @@
   <anime anidbid="13513" tvdbid="336480" defaulttvdbseason="1">
     <name>Kokkoku</name>
   </anime>
+  <anime anidbid="13515" tvdbid="334706" defaulttvdbseason="0">
+    <name>Boku no Kanojo ga Majime Sugiru Shobitch na Ken (2018)</name>
+  </anime>
+  <anime anidbid="13517" tvdbid="341437" defaulttvdbseason="1">
+    <name>Megalo Box</name>
+  </anime>
   <anime anidbid="13527" tvdbid="307375" defaulttvdbseason="0">
     <name>Mob Psycho 100 Reigen: Shirarezaru Kiseki no Reinouryokusha</name>
     <mapping-list>
@@ -27164,6 +27206,9 @@
   </anime>
   <anime anidbid="13559" tvdbid="340786" defaulttvdbseason="1">
     <name>Mame Neko</name>
+  </anime>
+  <anime anidbid="13581" tvdbid="342010" defaulttvdbseason="1">
+    <name>3D Kanojo: Real Girl</name>
   </anime>
   <anime anidbid="13582" tvdbid="340462" defaulttvdbseason="1">
     <name>Guda Men</name>

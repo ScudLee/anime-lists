@@ -26105,7 +26105,7 @@
   <anime anidbid="9960" tvdbid="273004" defaulttvdbseason="1">
     <name>Gundam Build Fighters</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-4;2-5;3-6;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;2-3;3-1;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="9964" tvdbid="271591" defaulttvdbseason="1">
@@ -29591,6 +29591,12 @@
   <anime anidbid="12121" tvdbid="272129" defaulttvdbseason="0" episodeoffset="2">
     <name>Strike the Blood II</name>
   </anime>
+  <anime anidbid="12123" tvdbid="273004" defaulttvdbseason="0">
+    <name>Gundam Build Fighters Try: Island Wars</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
+    </mapping-list>
+  </anime>
   <anime anidbid="12125" tvdbid="314482" defaulttvdbseason="1">
     <name>Magic-Kyun! Renaissance</name>
   </anime>
@@ -30108,6 +30114,9 @@
   <anime anidbid="12683" tvdbid="332984" defaulttvdbseason="0">
     <name>UQ Holder! Mahou Sensei Negima! 2 (2017)</name>
   </anime>
+  <anime anidbid="12685" tvdbid="312559" defaulttvdbseason="0" episodeoffset="1">
+    <name>Drifters (2017)</name>
+  </anime>
   <anime anidbid="12691" tvdbid="313435" defaulttvdbseason="2">
     <name>Saiki Kusuo no Sainan (2018)</name>
   </anime>
@@ -30339,8 +30348,17 @@
   <anime anidbid="13160" tvdbid="337013" defaulttvdbseason="1">
     <name>Slow Start</name>
   </anime>
+  <anime anidbid="13162" tvdbid="273004" defaulttvdbseason="0">
+    <name>Gundam Build Fighters: GM no Gyakushuu</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-5;</mapping>
+    </mapping-list>
+  </anime>
   <anime anidbid="13165" tvdbid="331787" defaulttvdbseason="1">
     <name>Houseki no Kuni (2017)</name>
+  </anime>
+  <anime anidbid="13167" tvdbid="273004" defaulttvdbseason="0" episodeoffset="5">
+    <name>Gundam Build Fighters: Battlogue</name>
   </anime>
   <anime anidbid="13172" tvdbid="337622" defaulttvdbseason="1">
     <name>Toji no Miko</name>
@@ -30521,5 +30539,11 @@
   </anime>
   <anime anidbid="13644" tvdbid="278626" defaulttvdbseason="0" episodeoffset="5">
     <name>Fate/Grand Order x Himuro no Tenchi: 7-nin no Saikyou Ijin Hen</name>
+  </anime>
+  <anime anidbid="13774" tvdbid="345055" defaulttvdbseason="1">
+    <name>Gundam Build Divers</name>
+  </anime>
+  <anime anidbid="13902" tvdbid="339072" defaulttvdbseason="1">
+    <name>Sword Gai</name>
   </anime>
 </anime-list>

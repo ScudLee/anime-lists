@@ -23686,6 +23686,11 @@
   </anime>
   <anime anidbid="10399" tvdbid="280330" defaulttvdbseason="1">
     <name>Amagi Brilliant Park</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-13;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="2" end="8" offset="4"/>
+      <before>;1-14;5-9;6-11;7-13;8-15;</before>
+    </mapping-list>
   </anime>
   <anime anidbid="10400" tvdbid="277464" defaulttvdbseason="1">
     <name>Ping Pong the Animation</name>

@@ -97,7 +97,7 @@
   <anime anidbid="23" tvdbid="76885" defaulttvdbseason="1">
     <name>Cowboy Bebop</name>
     <mapping-list>
-	    <mapping anidbseason="0" tvdbseason="0" start="1" end="14" offset="1"/>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="14" offset="1"/>
     </mapping-list>
     <supplemental-info>
       <studio>Sunrise</studio>
@@ -19912,7 +19912,7 @@
     <name>Tensai Eri-chan Kingyo o Tabeta</name>
   </anime>
   <anime anidbid="8655" tvdbid="244061" defaulttvdbseason="0" tmdbid="83380">
-    <name>Gekijouban Steins;Gate: Fuka Ryouiki no Deja vu</name>
+    <name>Steins;Gate: Fuka Ryouiki no Deja vu</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-2;2-0;3-0;</mapping>
     </mapping-list>
@@ -23028,7 +23028,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="10023" tvdbid="272311" defaulttvdbseason="1">
-    <name>Miss Monochrome The Animation</name>
+    <name>Miss Monochrome: The Animation</name>
   </anime>
   <anime anidbid="10024" tvdbid="275629" defaulttvdbseason="1">
     <name>Wizard Barristers: Benmashi Cecil</name>
@@ -23689,7 +23689,7 @@
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-13;</mapping>
       <mapping anidbseason="0" tvdbseason="0" start="2" end="8" offset="4"/>
-      <before>;1-14;5-9;6-11;7-13;8-15;</before>
+      <mapping anidbseason="0" tvdbseason="0" start="101" end="105" offset="-100"/>
     </mapping-list>
   </anime>
   <anime anidbid="10400" tvdbid="277464" defaulttvdbseason="1">
@@ -24657,7 +24657,7 @@
     <name>Arslan Senki (2015)</name>
   </anime>
   <anime anidbid="10912" tvdbid="298930" defaulttvdbseason="2">
-    <name>Kadeu Wang Mikseu Maseuteo</name>
+    <name>Card Wang Mix Master (2010)</name>
   </anime>
   <anime anidbid="10913" tvdbid="290605" defaulttvdbseason="1">
     <name>Sengoku Musou</name>
@@ -27039,7 +27039,7 @@
     <name>Konbini Kareshi</name>
   </anime>
   <anime anidbid="13123" tvdbid="299508" defaulttvdbseason="0">
-    <name>Relife: Kanketsuhen</name>
+    <name>Relife (2018)</name>
   </anime>
   <anime anidbid="13145" tvdbid="329831" defaulttvdbseason="1">
     <name>Karada Sagashi</name>

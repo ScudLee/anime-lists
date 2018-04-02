@@ -179,6 +179,9 @@ curl and xsltproc (and dependencies) should either be in the folder or added som
 ### update.bat ###
 Downloads the latest animetitles.xml, sorts it, updates anime-list-master.xml, calls generate-lists.bat, and commits the changed files.
 
+### update.bat ###
+Same as `update.bat` but for POSIX platforms.
+
 ### generate-lists.bat ###
 Generates all the other lists based on anime-list-master.xml, and updates/sorts anime-movieset-list.xml.
 
@@ -210,4 +213,4 @@ Or you can post a [Pull Request](https://github.com/ScudLee/anime-lists/pulls):
 
 Likewise, the anime names and the sort order in anime-movieset-list.xml will be automatically fixed based on the **anidbid**s, so don't be overly concerned about getting them exactly right (but obviously do get the **title** nodes right).
 
-Also, **do not run update.bat in a Pull Request.**  If you need animetitles.xml updated, just ask.
+Also, **do not run update.bat or update.sh in a Pull Request.**  If you need animetitles.xml updated, just ask.

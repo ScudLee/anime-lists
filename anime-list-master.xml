@@ -36737,8 +36737,11 @@
   <anime anidbid="13542" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Super Mario no Shouboutai</name>
   </anime>
-  <anime anidbid="13543" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="13543" tvdbid="284719" defaulttvdbseason="0" episodeoffset="" tmdbid="507732" imdbid="">
     <name>Shinmai Maou no Testament Departures</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-14;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="13544" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Kyonyuu Dosukebe Gakuen</name>

@@ -28535,7 +28535,7 @@
   <anime anidbid="11249" tvdbid="tv special" defaulttvdbseason="1">
     <name>Gintama x Mameshiba</name>
   </anime>
-  <anime anidbid="11250" tvdbid="264533">
+  <anime anidbid="11250" tvdbid="264533" defaulttvdbseason="0">
     <name>Love Live! M's-&amp;gt;Next Love Live! 2014: Endless Parade</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-9;2-10;3-11;</mapping>
@@ -30062,7 +30062,7 @@
   <anime anidbid="12621" tvdbid="311149" defaulttvdbseason="2">
     <name>Days: Touin Gakuen Ikusa!</name>
   </anime>
-  <anime anidbid="12622" tvdbid="335088">
+  <anime anidbid="12622" tvdbid="335088" defaulttvdbseason="1">
     <name>Nekopara</name>
   </anime>
   <anime anidbid="12625" tvdbid="332990" defaulttvdbseason="1">
@@ -30515,7 +30515,7 @@
   <anime anidbid="13417" tvdbid="335316" defaulttvdbseason="1">
     <name>Evil or Live</name>
   </anime>
-  <anime anidbid="13421" tvdbid="336973">
+  <anime anidbid="13421" tvdbid="336973" defaulttvdbseason="1">
     <name>Pingu in the City</name>
   </anime>
   <anime anidbid="13424" tvdbid="341998" defaulttvdbseason="1">

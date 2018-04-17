@@ -29933,6 +29933,9 @@
       <mapping anidbseason="1" tvdbseason="0">;1-10;2-11;</mapping>
     </mapping-list>
   </anime>
+  <anime anidbid="12442" tvdbid="305075" defaulttvdbseason="0">
+    <name>Bungou Stray Dogs (2017)</name>
+  </anime>
   <anime anidbid="12450" tvdbid="317828" defaulttvdbseason="1">
     <name>Zero kara Hajimeru Mahou no Sho</name>
   </anime>
@@ -30247,6 +30250,9 @@
   </anime>
   <anime anidbid="12835" tvdbid="327015" defaulttvdbseason="1">
     <name>Koi to Uso</name>
+  </anime>
+  <anime anidbid="12837" tvdbid="305075" defaulttvdbseason="0" episodeoffset="1" tmdbid="483455">
+    <name>Bungou Stray Dogs: Dead Apple</name>
   </anime>
   <anime anidbid="12888" tvdbid="337939" defaulttvdbseason="1">
     <name>Killing Bites</name>

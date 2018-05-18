@@ -29040,6 +29040,11 @@
   </anime>
   <anime anidbid="11731" tvdbid="78914" defaulttvdbseason="4">
     <name>Fullmetal Panic! Invisible Victory</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="4">;1-5;</mapping>
+      <mapping anidbseason="1" tvdbseason="4" start="5" end="12" offset="1"/>
+    </mapping-list>
+    <before>;1-5;</before>
   </anime>
   <anime anidbid="11734" tvdbid="262954" defaulttvdbseason="3">
     <name>JoJo no Kimyou na Bouken: Diamond wa Kudakenai</name>

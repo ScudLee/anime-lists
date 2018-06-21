@@ -26779,6 +26779,9 @@
   <anime anidbid="12567" tvdbid="movie" defaulttvdbseason="1" tmdbid="477776">
     <name>Gekijou Soushuuhen Code Geass: Hangyaku no Lelouch</name>
   </anime>
+  <anime anidbid="12569" tvdbid="348742" defaulttvdbseason="1">
+    <name>Baki (2018)</name>
+  </anime>
   <anime anidbid="12571" tvdbid="289886" defaulttvdbseason="2">
     <name>Kekkai Sensen &amp; Beyond</name>
   </anime>
@@ -27639,5 +27642,8 @@
   </anime>
   <anime anidbid="13914" tvdbid="325374" defaulttvdbseason="2">
     <name>Duel Masters!</name>
+  </anime>
+  <anime anidbid="14101" tvdbid="web" defaulttvdbseason="1" tmdbid="526094">
+    <name>Kado: Beyond Information</name>
   </anime>
 </anime-list>

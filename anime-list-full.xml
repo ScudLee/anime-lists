@@ -30823,6 +30823,9 @@
       <mapping anidbseason="1" tvdbseason="0">;1-7;</mapping>
     </mapping-list>
   </anime>
+  <anime anidbid="13536" tvdbid="343384" defaulttvdbseason="1">
+    <name>Banana Fish</name>
+  </anime>
   <anime anidbid="13537" tvdbid="342181" defaulttvdbseason="1">
     <name>Piano no Mori (2018)</name>
   </anime>

@@ -21201,6 +21201,9 @@
   </anime>
   <anime anidbid="8014" tvdbid="117801" defaulttvdbseason="2">
     <name>Kimi ni Todoke 2nd Season</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-1;2-2;3-3;4-4;5-4;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="8015" tvdbid="music video" defaulttvdbseason="1">
     <name>Super Speed</name>

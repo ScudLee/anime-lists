@@ -24542,6 +24542,9 @@
   <anime anidbid="9284" tvdbid="257098" defaulttvdbseason="2">
     <name>Hiiro no Kakera Dai Ni Shou</name>
   </anime>
+  <anime anidbid="9285" tvdbid="348704" defaulttvdbseason="1">
+    <name>Aru Zombie Shoujo no Sainan</name>
+  </anime>
   <anime anidbid="9286" tvdbid="264081" defaulttvdbseason="1">
     <name>Kyou no Asuka Show</name>
   </anime>
@@ -28295,6 +28298,9 @@
   <anime anidbid="11100" tvdbid="Movie" defaulttvdbseason="1" tmdbid="334493">
     <name>Aki no Kanade</name>
   </anime>
+  <anime anidbid="11102" tvdbid="movie" defaulttvdbseason="1" tmdbid="336481">
+    <name>Ongaku Shoujo</name>
+  </anime>
   <anime anidbid="11104" tvdbid="299509" defaulttvdbseason="1">
     <name>Sakurako-san no Ashimoto ni wa Shitai ga Umatte Iru</name>
   </anime>
@@ -29496,6 +29502,9 @@
   <anime anidbid="12019" tvdbid="309493" defaulttvdbseason="1">
     <name>Cheer Danshi!!</name>
   </anime>
+  <anime anidbid="12020" tvdbid="346799" defaulttvdbseason="1">
+    <name>Island</name>
+  </anime>
   <anime anidbid="12021" tvdbid="317665" defaulttvdbseason="1">
     <name>Kaijuu Girls: Ultra Kaijuu Gijinka Keikaku</name>
   </anime>
@@ -29621,6 +29630,9 @@
   </anime>
   <anime anidbid="12106" tvdbid="293647" defaulttvdbseason="3">
     <name>Ame-iro Cocoa in Hawaii</name>
+  </anime>
+  <anime anidbid="12107" tvdbid="261249" defaulttvdbseason="0" episodeoffset="4">
+    <name>K: Seven Stories</name>
   </anime>
   <anime anidbid="12111" tvdbid="300835" defaulttvdbseason="2">
     <name>Ajin 2 (2016)</name>
@@ -29862,6 +29874,9 @@
   <anime anidbid="12361" tvdbid="262098" defaulttvdbseason="0" episodeoffset="40" imdbid="tt7833606,tt7834494">
     <name>Girls und Panzer: Saishuushou</name>
   </anime>
+  <anime anidbid="12362" tvdbid="349498" defaulttvdbseason="1">
+    <name>Yume Oukoku to Nemureru 100 Nin no Ouji-sama</name>
+  </anime>
   <anime anidbid="12365" tvdbid="hentai" defaulttvdbseason="1">
     <name>Kowaremono: Risa Plus The Animation</name>
   </anime>
@@ -29976,6 +29991,9 @@
   </anime>
   <anime anidbid="12483" tvdbid="326337" defaulttvdbseason="1">
     <name>Idolmaster Cinderella Girls Gekijou</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;14-0;15-0;16;0</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="12485" tvdbid="325373" defaulttvdbseason="1">
     <name>Oushitsu Kyoushi Haine</name>
@@ -30475,6 +30493,9 @@
   <anime anidbid="13067" tvdbid="339278" defaulttvdbseason="1">
     <name>Pop Team Epic</name>
   </anime>
+  <anime anidbid="13068" tvdbid="313488" defaulttvdbseason="2">
+    <name>Hitori no Shita: The Outcast 2</name>
+  </anime>
   <anime anidbid="13069" tvdbid="314284" defaulttvdbseason="2">
     <name>Classicaloid (2017)</name>
   </anime>
@@ -30559,6 +30580,9 @@
   <anime anidbid="13199" tvdbid="332160" defaulttvdbseason="1">
     <name>Just Because!</name>
   </anime>
+  <anime anidbid="13205" tvdbid="264523" defaulttvdbseason="3">
+    <name>Yama no Susume: Third Season</name>
+  </anime>
   <anime anidbid="13217" tvdbid="334706" defaulttvdbseason="1">
     <name>Boku no Kanojo ga Majime Sugiru Shobitch na Ken</name>
   </anime>
@@ -30622,6 +30646,13 @@
   <anime anidbid="13271" tvdbid="329823" defaulttvdbseason="0">
     <name>Vatican Kiseki Chousakan (2018)</name>
   </anime>
+  <anime anidbid="13274" tvdbid="326337" defaulttvdbseason="2">
+    <name>Idolmaster Cinderella Girls Gekijou (2017)</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;14-0;15-0;16-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="13" offset="13"/>
+    </mapping-list>
+  </anime>
   <anime anidbid="13276" tvdbid="337617" defaulttvdbseason="1">
     <name>Hakata Tonkotsu Ramens</name>
   </anime>
@@ -30649,8 +30680,14 @@
   <anime anidbid="13293" tvdbid="341425" defaulttvdbseason="1">
     <name>Otaku ni Koi wa Muzukashii</name>
   </anime>
+  <anime anidbid="13296" tvdbid="346948" defaulttvdbseason="1">
+    <name>Harukana Receive</name>
+  </anime>
   <anime anidbid="13300" tvdbid="339401" defaulttvdbseason="1">
     <name>Dame x Prince Anime Caravan</name>
+  </anime>
+  <anime anidbid="13307" tvdbid="344844" defaulttvdbseason="1">
+    <name>Satsuriku no Tenshi</name>
   </anime>
   <anime anidbid="13309" tvdbid="337123" defaulttvdbseason="1">
     <name>Marchen Madchen</name>
@@ -30769,6 +30806,12 @@
   <anime anidbid="13437" tvdbid="341439" defaulttvdbseason="1">
     <name>Butlers: Chitose Momotose Monogatari</name>
   </anime>
+  <anime anidbid="13439" tvdbid="346676" defaulttvdbseason="1">
+    <name>Shichisei no Subaru</name>
+  </anime>
+  <anime anidbid="13480" tvdbid="319995" defaulttvdbseason="2">
+    <name>One Room: Second Season</name>
+  </anime>
   <anime anidbid="13485" tvdbid="305074" defaulttvdbseason="3">
     <name>Boku no Hero Academia (2018)</name>
   </anime>
@@ -30841,6 +30884,9 @@
       <mapping anidbseason="1" tvdbseason="0">;1-14;</mapping>
     </mapping-list>
   </anime>
+  <anime anidbid="13552" tvdbid="344980" defaulttvdbseason="1">
+    <name>Yuragi-sou no Yuuna-san</name>
+  </anime>
   <anime anidbid="13559" tvdbid="340786" defaulttvdbseason="1">
     <name>Mame Neko</name>
   </anime>
@@ -30850,6 +30896,9 @@
   <anime anidbid="13565" tvdbid="hentai" defaulttvdbseason="1">
     <name>Juvenile Pornography The Animation</name>
   </anime>
+  <anime anidbid="13573" tvdbid="340518" defaulttvdbseason="1">
+    <name>Hataraku Onii-san!</name>
+  </anime>
   <anime anidbid="13581" tvdbid="342010" defaulttvdbseason="1">
     <name>3D Kanojo: Real Girl</name>
   </anime>
@@ -30858,6 +30907,9 @@
   </anime>
   <anime anidbid="13583" tvdbid="304900" defaulttvdbseason="2">
     <name>Amanchu! Advance</name>
+  </anime>
+  <anime anidbid="13589" tvdbid="347468" defaulttvdbseason="1">
+    <name>Sunohara-sou no Kanrinin-san</name>
   </anime>
   <anime anidbid="13592" tvdbid="341985" defaulttvdbseason="1">
     <name>Caligula</name>
@@ -30870,6 +30922,9 @@
   </anime>
   <anime anidbid="13613" tvdbid="342316" defaulttvdbseason="1">
     <name>Akkun to Kanojo</name>
+  </anime>
+  <anime anidbid="13619" tvdbid="347160" defaulttvdbseason="1">
+    <name>Back Street Girls: Goku Dolls</name>
   </anime>
   <anime anidbid="13625" tvdbid="343815" defaulttvdbseason="1">
     <name>Hisone to Masotan</name>
@@ -30889,6 +30944,9 @@
   <anime anidbid="13658" tvdbid="289909" defaulttvdbseason="3" episodeoffset="12">
     <name>Shokugeki no Souma: San no Sara - Tootsuki Ressha Hen</name>
   </anime>
+  <anime anidbid="13659" tvdbid="344980" defaulttvdbseason="0">
+    <name>Yuragi-sou no Yuuna-san (OAD)</name>
+  </anime>
   <anime anidbid="13676" tvdbid="343363" defaulttvdbseason="1">
     <name>Cutie Honey Universe</name>
   </anime>
@@ -30907,6 +30965,12 @@
   <anime anidbid="13740" tvdbid="315092" defaulttvdbseason="3">
     <name>Nobunaga no Shinobi: Anegawa Ishiyama Hen</name>
   </anime>
+  <anime anidbid="13743" tvdbid="346931" defaulttvdbseason="1">
+    <name>Hataraku Saibou</name>
+  </anime>
+  <anime anidbid="13750" tvdbid="346798" defaulttvdbseason="1">
+    <name>Asobi Asobase</name>
+  </anime>
   <anime anidbid="13752" tvdbid="345381" defaulttvdbseason="1">
     <name>Kiratto Pri Chan</name>
   </anime>
@@ -30915,6 +30979,9 @@
   </anime>
   <anime anidbid="13755" tvdbid="345382" defaulttvdbseason="1">
     <name>Aikatsu Friends!</name>
+  </anime>
+  <anime anidbid="13757" tvdbid="347425" defaulttvdbseason="1">
+    <name>Isekai Maou to Shoukan Shoujo no Dorei Majutsu</name>
   </anime>
   <anime anidbid="13774" tvdbid="345055" defaulttvdbseason="1">
     <name>Gundam Build Divers</name>
@@ -30925,17 +30992,35 @@
   <anime anidbid="13781" tvdbid="342345" defaulttvdbseason="1">
     <name>Omae wa Mada Gunma o Shiranai</name>
   </anime>
+  <anime anidbid="13783" tvdbid="348294" defaulttvdbseason="1">
+    <name>Hanebado!</name>
+  </anime>
   <anime anidbid="13791" tvdbid="337483" defaulttvdbseason="3">
     <name>Beyblade Burst Chouzetsu</name>
   </anime>
   <anime anidbid="13807" tvdbid="275582" defaulttvdbseason="4">
     <name>Youkai Watch: Shadow Side</name>
   </anime>
+  <anime anidbid="13813" tvdbid="344200" defaulttvdbseason="1">
+    <name>Chuukan Kanriroku Tonegawa</name>
+  </anime>
   <anime anidbid="13838" tvdbid="310027" defaulttvdbseason="5">
     <name>Shounen Ashibe: Go! Go! Goma-chan (2018)</name>
   </anime>
+  <anime anidbid="13845" tvdbid="347578" defaulttvdbseason="1">
+    <name>Zoids Wild</name>
+  </anime>
+  <anime anidbid="13859" tvdbid="326337" defaulttvdbseason="3">
+    <name>Idolmaster Cinderella Girls Gekijou (2018)</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="8" offset="26"/>
+    </mapping-list>
+  </anime>
   <anime anidbid="13875" tvdbid="345233" defaulttvdbseason="1">
     <name>Wakaokami wa Shougakusei!</name>
+  </anime>
+  <anime anidbid="13896" tvdbid="347294" defaulttvdbseason="1">
+    <name>Hyakuren no Haou to Seiyaku no Valkyria</name>
   </anime>
   <anime anidbid="13897" tvdbid="345232" defaulttvdbseason="1">
     <name>Ladyspo</name>
@@ -30943,8 +31028,35 @@
   <anime anidbid="13902" tvdbid="339072" defaulttvdbseason="1">
     <name>Sword Gai</name>
   </anime>
+  <anime anidbid="13913" tvdbid="346943" defaulttvdbseason="1">
+    <name>Ongaku Shoujo (2018)</name>
+  </anime>
   <anime anidbid="13914" tvdbid="325374" defaulttvdbseason="2">
     <name>Duel Masters!</name>
+  </anime>
+  <anime anidbid="13960" tvdbid="349496" defaulttvdbseason="1">
+    <name>Senjuushi</name>
+  </anime>
+  <anime anidbid="13965" tvdbid="346942" defaulttvdbseason="1">
+    <name>Planet With</name>
+  </anime>
+  <anime anidbid="13995" tvdbid="340518" defaulttvdbseason="2">
+    <name>Hataraku Onii-san! No 2!</name>
+  </anime>
+  <anime anidbid="14049" tvdbid="320002" defaulttvdbseason="0" episodeoffset="1">
+    <name>Pastel Life</name>
+  </anime>
+  <anime anidbid="14075" tvdbid="320002" defaulttvdbseason="2">
+    <name>Bang Dream! 2nd Season</name>
+  </anime>
+  <anime anidbid="14076" tvdbid="320002" defaulttvdbseason="3">
+    <name>Bang Dream! 3rd Season</name>
+  </anime>
+  <anime anidbid="14077" tvdbid="349497" defaulttvdbseason="1">
+    <name>Bang Dream! Garupa Pico</name>
+  </anime>
+  <anime anidbid="14086" tvdbid="347734" defaulttvdbseason="1">
+    <name>Super Dragon Ball Heroes</name>
   </anime>
   <anime anidbid="14101" tvdbid="web" defaulttvdbseason="1" tmdbid="526094">
     <name>Kado: Beyond Information</name>

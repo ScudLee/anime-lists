@@ -27123,6 +27123,9 @@
   </anime>
   <anime anidbid="12952" tvdbid="294002" defaulttvdbseason="2">
     <name>Overlord II</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="13" offset="13"/>
+    </mapping-list>
   </anime>
   <anime anidbid="12954" tvdbid="275613" defaulttvdbseason="2">
     <name>Hoozuki no Reitetsu (2017)</name>
@@ -27327,6 +27330,9 @@
   </anime>
   <anime anidbid="13238" tvdbid="344076" defaulttvdbseason="1">
     <name>Comic Girls</name>
+  </anime>
+  <anime anidbid="13241" tvdbid="267440" defaulttvdbseason="3">
+    <name>Shingeki no Kyojin Season 3</name>
   </anime>
   <anime anidbid="13242" tvdbid="hentai" defaulttvdbseason="1">
     <name>Boku Dake no Hentai Kanojo The Animation</name>
@@ -27814,6 +27820,9 @@
   </anime>
   <anime anidbid="14008" tvdbid="294002" defaulttvdbseason="3">
     <name>Overlord III</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="4" offset="26"/>
+    </mapping-list>
   </anime>
   <anime anidbid="14044" tvdbid="348719" defaulttvdbseason="1">
     <name>Aguu: Tensai Ningyou</name>

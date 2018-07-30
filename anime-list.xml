@@ -27139,6 +27139,12 @@
   <anime anidbid="12959" tvdbid="333152" defaulttvdbseason="1">
     <name>Kino no Tabi: The Beautiful World - The Animated Series</name>
   </anime>
+  <anime anidbid="12962" tvdbid="289884" defaulttvdbseason="0" imdbid="tt6973828">
+    <name>Gekijouban Hibike! Euphonium: Todoketai Melody</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-17;</mapping>
+    </mapping-list>
+  </anime>
   <anime anidbid="12985" tvdbid="329828" defaulttvdbseason="1">
     <name>Clione no Akari</name>
   </anime>
@@ -27298,6 +27304,12 @@
   <anime anidbid="13172" tvdbid="337622" defaulttvdbseason="1">
     <name>Toji no Miko</name>
   </anime>
+  <anime anidbid="13176" tvdbid="261862" defaulttvdbseason="0" imdbid="tt6915208">
+    <name>Eiga Chuunibyou demo Koi ga Shitai! Take on Me</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-31;</mapping>
+    </mapping-list>
+  </anime>
   <anime anidbid="13192" tvdbid="330086" defaulttvdbseason="1">
     <name>Skirt no Naka wa Kedamono Deshita.</name>
   </anime>
@@ -27348,6 +27360,9 @@
   </anime>
   <anime anidbid="13248" tvdbid="329422" defaulttvdbseason="0">
     <name>Hajimete no Gal: Hajimete no Bunkasai</name>
+  </anime>
+  <anime anidbid="13250" tvdbid="337350" defaulttvdbseason="1">
+    <name>Chio-chan no Tsuugakuro</name>
   </anime>
   <anime anidbid="13251" tvdbid="hentai" defaulttvdbseason="1">
     <name>Otome Domain The Animation</name>
@@ -27557,6 +27572,12 @@
   <anime anidbid="13486" tvdbid="301920" defaulttvdbseason="2" episodeoffset="23">
     <name>Monster Strike Anime: Kieyuku Uchuu Hen</name>
   </anime>
+  <anime anidbid="13491" tvdbid="289884" defaulttvdbseason="0" imdbid="tt7089878">
+    <name>Liz to Aoi Tori</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-18;</mapping>
+    </mapping-list>
+  </anime>
   <anime anidbid="13492" tvdbid="341432" defaulttvdbseason="1">
     <name>Tada-kun wa Koi o Shinai</name>
   </anime>
@@ -27614,6 +27635,9 @@
   <anime anidbid="13537" tvdbid="342181" defaulttvdbseason="1">
     <name>Piano no Mori (2018)</name>
   </anime>
+  <anime anidbid="13539" tvdbid="347295" defaulttvdbseason="1">
+    <name>Tsukumogami Kashimasu</name>
+  </anime>
   <anime anidbid="13540" tvdbid="85192" defaulttvdbseason="2">
     <name>Souten no Ken: Regenesis</name>
   </anime>
@@ -27621,6 +27645,12 @@
     <name>Shinmai Maou no Testament Departures</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-14;</mapping>
+    </mapping-list>
+  </anime>
+  <anime anidbid="13546" tvdbid="267440" defaulttvdbseason="0" imdbid="tt7941892">
+    <name>Gekijouban Shingeki no Kyojin Season 2: Kakusei no Houkou</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-23;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="13548" tvdbid="270065" defaulttvdbseason="3">
@@ -27847,5 +27877,8 @@
   </anime>
   <anime anidbid="14101" tvdbid="web" defaulttvdbseason="1" tmdbid="526094">
     <name>Kado: Beyond Information</name>
+  </anime>
+  <anime anidbid="14112" tvdbid="349640" defaulttvdbseason="1">
+    <name>Joshi Ochi! 2-kai kara Onnanoko ga... Futte Kita!?</name>
   </anime>
 </anime-list>

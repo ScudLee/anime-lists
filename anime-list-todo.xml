@@ -1690,9 +1690,6 @@
   <anime anidbid="10857" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Doamaiger D</name>
   </anime>
-  <anime anidbid="10858" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Sword Gai The Animation</name>
-  </anime>
   <anime anidbid="10860" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Di Gi Charat Summer Special 2000</name>
   </anime>
@@ -6712,6 +6709,9 @@
   <anime anidbid="13901" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Strike the Blood III</name>
   </anime>
+  <anime anidbid="13902" tvdbid="" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+    <name>Sword Gai</name>
+  </anime>
   <anime anidbid="13903" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>NHK Manga De Yomu Koten</name>
   </anime>
@@ -6933,9 +6933,6 @@
   </anime>
   <anime anidbid="13999" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Caribadix (2018)</name>
-  </anime>
-  <anime anidbid="14000" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Sword Gai: The Animation Part II</name>
   </anime>
   <anime anidbid="14001" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Gakuen Basara</name>
@@ -7447,9 +7444,6 @@
   <anime anidbid="14194" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Tiny Evil</name>
   </anime>
-  <anime anidbid="14195" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Dies Irae (2018)</name>
-  </anime>
   <anime anidbid="14196" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Gekijouban Trinity Seven 2</name>
   </anime>
@@ -7479,9 +7473,6 @@
   </anime>
   <anime anidbid="14205" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>World Witches Series: 501 Butai Hasshin Shimasu!!</name>
-  </anime>
-  <anime anidbid="14206" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Nekopara: Koneko no Hi no Yakusoku</name>
   </anime>
   <anime anidbid="14207" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Qian Ting Zong Dong Yuan: Hai Di Liang Wan Li</name>
@@ -7586,4 +7577,4 @@
     <name>Hachigatsu no Cinderella Nine</name>
   </anime>
 </anime-list>
-<!--2522 titles remaining-->
+<!--2519 titles remaining-->

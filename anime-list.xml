@@ -24543,6 +24543,9 @@
   <anime anidbid="10855" tvdbid="281947" defaulttvdbseason="2">
     <name>Shounen Hollywood: Holly Stage for 50</name>
   </anime>
+  <anime anidbid="10858" tvdbid="339072" defaulttvdbseason="1">
+    <name>Sword Gai The Animation</name>
+  </anime>
   <anime anidbid="10859" tvdbid="275670" defaulttvdbseason="2">
     <name>Nisekoi:</name>
     <mapping-list>
@@ -25202,8 +25205,12 @@
   <anime anidbid="11203" tvdbid="283947" defaulttvdbseason="2">
     <name>Ansatsu Kyoushitsu (2016)</name>
   </anime>
-  <anime anidbid="11204" tvdbid="321690" defaulttvdbseason="1">
+  <anime anidbid="11204" tvdbid="321690" defaulttvdbseason="1" episodeoffset="-1">
     <name>Dies Irae</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-1;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;6-0;7-0;8-0;9-0;10-2;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="11209" tvdbid="305101" defaulttvdbseason="1">
     <name>Super Lovers</name>
@@ -27806,9 +27813,6 @@
   <anime anidbid="13897" tvdbid="345232" defaulttvdbseason="1">
     <name>Ladyspo</name>
   </anime>
-  <anime anidbid="13902" tvdbid="339072" defaulttvdbseason="1">
-    <name>Sword Gai</name>
-  </anime>
   <anime anidbid="13904" tvdbid="348601" defaulttvdbseason="1">
     <name>Kyoto Teramachi Sanjou no Holmes</name>
   </anime>
@@ -27845,6 +27849,9 @@
   <anime anidbid="13995" tvdbid="340518" defaulttvdbseason="2">
     <name>Hataraku Onii-san! No 2!</name>
   </anime>
+  <anime anidbid="14000" tvdbid="339072" defaulttvdbseason="2">
+    <name>Sword Gai: The Animation Part II</name>
+  </anime>
   <anime anidbid="14002" tvdbid="349459" defaulttvdbseason="1">
     <name>Shin'ya! Tensai Bakabon</name>
   </anime>
@@ -27880,5 +27887,11 @@
   </anime>
   <anime anidbid="14112" tvdbid="349640" defaulttvdbseason="1">
     <name>Joshi Ochi! 2-kai kara Onnanoko ga... Futte Kita!?</name>
+  </anime>
+  <anime anidbid="14195" tvdbid="321690" defaulttvdbseason="1" episodeoffset="11">
+    <name>Dies Irae (2018)</name>
+  </anime>
+  <anime anidbid="14206" tvdbid="335088" defaulttvdbseason="0">
+    <name>Nekopara: Koneko no Hi no Yakusoku</name>
   </anime>
 </anime-list>

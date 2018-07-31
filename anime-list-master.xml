@@ -29502,7 +29502,7 @@
   <anime anidbid="10857" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Doamaiger D</name>
   </anime>
-  <anime anidbid="10858" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="10858" tvdbid="339072" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Sword Gai The Animation</name>
   </anime>
   <anime anidbid="10859" tvdbid="275670" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
@@ -30458,8 +30458,12 @@
   <anime anidbid="11203" tvdbid="283947" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Ansatsu Kyoushitsu (2016)</name>
   </anime>
-  <anime anidbid="11204" tvdbid="321690" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="11204" tvdbid="321690" defaulttvdbseason="1" episodeoffset="-1" tmdbid="" imdbid="">
     <name>Dies Irae</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-1;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;6-0;7-0;8-0;9-0;10-2;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="11205" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Micro Teukgongdae Diatron 5</name>
@@ -37793,7 +37797,7 @@
   <anime anidbid="13901" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Strike the Blood III</name>
   </anime>
-  <anime anidbid="13902" tvdbid="339072" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="13902" tvdbid="" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Sword Gai</name>
   </anime>
   <anime anidbid="13903" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -38054,7 +38058,7 @@
   <anime anidbid="13999" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Caribadix (2018)</name>
   </anime>
-  <anime anidbid="14000" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14000" tvdbid="339072" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Sword Gai: The Animation Part II</name>
   </anime>
   <anime anidbid="14001" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -38603,7 +38607,7 @@
   <anime anidbid="14194" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Tiny Evil</name>
   </anime>
-  <anime anidbid="14195" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14195" tvdbid="321690" defaulttvdbseason="1" episodeoffset="11" tmdbid="" imdbid="">
     <name>Dies Irae (2018)</name>
   </anime>
   <anime anidbid="14196" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -38636,7 +38640,7 @@
   <anime anidbid="14205" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>World Witches Series: 501 Butai Hasshin Shimasu!!</name>
   </anime>
-  <anime anidbid="14206" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14206" tvdbid="335088" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Nekopara: Koneko no Hi no Yakusoku</name>
   </anime>
   <anime anidbid="14207" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">

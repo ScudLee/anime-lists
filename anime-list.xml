@@ -3223,6 +3223,9 @@
   </anime>
   <anime anidbid="880" tvdbid="79237" defaulttvdbseason="2">
     <name>Grappler Baki: Saidai Tournament Hen</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="2">;1-24;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="881" tvdbid="109001" defaulttvdbseason="1">
     <name>Shin Getter Robo Tai Neo Getter Robo</name>
@@ -22907,10 +22910,11 @@
       <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="9977" tvdbid="278626" defaulttvdbseason="1" episodeoffset="-1">
+  <anime anidbid="9977" tvdbid="278626" defaulttvdbseason="1">
     <name>Fate/Stay Night: Unlimited Blade Works (2014)</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-1;</mapping>
+      <mapping anidbseason="1" tvdbseason="1" start="2" end="13" offset="-1"/>
     </mapping-list>
   </anime>
   <anime anidbid="9980" tvdbid="114801" defaulttvdbseason="a" episodeoffset="175">
@@ -26807,6 +26811,9 @@
   <anime anidbid="12558" tvdbid="315103" defaulttvdbseason="2">
     <name>Nanbaka (2017)</name>
   </anime>
+  <anime anidbid="12560" tvdbid="326270" defaulttvdbseason="1">
+    <name>Quanzhi Gaoshou</name>
+  </anime>
   <anime anidbid="12562" tvdbid="344974" defaulttvdbseason="1">
     <name>Isekai Izakaya: Koto Aitheria no Izakaya Nobu</name>
   </anime>
@@ -27317,6 +27324,9 @@
   <anime anidbid="13170" tvdbid="hentai" defaulttvdbseason="1">
     <name>Oide yo! Mizuryuu Kei Land</name>
   </anime>
+  <anime anidbid="13171" tvdbid="328670" defaulttvdbseason="1">
+    <name>Quanzhi Fashi</name>
+  </anime>
   <anime anidbid="13172" tvdbid="337622" defaulttvdbseason="1">
     <name>Toji no Miko</name>
   </anime>
@@ -27585,6 +27595,9 @@
   <anime anidbid="13439" tvdbid="346676" defaulttvdbseason="1">
     <name>Shichisei no Subaru</name>
   </anime>
+  <anime anidbid="13469" tvdbid="328670" defaulttvdbseason="2">
+    <name>Quanzhi Fashi 2</name>
+  </anime>
   <anime anidbid="13480" tvdbid="319995" defaulttvdbseason="2">
     <name>One Room: Second Season</name>
   </anime>
@@ -27813,6 +27826,9 @@
   <anime anidbid="13845" tvdbid="347578" defaulttvdbseason="1">
     <name>Zoids Wild</name>
   </anime>
+  <anime anidbid="13846" tvdbid="movie" defaulttvdbseason="1" imdbid="tt8176578">
+    <name>Shikioriori</name>
+  </anime>
   <anime anidbid="13859" tvdbid="326337" defaulttvdbseason="3">
     <name>Idolmaster Cinderella Girls Gekijou (2018)</name>
     <mapping-list>
@@ -27837,11 +27853,17 @@
   <anime anidbid="13914" tvdbid="325374" defaulttvdbseason="2">
     <name>Duel Masters!</name>
   </anime>
+  <anime anidbid="13916" tvdbid="347467" defaulttvdbseason="1">
+    <name>Muhyo to Roji no Mahouritsu Soudan Jimusho</name>
+  </anime>
   <anime anidbid="13917" tvdbid="79895" defaulttvdbseason="10" episodeoffset="12">
     <name>Gintama. (2018)</name>
   </anime>
   <anime anidbid="13944" tvdbid="347194" defaulttvdbseason="1">
     <name>Happy Sugar Life</name>
+  </anime>
+  <anime anidbid="13950" tvdbid="326270" defaulttvdbseason="0">
+    <name>Quanzhi Gaoshou: Tebie Pian</name>
   </anime>
   <anime anidbid="13958" tvdbid="348687" defaulttvdbseason="1">
     <name>Lord of Vermilion: Guren no Ou</name>
@@ -27873,7 +27895,7 @@
   <anime anidbid="14008" tvdbid="294002" defaulttvdbseason="3">
     <name>Overlord III</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0" start="1" end="4" offset="26"/>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="8" offset="26"/>
     </mapping-list>
   </anime>
   <anime anidbid="14044" tvdbid="348719" defaulttvdbseason="1">

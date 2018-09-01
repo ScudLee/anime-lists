@@ -18965,9 +18965,6 @@
   </anime>
   <anime anidbid="8265" tvdbid="252474" defaulttvdbseason="1">
     <name>Maken-ki!</name>
-    <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="8266" tvdbid="248018" defaulttvdbseason="1">
     <name>Softenni!</name>
@@ -19706,6 +19703,9 @@
   </anime>
   <anime anidbid="8566" tvdbid="252474" defaulttvdbseason="0">
     <name>Maken-ki!: Natsu Da! Mizugi Da! Gasshuku Da!</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-7;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="8567" tvdbid="247788" defaulttvdbseason="2">
     <name>Sekaiichi Hatsukoi 2</name>
@@ -21706,6 +21706,9 @@
   </anime>
   <anime anidbid="9406" tvdbid="252474" defaulttvdbseason="2">
     <name>Maken-ki! Two</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="5" offset="8"/>
+    </mapping-list>
   </anime>
   <anime anidbid="9409" tvdbid="254653" defaulttvdbseason="2">
     <name>High School DxD New: Gekkou Koutei no Excalibur</name>

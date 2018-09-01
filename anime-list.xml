@@ -5519,8 +5519,11 @@
       <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="1677" tvdbid="79879" defaulttvdbseason="a">
+  <anime anidbid="1677" tvdbid="79879" defaulttvdbseason="1">
     <name>Kyou kara Maou!</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="2" start="40" end="78" offset="-39"/>
+    </mapping-list>
   </anime>
   <anime anidbid="1681" tvdbid="240711" defaulttvdbseason="1">
     <name>Arrow Emblem: Grand Prix no Taka</name>

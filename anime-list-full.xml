@@ -642,7 +642,7 @@
   <anime anidbid="160" tvdbid="81477" defaulttvdbseason="1">
     <name>UFO Princess Valkyrie</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;2-1;3-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="161" tvdbid="74598" defaulttvdbseason="a">
@@ -1332,7 +1332,7 @@
   <anime anidbid="343" tvdbid="72775" defaulttvdbseason="4">
     <name>Saint Seiya: Meiou Hades Juuni Kyuu Hen</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-6;2-99;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-9;2-99;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="344" tvdbid="81694" defaulttvdbseason="1">
@@ -4065,6 +4065,9 @@
   </anime>
   <anime anidbid="1111" tvdbid="81477" defaulttvdbseason="2">
     <name>UFO Princess Valkyrie: Juunigatsu no Yasoukyoku</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="1112" tvdbid="85536" defaulttvdbseason="1">
     <name>Kikou Senki Dragonar</name>
@@ -4593,13 +4596,13 @@
   <anime anidbid="1309" tvdbid="81618" defaulttvdbseason="0" episodeoffset="1" tmdbid="154501">
     <name>Ginga Eiyuu Densetsu Gaiden: Ougon no Tsubasa</name>
   </anime>
-  <anime anidbid="1310" tvdbid="81618" defaulttvdbseason="0" episodeoffset="3">
+  <anime anidbid="1310" tvdbid="268996" defaulttvdbseason="1">
     <name>Ginga Eiyuu Densetsu Gaiden</name>
     <supplemental-info>
       <studio>Kitty Film Mitaka Studio</studio>
     </supplemental-info>
   </anime>
-  <anime anidbid="1311" tvdbid="81618" defaulttvdbseason="0" episodeoffset="27">
+  <anime anidbid="1311" tvdbid="268996" defaulttvdbseason="2">
     <name>Ginga Eiyuu Densetsu Gaiden (1999)</name>
     <supplemental-info>
       <studio>Kitty Film Mitaka Studio</studio>
@@ -13287,7 +13290,7 @@
   <anime anidbid="4691" tvdbid="80005" defaulttvdbseason="1">
     <name>Nodame Cantabile</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;2-1;3-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;3-0;4-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="4692" tvdbid="82883" defaulttvdbseason="2">
@@ -13539,7 +13542,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-9;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="4772" tvdbid="75411" defaulttvdbseason="3">
+  <anime anidbid="4772" tvdbid="75411" defaulttvdbseason="0" episodeoffset="1">
     <name>Rozen Maiden: Ouverture</name>
   </anime>
   <anime anidbid="4773" tvdbid="81651" defaulttvdbseason="1">
@@ -16130,9 +16133,6 @@
   </anime>
   <anime anidbid="5941" tvdbid="80005" defaulttvdbseason="2">
     <name>Nodame Cantabile: Paris Hen</name>
-    <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="5942" tvdbid="OVA" defaulttvdbseason="1" imdbid="unknown">
     <name>Circuit no Ookami II: Modena no Ken</name>
@@ -17262,6 +17262,9 @@
   </anime>
   <anime anidbid="6463" tvdbid="81831" defaulttvdbseason="0">
     <name>To Love-Ru: Trouble (2009)</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="6464" tvdbid="hentai" defaulttvdbseason="1">
     <name>Lovely Series</name>
@@ -18071,7 +18074,7 @@
   <anime anidbid="6779" tvdbid="80005" defaulttvdbseason="0">
     <name>Nodame Cantabile (2009)</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-2;2-4;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-3;2-5;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="6780" tvdbid="145211" defaulttvdbseason="1">
@@ -18764,7 +18767,7 @@
   <anime anidbid="7019" tvdbid="80005" defaulttvdbseason="3">
     <name>Nodame Cantabile: Finale</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-3;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-4;</mapping>
     </mapping-list>
     <before>;1-1;</before>
   </anime>
@@ -21393,7 +21396,7 @@
   <anime anidbid="8085" tvdbid="132961" defaulttvdbseason="0">
     <name>Baka to Test to Shoukanjuu: Matsuri</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-31;2-32;3-33;4-0;5-0;6-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-34;2-33;3-32;4-31;5-0;6-0;</mapping>
       <mapping anidbseason="1" tvdbseason="0">;1-9;2-10;</mapping>
     </mapping-list>
   </anime>
@@ -23071,7 +23074,8 @@
   <anime anidbid="8701" tvdbid="87841" defaulttvdbseason="2">
     <name>Saki: Achiga Hen - Episode of Side-A</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="2">;1-12;2-14;3-15;4-16;</mapping>
+      <mapping anidbseason="0" tvdbseason="2">;1-13;2-14;3-15;4-16;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;5-8;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="8702" tvdbid="web" defaulttvdbseason="1">
@@ -23121,6 +23125,9 @@
   </anime>
   <anime anidbid="8721" tvdbid="80000" defaulttvdbseason="0">
     <name>Shijou Saikyou no Deshi Ken'ichi (2012)</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="4" offset="11"/>
+    </mapping-list>
   </anime>
   <anime anidbid="8722" tvdbid="256182" defaulttvdbseason="1">
     <name>High Score</name>

@@ -4130,7 +4130,7 @@
     <name>Kakyuusei</name>
   </anime>
   <anime anidbid="1167" tvdbid="80049" defaulttvdbseason="1">
-    <name>Elf ban Kakyuusei: Anata Dake o Mitsumete...</name>
+    <name>Elf Ban Kakyuusei: Anata Dake o Mitsumete...</name>
   </anime>
   <anime anidbid="1168" tvdbid="hentai" defaulttvdbseason="1">
     <name>Gloria: Kindan no Ketsuzoku</name>
@@ -7988,7 +7988,7 @@
     <name>Girls Bravo: Second Season</name>
   </anime>
   <anime anidbid="2680" tvdbid="hentai" defaulttvdbseason="1">
-    <name>Kanzen Mushusei: Sorezore no Houkago</name>
+    <name>Kanzen Mushuusei: Sorezore no Houkago</name>
   </anime>
   <anime anidbid="2681" tvdbid="hentai" defaulttvdbseason="1">
     <name>Mogitate Marina-chan</name>
@@ -11447,9 +11447,6 @@
   </anime>
   <anime anidbid="4611" tvdbid="OVA" defaulttvdbseason="1" imdbid="unknown">
     <name>Gendai Kibunroku Kaii Monogatari</name>
-  </anime>
-  <anime anidbid="4612" tvdbid="OVA" defaulttvdbseason="1" imdbid="unknown">
-    <name>Zakuro Yashiki La Grenadiere</name>
   </anime>
   <anime anidbid="4614" tvdbid="hentai" defaulttvdbseason="1">
     <name>Ijoku</name>
@@ -15101,7 +15098,7 @@
     <name>Mama Puri!?</name>
   </anime>
   <anime anidbid="6577" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0418998">
-    <name>Osaru no Sankichi: Totsugeki Tai no Kan</name>
+    <name>Osaru no Sankichi: Totsugeki Tai</name>
   </anime>
   <anime anidbid="6582" tvdbid="252696" defaulttvdbseason="0" imdbid="tt1147526">
     <name>Doraemon: Nobita to Robot Kingdom</name>
@@ -15602,9 +15599,6 @@
       <mapping anidbseason="0" tvdbseason="0">;13-1;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="6775" tvdbid="hentai" defaulttvdbseason="1">
-    <name>Injuu Seisen XX</name>
-  </anime>
   <anime anidbid="6777" tvdbid="93281" defaulttvdbseason="2">
     <name>Tentai Senshi Sunred 2</name>
   </anime>
@@ -16058,7 +16052,7 @@
     <name>Chongire Hebi</name>
   </anime>
   <anime anidbid="6935" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0418930">
-    <name>Nansensu Monogatari Daiichi-hen: Sarugashima</name>
+    <name>Nansensu Monogatari Dai Ippen: Sarugashima</name>
   </anime>
   <anime anidbid="6936" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0418775">
     <name>Kaeru San Yuushi</name>
@@ -20074,8 +20068,8 @@
   <anime anidbid="8701" tvdbid="87841" defaulttvdbseason="2">
     <name>Saki: Achiga Hen - Episode of Side-A</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="2">;1-13;2-14;3-15;4-16;</mapping>
       <mapping anidbseason="0" tvdbseason="0">;5-8;</mapping>
+      <mapping anidbseason="0" tvdbseason="2">;1-13;2-14;3-15;4-16;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="8702" tvdbid="web" defaulttvdbseason="1">
@@ -23708,13 +23702,13 @@
     <name>Inari, Konkon, Koi Iroha. Inari, Konkon, Semi Shigure.</name>
   </anime>
   <anime anidbid="10392" tvdbid="262094" defaulttvdbseason="0">
-    <name>Magi: Sinbad no Bouken</name>
+    <name>Magi: Sindbad no Bouken</name>
   </anime>
   <anime anidbid="10395" tvdbid="278331" defaulttvdbseason="1">
     <name>Soredemo Sekai wa Utsukushii</name>
   </anime>
   <anime anidbid="10397" tvdbid="275611" defaulttvdbseason="0">
-    <name>Witch Craft Works (2015)</name>
+    <name>Witch Craft Works: Takamiya-kun to Imouto no Warudakumi</name>
   </anime>
   <anime anidbid="10398" tvdbid="278158" defaulttvdbseason="1">
     <name>Inugami-san to Nekoyama-san</name>
@@ -24974,7 +24968,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="11041" tvdbid="movie" defaulttvdbseason="1" imdbid="tt4637028">
-    <name>Sinbad</name>
+    <name>Sindbad</name>
   </anime>
   <anime anidbid="11045" tvdbid="hentai" defaulttvdbseason="1">
     <name>Namaiki: Kissui-sou e Youkoso! The Animation</name>
@@ -25199,7 +25193,7 @@
     <name>Taifuu no Noruda</name>
   </anime>
   <anime anidbid="11187" tvdbid="movie" defaulttvdbseason="1">
-    <name>Chikotan</name>
+    <name>Chikotan: Boku no Oyome-san</name>
   </anime>
   <anime anidbid="11193" tvdbid="hentai" defaulttvdbseason="1">
     <name>Ane Yome Quartet</name>
@@ -25225,8 +25219,8 @@
   <anime anidbid="11204" tvdbid="321690" defaulttvdbseason="1" episodeoffset="-1">
     <name>Dies Irae</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-1;</mapping>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;6-0;7-0;8-0;9-0;10-2;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-1;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="11209" tvdbid="305101" defaulttvdbseason="1">
@@ -25694,7 +25688,7 @@
     <name>Bishoujo Senshi Sailor Moon Crystal Season III</name>
   </anime>
   <anime anidbid="11672" tvdbid="262094" defaulttvdbseason="3">
-    <name>Magi: Sinbad no Bouken (2016)</name>
+    <name>Magi: Sindbad no Bouken (2016)</name>
   </anime>
   <anime anidbid="11673" tvdbid="293996" defaulttvdbseason="1" episodeoffset="12">
     <name>Gakusen Toshi Asterisk (2016)</name>
@@ -26023,7 +26017,7 @@
     <name>Kamiwaza Wanda</name>
   </anime>
   <anime anidbid="11889" tvdbid="289886" defaulttvdbseason="0">
-    <name>Kekkai Sensen: Ou-sama no Restaurant no Ou-sama</name>
+    <name>Kekkai Sensen: Ousama no Restaurant no Ousama</name>
   </anime>
   <anime anidbid="11890" tvdbid="284719" defaulttvdbseason="0">
     <name>Shinmai Maou no Testament Burst (2016)</name>
@@ -26095,7 +26089,7 @@
     <name>Monster Musume no Iru Nichijou (2016)</name>
   </anime>
   <anime anidbid="11927" tvdbid="308036" defaulttvdbseason="1">
-    <name>PazuDora Cross</name>
+    <name>Puzzle &amp; Dragons Cross</name>
   </anime>
   <anime anidbid="11928" tvdbid="321440" defaulttvdbseason="1">
     <name>Marginal #4 Kiss kara Tsukuru Big Bang</name>
@@ -26248,7 +26242,7 @@
     <name>Super Lovers (2017)</name>
   </anime>
   <anime anidbid="12023" tvdbid="78878" defaulttvdbseason="2">
-    <name>FLCL Progressive</name>
+    <name>Furi Kuri Progressive</name>
   </anime>
   <anime anidbid="12027" tvdbid="327574" defaulttvdbseason="1">
     <name>Katsugeki: Touken Ranbu</name>
@@ -27419,7 +27413,7 @@
     <name>Sora yori mo Tooi Basho</name>
   </anime>
   <anime anidbid="13258" tvdbid="movie" defaulttvdbseason="0" imdbid="tt7112162">
-    <name>FLCL Alternative</name>
+    <name>Furi Kuri Alternative</name>
   </anime>
   <anime anidbid="13259" tvdbid="337017" defaulttvdbseason="1">
     <name>Darling in the Franxx</name>

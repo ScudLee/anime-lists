@@ -1020,7 +1020,7 @@
   <anime anidbid="252" tvdbid="74474" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Kidou Senshi Gundam SEED</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-4;2-7;3;8</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-4;2-7;3-8</mapping>
     </mapping-list>
     <supplemental-info>
       <studio>Sunrise</studio>
@@ -27456,11 +27456,10 @@
       <mapping anidbseason="1" tvdbseason="0">;1-36;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="10022" tvdbid="259640" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="10022" tvdbid="259640" defaulttvdbseason="0" episodeoffset="9" tmdbid="" imdbid="">
     <name>Sword Art Online: Extra Edition</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-11;</mapping>
-      <mapping anidbseason="1" tvdbseason="0">;1-10;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="10023" tvdbid="272311" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -31762,8 +31761,11 @@
   <anime anidbid="11680" tvdbid="257516" defaulttvdbseason="0" episodeoffset="10" tmdbid="" imdbid="">
     <name>Accel World: Infinite Burst</name>
   </anime>
-  <anime anidbid="11681" tvdbid="Movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt5544384">
+  <anime anidbid="11681" tvdbid="259640" defaulttvdbseason="0" episodeoffset="21" tmdbid="" imdbid="tt5544384">
     <name>Gekijouban Sword Art Online: Ordinal Scale</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-23;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="11682" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>King of Prism by Pretty Rhythm</name>
@@ -36653,7 +36655,7 @@
   <anime anidbid="13492" tvdbid="341432" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Tada-kun wa Koi o Shinai</name>
   </anime>
-  <anime anidbid="13493" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="13493" tvdbid="259640" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
     <name>Sword Art Online: Alicization</name>
   </anime>
   <anime anidbid="13494" tvdbid="335815" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -38096,7 +38098,7 @@
   <anime anidbid="14008" tvdbid="294002" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
     <name>Overlord III</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0" start="1" end="8" offset="26"/>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="13" offset="26"/>
     </mapping-list>
   </anime>
   <anime anidbid="14009" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">

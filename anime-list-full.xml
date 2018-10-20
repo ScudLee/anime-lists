@@ -16199,6 +16199,9 @@
   </anime>
   <anime anidbid="5975" tvdbid="83322" defaulttvdbseason="1">
     <name>Toaru Majutsu no Index</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;3-0;4-0;5-0;6-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="5976" tvdbid="83588" defaulttvdbseason="1">
     <name>Yozakura Quartet</name>
@@ -20389,6 +20392,9 @@
   </anime>
   <anime anidbid="7599" tvdbid="83322" defaulttvdbseason="2">
     <name>Toaru Majutsu no Index II</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-3;2-4;3-0;4-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="7600" tvdbid="OVA" defaulttvdbseason="1">
     <name>Twinkle Nora Rock Me!</name>
@@ -23046,11 +23052,10 @@
   <anime anidbid="8693" tvdbid="music video" defaulttvdbseason="1">
     <name>Nexus</name>
   </anime>
-  <anime anidbid="8694" tvdbid="83322" defaulttvdbseason="0" imdbid="tt3163844">
+  <anime anidbid="8694" tvdbid="83322" defaulttvdbseason="0" episodeoffset="4" imdbid="tt3163844">
     <name>Gekijouban Toaru Majutsu no Index: Endymion no Kiseki</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-6;</mapping>
-      <mapping anidbseason="1" tvdbseason="0">;1-5;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="8695" tvdbid="83348" defaulttvdbseason="2">

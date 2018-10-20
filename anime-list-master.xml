@@ -12628,10 +12628,10 @@
   <anime anidbid="4385" tvdbid="202291" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Saint October</name>
   </anime>
-  <anime anidbid="4388" tvdbid="78962" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0994794">
+  <anime anidbid="4388" tvdbid="78962" defaulttvdbseason="0" episodeoffset="3" tmdbid="" imdbid="tt0994794">
     <name>Gekijouban Shakugan no Shana</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-6;2-0;3-0;4-0;6-0;7-0;205-5;206-5;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="4390" tvdbid="music video" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">

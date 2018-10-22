@@ -2359,6 +2359,9 @@
   </anime>
   <anime anidbid="618" tvdbid="80158" defaulttvdbseason="1">
     <name>Ikkitousen</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="619" tvdbid="79103" defaulttvdbseason="1">
     <name>Kyoushoku Soukou Guyver (1989)</name>
@@ -13529,7 +13532,7 @@
   <anime anidbid="5749" tvdbid="80158" defaulttvdbseason="3">
     <name>Ikkitousen: Great Guardians</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-7;2-8;3-9;4-10;5-11;6-12;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="6" offset="6">;7-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="5750" tvdbid="73532" defaulttvdbseason="10">
@@ -16669,7 +16672,7 @@
   <anime anidbid="7219" tvdbid="80158" defaulttvdbseason="4">
     <name>Ikkitousen: Xtreme Xecutor</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-13;2-14;3-15;4-16;5-17;6-18;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="6" offset="12">;7-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="7220" tvdbid="hentai" defaulttvdbseason="1">
@@ -19713,11 +19716,8 @@
   <anime anidbid="8567" tvdbid="247788" defaulttvdbseason="2">
     <name>Sekaiichi Hatsukoi 2</name>
   </anime>
-  <anime anidbid="8569" tvdbid="80158" defaulttvdbseason="0">
+  <anime anidbid="8569" tvdbid="80158" defaulttvdbseason="0" episodeoffset="18">
     <name>Ikkitousen: Shuugaku Toushi Keppuu-roku</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-19;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="8571" tvdbid="254665" defaulttvdbseason="1">
     <name>Brave 10</name>

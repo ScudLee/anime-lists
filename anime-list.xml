@@ -9496,6 +9496,9 @@
   </anime>
   <anime anidbid="3433" tvdbid="79214" defaulttvdbseason="1">
     <name>Mushishi</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;6-0;7-0;8-0;9-0;10-0;11-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="3434" tvdbid="OVA" defaulttvdbseason="1" imdbid="tt0265997">
     <name>Violence Jack: Jigoku Gai</name>
@@ -23789,7 +23792,8 @@
   <anime anidbid="10384" tvdbid="79214" defaulttvdbseason="2">
     <name>Mushishi Zoku Shou</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;11-3;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;2-3;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;11-4+5;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="10385" tvdbid="279554" defaulttvdbseason="1">
@@ -24137,7 +24141,7 @@
   <anime anidbid="10571" tvdbid="79214" defaulttvdbseason="2" episodeoffset="10">
     <name>Mushishi Zoku Shou (2014)</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-7;2-0;3-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="10572" tvdbid="275633" defaulttvdbseason="0" episodeoffset="1">
@@ -25010,7 +25014,7 @@
   <anime anidbid="10991" tvdbid="79214" defaulttvdbseason="0">
     <name>Mushishi Zoku Shou: Suzu no Shizuku</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-5;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-6;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="10992" tvdbid="81831" defaulttvdbseason="4">

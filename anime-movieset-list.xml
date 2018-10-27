@@ -2383,4 +2383,12 @@
       <title type="main" xml:lang="x-jat">Girls und Panzer Collection</title>
     </titles>
   </set>
+  <set>
+    <anime anidbid="10274">Mushishi Tokubetsu Hen: Hihamu Kage</anime>
+    <anime anidbid="10991">Mushishi Zoku Shou: Suzu no Shizuku</anime>
+    <titles>
+      <title type="main" xml:lang="x-jat">Mushishi Collection</title>
+      <title type="official" xml:lang="en">Mushi-Shi Collection</title>
+    </titles>
+  </set>
 </anime-set-list>

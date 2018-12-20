@@ -23,6 +23,9 @@
   </anime>
   <anime anidbid="5" tvdbid="72025" defaulttvdbseason="3">
     <name>Seikai no Senki II</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-4;</mapping>
+    </mapping-list>
     <supplemental-info>
       <studio>Sunrise</studio>
     </supplemental-info>

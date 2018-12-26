@@ -13784,6 +13784,9 @@
   </anime>
   <anime anidbid="4847" tvdbid="70350" defaulttvdbseason="0" episodeoffset="2" tmdbid="" imdbid="tt0923811">
     <name>Evangelion Shin Gekijouban: Jo</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="4848" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Mahou no Rouge Lipstick</name>
@@ -14682,6 +14685,9 @@
   </anime>
   <anime anidbid="5178" tvdbid="79824" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0988982">
     <name>Gekijouban Naruto Shippuuden</name>
+	<mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-1;</mapping>
+	</mapping-list>
     <supplemental-info>
       <studio>Studio Pierrot</studio>
     </supplemental-info>
@@ -16706,6 +16712,9 @@
   </anime>
   <anime anidbid="6171" tvdbid="70350" defaulttvdbseason="0" episodeoffset="3" tmdbid="" imdbid="tt0860906">
     <name>Evangelion Shin Gekijouban: Ha</name>
+	<mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-4</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="6172" tvdbid="250886" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Bihada Ichizoku</name>
@@ -19184,6 +19193,9 @@
   </anime>
   <anime anidbid="7103" tvdbid="179791" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt1663145,tt1679583,tt1726641,tt1753855,tt1809274,tt1865375">
     <name>Break Blade</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0" start="1" end="6" offset="-1"/>
+    </mapping-list>
   </anime>
   <anime anidbid="7105" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Hey Yo Yorang</name>
@@ -19822,7 +19834,7 @@
   <anime anidbid="7304" tvdbid="81110" defaulttvdbseason="0" episodeoffset="" tmdbid="137502" imdbid="">
     <name>Soukyuu no Fafner: Dead Aggressor - Heaven and Earth</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="7305" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="84507" imdbid="">
@@ -20584,6 +20596,9 @@
   </anime>
   <anime anidbid="7565" tvdbid="70350" defaulttvdbseason="0" episodeoffset="4" tmdbid="" imdbid="tt0860907">
     <name>Evangelion Shin Gekijouban: Q</name>
+	<mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-5</mapping>
+    </mapping-list>
     <supplemental-info>
       <studio>Studio Khara</studio>
     </supplemental-info>
@@ -24434,6 +24449,9 @@
   </anime>
   <anime anidbid="8895" tvdbid="70350" defaulttvdbseason="0" episodeoffset="" tmdbid="5" imdbid="unknown">
     <name>Shin Evangelion Gekijouban:||</name>
+	<mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-6;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="8896" tvdbid="195721" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Kore ga Umi e no Ai ja Naika!</name>
@@ -26321,6 +26339,9 @@
   </anime>
   <anime anidbid="9588" tvdbid="79824" defaulttvdbseason="0" episodeoffset="11" tmdbid="" imdbid="tt3717532">
     <name>The Last: Naruto the Movie</name>
+	<mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-12;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="9589" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt2591814">
     <name>Kotonoha no Niwa</name>
@@ -28459,6 +28480,9 @@
   </anime>
   <anime anidbid="10426" tvdbid="179791" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Break Blade (2014)</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-7;2-8;3-9;4-10;5-11;6-12;7-13;8-0;9-0;10-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="10427" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Oniku Daisuki! Zeushi-kun</name>
@@ -29844,7 +29868,8 @@
   <anime anidbid="10961" tvdbid="79824" defaulttvdbseason="0" episodeoffset="12" tmdbid="" imdbid="tt4618398">
     <name>Boruto: Naruto the Movie</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-13;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-14;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="10962" tvdbid="309531" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">

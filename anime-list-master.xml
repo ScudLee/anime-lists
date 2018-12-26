@@ -6093,6 +6093,9 @@
   </anime>
   <anime anidbid="1806" tvdbid="81110" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Soukyuu no Fafner: Dead Aggressor</name>
+	<mapping-list>
+	  <mapping anidbseason="0" tvdbseason="0">;1-2;2-3;</mapping>
+	</mapping-list>
     <supplemental-info>
       <studio>Xebec</studio>
     </supplemental-info>

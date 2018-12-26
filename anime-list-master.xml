@@ -19197,7 +19197,7 @@
   <anime anidbid="7103" tvdbid="179791" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt1663145,tt1679583,tt1726641,tt1753855,tt1809274,tt1865375">
     <name>Break Blade</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0" start="1" end="6" offset="-1"/>
+      <mapping anidbseason="1" tvdbseason="0" start="1" end="6" offset="0"/>
     </mapping-list>
   </anime>
   <anime anidbid="7105" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">

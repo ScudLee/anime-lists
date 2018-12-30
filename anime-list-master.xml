@@ -25290,8 +25290,11 @@
   <anime anidbid="9199" tvdbid="265138" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Oshiri Kajiri Mushi</name>
   </anime>
-  <anime anidbid="9200" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="9200" tvdbid="70350" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt7118096">
     <name>Evangelion 3D</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="9201" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Tatsumi</name>

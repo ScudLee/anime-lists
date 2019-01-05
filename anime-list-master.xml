@@ -148,6 +148,9 @@
   </anime>
   <anime anidbid="30" tvdbid="70865" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>X (2001)</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="32" tvdbid="71278" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Hellsing</name>
@@ -1749,7 +1752,7 @@
   <anime anidbid="429" tvdbid="70865" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0184041">
     <name>X</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-5;2-5;3-5;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;2-1;3-1;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="430" tvdbid="75111" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -9406,7 +9409,7 @@
   <anime anidbid="2893" tvdbid="music video" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Clover</name>
   </anime>
-  <anime anidbid="2894" tvdbid="music video" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="2894" tvdbid="70865" defaulttvdbseason="0" episodeoffset="2" tmdbid="" imdbid="">
     <name>X2 Double X</name>
   </anime>
   <anime anidbid="2895" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0114689">
@@ -24677,7 +24680,7 @@
   <anime anidbid="8975" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Paboo &amp; Mojies</name>
   </anime>
-  <anime anidbid="8976" tvdbid="70865" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="8976" tvdbid="70865" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="">
     <name>X Yochou</name>
   </anime>
   <anime anidbid="8977" tvdbid="web" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">

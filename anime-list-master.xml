@@ -99,6 +99,9 @@
   </anime>
   <anime anidbid="22" tvdbid="70350" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Shinseiki Evangelion</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="23" tvdbid="76885" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Cowboy Bebop</name>
@@ -824,6 +827,7 @@
   <anime anidbid="202" tvdbid="70350" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="tt0169858">
     <name>Shinseiki Evangelion Gekijouban: The End of Evangelion</name>
     <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
       <mapping anidbseason="1" tvdbseason="0">;2-2;3-2;</mapping>
     </mapping-list>
   </anime>
@@ -13789,6 +13793,9 @@
   </anime>
   <anime anidbid="4847" tvdbid="70350" defaulttvdbseason="0" episodeoffset="2" tmdbid="" imdbid="tt0923811">
     <name>Evangelion Shin Gekijouban: Jo</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="4848" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Mahou no Rouge Lipstick</name>
@@ -16711,6 +16718,10 @@
   </anime>
   <anime anidbid="6171" tvdbid="70350" defaulttvdbseason="0" episodeoffset="3" tmdbid="" imdbid="tt0860906">
     <name>Evangelion Shin Gekijouban: Ha</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;2-4;3-4;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="6172" tvdbid="250886" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Bihada Ichizoku</name>
@@ -20589,6 +20600,9 @@
   </anime>
   <anime anidbid="7565" tvdbid="70350" defaulttvdbseason="0" episodeoffset="4" tmdbid="" imdbid="tt0860907">
     <name>Evangelion Shin Gekijouban: Q</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;</mapping>
+    </mapping-list>
     <supplemental-info>
       <studio>Studio Khara</studio>
     </supplemental-info>

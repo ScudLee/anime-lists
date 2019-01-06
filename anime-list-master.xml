@@ -7414,6 +7414,10 @@
   </anime>
   <anime anidbid="2189" tvdbid="79283" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0466405">
     <name>Gekijouban xxxHOLiC: Manatsu no Yo no Yume</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;2-1;3-1;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="2190" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt1467299">
     <name>Shin Angyou Onshi</name>

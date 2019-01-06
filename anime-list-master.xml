@@ -2271,7 +2271,7 @@
   <anime anidbid="553" tvdbid="73501" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Di Gi Charat</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;14-0;15-0;16-0;17-0;18-0;19-0;20-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-5;2-6;3-7;4-8;5-9;6-10;7-11;8-12;9-13;10-0;11-17;12-0;13-0;14-0;15-0;16-0;101-98;102-99;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="554" tvdbid="182921" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -29649,8 +29649,11 @@
       <mapping anidbseason="0" tvdbseason="0">;1-4;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="10860" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="10860" tvdbid="73501" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Di Gi Charat Summer Special 2000</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-1;1-2;2-3;2-4;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="10861" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Kuiba III</name>

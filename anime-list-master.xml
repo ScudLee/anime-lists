@@ -9107,6 +9107,9 @@
   </anime>
   <anime anidbid="2742" tvdbid="80819" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Jinki:Extend</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="1">;1-13;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="2743" tvdbid="78883" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Peach Girl</name>

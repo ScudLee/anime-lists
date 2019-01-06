@@ -7375,6 +7375,9 @@
   </anime>
   <anime anidbid="2179" tvdbid="79670" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Karas</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;6-1;7-2;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="2181" tvdbid="84932" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt1356922">
     <name>Munto: Toki no Kabe o Koete</name>

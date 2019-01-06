@@ -7330,6 +7330,9 @@
   </anime>
   <anime anidbid="2165" tvdbid="79194" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>School Rumble</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="2166" tvdbid="80242" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Sunabouzu</name>
@@ -11346,6 +11349,9 @@
   </anime>
   <anime anidbid="3643" tvdbid="79194" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>School Rumble: Ichi Gakki Hoshuu</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="3644" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Sougen no Shoujo Laura</name>
@@ -12366,6 +12372,9 @@
   </anime>
   <anime anidbid="4222" tvdbid="79194" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>School Rumble Ni Gakki</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="4223" tvdbid="81852" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Strawberry Panic</name>
@@ -15963,10 +15972,10 @@
   <anime anidbid="5742" tvdbid="tv special" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Ginga Tansa 2100-nen: Border Planet</name>
   </anime>
-  <anime anidbid="5745" tvdbid="79194" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="5745" tvdbid="79194" defaulttvdbseason="0" episodeoffset="2" tmdbid="" imdbid="">
     <name>School Rumble San Gakki</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-4;2-5;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="5746" tvdbid="81849" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">

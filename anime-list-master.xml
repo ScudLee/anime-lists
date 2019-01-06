@@ -345,6 +345,9 @@
   </anime>
   <anime anidbid="74" tvdbid="79267" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Ai yori Aoshi</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;2-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="75" tvdbid="84011" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Tenshi na Konamaiki</name>
@@ -3924,7 +3927,7 @@
   <anime anidbid="1059" tvdbid="79267" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Ai yori Aoshi: Enishi</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;2-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="1060" tvdbid="88251" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">

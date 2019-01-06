@@ -3235,6 +3235,9 @@
   </anime>
   <anime anidbid="837" tvdbid="84187" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>D.C.: Da Capo</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="8" end="20" offset="-7">;1-0;2-0;3-0;4-0;5-0;6-0;7-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="838" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0829238">
     <name>Momoko, Kaeru no Uta ga Kikoeru yo.</name>
@@ -9294,7 +9297,7 @@
   <anime anidbid="2832" tvdbid="84187" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>D.C.S.S: Da Capo Second Season</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-14;2-15;3-16;4-17;5-18;6-19;7-20;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="7" offset="13"/>
     </mapping-list>
   </anime>
   <anime anidbid="2833" tvdbid="101151" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -17157,7 +17160,7 @@
   <anime anidbid="6312" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt2412064">
     <name>H.P. Lovecraft no Dunwich Horror</name>
   </anime>
-  <anime anidbid="6313" tvdbid="84371" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="6313" tvdbid="84187" defaulttvdbseason="0" episodeoffset="20" tmdbid="" imdbid="">
     <name>D.C.if: Da Capo if</name>
   </anime>
   <anime anidbid="6315" tvdbid="102541" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">

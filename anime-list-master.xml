@@ -342,6 +342,9 @@
   </anime>
   <anime anidbid="73" tvdbid="70863" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku Hen</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="74" tvdbid="79267" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Ai yori Aoshi</name>
@@ -407,6 +410,7 @@
   <anime anidbid="90" tvdbid="70863" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>Rurouni Kenshin: Meiji Kenkaku Romantan</name>
     <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;5-0;6-0;</mapping>
       <mapping anidbseason="0" tvdbseason="3">;4-33;</mapping>
     </mapping-list>
     <before>;4-95;</before>
@@ -23595,10 +23599,10 @@
   <anime anidbid="8594" tvdbid="197261" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Tantei Opera Milky Holmes Dai 2 Maku</name>
   </anime>
-  <anime anidbid="8595" tvdbid="70863" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="8595" tvdbid="70863" defaulttvdbseason="0" episodeoffset="7" tmdbid="" imdbid="">
     <name>Rurouni Kenshin: Meiji Kenkaku Romantan - Shin Kyoto Hen</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-8;2-9;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="8596" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">

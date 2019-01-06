@@ -2361,6 +2361,9 @@
   </anime>
   <anime anidbid="580" tvdbid="72720" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt1047518">
     <name>RahXephon: Tagen Hensoukyoku</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;2-1;3-1;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="581" tvdbid="72902" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Last Exile</name>

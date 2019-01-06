@@ -187,6 +187,9 @@
   </anime>
   <anime anidbid="39" tvdbid="77681" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Slayers</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="40" tvdbid="81789" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Fushigi no Umi no Nadia</name>
@@ -421,6 +424,9 @@
   </anime>
   <anime anidbid="95" tvdbid="77681" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Slayers Next</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="96" tvdbid="78936" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Witch Hunter Robin</name>

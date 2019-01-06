@@ -983,7 +983,7 @@
   <anime anidbid="229" tvdbid="79327" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Shin Kidou Senki Gundam Wing</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-10;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-9;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="230" tvdbid="76703" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
@@ -2037,10 +2037,10 @@
   <anime anidbid="494" tvdbid="256944" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Dennou Sentai Voogie's Angel</name>
   </anime>
-  <anime anidbid="496" tvdbid="79327" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0260191">
+  <anime anidbid="496" tvdbid="79327" defaulttvdbseason="0" episodeoffset="7" tmdbid="" imdbid="tt0260191">
     <name>Shin Kidou Senki Gundam Wing: Endless Waltz Tokubetsu Hen</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-4;2-4;3-4;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;2-8;3-8;</mapping>
     </mapping-list>
     <supplemental-info>
       <studio>Sunrise</studio>
@@ -3444,7 +3444,7 @@
   <anime anidbid="907" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Otenki Onee-san</name>
   </anime>
-  <anime anidbid="908" tvdbid="79327" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="908" tvdbid="79327" defaulttvdbseason="0" episodeoffset="4" tmdbid="" imdbid="">
     <name>Gundam-W: Endless Waltz</name>
     <supplemental-info>
       <studio>Sunrise</studio>
@@ -9324,9 +9324,6 @@
   </anime>
   <anime anidbid="2853" tvdbid="79327" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Shin Kidou Senki Gundam W: Operation Meteor</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-11;2-12;3-13;4-14;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="2854" tvdbid="129751" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Tokyo Juushouden</name>

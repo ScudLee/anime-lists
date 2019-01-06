@@ -791,6 +791,9 @@
   </anime>
   <anime anidbid="184" tvdbid="77248" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Tenkuu no Escaflowne</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="7" offset="2"/>
+    </mapping-list>
     <supplemental-info>
       <studio>Sunrise</studio>
     </supplemental-info>

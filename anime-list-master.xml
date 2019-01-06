@@ -2943,6 +2943,9 @@
   </anime>
   <anime anidbid="751" tvdbid="72977" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Onegai Twins</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;2-4;3-5;4-6;5-0;6-0;101-2;102-3;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="752" tvdbid="85661" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Mizuiro (2003)</name>

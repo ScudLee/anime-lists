@@ -3229,6 +3229,9 @@
   </anime>
   <anime anidbid="835" tvdbid="74544" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Happy Lesson Advance</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-7;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="836" tvdbid="75077" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Popotan</name>
@@ -7127,6 +7130,7 @@
   <anime anidbid="2118" tvdbid="74544" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Happy Lesson The Final</name>
     <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;</mapping>
       <mapping anidbseason="1" tvdbseason="0">;1-8;2-9;3-10;</mapping>
     </mapping-list>
   </anime>

@@ -9077,6 +9077,9 @@
   </anime>
   <anime anidbid="2733" tvdbid="76023" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Tsubasa Chronicle</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="2734" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Mafukiden: Pandarian</name>
@@ -15145,7 +15148,7 @@
   <anime anidbid="5300" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Pink Lady Monogatari: Eikou no Tenshi-tachi</name>
   </anime>
-  <anime anidbid="5301" tvdbid="76023" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="5301" tvdbid="76023" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="">
     <name>Tsubasa Tokyo Revelations</name>
   </anime>
   <anime anidbid="5303" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt1077274">
@@ -16935,7 +16938,7 @@
   <anime anidbid="6189" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Mizugi Kanojo: The Animation</name>
   </anime>
-  <anime anidbid="6191" tvdbid="76023" defaulttvdbseason="4" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="6191" tvdbid="76023" defaulttvdbseason="0" episodeoffset="4" tmdbid="" imdbid="">
     <name>Tsubasa Shunraiki</name>
   </anime>
   <anime anidbid="6192" tvdbid="79283" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">

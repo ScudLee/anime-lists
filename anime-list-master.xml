@@ -5495,6 +5495,9 @@
   </anime>
   <anime anidbid="1554" tvdbid="83020" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Mai-HiME</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;21-23;22-21;23-22;</mapping>
+    </mapping-list>
     <supplemental-info>
       <studio>Sunrise</studio>
     </supplemental-info>

@@ -4751,10 +4751,11 @@
       <studio>Kitty Film Mitaka Studio</studio>
     </supplemental-info>
   </anime>
-  <anime anidbid="1312" tvdbid="245451" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="tt0401233">
+  <anime anidbid="1312" tvdbid="245451" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0401233">
     <name>Appleseed (2004)</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;2-2;3-2;4-2;5-2;6-2;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-2;3-2;4-2;5-2;6-2;</mapping>
     </mapping-list>
     <supplemental-info>
       <studio>Digital Frontier</studio>
@@ -14539,6 +14540,9 @@
   </anime>
   <anime anidbid="5080" tvdbid="245451" defaulttvdbseason="0" episodeoffset="2" tmdbid="" imdbid="tt1043842">
     <name>Appleseed Saga Ex Machina</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;</mapping>
+    </mapping-list>
     <supplemental-info>
       <studio>Digital Frontier</studio>
     </supplemental-info>

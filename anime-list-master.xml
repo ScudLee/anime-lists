@@ -2349,6 +2349,9 @@
   </anime>
   <anime anidbid="575" tvdbid="79179" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Kino no Tabi: The Beautiful World</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="576" tvdbid="78923" defaulttvdbseason="0" episodeoffset="9" tmdbid="" imdbid="tt0095448">
     <name>Kimagure Orange Road: Ano Hi ni Kaeritai</name>

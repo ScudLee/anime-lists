@@ -10666,7 +10666,7 @@
   <anime anidbid="3408" tvdbid="78962" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Shakugan no Shana</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0" start="7" end="14" offset="14">;1-9;2-1;3-2;4-3;5-0;6-0;15-0;16-0;17-0;18-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="7" end="14" offset="14">;1-9;2-1;3-2;4-3;5-0;6-0;15-0;16-0;17-0;18-0;19-0;20-0;21-0;22-0;23-0;24-0;25-0;26-0;27-0;28-0;29-0;30-0;31-0;32-0;33-0;34-0;35-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="3411" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0418867">
@@ -12813,7 +12813,7 @@
   <anime anidbid="4388" tvdbid="78962" defaulttvdbseason="0" episodeoffset="3" tmdbid="" imdbid="tt0994794">
     <name>Gekijouban Shakugan no Shana</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-6;2-0;3-0;4-0;6-0;7-0;205-5;206-5;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-6;2-0;3-0;4-0;5-0;6-0;7-0;205-5;206-5;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="4390" tvdbid="music video" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">

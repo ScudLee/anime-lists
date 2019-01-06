@@ -1180,6 +1180,9 @@
   </anime>
   <anime anidbid="271" tvdbid="79105" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Haibane Renmei</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;2-3;101-1;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="272" tvdbid="79056" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>GetBackers: Dakkan'ya</name>

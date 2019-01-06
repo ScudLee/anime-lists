@@ -1944,6 +1944,9 @@
   </anime>
   <anime anidbid="461" tvdbid="305799" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0373960">
     <name>Kanojo to Kanojo no Neko</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="462" tvdbid="71744" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Vandread Taidouhen</name>
@@ -32414,6 +32417,9 @@
   </anime>
   <anime anidbid="11874" tvdbid="305799" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Kanojo to Kanojo no Neko: Everything Flows</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="11875" tvdbid="311149" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Days</name>

@@ -9334,7 +9334,7 @@
   <anime anidbid="2826" tvdbid="79360" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Koukyoushihen: Eureka Seven</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-2;2-3;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;2-3;3-0;4-0;5-0;6-0;7-0;8-0;</mapping>
     </mapping-list>
     <supplemental-info>
       <studio>Bones</studio>
@@ -24496,6 +24496,9 @@
   </anime>
   <anime anidbid="8854" tvdbid="79360" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Eureka Seven Ao</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="8855" tvdbid="257764" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Hyouka</name>
@@ -25297,6 +25300,7 @@
   <anime anidbid="9147" tvdbid="79360" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Eureka Seven Ao: Jungfrau no Hanabana-tachi</name>
     <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-20;2-0;</mapping>
       <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
     </mapping-list>
     <supplemental-info>

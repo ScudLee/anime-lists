@@ -11160,6 +11160,9 @@
   </anime>
   <anime anidbid="3574" tvdbid="79682" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Higurashi no Naku Koro ni</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;2-0;3-0;4-0;5-0;6-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="3575" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt1647467">
     <name>Wata no Kuni Hoshi</name>
@@ -14074,6 +14077,9 @@
   </anime>
   <anime anidbid="4894" tvdbid="79682" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Higurashi no Naku Koro ni Kai</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;6-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="4895" tvdbid="167811" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Kaze no Shoujo Emily</name>

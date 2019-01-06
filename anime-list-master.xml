@@ -306,6 +306,9 @@
   </anime>
   <anime anidbid="65" tvdbid="79714" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Puni Puni Poemi</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;2-3;3-2;101-4;102-5;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="66" tvdbid="79042" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0216651">
     <name>Vampire Hunter D (2001)</name>

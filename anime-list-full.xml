@@ -8704,9 +8704,6 @@
   </anime>
   <anime anidbid="2673" tvdbid="72025" defaulttvdbseason="0" episodeoffset="4">
     <name>Seikai no Senki III</name>
-    <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-4;</mapping>
-    </mapping-list>
     <supplemental-info>
       <studio>Sunrise</studio>
     </supplemental-info>
@@ -29675,6 +29672,9 @@
   <anime anidbid="12093" tvdbid="movie" defaulttvdbseason="1" tmdbid="461078">
     <name>Kimi no Koe o Todoketai</name>
   </anime>
+  <anime anidbid="12094" tvdbid="movie" defaulttvdbseason="1" tmdbid="412384">
+    <name>Kagerou Daze: In a Day's</name>
+  </anime>
   <anime anidbid="12095" tvdbid="313533" defaulttvdbseason="1">
     <name>Fudanshi Koukou Seikatsu</name>
   </anime>
@@ -30738,6 +30738,9 @@
   <anime anidbid="13245" tvdbid="272309" defaulttvdbseason="4">
     <name>Yowamushi Pedal: Glory Line</name>
   </anime>
+  <anime anidbid="13246" tvdbid="353712" defaulttvdbseason="1">
+    <name>Tate no Yuusha no Nariagari</name>
+  </anime>
   <anime anidbid="13248" tvdbid="329422" defaulttvdbseason="0">
     <name>Hajimete no Gal: Hajimete no Bunkasai</name>
   </anime>
@@ -30894,6 +30897,12 @@
   </anime>
   <anime anidbid="13357" tvdbid="hentai" defaulttvdbseason="1">
     <name>Hitozuma Life: One Time Gal</name>
+  </anime>
+  <anime anidbid="13360" tvdbid="304475" defaulttvdbseason="0" imdbid="tt7986790">
+    <name>Gekijouban Macross Delta: Gekijou no Walkure</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-12;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="13362" tvdbid="339276" defaulttvdbseason="1">
     <name>Hakumei to Mikochi</name>
@@ -31159,6 +31168,9 @@
   <anime anidbid="13695" tvdbid="340280" defaulttvdbseason="1">
     <name>Hinomaru Zumou</name>
   </anime>
+  <anime anidbid="13698" tvdbid="350301" defaulttvdbseason="1">
+    <name>Iya na Kao Sarenagara Opantsu Misete Moraitai</name>
+  </anime>
   <anime anidbid="13704" tvdbid="275613" defaulttvdbseason="2" episodeoffset="13">
     <name>Hoozuki no Reitetsu (2018)</name>
   </anime>
@@ -31270,6 +31282,9 @@
   <anime anidbid="13898" tvdbid="351743" defaulttvdbseason="1">
     <name>Karakuri Circus</name>
   </anime>
+  <anime anidbid="13899" tvdbid="355624" defaulttvdbseason="1">
+    <name>Boogiepop wa Warawanai</name>
+  </anime>
   <anime anidbid="13900" tvdbid="345596" defaulttvdbseason="1">
     <name>Seishun Buta Yarou wa Bunny Girl Senpai no Yume o Minai</name>
   </anime>
@@ -31302,6 +31317,9 @@
   </anime>
   <anime anidbid="13944" tvdbid="347194" defaulttvdbseason="1">
     <name>Happy Sugar Life</name>
+  </anime>
+  <anime anidbid="13946" tvdbid="354167" defaulttvdbseason="1">
+    <name>Dororo (2019)</name>
   </anime>
   <anime anidbid="13950" tvdbid="326270" defaulttvdbseason="0">
     <name>Quanzhi Gaoshou: Tebie Pian</name>
@@ -31369,6 +31387,9 @@
   <anime anidbid="14049" tvdbid="320002" defaulttvdbseason="0" episodeoffset="1">
     <name>Pastel Life</name>
   </anime>
+  <anime anidbid="14051" tvdbid="348002" defaulttvdbseason="1">
+    <name>Yakusoku no Neverland</name>
+  </anime>
   <anime anidbid="14053" tvdbid="348065" defaulttvdbseason="1">
     <name>Yagate Kimi ni Naru</name>
   </anime>
@@ -31399,6 +31420,9 @@
   <anime anidbid="14109" tvdbid="352853" defaulttvdbseason="1">
     <name>Kaze ga Tsuyoku Fuite Iru</name>
   </anime>
+  <anime anidbid="14111" tvdbid="354198">
+    <name>Kaguya-sama wa Kokurasetai: Tensai-tachi no Ren'ai Zunousen</name>
+  </anime>
   <anime anidbid="14112" tvdbid="349640" defaulttvdbseason="1">
     <name>Joshi Ochi! 2-kai kara Onnanoko ga... Futte Kita!?</name>
   </anime>
@@ -31426,11 +31450,17 @@
   <anime anidbid="14206" tvdbid="335088" defaulttvdbseason="0">
     <name>Nekopara: Koneko no Hi no Yakusoku</name>
   </anime>
+  <anime anidbid="14213" tvdbid="354170" defaulttvdbseason="1">
+    <name>Domestic na Kanojo</name>
+  </anime>
   <anime anidbid="14237" tvdbid="353579" defaulttvdbseason="1">
     <name>Ken En Ken: Aoki Kagayaki</name>
   </anime>
   <anime anidbid="14241" tvdbid="353244" defaulttvdbseason="1">
     <name>Okoshiyasu, Chitose-chan</name>
+  </anime>
+  <anime anidbid="14253" tvdbid="355968" defaulttvdbseason="1">
+    <name>Doukyonin wa Hiza, Tokidoki, Atama no Ue.</name>
   </anime>
   <anime anidbid="14290" tvdbid="350052" defaulttvdbseason="2">
     <name>Seizei Ganbare! Mahou Shoujo Kurumi (2018)</name>

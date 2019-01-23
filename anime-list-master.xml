@@ -8749,9 +8749,6 @@
   </anime>
   <anime anidbid="2673" tvdbid="72025" defaulttvdbseason="0" episodeoffset="4" tmdbid="" imdbid="">
     <name>Seikai no Senki III</name>
-    <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-4;</mapping>
-    </mapping-list>
     <supplemental-info>
       <studio>Sunrise</studio>
     </supplemental-info>
@@ -32915,7 +32912,7 @@
   <anime anidbid="12093" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="461078" imdbid="">
     <name>Kimi no Koe o Todoketai</name>
   </anime>
-  <anime anidbid="12094" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12094" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="412384" imdbid="">
     <name>Kagerou Daze: In a Day's</name>
   </anime>
   <anime anidbid="12095" tvdbid="313533" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -35991,7 +35988,7 @@
   <anime anidbid="13245" tvdbid="272309" defaulttvdbseason="4" episodeoffset="" tmdbid="" imdbid="">
     <name>Yowamushi Pedal: Glory Line</name>
   </anime>
-  <anime anidbid="13246" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="13246" tvdbid="353712" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Tate no Yuusha no Nariagari</name>
   </anime>
   <anime anidbid="13248" tvdbid="329422" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
@@ -36304,8 +36301,11 @@
   <anime anidbid="13358" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Aiseki Mogol Girl</name>
   </anime>
-  <anime anidbid="13360" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="13360" tvdbid="304475" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt7986790">
     <name>Gekijouban Macross Delta: Gekijou no Walkure</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-12;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="13361" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Lostorage Conflated WIXOSS: Missing Link</name>
@@ -37252,7 +37252,7 @@
   <anime anidbid="13697" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Keifuku-san</name>
   </anime>
-  <anime anidbid="13698" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="13698" tvdbid="350301" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Iya na Kao Sarenagara Opantsu Misete Moraitai</name>
   </anime>
   <anime anidbid="13699" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -37837,7 +37837,7 @@
   <anime anidbid="13898" tvdbid="351743" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Karakuri Circus</name>
   </anime>
-  <anime anidbid="13899" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="13899" tvdbid="355624" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Boogiepop wa Warawanai</name>
   </anime>
   <anime anidbid="13900" tvdbid="345596" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -37969,7 +37969,7 @@
   <anime anidbid="13945" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Vinland Saga</name>
   </anime>
-  <anime anidbid="13946" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="13946" tvdbid="354167" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Dororo (2019)</name>
   </anime>
   <anime anidbid="13947" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -38251,7 +38251,7 @@
   <anime anidbid="14050" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Wu Geng Ji</name>
   </anime>
-  <anime anidbid="14051" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14051" tvdbid="348002" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Yakusoku no Neverland</name>
   </anime>
   <anime anidbid="14052" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -38416,7 +38416,7 @@
   <anime anidbid="14110" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Kyonyuu JK ga Ojisan Chinpo to Jupo Jupo Iyarashii Sex Shitemasu.</name>
   </anime>
-  <anime anidbid="14111" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14111" tvdbid="354198" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Kaguya-sama wa Kokurasetai: Tensai-tachi no Ren'ai Zunousen</name>
   </anime>
   <anime anidbid="14112" tvdbid="349640" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -38701,7 +38701,7 @@
   <anime anidbid="14212" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Arara</name>
   </anime>
-  <anime anidbid="14213" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14213" tvdbid="354170" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Domestic na Kanojo</name>
   </anime>
   <anime anidbid="14214" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -38815,7 +38815,7 @@
   <anime anidbid="14252" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Soredemo Tsuma o Aishiteru 2</name>
   </anime>
-  <anime anidbid="14253" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14253" tvdbid="355968" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Doukyonin wa Hiza, Tokidoki, Atama no Ue.</name>
   </anime>
   <anime anidbid="14254" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">

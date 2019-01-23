@@ -79,7 +79,7 @@
   <anime anidbid="16" tvdbid="79062" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Onegai Teacher</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0" start="1" end="2" offset="0">;3-4;4-0;5-3;14-5;15-5;16-5;17-5;18-5;19-5;20-5;21-5;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;3-4;4-0;5-3;14-5;15-5;16-5;17-5;18-5;19-5;20-5;21-5;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="17" tvdbid="78914" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -1026,7 +1026,7 @@
   <anime anidbid="252" tvdbid="74474" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Kidou Senshi Gundam SEED</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-4;2-7;3-8</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;2-7;3-8;4-0;5-0;6-0;7-0;8-0;9-0;10-0;11-0;12-0;13-0;14-0;15-0;16-0;17-0;</mapping>
     </mapping-list>
     <supplemental-info>
       <studio>Sunrise</studio>
@@ -6093,6 +6093,10 @@
   </anime>
   <anime anidbid="1806" tvdbid="81110" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Soukyuu no Fafner: Dead Aggressor</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;2-3;</mapping>
+      <mapping anidbseason="0" tvdbseason="1">;3-25;4-26;</mapping>
+    </mapping-list>
     <supplemental-info>
       <studio>Xebec</studio>
     </supplemental-info>
@@ -12061,7 +12065,7 @@
   <anime anidbid="4165" tvdbid="74474" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Kidou Senshi Gundam SEED: Meidou no Sora</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-3;2-3;3-3;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-4;2-4;3-4;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="4166" tvdbid="76547" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0159510">
@@ -12079,19 +12083,20 @@
   <anime anidbid="4168" tvdbid="74474" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Kidou Senshi Gundam SEED: Harukanaru Akatsuki</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-2;2-2;3-2;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-3;2-3;3-3;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="4169" tvdbid="74474" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Kidou Senshi Gundam SEED: Kokuu no Senjou</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-1;2-1;3-1;4-1;5-1;6-1;7-1;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-2;2-2;3-2;4-2;5-2;6-2;7-2;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="4170" tvdbid="74890" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Kidou Senshi Gundam SEED Destiny Final Plus: Erabareta Mirai</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-8;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;2-2;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="4172" tvdbid="83619" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -12801,6 +12806,9 @@
   </anime>
   <anime anidbid="4457" tvdbid="74890" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Kidou Senshi Gundam SEED Destiny: Kudakareta Sekai</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="4458" tvdbid="248903" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Rockman.EXE Beast+</name>
@@ -12814,7 +12822,7 @@
   <anime anidbid="4466" tvdbid="74890" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Kidou Senshi Gundam SEED Destiny: Sorezore no Tsurugi</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="4470" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -12898,7 +12906,7 @@
   <anime anidbid="4521" tvdbid="79525" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Code Geass: Hangyaku no Lelouch</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;2-1;4-2;5-4;6-5;7-6;8-7;9-8;10-9;11-10;12-11;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;2-1;4-2;5-4;6-5;7-6;8-7;9-8;10-9;11-10;12-11;13-0;14-0;15-0;16-0;17-0;</mapping>
     </mapping-list>
     <supplemental-info>
       <studio>Sunrise</studio>
@@ -13598,7 +13606,7 @@
   <anime anidbid="4758" tvdbid="74890" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Kidou Senshi Gundam SEED Destiny: Sadame no Gouka</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-5;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="4759" tvdbid="83880" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -13927,7 +13935,7 @@
   <anime anidbid="4905" tvdbid="74890" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Kidou Senshi Gundam SEED Destiny: Jiyuu no Daishou</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-6;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="4906" tvdbid="80042" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -15092,7 +15100,7 @@
   <anime anidbid="5373" tvdbid="79525" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Code Geass: Hangyaku no Lelouch R2</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-13;2-14;3-15;4-16;5-17;6-18;7-19;8-20;9-21;19-23;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-13;2-14;3-15;4-16;5-17;6-18;7-19;8-20;9-21;10-0;11-0;12-0;13-0;14-0;15-0;16-0;17-0;18-0;19-23;20-0;21-0;22-0;23-0;24-0;25-0;</mapping>
     </mapping-list>
     <supplemental-info>
       <studio>Sunrise</studio>
@@ -19427,7 +19435,7 @@
   <anime anidbid="7183" tvdbid="80675" defaulttvdbseason="0" episodeoffset="" tmdbid="25446" imdbid="">
     <name>Kidou Senshi Gundam 00 Special Edition I: Celestial Being</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
     </mapping-list>
     <supplemental-info>
       <studio>Sunrise</studio>
@@ -19436,7 +19444,7 @@
   <anime anidbid="7184" tvdbid="80675" defaulttvdbseason="0" episodeoffset="" tmdbid="27837" imdbid="">
     <name>Kidou Senshi Gundam 00 Special Edition II: End of World</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-5;</mapping>
     </mapping-list>
     <supplemental-info>
       <studio>Sunrise</studio>
@@ -19822,7 +19830,7 @@
   <anime anidbid="7304" tvdbid="81110" defaulttvdbseason="0" episodeoffset="" tmdbid="137502" imdbid="">
     <name>Soukyuu no Fafner: Dead Aggressor - Heaven and Earth</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="7305" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="84507" imdbid="">
@@ -20097,7 +20105,7 @@
   <anime anidbid="7403" tvdbid="80675" defaulttvdbseason="0" episodeoffset="" tmdbid="30807" imdbid="">
     <name>Kidou Senshi Gundam 00 Special Edition III: Return the World</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-5;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-6;</mapping>
     </mapping-list>
     <supplemental-info>
       <studio>Sunrise</studio>
@@ -20118,7 +20126,7 @@
   <anime anidbid="7408" tvdbid="80675" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt1726286">
     <name>Gekijouban Kidou Senshi Gundam 00: A Wakening of the Trailblazer</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-6;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-7;</mapping>
     </mapping-list>
     <supplemental-info>
       <studio>Sunrise</studio>
@@ -20196,7 +20204,7 @@
   <anime anidbid="7440" tvdbid="186911" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Hyakka Ryouran: Samurai Girls</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;2-7;3-1;4-2;5-3;6-4;7-5;8-6;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;2-7;3-1;4-2;5-3;6-4;7-5;8-6;9-8;10-9;11-10;12-11;13-12;14-13;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="7441" tvdbid="210291" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -23138,9 +23146,6 @@
   </anime>
   <anime anidbid="8448" tvdbid="220571" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Kore wa Zombie Desuka? Ee, Kore ga Saishuukai Desuka?</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="8449" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Chara Uta</name>
@@ -24432,7 +24437,7 @@
   <anime anidbid="8891" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Fushigi no Yappo Shima: Pukipuki to Poi</name>
   </anime>
-  <anime anidbid="8895" tvdbid="70350" defaulttvdbseason="0" episodeoffset="" tmdbid="5" imdbid="unknown">
+  <anime anidbid="8895" tvdbid="70350" defaulttvdbseason="0" episodeoffset="5" tmdbid="" imdbid="unknown">
     <name>Shin Evangelion Gekijouban:||</name>
   </anime>
   <anime anidbid="8896" tvdbid="195721" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
@@ -24615,7 +24620,7 @@
   <anime anidbid="8962" tvdbid="254662" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Rinne no Lagrange: Flower Declaration of Your Heart - Season 2</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-8;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-8;2-9;3-10;4-11;5-12;6-13;7-14;8-0</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="8963" tvdbid="257997" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -25274,8 +25279,11 @@
   <anime anidbid="9199" tvdbid="265138" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Oshiri Kajiri Mushi</name>
   </anime>
-  <anime anidbid="9200" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="9200" tvdbid="70350" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Evangelion 3D</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="9201" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Tatsumi</name>
@@ -25529,7 +25537,7 @@
   <anime anidbid="9299" tvdbid="81490" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Persona 3 the Movie</name>
   </anime>
-  <anime anidbid="9302" tvdbid="259642" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="9302" tvdbid="259642" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="">
     <name>Dakara Boku wa, H ga Dekinai. (2013)</name>
   </anime>
   <anime anidbid="9304" tvdbid="262954" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -25804,6 +25812,9 @@
   </anime>
   <anime anidbid="9398" tvdbid="186911" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Hyakka Ryouran: Samurai Bride</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="6" offset="13"/>
+    </mapping-list>
   </anime>
   <anime anidbid="9399" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Ongaku</name>
@@ -26321,6 +26332,9 @@
   </anime>
   <anime anidbid="9588" tvdbid="79824" defaulttvdbseason="0" episodeoffset="11" tmdbid="" imdbid="tt3717532">
     <name>The Last: Naruto the Movie</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-12;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="9589" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt2591814">
     <name>Kotonoha no Niwa</name>
@@ -27683,7 +27697,7 @@
   <anime anidbid="10113" tvdbid="273002" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku o Ketsui Shimashita.: Yuusha ni Narenakatta Ore no Imouto ga Joukyou Shite Kimashita.</name>
   </anime>
-  <anime anidbid="10114" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt3306776">
+  <anime anidbid="10114" tvdbid="357271" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt3306776">
     <name>Bayonetta: Bloody Fate</name>
   </anime>
   <anime anidbid="10115" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -28456,6 +28470,9 @@
   </anime>
   <anime anidbid="10426" tvdbid="179791" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Break Blade (2014)</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-7;2-8;3-9;4-10;5-11;6-12;7-13;8-0;9-0;10-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="10427" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Oniku Daisuki! Zeushi-kun</name>
@@ -29838,10 +29855,11 @@
   <anime anidbid="10960" tvdbid="304316" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Shouwa Genroku Rakugo Shinjuu (2016)</name>
   </anime>
-  <anime anidbid="10961" tvdbid="79824" defaulttvdbseason="0" episodeoffset="12" tmdbid="" imdbid="tt4618398">
+  <anime anidbid="10961" tvdbid="79824" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt4618398">
     <name>Boruto: Naruto the Movie</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-13;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-14;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="10962" tvdbid="309531" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -30613,6 +30631,9 @@
   </anime>
   <anime anidbid="11251" tvdbid="295897" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Bikini Warriors</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-1;2-4;3-5;4-6;5-7;6-8;7-9</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="11252" tvdbid="272309" defaulttvdbseason="0" episodeoffset="2" tmdbid="387931" imdbid="">
     <name>Yowamushi Pedal Re:Road</name>
@@ -33320,8 +33341,11 @@
   <anime anidbid="12282" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Kami-Usagi Rope: Warau Asa ni wa Fuku Kitarutte Majissu ka!?</name>
   </anime>
-  <anime anidbid="12283" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12283" tvdbid="295897" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Bikini Warriors (2016)</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-2;2-3;3-10;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="12284" tvdbid="301920" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt6210806">
     <name>Monster Strike The Movie: Hajimari no Basho e</name>
@@ -34050,10 +34074,10 @@
   <anime anidbid="12565" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Balala Xiaomoxian: Qiji Wubu</name>
   </anime>
-  <anime anidbid="12566" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12566" tvdbid="79525" defaulttvdbseason="0" episodeoffset="34" tmdbid="" imdbid="">
     <name>Code Geass: Fukkatsu no Lelouch</name>
   </anime>
-  <anime anidbid="12567" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="477776" imdbid="">
+  <anime anidbid="12567" tvdbid="79525" defaulttvdbseason="0" episodeoffset="29" tmdbid="477776" imdbid="">
     <name>Gekijou Soushuuhen Code Geass: Hangyaku no Lelouch</name>
   </anime>
   <anime anidbid="12569" tvdbid="348742" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">

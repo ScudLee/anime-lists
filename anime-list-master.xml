@@ -79,7 +79,7 @@
   <anime anidbid="16" tvdbid="79062" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Onegai Teacher</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;9-4;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="2" offset="0">;3-4;4-0;5-3;14-5;15-5;16-5;17-5;18-5;19-5;20-5;21-5;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="17" tvdbid="78914" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">

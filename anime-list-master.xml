@@ -33205,6 +33205,9 @@
   </anime>
   <anime anidbid="12234" tvdbid="318860" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Masamune-kun no Revenge</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="12235" tvdbid="318161" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Little Witch Academia (2017)</name>
@@ -36802,7 +36805,7 @@
   <anime anidbid="13531" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Yakiniku-ten Sengoku</name>
   </anime>
-  <anime anidbid="13533" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="13533" tvdbid="264663" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
     <name>Date a Live III</name>
   </anime>
   <anime anidbid="13534" tvdbid="352564" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -37672,7 +37675,7 @@
   <anime anidbid="13839" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Pastel Memories</name>
   </anime>
-  <anime anidbid="13840" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="13840" tvdbid="318860" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Masamune-kun no Revenge (2018)</name>
   </anime>
   <anime anidbid="13841" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -37933,7 +37936,7 @@
   <anime anidbid="13933" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Zonmi-chan: Halloween Special Movie!</name>
   </anime>
-  <anime anidbid="13934" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="13934" tvdbid="354164" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>W'z</name>
   </anime>
   <anime anidbid="13935" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -37948,13 +37951,13 @@
   <anime anidbid="13938" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Samurai Noodles: The Originator</name>
   </anime>
-  <anime anidbid="13939" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="13939" tvdbid="307375" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Mob Psycho 100 II</name>
   </anime>
   <anime anidbid="13940" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>BOY's LOVE Nitro+CHiRAL</name>
   </anime>
-  <anime anidbid="13941" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="13941" tvdbid="326109" defaulttvdbseason="0" episodeoffset="" tmdbid="526426,526429" imdbid="">
     <name>Gekijouban Soushuuhen Made in Abyss</name>
   </anime>
   <anime anidbid="13942" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -38416,7 +38419,7 @@
   <anime anidbid="14110" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Kyonyuu JK ga Ojisan Chinpo to Jupo Jupo Iyarashii Sex Shitemasu.</name>
   </anime>
-  <anime anidbid="14111" tvdbid="354198" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14111" tvdbid="354198" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Kaguya-sama wa Kokurasetai: Tensai-tachi no Ren'ai Zunousen</name>
   </anime>
   <anime anidbid="14112" tvdbid="349640" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -38467,7 +38470,7 @@
   <anime anidbid="14129" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>15-sai, Kyou kara Dousei Hajimemasu.</name>
   </anime>
-  <anime anidbid="14130" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14130" tvdbid="web" defaulttvdbseason="1" episodeoffset="" tmdbid="540294" imdbid="">
     <name>Yakusoku no Nanaya Matsuri</name>
   </anime>
   <anime anidbid="14131" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -38602,7 +38605,7 @@
   <anime anidbid="14176" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Xiong Chumo: Qihuan Kongjian</name>
   </anime>
-  <anime anidbid="14177" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14177" tvdbid="309208" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Fukigen na Mononokean: Tsuzuki</name>
   </anime>
   <anime anidbid="14178" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -39298,7 +39301,7 @@
   <anime anidbid="14419" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Daifuku-kun @ Kin Tele</name>
   </anime>
-  <anime anidbid="14420" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14420" tvdbid="80158" defaulttvdbseason="0" episodeoffset="21" tmdbid="" imdbid="">
     <name>Ikkitousen: Western Wolves</name>
   </anime>
   <anime anidbid="14421" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -39373,7 +39376,7 @@
   <anime anidbid="14446" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Eiga Doraemon: Nobita no Getsumen Tansaki</name>
   </anime>
-  <anime anidbid="14447" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14447" tvdbid="354675" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Egao no Daika</name>
   </anime>
   <anime anidbid="14448" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -39748,8 +39751,11 @@
   <anime anidbid="14578" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Affordance</name>
   </anime>
-  <anime anidbid="14579" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14579" tvdbid="278626" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Manga de Wakaru! Fate/Grand Order</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-9;2-9;3-9;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="14580" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note</name>

@@ -26605,6 +26605,9 @@
   </anime>
   <anime anidbid="12234" tvdbid="318860" defaulttvdbseason="1">
     <name>Masamune-kun no Revenge</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="12235" tvdbid="318161" defaulttvdbseason="1">
     <name>Little Witch Academia (2017)</name>
@@ -27865,6 +27868,9 @@
       <mapping anidbseason="1" tvdbseason="0">;1-7;</mapping>
     </mapping-list>
   </anime>
+  <anime anidbid="13533" tvdbid="264663" defaulttvdbseason="3">
+    <name>Date a Live III</name>
+  </anime>
   <anime anidbid="13534" tvdbid="352564" defaulttvdbseason="1">
     <name>Ore ga Suki na no wa Imouto Dakedo Imouto ja Nai</name>
   </anime>
@@ -28060,6 +28066,9 @@
   <anime anidbid="13838" tvdbid="310027" defaulttvdbseason="5">
     <name>Shounen Ashibe: Go! Go! Goma-chan (2018)</name>
   </anime>
+  <anime anidbid="13840" tvdbid="318860" defaulttvdbseason="0">
+    <name>Masamune-kun no Revenge (2018)</name>
+  </anime>
   <anime anidbid="13843" tvdbid="85192" defaulttvdbseason="3">
     <name>Souten no Ken: Regenesis (2018)</name>
   </anime>
@@ -28125,6 +28134,15 @@
   </anime>
   <anime anidbid="13925" tvdbid="351751" defaulttvdbseason="1">
     <name>Irozuku Sekai no Ashita kara</name>
+  </anime>
+  <anime anidbid="13934" tvdbid="354164" defaulttvdbseason="1">
+    <name>W'z</name>
+  </anime>
+  <anime anidbid="13939" tvdbid="307375" defaulttvdbseason="2">
+    <name>Mob Psycho 100 II</name>
+  </anime>
+  <anime anidbid="13941" tvdbid="326109" defaulttvdbseason="0" tmdbid="526426,526429">
+    <name>Gekijouban Soushuuhen Made in Abyss</name>
   </anime>
   <anime anidbid="13944" tvdbid="347194" defaulttvdbseason="1">
     <name>Happy Sugar Life</name>
@@ -28231,17 +28249,23 @@
   <anime anidbid="14109" tvdbid="352853" defaulttvdbseason="1">
     <name>Kaze ga Tsuyoku Fuite Iru</name>
   </anime>
-  <anime anidbid="14111" tvdbid="354198">
+  <anime anidbid="14111" tvdbid="354198" defaulttvdbseason="1">
     <name>Kaguya-sama wa Kokurasetai: Tensai-tachi no Ren'ai Zunousen</name>
   </anime>
   <anime anidbid="14112" tvdbid="349640" defaulttvdbseason="1">
     <name>Joshi Ochi! 2-kai kara Onnanoko ga... Futte Kita!?</name>
+  </anime>
+  <anime anidbid="14130" tvdbid="web" defaulttvdbseason="1" tmdbid="540294">
+    <name>Yakusoku no Nanaya Matsuri</name>
   </anime>
   <anime anidbid="14173" tvdbid="262954" defaulttvdbseason="4">
     <name>JoJo no Kimyou na Bouken: Ougon no Kaze</name>
   </anime>
   <anime anidbid="14174" tvdbid="352326" defaulttvdbseason="1">
     <name>Jingai-san no Yome</name>
+  </anime>
+  <anime anidbid="14177" tvdbid="309208" defaulttvdbseason="2">
+    <name>Fukigen na Mononokean: Tsuzuki</name>
   </anime>
   <anime anidbid="14182" tvdbid="341438" defaulttvdbseason="2">
     <name>Gurazeni (2018)</name>
@@ -28293,5 +28317,17 @@
   </anime>
   <anime anidbid="14412" tvdbid="353608" defaulttvdbseason="1">
     <name>Otona no Bouguya-san</name>
+  </anime>
+  <anime anidbid="14420" tvdbid="80158" defaulttvdbseason="0" episodeoffset="21">
+    <name>Ikkitousen: Western Wolves</name>
+  </anime>
+  <anime anidbid="14447" tvdbid="354675" defaulttvdbseason="1">
+    <name>Egao no Daika</name>
+  </anime>
+  <anime anidbid="14579" tvdbid="278626" defaulttvdbseason="0">
+    <name>Manga de Wakaru! Fate/Grand Order</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-9;2-9;3-9;</mapping>
+    </mapping-list>
   </anime>
 </anime-list>

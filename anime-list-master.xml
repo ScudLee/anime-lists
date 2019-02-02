@@ -66,6 +66,9 @@
   </anime>
   <anime anidbid="13" tvdbid="78947" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Noir</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-6;3-7;4-5;101-1;102-2;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="14" tvdbid="72720" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>RahXephon</name>

@@ -90,6 +90,9 @@
   </anime>
   <anime anidbid="18" tvdbid="71279" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Musekinin Kanchou Tylor</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;6-0;7-0;8-0;9-0;10-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="19" tvdbid="83692" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>Rizelmine</name>
@@ -23955,17 +23958,11 @@
   <anime anidbid="8731" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Lovely Day</name>
   </anime>
-  <anime anidbid="8732" tvdbid="71279" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="8732" tvdbid="71279" defaulttvdbseason="0" episodeoffset="2" tmdbid="" imdbid="">
     <name>Musekinin Kanchou Tylor (1995)</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-3;2-4;3-5;4-6;5-6;6-7;7-8;</mapping>
-    </mapping-list>
   </anime>
-  <anime anidbid="8733" tvdbid="71279" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="8733" tvdbid="71279" defaulttvdbseason="0" episodeoffset="8" tmdbid="" imdbid="">
     <name>Musekinin Kanchou Tylor: Chijou yori Eien ni</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-9;2-10;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="8734" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Doukyuusei: Natsu no Owari ni</name>

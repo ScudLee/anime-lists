@@ -139,6 +139,9 @@
   </anime>
   <anime anidbid="27" tvdbid="78920" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Aa! Megami-sama!</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="28" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0094625">
     <name>Akira</name>
@@ -15217,10 +15220,10 @@
       <mapping anidbseason="0" tvdbseason="0">;1-2;2-3;3-4;4-5;5-6;6-7;7-8;8-9;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="5426" tvdbid="78920" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="5426" tvdbid="78920" defaulttvdbseason="0" episodeoffset="7" tmdbid="" imdbid="">
     <name>Aa! Megami-sama! Tatakau Tsubasa</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-8;2-9;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="5427" tvdbid="81234" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -21798,11 +21801,8 @@
   <anime anidbid="7972" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Thinking and Drawing: Nihon no Shinseiki Art Animation</name>
   </anime>
-  <anime anidbid="7973" tvdbid="78920" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="7973" tvdbid="78920" defaulttvdbseason="0" episodeoffset="9" tmdbid="" imdbid="">
     <name>Aa! Megami-sama! (2011)</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-10;2-11;3-12;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="7974" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Shokupan Mimi</name>

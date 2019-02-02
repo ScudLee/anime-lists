@@ -176,6 +176,7 @@
   <anime anidbid="35" tvdbid="70861" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Love Hina</name>
     <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;2-0;3-4;4-4;5-3;6-0;7-0;</mapping>
       <mapping anidbseason="0" tvdbseason="1">;1-25;</mapping>
     </mapping-list>
     <supplemental-info>
@@ -227,10 +228,10 @@
   <anime anidbid="48" tvdbid="79445" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Ippatsu Kikimusume</name>
   </anime>
-  <anime anidbid="49" tvdbid="70861" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="49" tvdbid="70861" defaulttvdbseason="0" episodeoffset="4" tmdbid="" imdbid="">
     <name>Love Hina Again</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-5;2-6;3-7;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
     <supplemental-info>
       <studio>XEBEC</studio>
@@ -241,15 +242,15 @@
   </anime>
   <anime anidbid="51" tvdbid="70861" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Love Hina Christmas Special: Silent Eve</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
     <supplemental-info>
       <studio>XEBEC</studio>
     </supplemental-info>
   </anime>
-  <anime anidbid="52" tvdbid="70861" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="52" tvdbid="70861" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="">
     <name>Love Hina Haru Special: Kimi Sakura Chiru Nakare!!</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
-    </mapping-list>
     <supplemental-info>
       <studio>XEBEC</studio>
     </supplemental-info>

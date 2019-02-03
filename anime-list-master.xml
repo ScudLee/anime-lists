@@ -636,6 +636,9 @@
   </anime>
   <anime anidbid="137" tvdbid="78777" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Lodoss-tou Senki: Eiyuu Kishi Den</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;6-0;7-0;8-0;9-0;10-0;11-0;12-0;13-0;14-0;15-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="138" tvdbid="94611" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Sakura Tsuushin</name>
@@ -747,6 +750,9 @@
   </anime>
   <anime anidbid="169" tvdbid="78777" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Lodoss-tou Senki</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
     <supplemental-info>
       <studio>Madhouse</studio>
     </supplemental-info>
@@ -28733,7 +28739,7 @@
   <anime anidbid="10517" tvdbid="281947" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Shounen Hollywood: Holly Stage for 49</name>
   </anime>
-  <anime anidbid="10518" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="10518" tvdbid="78777" defaulttvdbseason="0" episodeoffset="2" tmdbid="" imdbid="">
     <name>Meshimase Lodoss-tou Senki: Sorette Oishii no?</name>
   </anime>
   <anime anidbid="10519" tvdbid="80554" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">

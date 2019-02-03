@@ -288,7 +288,7 @@
   <anime anidbid="60" tvdbid="72470" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Hand Maid May</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="1">;1-11;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-1;2-0;</mapping>
     </mapping-list>
     <before>;1-12;2-11;</before>
   </anime>
@@ -2252,8 +2252,11 @@
   <anime anidbid="564" tvdbid="133011" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Ginsoukikou Ordian</name>
   </anime>
-  <anime anidbid="565" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="411274" imdbid="">
+  <anime anidbid="565" tvdbid="72470" defaulttvdbseason="0" episodeoffset="1" tmdbid="411274" imdbid="">
     <name>Hand Maid Mai</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="566" tvdbid="229241" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
     <name>Pia Carrot e Youkoso!! 2 DX</name>

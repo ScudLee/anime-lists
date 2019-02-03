@@ -1085,7 +1085,7 @@
   <anime anidbid="252" tvdbid="74474" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Kidou Senshi Gundam SEED</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;2-7;3-8;4-0;5-0;6-0;7-0;8-0;9-0;10-0;11-0;12-0;13-0;14-0;15-0;16-0;17-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-1;2-7;3-8;4-0;5-0;6-0;7-0;8-0;</mapping>
     </mapping-list>
     <supplemental-info>
       <studio>Sunrise</studio>
@@ -12124,10 +12124,10 @@
   <anime anidbid="4163" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Yagami-kun no Katei no Jijou</name>
   </anime>
-  <anime anidbid="4165" tvdbid="74474" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="4165" tvdbid="74474" defaulttvdbseason="0" episodeoffset="3" tmdbid="" imdbid="">
     <name>Kidou Senshi Gundam SEED: Meidou no Sora</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-4;2-4;3-4;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;2-4;3-4;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="4166" tvdbid="76547" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0159510">
@@ -12142,23 +12142,22 @@
       <mapping anidbseason="1" tvdbseason="0">;1-3;2-3;3-3;4-3;5-3;6-3;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="4168" tvdbid="74474" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="4168" tvdbid="74474" defaulttvdbseason="0" episodeoffset="2" tmdbid="" imdbid="">
     <name>Kidou Senshi Gundam SEED: Harukanaru Akatsuki</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-3;2-3;3-3;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;2-3;3-3;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="4169" tvdbid="74474" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="4169" tvdbid="74474" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="">
     <name>Kidou Senshi Gundam SEED: Kokuu no Senjou</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-2;2-2;3-2;4-2;5-2;6-2;7-2;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;2-2;3-2;4-2;5-2;6-2;7-2;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="4170" tvdbid="74890" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="4170" tvdbid="74890" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="">
     <name>Kidou Senshi Gundam SEED Destiny Final Plus: Erabareta Mirai</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
-      <mapping anidbseason="0" tvdbseason="0">;1-2;2-2;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="4172" tvdbid="83619" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">

@@ -916,6 +916,9 @@
   </anime>
   <anime anidbid="205" tvdbid="80009" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Tenchi Muyou! Ryououki</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="206" tvdbid="78920" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0265018">
     <name>Gekijouban Aa! Megami-sama!</name>
@@ -8390,7 +8393,7 @@
   <anime anidbid="2508" tvdbid="80009" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Tenchi Muyou! Ryououki Omatsuri Zen'ya no Yoru!</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="1">;1-7;</mapping>
+      <mapping anidbseason="1" tvdbseason="1">;1-7;2-7;3-7;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="2509" tvdbid="80009" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">

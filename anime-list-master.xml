@@ -209,6 +209,9 @@
   </anime>
   <anime anidbid="43" tvdbid="78960" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0275230">
     <name>Blood: The Last Vampire</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="44" tvdbid="94701" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0407521">
     <name>Amon Devilman Mokushiroku</name>
@@ -10101,6 +10104,9 @@
   </anime>
   <anime anidbid="3186" tvdbid="78960" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>Blood+</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="3187" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Storm Rider - Blueprint</name>

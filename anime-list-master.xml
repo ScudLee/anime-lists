@@ -509,6 +509,9 @@
   </anime>
   <anime anidbid="106" tvdbid="79077" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Azumanga Daiou The Animation (2002)</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="7" offset="1"/>
+    </mapping-list>
   </anime>
   <anime anidbid="107" tvdbid="80113" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Chikyuu Shoujo Arjuna</name>

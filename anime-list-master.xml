@@ -1875,6 +1875,9 @@
   </anime>
   <anime anidbid="442" tvdbid="72347" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Macross 7</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;13-0;14-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="443" tvdbid="72347" defaulttvdbseason="0" episodeoffset="12" tmdbid="" imdbid="tt0160500">
     <name>Macross 7: Ginga ga Ore o Yonde Iru!</name>

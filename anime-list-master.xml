@@ -224,6 +224,9 @@
   </anime>
   <anime anidbid="47" tvdbid="78953" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Scryed</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;</mapping>
+    </mapping-list>
     <supplemental-info>
       <studio>Sunrise</studio>
     </supplemental-info>
@@ -22886,6 +22889,9 @@
   </anime>
   <anime anidbid="8342" tvdbid="78953" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
     <name>Scryed Alteration</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;</mapping>
+    </mapping-list>
     <supplemental-info>
       <studio>Sunrise</studio>
     </supplemental-info>

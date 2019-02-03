@@ -531,6 +531,9 @@
   </anime>
   <anime anidbid="109" tvdbid="79035" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Mahoromatic: Automatic Maiden</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;2-0;3-0;4-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="110" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Nakoruru: Ano Hito kara no Okurimono</name>
@@ -879,7 +882,7 @@
   <anime anidbid="201" tvdbid="79035" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Mahoromatic: Automatic Maiden - Motto Utsukushii Mono</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-2;2-3;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="2" offset="1">;3-0;4-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="202" tvdbid="70350" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="tt0169858">

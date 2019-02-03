@@ -494,8 +494,12 @@
       <studio>Studio Pierrot</studio>
     </supplemental-info>
   </anime>
-  <anime anidbid="104" tvdbid="82023" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="104" tvdbid="82023" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Hoshi no Koe</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="2" offset="1"/>
+      <mapping anidbseason="1" tvdbseason="0">;1-1;</mapping>
+    </mapping-list>
     <supplemental-info>
       <studio>CoMix Wave</studio>
     </supplemental-info>

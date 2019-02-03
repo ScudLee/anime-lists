@@ -1944,6 +1944,7 @@
     <name>Maze Bakunetsu Jikuu (1997)</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-4;</mapping>
+      <mapping anidbseason="1" tvdbseason="1">;7-8;8-9;9-10;10-7;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="460" tvdbid="70516" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -10506,10 +10507,10 @@
   <anime anidbid="3373" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
     <name>Mahou Gakuen Lunar! Aoi Ryuu no Himitsu</name>
   </anime>
-  <anime anidbid="3374" tvdbid="81432" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
+  <anime anidbid="3374" tvdbid="81432" defaulttvdbseason="0" episodeoffset="2" tmdbid="" imdbid="unknown">
     <name>Maze Bakunetsu Jikuu: Tenpen Kyoui no Giant</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;2-3;3-3;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="3375" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">

@@ -413,6 +413,9 @@
   </anime>
   <anime anidbid="87" tvdbid="71444" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>Fushigi Yuugi</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;6-0;7-0;8-0;9-0;10-0;11-0;12-0;13-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="88" tvdbid="80790" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Koutetsu Tenshi Kurumi</name>
@@ -699,13 +702,19 @@
   <anime anidbid="162" tvdbid="70525" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Sei Juushi Bismarck</name>
   </anime>
-  <anime anidbid="163" tvdbid="71444" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="163" tvdbid="71444" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Fushigi Yuugi (1996)</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;</mapping>
+    </mapping-list>
   </anime>
-  <anime anidbid="164" tvdbid="71444" defaulttvdbseason="3" episodeoffset="3" tmdbid="" imdbid="">
+  <anime anidbid="164" tvdbid="71444" defaulttvdbseason="0" episodeoffset="3" tmdbid="" imdbid="">
     <name>Fushigi Yuugi: Dai Ni Bu</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;6-0;</mapping>
+    </mapping-list>
   </anime>
-  <anime anidbid="165" tvdbid="71444" defaulttvdbseason="3" episodeoffset="9" tmdbid="" imdbid="">
+  <anime anidbid="165" tvdbid="71444" defaulttvdbseason="0" episodeoffset="9" tmdbid="" imdbid="">
     <name>Fushigi Yuugi: Eikouden</name>
   </anime>
   <anime anidbid="166" tvdbid="245451" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0094668">

@@ -367,6 +367,9 @@
   </anime>
   <anime anidbid="77" tvdbid="73038" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Choujikuu Yousai Macross</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;</mapping>
+    </mapping-list>
     <supplemental-info>
       <studio>Anime Friend</studio>
     </supplemental-info>
@@ -7765,11 +7768,8 @@
   <anime anidbid="2323" tvdbid="250577" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
     <name>Gekitou! Crush Gear Turbo: Kaizabaan no Chousen</name>
   </anime>
-  <anime anidbid="2324" tvdbid="73038" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0159356">
+  <anime anidbid="2324" tvdbid="73038" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="tt0159356">
     <name>Choujikuu Yousai Macross: Flash Back 2012</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="2325" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Kotetsu no Daibouken</name>

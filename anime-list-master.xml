@@ -295,6 +295,7 @@
   <anime anidbid="61" tvdbid="73749" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0113568">
     <name>Ghost in the Shell</name>
     <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;</mapping>
       <mapping anidbseason="1" tvdbseason="0">;1-1;2-1;3-1;4-1;5-1;6-1;</mapping>
     </mapping-list>
   </anime>
@@ -1035,7 +1036,7 @@
   <anime anidbid="247" tvdbid="73749" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Koukaku Kidoutai Stand Alone Complex</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0" start="2" end="27" offset="5"/>
+      <mapping anidbseason="0" tvdbseason="0" start="2" end="27" offset="5">;1-0;28-0;29-0;30-0;31-0;32-0;33-0;34-0;35-0;36-0;37-0;38-0;39-0;40-0;41-0;42-0;43-0;44-0;45-0;46-0;47-0;48-0;49-0;50-0;51-0;52-0;53-0;54-0;55-0;56-0;57-0;58-0;59-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="248" tvdbid="78917" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
@@ -3341,6 +3342,7 @@
   <anime anidbid="890" tvdbid="73749" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0347246">
     <name>Innocence</name>
     <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
       <mapping anidbseason="1" tvdbseason="0">;1-2;2-2;3-2;4-2;5-2;6-2;</mapping>
     </mapping-list>
   </anime>
@@ -4294,7 +4296,7 @@
   <anime anidbid="1176" tvdbid="73749" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Koukaku Kidoutai S.A.C. 2nd GIG</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0" start="2" end="27" offset="32"/>
+      <mapping anidbseason="0" tvdbseason="0" start="5" end="30" offset="29">;1-0;2-0;3-0;4-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="1177" tvdbid="89091" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -10617,6 +10619,7 @@
   <anime anidbid="3431" tvdbid="73749" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt1024215">
     <name>Koukaku Kidoutai Stand Alone Complex: The Laughing Man</name>
     <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
       <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
     </mapping-list>
   </anime>
@@ -12453,10 +12456,10 @@
   <anime anidbid="4289" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0480586">
     <name>Tachiguishi Retsuden</name>
   </anime>
-  <anime anidbid="4290" tvdbid="73749" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt1024214">
+  <anime anidbid="4290" tvdbid="73749" defaulttvdbseason="0" episodeoffset="3" tmdbid="" imdbid="tt1024214">
     <name>Koukaku Kidoutai S.A.C. 2nd GIG: Individual Eleven</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="4292" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -12750,7 +12753,7 @@
   <anime anidbid="4414" tvdbid="73749" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0856797">
     <name>Koukaku Kidoutai Stand Alone Complex: Solid State Society</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;2-33;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-33;3-0;4-0;5-0;</mapping>
       <mapping anidbseason="1" tvdbseason="0">;1-5;</mapping>
     </mapping-list>
   </anime>

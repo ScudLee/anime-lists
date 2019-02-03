@@ -2161,6 +2161,9 @@
   </anime>
   <anime anidbid="517" tvdbid="80468" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>The Animatrix</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;201-1;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="518" tvdbid="79046" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Gunparade March: Aratanaru Kougunka</name>

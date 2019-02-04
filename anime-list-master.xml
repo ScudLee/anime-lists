@@ -5792,6 +5792,9 @@
   </anime>
   <anime anidbid="1654" tvdbid="75001" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Madlax</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;2-5;3-6;4-0;5-0;6-0;101-3;201-2;202-4;203-7;204-8;205-9;206-10;207-11;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="1655" tvdbid="99461" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Kishin Heidan</name>

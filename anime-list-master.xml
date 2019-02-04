@@ -3748,7 +3748,7 @@
   <anime anidbid="979" tvdbid="75579" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Hagane no Renkinjutsushi</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-6;2-0;3-0;4-0;5-3;6-2;7-5;9-4;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-1;2-0;3-0;4-6;4-7;5-10;6-9;7-11;8-5;9-8;10-2;10-3;11-0;12-0;13-0;</mapping>
     </mapping-list>
     <supplemental-info>
       <studio>Bones</studio>
@@ -7967,8 +7967,12 @@
   <anime anidbid="2358" tvdbid="187081" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
     <name>Xabungle Graffiti</name>
   </anime>
-  <anime anidbid="2359" tvdbid="75579" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0485323">
+  <anime anidbid="2359" tvdbid="75579" defaulttvdbseason="0" episodeoffset="3" tmdbid="" imdbid="tt0485323">
     <name>Gekijouban Hagane no Renkinjutsushi: Shambala o Yuku Mono</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;2-4;3-4;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="2360" tvdbid="tv special" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
     <name>Shiroi Kiba: White Fang Monogatari</name>

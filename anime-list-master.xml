@@ -5140,6 +5140,9 @@
   </anime>
   <anime anidbid="1431" tvdbid="79032" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Kono Minikuku mo Utsukushii Sekai</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;101-3;102-4;103-5;201-1;401-2;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="1432" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Genmukan: Aiyoku to Ryoujoku no Inzai</name>

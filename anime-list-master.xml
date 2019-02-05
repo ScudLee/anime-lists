@@ -7889,7 +7889,7 @@
   <anime anidbid="2326" tvdbid="79132" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Grenadier: Hohoemi no Senshi</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;4-1;5-2;6-3;7-4;8-5;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="4" end="8" offset="-3">;1-0;2-0;3-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="2327" tvdbid="208741" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">

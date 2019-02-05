@@ -5455,6 +5455,9 @@
   </anime>
   <anime anidbid="1536" tvdbid="74908" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Bakuretsu Tenshi</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="1537" tvdbid="255289" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Miracle Giants Doumu-kun</name>
@@ -10608,8 +10611,7 @@
   <anime anidbid="3386" tvdbid="74908" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Bakuretsu Tenshi: Infinity</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-2;2-0;</mapping>
-      <mapping anidbseason="1" tvdbseason="0">;1-25;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;2-3;3-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="3388" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">

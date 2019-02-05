@@ -11423,6 +11423,9 @@
   </anime>
   <anime anidbid="3651" tvdbid="79414" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Suzumiya Haruhi no Yuuutsu</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="3652" tvdbid="84532" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Lady Georgie</name>
@@ -17368,6 +17371,7 @@
   <anime anidbid="6367" tvdbid="79414" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Suzumiya Haruhi no Yuuutsu (2009)</name>
     <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
       <mapping anidbseason="1" tvdbseason="1">;1-2;2-3;3-5;4-10;5-13;6-14;7-4;9-7;10-6;11-8;25-1;26-12;27-11;28-9;</mapping>
       <mapping anidbseason="1" tvdbseason="2">;8-1;12-2;13-3;14-4;15-5;16-6;17-7;18-8;19-9;20-10;21-11;22-12;23-13;24-14;</mapping>
     </mapping-list>

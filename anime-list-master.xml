@@ -9842,6 +9842,9 @@
   </anime>
   <anime anidbid="3067" tvdbid="80759" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Ichigo 100%</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;3-0;4-0;5-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="3068" tvdbid="80787" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Comic Party Revolution (2005)</name>

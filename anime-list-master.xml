@@ -8038,7 +8038,7 @@
   <anime anidbid="2369" tvdbid="74796" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>Bleach</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-2;4-99</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;2-0;3-2;4-0;</mapping>
     </mapping-list>
     <supplemental-info>
       <studio>Studio Pierrot</studio>
@@ -13062,10 +13062,11 @@
   <anime anidbid="4514" tvdbid="music video" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Clamp in Wonderland 2 1995-2006</name>
   </anime>
-  <anime anidbid="4515" tvdbid="74796" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt1105263">
+  <anime anidbid="4515" tvdbid="74796" defaulttvdbseason="0" episodeoffset="2" tmdbid="" imdbid="tt1105263">
     <name>Gekijouban Bleach: Memories of Nobody</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;2-3;3-3;4-3;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="4516" tvdbid="79524" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">

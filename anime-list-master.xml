@@ -27557,6 +27557,9 @@
   </anime>
   <anime anidbid="9974" tvdbid="313435" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Saiki Kusuo no Sainan</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="9975" tvdbid="252696" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Eiga Doraemon: Shin Nobita no Daimakyou - Peko to 5-nin no Tankentai</name>
@@ -32539,6 +32542,9 @@
   </anime>
   <anime anidbid="11875" tvdbid="311149" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Days</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="11876" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Shoujo kara Shoujo e...</name>
@@ -33181,6 +33187,9 @@
   </anime>
   <anime anidbid="12112" tvdbid="313435" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Saiki Kusuo no Sainan (2016)</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;96-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="12113" tvdbid="291630" defaulttvdbseason="0" episodeoffset="9" tmdbid="" imdbid="">
     <name>Arslan Senki (2016)</name>
@@ -34455,7 +34464,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-15;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="12621" tvdbid="311149" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12621" tvdbid="311149" defaulttvdbseason="0" episodeoffset="2" tmdbid="" imdbid="">
     <name>Days: Touin Gakuen Ikusa!</name>
   </anime>
   <anime anidbid="12622" tvdbid="335088" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -34664,6 +34673,9 @@
   </anime>
   <anime anidbid="12691" tvdbid="313435" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Saiki Kusuo no Sainan (2018)</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="12692" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Hei Mao Jing Zhang</name>
@@ -38863,7 +38875,7 @@
   <anime anidbid="14188" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Natsu o Yarinaosu</name>
   </anime>
-  <anime anidbid="14189" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14189" tvdbid="313435" defaulttvdbseason="0" episodeoffset="95" tmdbid="" imdbid="">
     <name>Saiki Kusuo no Sainan (TV Special)</name>
   </anime>
   <anime anidbid="14191" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">

@@ -5220,6 +5220,9 @@
   </anime>
   <anime anidbid="1457" tvdbid="81232" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Ashita no Joe</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;2-3;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="1458" tvdbid="81232" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Ashita no Joe 2</name>

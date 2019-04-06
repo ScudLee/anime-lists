@@ -3878,7 +3878,7 @@
     <name>Nekojiru-sou</name>
   </anime>
   <anime anidbid="1028" tvdbid="84527" defaulttvdbseason="0">
-    <name>Sakura Taisen Sumire Kanzaki Intai Kinen: Su Mi Re</name>
+    <name>Sakura Taisen: Kanzaki Sumire Intai Kinen - Su Mi Re</name>
   </anime>
   <anime anidbid="1029" tvdbid="208741" defaulttvdbseason="1">
     <name>Massugu ni Ikou.</name>
@@ -4929,7 +4929,7 @@
     <name>Akai Koudan Zillion</name>
   </anime>
   <anime anidbid="1386" tvdbid="227471" defaulttvdbseason="0">
-    <name>Akai Koudan Zillion Utahime Yakyoku</name>
+    <name>Akai Koudan Zillion: Burning Night</name>
   </anime>
   <anime anidbid="1387" tvdbid="174401" defaulttvdbseason="1">
     <name>Gokinjo Monogatari</name>
@@ -8374,7 +8374,7 @@
     <name>Yayoi</name>
   </anime>
   <anime anidbid="2731" tvdbid="72845" defaulttvdbseason="0">
-    <name>Akihabara Dennou-gumi: 2011 Nen no Natsuyasumi</name>
+    <name>Akihabara Dennou-gumi: 2011-nen no Natsuyasumi</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
@@ -10278,7 +10278,7 @@
     <name>Yoi Ko</name>
   </anime>
   <anime anidbid="3955" tvdbid="tv special" defaulttvdbseason="1" imdbid="tt2140179">
-    <name>Natsufuku no Shoujo-tachi: Hiroshima, Shouwa 20 Nen 8 Gatsu Muika</name>
+    <name>Natsufuku no Shoujo-tachi: Hiroshima, Shouwa 20-nen 8-gatsu Muika</name>
   </anime>
   <anime anidbid="3956" tvdbid="150641" defaulttvdbseason="0" imdbid="unknown">
     <name>Hoero! Bun Bun (1987)</name>
@@ -10822,8 +10822,8 @@
   <anime anidbid="4170" tvdbid="74890" defaulttvdbseason="0">
     <name>Kidou Senshi Gundam SEED Destiny Final Plus: Erabareta Mirai</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
       <mapping anidbseason="0" tvdbseason="0">;1-2;2-2;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="4172" tvdbid="83619" defaulttvdbseason="1">
@@ -19987,7 +19987,7 @@
     <name>Hunter x Hunter (2011)</name>
   </anime>
   <anime anidbid="8551" tvdbid="hentai" defaulttvdbseason="1">
-    <name>Vampire</name>
+    <name>Vampire (2011)</name>
   </anime>
   <anime anidbid="8552" tvdbid="254664" defaulttvdbseason="1">
     <name>Kill Me Baby</name>
@@ -20471,7 +20471,7 @@
     <name>Houkago Nyan Nyan</name>
   </anime>
   <anime anidbid="8731" tvdbid="hentai" defaulttvdbseason="1">
-    <name>Lovely Day</name>
+    <name>Lovely Day: Boku to Kanojo no Nanokakan</name>
   </anime>
   <anime anidbid="8732" tvdbid="71279" defaulttvdbseason="0" episodeoffset="2">
     <name>Musekinin Kanchou Tylor (1995)</name>
@@ -23023,7 +23023,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="9875" tvdbid="272074" defaulttvdbseason="1">
-    <name>Kill La Kill</name>
+    <name>Kill la Kill</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
@@ -24191,7 +24191,7 @@
     <name>Yariman Fudousan</name>
   </anime>
   <anime anidbid="10461" tvdbid="hentai" defaulttvdbseason="1">
-    <name>Mahou Shoujo wa Kiss Shite Kawaru</name>
+    <name>Mahou Shoujo wa Kiss Shite Kawaru: Aite ga Kare Igai no Hito Da Nante......</name>
   </anime>
   <anime anidbid="10462" tvdbid="279042" defaulttvdbseason="1">
     <name>Abarenbou Rikishi!! Matsutarou</name>
@@ -25083,7 +25083,7 @@
     <name>Kaseifu ga Ita.</name>
   </anime>
   <anime anidbid="10929" tvdbid="261249" defaulttvdbseason="2">
-    <name>K Return of Kings</name>
+    <name>K: Return of Kings</name>
   </anime>
   <anime anidbid="10931" tvdbid="295896" defaulttvdbseason="1">
     <name>Joukamachi no Dandelion</name>
@@ -25181,8 +25181,8 @@
   <anime anidbid="10961" tvdbid="79824" defaulttvdbseason="0" imdbid="tt4618398">
     <name>Boruto: Naruto the Movie</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-13;</mapping>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-14;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-13;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="10962" tvdbid="309531" defaulttvdbseason="1">
@@ -25814,7 +25814,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="11370" tvdbid="305089" defaulttvdbseason="1">
-    <name>Re: Zero kara Hajimeru Isekai Seikatsu</name>
+    <name>Re:Zero kara Hajimeru Isekai Seikatsu</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
       <mapping anidbseason="0" tvdbseason="0" start="2" end="26" offset="-1"/>
@@ -26683,7 +26683,7 @@
     <name>Yahari Ore no Seishun LoveCome wa Machigatte Iru. Zoku: Kitto, Onnanoko wa Osatou to Spice to Suteki na Nanika de Dekite Iru.</name>
   </anime>
   <anime anidbid="12079" tvdbid="303728" defaulttvdbseason="0">
-    <name>Niji-iro Days OAD</name>
+    <name>Niji-iro Days: Niji-iro Biyori</name>
   </anime>
   <anime anidbid="12080" tvdbid="329825" defaulttvdbseason="1">
     <name>Battle Girl High School</name>
@@ -27278,7 +27278,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="12621" tvdbid="311149" defaulttvdbseason="0" episodeoffset="2">
-    <name>Days: Touin Gakuen Ikusa!</name>
+    <name>Days: Touin Gakuensen!</name>
   </anime>
   <anime anidbid="12622" tvdbid="335088" defaulttvdbseason="1">
     <name>Nekopara</name>
@@ -27842,7 +27842,7 @@
     <name>Karakai Jouzu no Takagi-san</name>
   </anime>
   <anime anidbid="13271" tvdbid="329823" defaulttvdbseason="0">
-    <name>Vatican Kiseki Chousakan (2018)</name>
+    <name>Vatican Kiseki Chousakan: Majo no Soup</name>
   </anime>
   <anime anidbid="13274" tvdbid="326337" defaulttvdbseason="2">
     <name>Idolmaster Cinderella Girls Gekijou (2017)</name>
@@ -28515,7 +28515,7 @@
     <name>Uchuu Senkan Tiramisu II</name>
   </anime>
   <anime anidbid="14189" tvdbid="313435" defaulttvdbseason="0" episodeoffset="95">
-    <name>Saiki Kusuo no Sainan (TV Special)</name>
+    <name>Saiki Kusuo no Sainan: Kanketsuhen</name>
   </anime>
   <anime anidbid="14195" tvdbid="321690" defaulttvdbseason="1" episodeoffset="11">
     <name>Dies Irae (2018)</name>
@@ -28543,6 +28543,9 @@
   </anime>
   <anime anidbid="14290" tvdbid="350052" defaulttvdbseason="2">
     <name>Seizei Ganbare! Mahou Shoujo Kurumi (2018)</name>
+  </anime>
+  <anime anidbid="14308" tvdbid="360593" defaulttvdbseason="1">
+    <name>Chou Kadou Girl 1/6</name>
   </anime>
   <anime anidbid="14327" tvdbid="352192" defaulttvdbseason="1">
     <name>Inazuma Eleven: Orion no Kokuin</name>

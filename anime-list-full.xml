@@ -30562,6 +30562,9 @@
       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
+  <anime anidbid="12693" tvdbid="359955" defaulttvdbseason="1">
+    <name>Kono Yo no Hate de Koi o Utau Shoujo Yu-no</name>
+  </anime>
   <anime anidbid="12694" tvdbid="332162" defaulttvdbseason="1">
     <name>Blend S</name>
   </anime>
@@ -31520,6 +31523,9 @@
   <anime anidbid="13890" tvdbid="349993" defaulttvdbseason="1">
     <name>Ingress the Animation</name>
   </anime>
+  <anime anidbid="13893" tvdbid="354154" defaulttvdbseason="1">
+    <name>Carole &amp; Tuesday</name>
+  </anime>
   <anime anidbid="13896" tvdbid="347294" defaulttvdbseason="1">
     <name>Hyakuren no Haou to Seiyaku no Valkyria</name>
   </anime>
@@ -31609,6 +31615,9 @@
   </anime>
   <anime anidbid="13979" tvdbid="352684" defaulttvdbseason="1">
     <name>Dakaretai Otoko 1-i ni Odosarete Imasu.</name>
+  </anime>
+  <anime anidbid="13989" tvdbid="358411" defaulttvdbseason="1">
+    <name>Hitoribocchi no Marumaru Seikatsu</name>
   </anime>
   <anime anidbid="13991" tvdbid="337936" defaulttvdbseason="0">
     <name>Karakai Jouzu no Takagi-san: Water Slider</name>
@@ -31771,6 +31780,12 @@
   </anime>
   <anime anidbid="14447" tvdbid="354675" defaulttvdbseason="1">
     <name>Egao no Daika</name>
+  </anime>
+  <anime anidbid="14490" tvdbid="357488" defaulttvdbseason="1">
+    <name>Fruits Basket (2019)</name>
+  </anime>
+  <anime anidbid="14514" tvdbid="360579" defaulttvdbseason="1">
+    <name>Sewayaki Kitsune no Senko-san</name>
   </anime>
   <anime anidbid="14579" tvdbid="278626" defaulttvdbseason="0">
     <name>Manga de Wakaru! Fate/Grand Order</name>

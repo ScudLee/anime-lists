@@ -34100,9 +34100,11 @@
     <name>Grancrest Senki</name>
   </anime>
   <anime anidbid="12498" tvdbid="254653" defaulttvdbseason="4" episodeoffset="-1" tmdbid="" imdbid="">
+  <anime anidbid="12498" tvdbid="254653" defaulttvdbseason="4" episodeoffset="" tmdbid="" imdbid="">
     <name>High School DxD Hero</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-18;</mapping>
+      <mapping anidbseason="1" tvdbseason="4" start="2" end="13" offset="-1"/>
     </mapping-list>
   </anime>
   <anime anidbid="12500" tvdbid="284263" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">

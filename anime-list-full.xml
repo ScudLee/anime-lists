@@ -30164,6 +30164,9 @@
   </anime>
   <anime anidbid="12344" tvdbid="305074" defaulttvdbseason="0">
     <name>Boku no Hero Academia (2016)</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-1;2-3;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="12349" tvdbid="321695" defaulttvdbseason="1">
     <name>Hinako Note</name>
@@ -31384,6 +31387,9 @@
   </anime>
   <anime anidbid="13629" tvdbid="347226" defaulttvdbseason="1">
     <name>Himote House</name>
+  </anime>
+  <anime anidbid="13633" tvdbid="305074" defaulttvdbseason="0" episodeoffset="3" tmdbid="505262" imdbid="tt7745068">
+    <name>Boku no Hero Academia the Movie: Futari no Hero</name>
   </anime>
   <anime anidbid="13637" tvdbid="347215" defaulttvdbseason="1">
     <name>Jashin-chan Dropkick</name>

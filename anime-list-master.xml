@@ -33710,6 +33710,9 @@
   </anime>
   <anime anidbid="12344" tvdbid="305074" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Boku no Hero Academia (2016)</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-1;2-3;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="12345" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>R.O.D (Shinsaku)</name>
@@ -37316,7 +37319,7 @@
   <anime anidbid="13632" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Nee,... Shiyo</name>
   </anime>
-  <anime anidbid="13633" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="13633" tvdbid="305074" defaulttvdbseason="0" episodeoffset="3" tmdbid="505262" imdbid="tt7745068">
     <name>Boku no Hero Academia the Movie: Futari no Hero</name>
   </anime>
   <anime anidbid="13634" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">

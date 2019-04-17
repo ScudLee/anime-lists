@@ -31514,6 +31514,9 @@
       <mapping anidbseason="0" tvdbseason="0" start="1" end="8" offset="26"/>
     </mapping-list>
   </anime>
+  <anime anidbid="13869" tvdbid="357047" defaulttvdbseason="1">
+    <name>Sarazanmai</name>
+  </anime>
   <anime anidbid="13871" tvdbid="352408" defaulttvdbseason="1">
     <name>Tensei Shitara Slime Datta Ken</name>
   </anime>
@@ -31742,6 +31745,9 @@
   <anime anidbid="14253" tvdbid="355968" defaulttvdbseason="1">
     <name>Doukyonin wa Hiza, Tokidoki, Atama no Ue.</name>
   </anime>
+  <anime anidbid="14289" tvdbid="359095" defaulttvdbseason="1">
+    <name>Bokutachi wa Benkyou ga Dekinai</name>
+  </anime>
   <anime anidbid="14290" tvdbid="350052" defaulttvdbseason="2">
     <name>Seizei Ganbare! Mahou Shoujo Kurumi (2018)</name>
   </anime>
@@ -31787,11 +31793,20 @@
   <anime anidbid="14514" tvdbid="360579" defaulttvdbseason="1">
     <name>Sewayaki Kitsune no Senko-san</name>
   </anime>
+  <anime anidbid="14522" tvdbid="360011" defaulttvdbseason="1">
+    <name>Senryuu Shoujo</name>
+  </anime>
+  <anime anidbid="14530" tvdbid="359836" defaulttvdbseason="1">
+    <name>Nobunaga-sensei no Osanazuma</name>
+  </anime>
   <anime anidbid="14579" tvdbid="278626" defaulttvdbseason="0">
     <name>Manga de Wakaru! Fate/Grand Order</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-9;2-9;3-9;</mapping>
     </mapping-list>
+  </anime>
+  <anime anidbid="14698" tvdbid="hentai">
+    <name>Araiya-san! Ore to Aitsu ga Onnayu de!?</name>
   </anime>
   <anime anidbid="14733" tvdbid="352327" defaulttvdbseason="2">
     <name>Wei, Kan Jian Er Duo La! (2019)</name>

@@ -4485,7 +4485,7 @@
     <name>Akiko</name>
   </anime>
   <anime anidbid="1232" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
-    <name>Sangokushi Dainibu Choukou Moyu!</name>
+    <name>Sangokushi Dai Ni Bu Choukou Moyu!</name>
   </anime>
   <anime anidbid="1233" tvdbid="266289" defaulttvdbseason="1">
     <name>JaJa Uma! Quartet</name>
@@ -13281,10 +13281,10 @@
     <name>Ookami to Koushinryou</name>
   </anime>
   <anime anidbid="5407" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0295583">
-    <name>Sangokushi Daiichibu Eiyuu-tachi no Yoake</name>
+    <name>Sangokushi Dai Ichi Bu Eiyuu-tachi no Yoake</name>
   </anime>
   <anime anidbid="5408" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
-    <name>Sangokushi Daisanbu Harukanaru Taichi</name>
+    <name>Sangokushi Dai San Bu Harukanaru Taichi</name>
   </anime>
   <anime anidbid="5414" tvdbid="145011" defaulttvdbseason="1">
     <name>Suteki Tantei Labyrinth</name>
@@ -27373,6 +27373,9 @@
       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
+  <anime anidbid="12693" tvdbid="359955" defaulttvdbseason="1">
+    <name>Kono Yo no Hate de Koi o Utau Shoujo Yu-no</name>
+  </anime>
   <anime anidbid="12694" tvdbid="332162" defaulttvdbseason="1">
     <name>Blend S</name>
   </anime>
@@ -28031,6 +28034,9 @@
   <anime anidbid="13469" tvdbid="328670" defaulttvdbseason="2">
     <name>Quanzhi Fashi 2</name>
   </anime>
+  <anime anidbid="13477" tvdbid="354602" defaulttvdbseason="1">
+    <name>Kenja no Mago</name>
+  </anime>
   <anime anidbid="13480" tvdbid="319995" defaulttvdbseason="2">
     <name>One Room: Second Season</name>
   </anime>
@@ -28322,6 +28328,9 @@
       <mapping anidbseason="0" tvdbseason="0" start="1" end="8" offset="26"/>
     </mapping-list>
   </anime>
+  <anime anidbid="13869" tvdbid="357047" defaulttvdbseason="1">
+    <name>Sarazanmai</name>
+  </anime>
   <anime anidbid="13871" tvdbid="352408" defaulttvdbseason="1">
     <name>Tensei Shitara Slime Datta Ken</name>
   </anime>
@@ -28330,6 +28339,9 @@
   </anime>
   <anime anidbid="13890" tvdbid="349993" defaulttvdbseason="1">
     <name>Ingress the Animation</name>
+  </anime>
+  <anime anidbid="13893" tvdbid="354154" defaulttvdbseason="1">
+    <name>Carole &amp; Tuesday</name>
   </anime>
   <anime anidbid="13896" tvdbid="347294" defaulttvdbseason="1">
     <name>Hyakuren no Haou to Seiyaku no Valkyria</name>
@@ -28421,6 +28433,9 @@
   <anime anidbid="13979" tvdbid="352684" defaulttvdbseason="1">
     <name>Dakaretai Otoko 1-i ni Odosarete Imasu.</name>
   </anime>
+  <anime anidbid="13989" tvdbid="358411" defaulttvdbseason="1">
+    <name>Hitoribocchi no Marumaru Seikatsu</name>
+  </anime>
   <anime anidbid="13991" tvdbid="337936" defaulttvdbseason="0">
     <name>Karakai Jouzu no Takagi-san: Water Slider</name>
   </anime>
@@ -28484,6 +28499,9 @@
   <anime anidbid="14101" tvdbid="web" defaulttvdbseason="1" tmdbid="526094">
     <name>Kado: Beyond Information</name>
   </anime>
+  <anime anidbid="14107" tvdbid="348545" defaulttvdbseason="1">
+    <name>Kimetsu no Yaiba</name>
+  </anime>
   <anime anidbid="14109" tvdbid="352853" defaulttvdbseason="1">
     <name>Kaze ga Tsuyoku Fuite Iru</name>
   </anime>
@@ -28495,6 +28513,9 @@
   </anime>
   <anime anidbid="14130" tvdbid="web" defaulttvdbseason="1" tmdbid="540294">
     <name>Yakusoku no Nanaya Matsuri</name>
+  </anime>
+  <anime anidbid="14156" tvdbid="355969" defaulttvdbseason="1">
+    <name>Watashi ni Tenshi ga Maiorita!</name>
   </anime>
   <anime anidbid="14173" tvdbid="262954" defaulttvdbseason="4">
     <name>JoJo no Kimyou na Bouken: Ougon no Kaze</name>
@@ -28529,6 +28550,9 @@
   <anime anidbid="14213" tvdbid="354170" defaulttvdbseason="1">
     <name>Domestic na Kanojo</name>
   </anime>
+  <anime anidbid="14234" tvdbid="358181" defaulttvdbseason="1">
+    <name>Kono Oto Tomare!</name>
+  </anime>
   <anime anidbid="14237" tvdbid="353579" defaulttvdbseason="1">
     <name>Ken En Ken: Aoki Kagayaki</name>
   </anime>
@@ -28543,6 +28567,9 @@
   </anime>
   <anime anidbid="14253" tvdbid="355968" defaulttvdbseason="1">
     <name>Doukyonin wa Hiza, Tokidoki, Atama no Ue.</name>
+  </anime>
+  <anime anidbid="14289" tvdbid="359095" defaulttvdbseason="1">
+    <name>Bokutachi wa Benkyou ga Dekinai</name>
   </anime>
   <anime anidbid="14290" tvdbid="350052" defaulttvdbseason="2">
     <name>Seizei Ganbare! Mahou Shoujo Kurumi (2018)</name>
@@ -28583,11 +28610,29 @@
   <anime anidbid="14447" tvdbid="354675" defaulttvdbseason="1">
     <name>Egao no Daika</name>
   </anime>
+  <anime anidbid="14490" tvdbid="357488" defaulttvdbseason="1">
+    <name>Fruits Basket (2019)</name>
+  </anime>
+  <anime anidbid="14514" tvdbid="360579" defaulttvdbseason="1">
+    <name>Sewayaki Kitsune no Senko-san</name>
+  </anime>
+  <anime anidbid="14522" tvdbid="360011" defaulttvdbseason="1">
+    <name>Senryuu Shoujo</name>
+  </anime>
+  <anime anidbid="14530" tvdbid="359836" defaulttvdbseason="1">
+    <name>Nobunaga-sensei no Osanazuma</name>
+  </anime>
   <anime anidbid="14579" tvdbid="278626" defaulttvdbseason="0">
     <name>Manga de Wakaru! Fate/Grand Order</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-9;2-9;3-9;</mapping>
     </mapping-list>
+  </anime>
+  <anime anidbid="14627" tvdbid="359645" defaulttvdbseason="1">
+    <name>Fairy Gone</name>
+  </anime>
+  <anime anidbid="14698" tvdbid="hentai">
+    <name>Araiya-san! Ore to Aitsu ga Onnayu de!?</name>
   </anime>
   <anime anidbid="14733" tvdbid="352327" defaulttvdbseason="2">
     <name>Wei, Kan Jian Er Duo La! (2019)</name>

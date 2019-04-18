@@ -28550,6 +28550,12 @@
   <anime anidbid="14213" tvdbid="354170" defaulttvdbseason="1">
     <name>Domestic na Kanojo</name>
   </anime>
+  <anime anidbid="14230" tvdbid="305075" defaulttvdbseason="2">
+    <name>Bungou Stray Dogs (2019)</name>
+    <supplemental-info>
+      <studio>Bones</studio>
+    </supplemental-info>
+  </anime>
   <anime anidbid="14234" tvdbid="358181" defaulttvdbseason="1">
     <name>Kono Oto Tomare!</name>
   </anime>
@@ -28561,6 +28567,12 @@
   </anime>
   <anime anidbid="14242" tvdbid="359832" defaulttvdbseason="1">
     <name>Hachigatsu no Cinderella Nine</name>
+  </anime>
+  <anime anidbid="14245" tvdbid="360761">
+    <name>Mix: Meisei Story</name>
+    <supplemental-info>
+      <studio>OLM</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="14247" tvdbid="355966" defaulttvdbseason="1">
     <name>Go-Toubun no Hanayome</name>
@@ -28607,11 +28619,17 @@
   <anime anidbid="14420" tvdbid="80158" defaulttvdbseason="0" episodeoffset="21">
     <name>Ikkitousen: Western Wolves</name>
   </anime>
+  <anime anidbid="14435" tvdbid="357471" defaulttvdbseason="1">
+    <name>Isekai Quartet</name>
+  </anime>
   <anime anidbid="14447" tvdbid="354675" defaulttvdbseason="1">
     <name>Egao no Daika</name>
   </anime>
   <anime anidbid="14490" tvdbid="357488" defaulttvdbseason="1">
     <name>Fruits Basket (2019)</name>
+  </anime>
+  <anime anidbid="14493" tvdbid="360445" defaulttvdbseason="1">
+    <name>RobiHachi</name>
   </anime>
   <anime anidbid="14514" tvdbid="360579" defaulttvdbseason="1">
     <name>Sewayaki Kitsune no Senko-san</name>

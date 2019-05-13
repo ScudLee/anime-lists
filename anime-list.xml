@@ -19913,7 +19913,7 @@
   <anime anidbid="8516" tvdbid="web" defaulttvdbseason="1">
     <name>Sorette Dakara ne!</name>
   </anime>
-  <anime anidbid="8517" tvdbid="142601" defaulttvdbseason="0" episodeoffset="8">
+  <anime anidbid="8517" tvdbid="142601" defaulttvdbseason="0">
     <name>Kidou Senshi Gundam: The Origin</name>
   </anime>
   <anime anidbid="8520" tvdbid="music video" defaulttvdbseason="1">
@@ -22911,7 +22911,7 @@
   <anime anidbid="9826" tvdbid="267440" defaulttvdbseason="0">
     <name>Shingeki no Kyojin OAD</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-2;2-12;3-13;4-16;5-17;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-2;2-12;3-13;4-16;5-17;6-20;7-21;8-22;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="9830" tvdbid="273006" defaulttvdbseason="1">
@@ -28556,6 +28556,9 @@
   <anime anidbid="14059" tvdbid="281249" defaulttvdbseason="3" episodeoffset="12">
     <name>Tokyo Ghoul:Re (2018)</name>
   </anime>
+  <anime anidbid="14063" tvdbid="358180" defaulttvdbseason="1">
+    <name>Gunjou no Magmell</name>
+  </anime>
   <anime anidbid="14068" tvdbid="352683" defaulttvdbseason="1">
     <name>Conception</name>
   </anime>
@@ -28769,6 +28772,9 @@
   <anime anidbid="14435" tvdbid="357471" defaulttvdbseason="1">
     <name>Isekai Quartet</name>
   </anime>
+  <anime anidbid="14444" tvdbid="267440" defaulttvdbseason="3" episodeoffset="12">
+    <name>Shingeki no Kyojin Season 3 (2019)</name>
+  </anime>
   <anime anidbid="14447" tvdbid="354675" defaulttvdbseason="1">
     <name>Egao no Daika</name>
   </anime>
@@ -28777,6 +28783,12 @@
   </anime>
   <anime anidbid="14493" tvdbid="360445" defaulttvdbseason="1">
     <name>RobiHachi</name>
+  </anime>
+  <anime anidbid="14494" tvdbid="294002" defaulttvdbseason="0" episodeoffset="39">
+    <name>Ple Ple Pleiades: Clementine Toubou Hen</name>
+  </anime>
+  <anime anidbid="14496" tvdbid="319976" defaulttvdbseason="1">
+    <name>Kidou Senshi Gundam: The Origin - Zen'ya Akai Suisei</name>
   </anime>
   <anime anidbid="14513" tvdbid="hentai" defaulttvdbseason="1">
     <name>Zoku Tsuma Netori: Ikumi to Shizuka</name>

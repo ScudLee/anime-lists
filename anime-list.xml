@@ -22355,7 +22355,7 @@
   <anime anidbid="9541" tvdbid="267440" defaulttvdbseason="1">
     <name>Shingeki no Kyojin</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;2-3;3-4;4-5;5-6;6-7;8-9;9-10;10-11;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;2-3;3-4;4-5;5-6;6-7;8-9;9-10;10-11;11-0;12-0;13-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="9546" tvdbid="275614" defaulttvdbseason="1">
@@ -22914,7 +22914,7 @@
   <anime anidbid="9826" tvdbid="267440" defaulttvdbseason="0">
     <name>Shingeki no Kyojin OAD</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-2;2-12;3-13;4-16;5-17;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-2;2-12;3-13;4-16;5-17;6-20;7-21;8-22</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="9830" tvdbid="273006" defaulttvdbseason="1">
@@ -25123,6 +25123,9 @@
   </anime>
   <anime anidbid="10944" tvdbid="267440" defaulttvdbseason="2">
     <name>Shingeki no Kyojin Season 2</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="10946" tvdbid="270781" defaulttvdbseason="1">
     <name>Pac-World</name>
@@ -26979,7 +26982,7 @@
   <anime anidbid="12344" tvdbid="305074" defaulttvdbseason="0">
     <name>Boku no Hero Academia (2016)</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-1;2-3;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;2-3;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="12349" tvdbid="321695" defaulttvdbseason="1">
@@ -27786,6 +27789,9 @@
   </anime>
   <anime anidbid="13241" tvdbid="267440" defaulttvdbseason="3">
     <name>Shingeki no Kyojin Season 3</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="13242" tvdbid="hentai" defaulttvdbseason="1">
     <name>Boku Dake no Hentai Kanojo The Animation</name>
@@ -28202,7 +28208,7 @@
   <anime anidbid="13629" tvdbid="347226" defaulttvdbseason="1">
     <name>Himote House</name>
   </anime>
-  <anime anidbid="13633" tvdbid="305074" defaulttvdbseason="0" episodeoffset="3" tmdbid="505262" imdbid="tt7745068">
+  <anime anidbid="13633" tvdbid="305074" defaulttvdbseason="0" episodeoffset="3" imdbid="tt7745068">
     <name>Boku no Hero Academia the Movie: Futari no Hero</name>
   </anime>
   <anime anidbid="13637" tvdbid="347215" defaulttvdbseason="1">
@@ -28246,6 +28252,9 @@
   </anime>
   <anime anidbid="13705" tvdbid="340138" defaulttvdbseason="1">
     <name>Emiya-san Chi no Kyou no Gohan</name>
+  </anime>
+  <anime anidbid="13718" tvdbid="327572" defaulttvdbseason="2">
+    <name>Kakegurui XX</name>
   </anime>
   <anime anidbid="13733" tvdbid="345377" defaulttvdbseason="1">
     <name>PazuDora</name>
@@ -28630,6 +28639,9 @@
   </anime>
   <anime anidbid="14435" tvdbid="357471" defaulttvdbseason="1">
     <name>Isekai Quartet</name>
+  </anime>
+  <anime anidbid="14444" tvdbid="267440" defaulttvdbseason="3" episodeoffset="12">
+    <name>Shingeki no Kyojin Season 3 (2019)</name>
   </anime>
   <anime anidbid="14447" tvdbid="354675" defaulttvdbseason="1">
     <name>Egao no Daika</name>

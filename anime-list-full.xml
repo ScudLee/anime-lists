@@ -8215,8 +8215,11 @@
   <anime anidbid="2429" tvdbid="76014" defaulttvdbseason="1">
     <name>Yakitate!! Japan</name>
   </anime>
-  <anime anidbid="2430" tvdbid="81115" defaulttvdbseason="1">
+  <anime anidbid="2430" tvdbid="81115" defaulttvdbseason="1" imdbid="tt0808082">	
     <name>Mahou Shoujo Lyrical Nanoha</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;6-0;7-0;8-0;9-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="2431" tvdbid="hentai" defaulttvdbseason="1">
     <name>Shuuchuu Chiryou Shitsu</name>
@@ -25949,7 +25952,7 @@
   <anime anidbid="9788" tvdbid="81115" defaulttvdbseason="0">
     <name>Magical Girl Lyrical Nanoha Reflection</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-12;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-16;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="9789" tvdbid="219701" defaulttvdbseason="2">
@@ -31103,6 +31106,12 @@
   <anime anidbid="13300" tvdbid="339401" defaulttvdbseason="1">
     <name>Dame x Prince Anime Caravan</name>
   </anime>
+  <anime anidbid="13301" tvdbid="81115" defaulttvdbseason="0">
+    <name>Magical Girl Lyrical Nanoha Detonation</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-17;</mapping>
+    </mapping-list>
+  </anime>
   <anime anidbid="13307" tvdbid="344844" defaulttvdbseason="1">
     <name>Satsuriku no Tenshi</name>
   </anime>
@@ -31403,6 +31412,9 @@
   <anime anidbid="13613" tvdbid="342316" defaulttvdbseason="1">
     <name>Akkun to Kanojo</name>
   </anime>
+  <anime anidbid="13615" tvdbid="Other" defaulttvdbseason="1">
+    <name>Versailles no Bara (2007)</name>
+  </anime>
   <anime anidbid="13619" tvdbid="347160" defaulttvdbseason="1">
     <name>Back Street Girls: Gokudols</name>
   </anime>
@@ -31453,7 +31465,7 @@
   </anime>
   <anime anidbid="13703" tvdbid="306407" defaulttvdbseason="0" tmdbid="529589" imdbid="tt8659948">
     <name>Love Live! Sunshine!! The School Idol Movie: Over the Rainbow</name>
-	<mapping-list>
+    <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-6;</mapping>
     </mapping-list>
   </anime>
@@ -31465,7 +31477,7 @@
   </anime>
   <anime anidbid="13717" tvdbid="315500" defaulttvdbseason="0" tmdbid="553839" imdbid="tt9507276">
     <name>Gekijouban Youjo Senki</name>
-	<mapping-list>
+    <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-15;</mapping>
     </mapping-list>
   </anime>
@@ -31546,7 +31558,7 @@
   </anime>
   <anime anidbid="13797" tvdbid="354199" defaulttvdbseason="0">
     <name>Kemurikusa</name>
-	<mapping-list>
+    <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-6;2-7;3-9;</mapping>
     </mapping-list>
   </anime>
@@ -31801,7 +31813,7 @@
   </anime>
   <anime anidbid="14127" tvdbid="346798" defaulttvdbseason="0">
     <name>Asobi Asobase: Cosplay Taikai / Otona no Watashi e</name>
-	<mapping-list>
+    <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
     </mapping-list>
   </anime>
@@ -31860,7 +31872,7 @@
     <name>Kansen Sodom</name>
   </anime>
   <anime anidbid="14229" tvdbid="354171" defaulttvdbseason="1" tmdbid="83104" imdbid="tt8731478">
-      <name>Mahou Shoujo Tokushusen Asuka</name>
+    <name>Mahou Shoujo Tokushusen Asuka</name>
   </anime>
   <anime anidbid="14230" tvdbid="305075" defaulttvdbseason="2">
     <name>Bungou Stray Dogs (2019)</name>
@@ -31966,6 +31978,12 @@
   </anime>
   <anime anidbid="14447" tvdbid="354675" defaulttvdbseason="1">
     <name>Egao no Daika</name>
+  </anime>
+  <anime anidbid="14480" tvdbid="313185" defaulttvdbseason="0">
+    <name>Final Fantasy XV: Episode Ardyn - Prologue</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="14490" tvdbid="357488" defaulttvdbseason="1">
     <name>Fruits Basket (2019)</name>

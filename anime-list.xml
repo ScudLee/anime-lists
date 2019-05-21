@@ -26403,6 +26403,9 @@
   <anime anidbid="11893" tvdbid="306847" defaulttvdbseason="1">
     <name>Seisen Cerberus: Ryuukoku no Fatalite</name>
   </anime>
+  <anime anidbid="11894" tvdbid="307812" defaulttvdbseason="1" tmdbid="69203" imdbid="tt5443468">
+    <name>Aishen Qiaokeli-ing...</name>
+  </anime>
   <anime anidbid="11899" tvdbid="289796" defaulttvdbseason="1">
     <name>12-Sai. Chicchana Mune no Tokimeki</name>
   </anime>
@@ -26432,6 +26435,9 @@
   </anime>
   <anime anidbid="11912" tvdbid="hentai" defaulttvdbseason="1">
     <name>Baka na Imouto o Rikou ni Suru no wa Ore no XX Dake na Ken ni Tsuite</name>
+  </anime>
+  <anime anidbid="11913" tvdbid="311607" defaulttvdbseason="1">
+    <name>Flowering Heart</name>
   </anime>
   <anime anidbid="11915" tvdbid="Web" defaulttvdbseason="1" imdbid="tt5439612">
     <name>Noblesse: Awakening</name>
@@ -26481,6 +26487,9 @@
   <anime anidbid="11945" tvdbid="309201" defaulttvdbseason="1">
     <name>Nyanbo!</name>
   </anime>
+  <anime anidbid="11946" tvdbid="245821" defaulttvdbseason="7">
+    <name>Cardfight!! Vanguard G: Stride Gate Hen</name>
+  </anime>
   <anime anidbid="11950" tvdbid="339353" defaulttvdbseason="1">
     <name>B: The Beginning</name>
   </anime>
@@ -26498,6 +26507,9 @@
   </anime>
   <anime anidbid="11955" tvdbid="254667" defaulttvdbseason="4">
     <name>Senki Zesshou Symphogear AXZ</name>
+  </anime>
+  <anime anidbid="11959" tvdbid="254667" defaulttvdbseason="5">
+    <name>Senki Zesshou Symphogear XV</name>
   </anime>
   <anime anidbid="11960" tvdbid="277063" defaulttvdbseason="3">
     <name>Future Card Buddyfight DDD</name>
@@ -28220,23 +28232,68 @@
   <anime anidbid="13605" tvdbid="movie" defaulttvdbseason="1" imdbid="tt7880466">
     <name>Meitantei Conan: Zero no Shikkounin</name>
   </anime>
+  <anime anidbid="13611" tvdbid="web" defaulttvdbseason="1" tmdbid="490321">
+    <name>Itazura Majo to Nemuranai Machi</name>
+  </anime>
+  <anime anidbid="13612" tvdbid="326109" defaulttvdbseason="0" imdbid="tt10068916">
+    <name>Gekijouban Made in Abyss: Fukaki Tamashii no Reimei</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
+    </mapping-list>
+  </anime>
   <anime anidbid="13613" tvdbid="342316" defaulttvdbseason="1">
     <name>Akkun to Kanojo</name>
   </anime>
-  <anime anidbid="13615" tvdbid="Other" defaulttvdbseason="1">
+  <anime anidbid="13615" tvdbid="other" defaulttvdbseason="1">
     <name>Versailles no Bara (2007)</name>
+  </anime>
+  <anime anidbid="13618" tvdbid="356041" defaulttvdbseason="1" imdbid="tt8699270">
+    <name>Ultraman</name>
   </anime>
   <anime anidbid="13619" tvdbid="347160" defaulttvdbseason="1">
     <name>Back Street Girls: Gokudols</name>
   </anime>
+  <anime anidbid="13620" tvdbid="web" defaulttvdbseason="1">
+    <name>Akuma no Memumemu-chan</name>
+  </anime>
+  <anime anidbid="13621" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Furifure 2</name>
+  </anime>
+  <anime anidbid="13623" tvdbid="movie" defaulttvdbseason="1" tmdbid="389411">
+    <name>Namazu wa Umi ni Kaeru</name>
+  </anime>
+  <anime anidbid="13624" tvdbid="357019" defaulttvdbseason="1" tmdbid="86034">
+    <name>Arifureta Shokugyou de Sekai Saikyou</name>
+  </anime>
   <anime anidbid="13625" tvdbid="343815" defaulttvdbseason="1">
     <name>Hisone to Masotan</name>
+  </anime>
+  <anime anidbid="13626" tvdbid="281275" defaulttvdbseason="0" episodeoffset="2">
+    <name>Saenai Heroine no Sodatekata Fine</name>
   </anime>
   <anime anidbid="13629" tvdbid="347226" defaulttvdbseason="1">
     <name>Himote House</name>
   </anime>
   <anime anidbid="13630" tvdbid="hentai" defaulttvdbseason="1">
     <name>Oyasumi Sex</name>
+  </anime>
+  <anime anidbid="13632" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Nee,... Shiyo</name>
+  </anime>
+  <anime anidbid="13633" tvdbid="305074" defaulttvdbseason="0" tmdbid="505262" imdbid="tt5626028">
+    <name>Boku no Hero Academia the Movie: Futari no Hero</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
+    </mapping-list>
+  </anime>
+  <anime anidbid="13634" tvdbid="307812" defaulttvdbseason="2">
+    <name>Aishen Qiaokeli-ing... II</name>
+  </anime>
+  <anime anidbid="13635" tvdbid="245821" defaulttvdbseason="10">
+    <name>Cardfight!! Vanguard (2018)</name>
+  </anime>
+  <anime anidbid="13636" tvdbid="346744" defaulttvdbseason="1" tmdbid="78941" imdbid="tt8019444">
+    <name>Aggressive Retsuko (2018)</name>
   </anime>
   <anime anidbid="13637" tvdbid="347215" defaulttvdbseason="1">
     <name>Jashin-chan Dropkick</name>
@@ -28478,8 +28535,11 @@
   <anime anidbid="13939" tvdbid="307375" defaulttvdbseason="2">
     <name>Mob Psycho 100 II</name>
   </anime>
-  <anime anidbid="13941" tvdbid="326109" defaulttvdbseason="0" tmdbid="526426,526429">
+  <anime anidbid="13941" tvdbid="326109" defaulttvdbseason="0" tmdbid="526426,526429" imdbid="tt10068158,tt10068544">
     <name>Gekijouban Soushuuhen Made in Abyss</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-1;2-2;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="13944" tvdbid="347194" defaulttvdbseason="1">
     <name>Happy Sugar Life</name>
@@ -28852,5 +28912,23 @@
   </anime>
   <anime anidbid="14733" tvdbid="352327" defaulttvdbseason="2">
     <name>Wei, Kan Jian Er Duo La! (2019)</name>
+  </anime>
+  <anime anidbid="14875" tvdbid="311607" defaulttvdbseason="2">
+    <name>Flowering Heart 2</name>
+  </anime>
+  <anime anidbid="14890" tvdbid="284131" defaulttvdbseason="0">
+    <name>Nanatsu no Taizai: Imashime no Fukkatsu (2018)</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-10;</mapping>
+    </mapping-list>
+  </anime>
+  <anime anidbid="14905" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Soshite Watashi wa Ojisan ni...</name>
+  </anime>
+  <anime anidbid="14909" tvdbid="hentai" defaulttvdbseason="1">
+    <name>Joshi Luck!</name>
+  </anime>
+  <anime anidbid="14918" tvdbid="14918" defaulttvdbseason="0">
+    <name>Bokutachi wa Benkyou ga Dekinai (2019)</name>
   </anime>
 </anime-list>

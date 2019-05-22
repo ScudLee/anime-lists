@@ -5220,6 +5220,9 @@
   </anime>
   <anime anidbid="1457" tvdbid="81232" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Ashita no Joe</name>
+      <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;2-3;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="1458" tvdbid="81232" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Ashita no Joe 2</name>
@@ -5730,7 +5733,7 @@
   <anime anidbid="1631" tvdbid="81232" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt1690441">
     <name>Ashita no Joe (1980)</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-1;2-1;2-1;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-1;2-1;3-1;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="1632" tvdbid="159321" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -7924,7 +7927,7 @@
   <anime anidbid="2337" tvdbid="84045" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt1569361">
     <name>Captain Tsubasa: Europa Daikessen</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-14;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="2339" tvdbid="84535" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -10662,7 +10665,7 @@
   <anime anidbid="3399" tvdbid="84045" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
     <name>Captain Tsubasa: Asu ni Mukatte Hashire!</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-16;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="3401" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -11124,13 +11127,13 @@
   <anime anidbid="3560" tvdbid="84045" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
     <name>Captain Tsubasa: Ayaushi! Zen Nippon Jr.</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-15;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="3561" tvdbid="84045" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
     <name>Captain Tsubasa: Sekai Daikessen!! Jr. World Cup</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-17;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="3562" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -11636,7 +11639,7 @@
   <anime anidbid="3972" tvdbid="84045" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Captain Tsubasa: Saikyou no Teki! Holanda Youth</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-18;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-23;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="3973" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0488320">
@@ -14027,7 +14030,7 @@
   <anime anidbid="4862" tvdbid="81232" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt1690442">
     <name>Ashita no Joe 2 (1981)</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-2;2-2;3-2;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-4;2-4;3-4;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="4864" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
@@ -25792,7 +25795,7 @@
     <name>Tai Chi Chasers</name>
   </anime>
   <anime anidbid="9321" tvdbid="262093" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
-    <name>Code: Breaker OVA</name>
+    <name>Code: Breaker (2012)</name>
   </anime>
   <anime anidbid="9322" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt2086830">
     <name>Dwaejiui Wang</name>
@@ -26420,7 +26423,7 @@
   <anime anidbid="9541" tvdbid="267440" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Shingeki no Kyojin</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;2-3;3-4;4-5;5-6;6-7;8-9;9-10;10-11;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;2-3;3-4;4-5;5-6;6-7;8-9;9-10;10-11;11-0;12-0;13-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="9542" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -30007,6 +30010,9 @@
   </anime>
   <anime anidbid="10944" tvdbid="267440" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Shingeki no Kyojin Season 2</name>
+      <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="10946" tvdbid="270781" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Pac-World</name>
@@ -31339,12 +31345,6 @@
   </anime>
   <anime anidbid="11424" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Beautiful Name</name>
-  </anime>
-  <anime anidbid="11425" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>PiKA PiKA</name>
-  </anime>
-  <anime anidbid="11426" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>PiKA PiKA (2007)</name>
   </anime>
   <anime anidbid="11427" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Red Colored Bridge</name>
@@ -33713,6 +33713,9 @@
   </anime>
   <anime anidbid="12344" tvdbid="305074" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Boku no Hero Academia (2016)</name>
+      <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;2-3;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="12345" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>R.O.D (Shinsaku)</name>
@@ -36213,6 +36216,9 @@
   </anime>
   <anime anidbid="13241" tvdbid="267440" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
     <name>Shingeki no Kyojin Season 3</name>
+      <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="13242" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Boku Dake no Hentai Kanojo The Animation</name>
@@ -37331,7 +37337,7 @@
   <anime anidbid="13632" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Nee,... Shiyo</name>
   </anime>
-  <anime anidbid="13633" tvdbid="305074" defaulttvdbseason="0" episodeoffset="" tmdbid="505262" imdbid="tt5626028">
+  <anime anidbid="13633" tvdbid="305074" defaulttvdbseason="0" episodeoffset="" tmdbid="505262" imdbid="tt7745068">
     <name>Boku no Hero Academia the Movie: Futari no Hero</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
@@ -38985,7 +38991,7 @@
     <name>Hontoni Atta Gakko Kaidan</name>
   </anime>
   <anime anidbid="14219" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Kekkai Sensen &amp; Beyond (2018)</name>
+  <name>Kekkai Sensen &amp; Beyond: Zapp Renfro Ingaouhouchuu!! / Baccardio no Shizuku</name>
   </anime>
   <anime anidbid="14220" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Muchi Muchi Kyousei Seichouchuu!!!</name>
@@ -39095,7 +39101,7 @@
   <anime anidbid="14255" tvdbid="355971" defaulttvdbseason="1" episodeoffset="" tmdbid="84664" imdbid="tt7906926">
     <name>Circlet Princess</name>
   </anime>
-  <anime anidbid="14256" tvdbid="360580" defaulttvdbseason="" episodeoffset="" tmdbid="tt9883660" imdbid="tt9883660">
+  <anime anidbid="14256" tvdbid="360580" defaulttvdbseason="1" episodeoffset="" tmdbid="tt9883660" imdbid="tt9883660">
     <name>Namu Amida Butsu! Utena</name>
   </anime>
   <anime anidbid="14257" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -39935,13 +39941,13 @@
   <anime anidbid="14546" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Neko no Nyahho</name>
   </anime>
-  <anime anidbid="14547" tvdbid="hentai" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14547" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Bitch Gakuen ga Seijun na Hazu ga Nai!!? The Animation</name>
   </anime>
   <anime anidbid="14548" tvdbid="352679" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Bakumatsu: Ren'ai Bakumatsu Kareshi Gaiden - Crisis</name>
   </anime>
-  <anime anidbid="14549" tvdbid="hentai" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14549" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Seikatsu Shuukan The Animation</name>
   </anime>
   <anime anidbid="14550" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -40967,7 +40973,7 @@
   <anime anidbid="14905" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Soshite Watashi wa Ojisan ni...</name>
   </anime>
-  <anime anidbid="14906" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14906" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Ochi Mono RPG Seikishi Luvilias</name>
   </anime>
   <anime anidbid="14907" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -41005,5 +41011,8 @@
   </anime>
   <anime anidbid="14918" tvdbid="14918" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Bokutachi wa Benkyou ga Dekinai (2019)</name>
+  </anime>
+  <anime anidbid="14919" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Mao Yao De Huo Han</name>
   </anime>
 </anime-list>

@@ -30847,6 +30847,7 @@
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0" start="2" end="7" offset="2"/>
     </mapping-list>
+    <before>;2-3;</before>
   </anime>
   <anime anidbid="11252" tvdbid="272309" defaulttvdbseason="0" episodeoffset="2" tmdbid="387931" imdbid="">
     <name>Yowamushi Pedal Re:Road</name>

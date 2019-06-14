@@ -12779,7 +12779,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="5115" tvdbid="79839" defaulttvdbseason="0">
+  <anime anidbid="5115" tvdbid="79839" defaulttvdbseason="0" episodeoffset="1">
     <name>Aria the OVA: Arietta</name>
   </anime>
   <anime anidbid="5116" tvdbid="80330" defaulttvdbseason="1">
@@ -25350,6 +25350,9 @@
   <anime anidbid="11056" tvdbid="72775" defaulttvdbseason="9">
     <name>Saint Seiya: Soul of Gold</name>
   </anime>
+  <anime anidbid="11059" tvdbid="79839" defaulttvdbseason="0" episodeoffset="11">
+    <name>Aria the Avvenire</name>
+  </anime>
   <anime anidbid="11062" tvdbid="hentai" defaulttvdbseason="1">
     <name>Kedamono-tachi no Sumu Ie de</name>
   </anime>
@@ -25654,6 +25657,7 @@
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0" start="2" end="7" offset="2"/>
     </mapping-list>
+    <before>;2-3;</before>
   </anime>
   <anime anidbid="11252" tvdbid="272309" defaulttvdbseason="0" episodeoffset="2" tmdbid="387931">
     <name>Yowamushi Pedal Re:Road</name>

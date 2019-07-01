@@ -28326,6 +28326,12 @@
   <anime anidbid="13813" tvdbid="344200" defaulttvdbseason="1">
     <name>Chuukan Kanriroku Tonegawa</name>
   </anime>
+  <anime anidbid="13829" tvdbid="289882" defaulttvdbseason="2">
+    <name>Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth II</name>
+      <mapping-list>
+        <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
+      </mapping-list>
+  </anime>
   <anime anidbid="13831" tvdbid="350166" defaulttvdbseason="1">
     <name>Goblin Slayer</name>
   </anime>
@@ -28629,6 +28635,9 @@
   <anime anidbid="14390" tvdbid="359014" defaulttvdbseason="1">
     <name>Joshi Kausei</name>
   </anime>
+  <anime anidbid="14391" tvdbid="361709" defaulttvdbseason="1">
+    <name>Maou-sama, Retry!</name>
+  </anime>
   <anime anidbid="14412" tvdbid="353608" defaulttvdbseason="1">
     <name>Otona no Bouguya-san</name>
   </anime>
@@ -28650,8 +28659,17 @@
   <anime anidbid="14447" tvdbid="354675" defaulttvdbseason="1">
     <name>Egao no Daika</name>
   </anime>
+  <anime anidbid="14467" tvdbid="361707" defaulttvdbseason="1">
+    <name>Tejina Senpai</name>
+  </anime>
+  <anime anidbid="14488" tvdbid="355480" defaulttvdbseason="1">
+    <name>En'en no Shouboutai</name>
+  </anime>
   <anime anidbid="14490" tvdbid="357488" defaulttvdbseason="1">
     <name>Fruits Basket (2019)</name>
+  </anime>
+  <anime anidbid="14491" tvdbid="355774" defaulttvdbseason="1">
+    <name>Dr. Stone</name>
   </anime>
   <anime anidbid="14493" tvdbid="360445" defaulttvdbseason="1">
     <name>RobiHachi</name>
@@ -28671,11 +28689,20 @@
       <mapping anidbseason="1" tvdbseason="0">;1-9;2-9;3-9;</mapping>
     </mapping-list>
   </anime>
+  <anime anidbid="14591" tvdbid="337936" defaulttvdbseason="2">
+    <name>Karakai Jouzu no Takagi-san 2</name>
+  </anime>
   <anime anidbid="14627" tvdbid="359645" defaulttvdbseason="1">
     <name>Fairy Gone</name>
   </anime>
+  <anime anidbid="14661" tvdbid="361456" defaulttvdbseason="1">
+    <name>Kanata no Astra</name>
+  </anime>
   <anime anidbid="14698" tvdbid="hentai">
     <name>Araiya-san! Ore to Aitsu ga Onnayu de!?</name>
+  </anime>
+  <anime anidbid="14710" tvdbid="362052" defaulttvdbseason="1">
+    <name>Sounan Desuka?</name>
   </anime>
   <anime anidbid="14733" tvdbid="352327" defaulttvdbseason="2">
     <name>Wei, Kan Jian Er Duo La! (2019)</name>

@@ -28331,9 +28331,9 @@
   </anime>
   <anime anidbid="13829" tvdbid="289882" defaulttvdbseason="2">
     <name>Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth II</name>
-      <mapping-list>
-        <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
-      </mapping-list>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="13831" tvdbid="350166" defaulttvdbseason="1">
     <name>Goblin Slayer</name>

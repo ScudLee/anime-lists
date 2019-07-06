@@ -14741,7 +14741,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="5115" tvdbid="79839" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="5115" tvdbid="79839" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="">
     <name>Aria the OVA: Arietta</name>
   </anime>
   <anime anidbid="5116" tvdbid="80330" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -30339,7 +30339,7 @@
   <anime anidbid="11058" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Omakase! Miracle Cat-dan</name>
   </anime>
-  <anime anidbid="11059" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="11059" tvdbid="79839" defaulttvdbseason="0" episodeoffset="11" tmdbid="" imdbid="">
     <name>Aria the Avvenire</name>
   </anime>
   <anime anidbid="11060" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -30850,6 +30850,7 @@
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0" start="2" end="7" offset="2"/>
     </mapping-list>
+    <before>;2-3;</before>
   </anime>
   <anime anidbid="11252" tvdbid="272309" defaulttvdbseason="0" episodeoffset="2" tmdbid="387931" imdbid="">
     <name>Yowamushi Pedal Re:Road</name>
@@ -37328,11 +37329,8 @@
   <anime anidbid="13632" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Nee,... Shiyo</name>
   </anime>
-  <anime anidbid="13633" tvdbid="305074" defaulttvdbseason="0" episodeoffset="" tmdbid="505262" imdbid="tt7745068">
+  <anime anidbid="13633" tvdbid="305074" defaulttvdbseason="0" episodeoffset="3" tmdbid="505262" imdbid="tt7745068">
     <name>Boku no Hero Academia the Movie: Futari no Hero</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="13634" tvdbid="307812" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Aishen Qiaokeli-ing... II</name>
@@ -37886,8 +37884,11 @@
   <anime anidbid="13828" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Turning Mecard R</name>
   </anime>
-  <anime anidbid="13829" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="13829" tvdbid="289882" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth II</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="13830" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Gekijouban Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Orion no Ya</name>
@@ -38203,9 +38204,6 @@
   </anime>
   <anime anidbid="13941" tvdbid="326109" defaulttvdbseason="0" episodeoffset="" tmdbid="526426,526429" imdbid="tt10068158,tt10068544">
     <name>Gekijouban Soushuuhen Made in Abyss</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-1;2-2;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="13942" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Mori Shuguang</name>
@@ -38216,7 +38214,7 @@
   <anime anidbid="13944" tvdbid="347194" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Happy Sugar Life</name>
   </anime>
-  <anime anidbid="13945" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="13945" tvdbid="359274" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Vinland Saga</name>
   </anime>
   <anime anidbid="13946" tvdbid="354167" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -38639,16 +38637,16 @@
   <anime anidbid="14101" tvdbid="web" defaulttvdbseason="1" episodeoffset="" tmdbid="526094" imdbid="">
     <name>Kado: Beyond Information</name>
   </anime>
-  <anime anidbid="14102" tvdbid="hentai" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14102" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Lilitales</name>
   </anime>
-  <anime anidbid="14103" tvdbid="360553" defaulttvdbseason="" episodeoffset="" tmdbid="87473" imdbid="">
+  <anime anidbid="14103" tvdbid="360553" defaulttvdbseason="1" episodeoffset="" tmdbid="87473" imdbid="">
     <name>Yatogame-chan Kansatsu Nikki</name>
   </anime>
   <anime anidbid="14104" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Choujikuu Seiki Orguss Memorial</name>
   </anime>
-  <anime anidbid="14105" tvdbid="360154" defaulttvdbseason="" episodeoffset="" tmdbid="87457" imdbid="tt8660606">
+  <anime anidbid="14105" tvdbid="360154" defaulttvdbseason="1" episodeoffset="" tmdbid="87457" imdbid="tt8660606">
     <name>Shoumetsu Toshi</name>
   </anime>
   <anime anidbid="14106" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -38900,7 +38898,7 @@
   <anime anidbid="14193" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Piano no Mori (2019)</name>
   </anime>
-  <anime anidbid="14194" tvdbid="hentai" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14194" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Tiny Evil</name>
   </anime>
   <anime anidbid="14195" tvdbid="321690" defaulttvdbseason="1" episodeoffset="11" tmdbid="" imdbid="">
@@ -40046,7 +40044,7 @@
   <anime anidbid="14590" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Rikei ga Koi ni Ochita no de Shoumei Shite Mita.</name>
   </anime>
-  <anime anidbid="14591" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14591" tvdbid="337936" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Karakai Jouzu no Takagi-san 2</name>
   </anime>
   <anime anidbid="14592" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -40062,7 +40060,7 @@
     <name>Sore Ike! Anpanman: Kirameke! Ice no Kuni no Vanilla-hime</name>
   </anime>
   <anime anidbid="14597" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Kyou mo Tsuno ga Aru</name>	
+    <name>Kyou mo Tsuno ga Aru</name>
   </anime>
   <anime anidbid="14598" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Shaonu Qianxian</name>
@@ -40256,7 +40254,7 @@
   <anime anidbid="14663" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Meng Qi Shishen</name>
   </anime>
-  <anime anidbid="14664" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14664" tvdbid="361752" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Bem</name>
   </anime>
   <anime anidbid="14665" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">

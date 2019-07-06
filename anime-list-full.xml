@@ -31521,8 +31521,11 @@
   <anime anidbid="13829" tvdbid="289882" defaulttvdbseason="2">
     <name>Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth II</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-3;</mapping>
     </mapping-list>
+  </anime>
+  <anime anidbid="13830" tvdbid="289882" defaulttvdbseason="0" episodeoffset="1" imdbid="tt9526152">
+    <name>Gekijouban Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Orion no Ya</name>
   </anime>
   <anime anidbid="13831" tvdbid="350166" defaulttvdbseason="1">
     <name>Goblin Slayer</name>
@@ -31864,7 +31867,7 @@
     <name>En'en no Shouboutai</name>
   </anime>
   <anime anidbid="14490" tvdbid="357488" defaulttvdbseason="1">
-    <name>Fruits Basket (2019)</name>
+    <name>Fruits Basket 1st Season</name>
   </anime>
   <anime anidbid="14491" tvdbid="355774" defaulttvdbseason="1">
     <name>Dr. Stone</name>

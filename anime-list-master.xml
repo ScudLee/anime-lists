@@ -28240,7 +28240,7 @@
   <anime anidbid="10238" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0347996">
     <name>Shengshi Chuanshuo</name>
   </anime>
-  <anime anidbid="10240" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbid="347182" imdbid="tt7230298">
+  <anime anidbid="10240" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="347182" imdbid="tt7230298">
     <name>Gekijouban Meiji Tokyo Renka</name>
   </anime>
   <anime anidbid="10241" tvdbid="278151" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -34010,7 +34010,7 @@
   <anime anidbid="12460" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Escha Chron</name>
   </anime>
-  <anime anidbid="12461" tvdbid="355576" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12461" tvdbid="355576" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Meiji Tokyo Renka</name>
   </anime>
   <anime anidbid="12462" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -34652,7 +34652,7 @@
   <anime anidbid="12686" tvdbid="317206" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Lostorage Conflated WIXOSS</name>
   </anime>
-  <anime anidbid="12687" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbid="519811" imdbid="tt6069846">
+  <anime anidbid="12687" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="519811" imdbid="tt6069846">
     <name>Complex x Complex</name>
   </anime>
   <anime anidbid="12688" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -37887,10 +37887,10 @@
   <anime anidbid="13829" tvdbid="289882" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth II</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-3;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="13830" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="553835" imdbid="">
+  <anime anidbid="13830" tvdbid="289882" defaulttvdbseason="0" episodeoffset="1" tmdbid="553835" imdbid="tt9526152">
     <name>Gekijouban Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Orion no Ya</name>
   </anime>
   <anime anidbid="13831" tvdbid="350166" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">

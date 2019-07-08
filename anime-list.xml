@@ -8333,7 +8333,7 @@
   <anime anidbid="2710" tvdbid="78914" defaulttvdbseason="3">
     <name>Fullmetal Panic! The Second Raid</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;2-2;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;2-0;</mapping>
     </mapping-list>
     <before>;2-14;</before>
   </anime>

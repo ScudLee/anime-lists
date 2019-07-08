@@ -179,7 +179,7 @@ curl and xsltproc (and dependencies) should either be in the folder or added som
 ### update.bat ###
 Downloads the latest animetitles.xml, sorts it, updates anime-list-master.xml, calls generate-lists.bat, and commits the changed files.
 
-### update.bat ###
+### update.sh ###
 Same as `update.bat` but for POSIX platforms.
 
 ### generate-lists.bat ###

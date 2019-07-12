@@ -3259,7 +3259,7 @@
   <anime anidbid="834" tvdbid="80608" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Green Green (2003)</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-12;2-3;3-6;4-7;5-4;6-8;7-9;8-5;9-10;10-11</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-12;2-3;3-6;4-7;5-4;6-8;7-9;8-5;9-10;10-11;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="835" tvdbid="74544" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
@@ -11354,7 +11354,7 @@
   <anime anidbid="3625" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Hajime Ningen Gyatoruz</name>
   </anime>
-  <anime anidbid="3626" tvdbid="unknown" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="3626" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Nintama Rantarou</name>
   </anime>
   <anime anidbid="3627" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -17529,7 +17529,7 @@
   <anime anidbid="6432" tvdbid="72454" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt1397219">
     <name>Lupin Sansei vs Meitantei Conan</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-23</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-23;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="6433" tvdbid="250317" defaulttvdbseason="0" episodeoffset="3" tmdbid="" imdbid="tt1401235">
@@ -25797,7 +25797,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-22;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="9316" tvdbid="252696" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="tt2768084">
+  <anime anidbid="9316" tvdbid="252696" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt2768084">
     <name>Eiga Doraemon: Nobita no Himitsu Dougu Museum</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
@@ -26726,7 +26726,7 @@
   <anime anidbid="9658" tvdbid="293491" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="">
     <name>Koukaku Kidoutai Arise: Ghost in the Shell</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0" start="1" end="4" offset="6">;5-0;6-0;206-11</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="4" offset="6">;5-0;6-0;206-11;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="9659" tvdbid="273002" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -32213,7 +32213,7 @@
   <anime anidbid="11746" tvdbid="289884" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Hibike! Euphonium 2</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-10</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-10;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="11747" tvdbid="289884" defaulttvdbseason="0" episodeoffset="8" tmdbid="374056" imdbid="">
@@ -32462,7 +32462,7 @@
   <anime anidbid="11839" tvdbid="71863" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Lupin Sansei: Italian Game</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-41</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-41;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="11840" tvdbid="324710" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -34092,7 +34092,7 @@
   <anime anidbid="12483" tvdbid="326337" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Idolmaster Cinderella Girls Gekijou</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;14-0;15-0;16;0</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;14-0;15-0;16-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="12484" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -34158,7 +34158,7 @@
   <anime anidbid="12508" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Trigger-chan</name>
   </anime>
-  <anime anidbid="12509" tvdbid="unknown" defaulttvdbseason="" episodeoffset="" tmdbid="432128" imdbid="">
+  <anime anidbid="12509" tvdbid="321820" defaulttvdbseason="0" episodeoffset="" tmdbid="432128" imdbid="">
     <name>Eiga Precure Dream Stars!</name>
   </anime>
   <anime anidbid="12510" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -39079,13 +39079,13 @@
   <anime anidbid="14242" tvdbid="359832" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Hachigatsu no Cinderella Nine</name>
   </anime>
-  <anime anidbid="14243" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14243" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Hatsujou Switch Otosareta Shoujo-tachi The Animation</name>
   </anime>
   <anime anidbid="14244" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Semi wa Magic Cube</name>
   </anime>
-  <anime anidbid="14245" tvdbid="360761" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14245" tvdbid="360761" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Mix: Meisei Story</name>
     <supplemental-info>
       <studio>OLM</studio>
@@ -40384,7 +40384,7 @@
   <anime anidbid="14697" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Eiga no Osomatsu-san: Gekijou Koukai Kinen - Original Tanpen Gekijou</name>
   </anime>
-  <anime anidbid="14698" tvdbid="hentai" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14698" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Araiya-san! Ore to Aitsu ga Onnayu de!?</name>
   </anime>
   <anime anidbid="14699" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -40726,7 +40726,7 @@
   <anime anidbid="14813" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Mahou no Lumitear</name>
   </anime>
-  <anime anidbid="14814" tvdbid="hentai" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14814" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Shakuen no Eris</name>
   </anime>
   <anime anidbid="14815" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">

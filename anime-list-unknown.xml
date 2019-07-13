@@ -1188,7 +1188,7 @@
   <anime anidbid="3625" tvdbid="unknown" defaulttvdbseason="1">
     <name>Hajime Ningen Gyatoruz</name>
   </anime>
-  <anime anidbid="3626" tvdbid="unknown">
+  <anime anidbid="3626" tvdbid="unknown" defaulttvdbseason="1">
     <name>Nintama Rantarou</name>
   </anime>
   <anime anidbid="3627" tvdbid="unknown" defaulttvdbseason="1">
@@ -3278,9 +3278,6 @@
   </anime>
   <anime anidbid="11757" tvdbid="unknown" defaulttvdbseason="0" imdbid="tt5185564">
     <name>Shimajirou to Ehon no Kuni</name>
-  </anime>
-  <anime anidbid="12509" tvdbid="unknown" tmdbid="432128">
-    <name>Eiga Precure Dream Stars!</name>
   </anime>
   <anime anidbid="13616" tvdbid="unknown" defaulttvdbseason="1">
     <name>Ningyou Rekishi Spectacle Heike Monogatari</name>

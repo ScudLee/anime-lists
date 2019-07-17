@@ -3502,16 +3502,16 @@
   <anime anidbid="904" tvdbid="73988" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>The Big O</name>
   </anime>
-  <anime anidbid="905" tvdbid="81472" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0142242">
+  <anime anidbid="905" tvdbid="81472" defaulttvdbseason="0" episodeoffset="7" tmdbid="" imdbid="tt0142242">
     <name>Dragon Ball Z: Moetsukiro!! Nessen, Ressen, Chougekisen</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-8;2-8;3-8;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;2-8;3-8;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="906" tvdbid="81472" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0142234">
+  <anime anidbid="906" tvdbid="81472" defaulttvdbseason="0" episodeoffset="10" tmdbid="" imdbid="tt0142234">
     <name>Dragon Ball Z: Super Senshi Gekiha!! Katsu no wa Ore Da</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-11;2-11;3-11;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;2-11;3-11;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="907" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -3979,10 +3979,10 @@
       <studio>Toei Animation</studio>
     </supplemental-info>
   </anime>
-  <anime anidbid="1044" tvdbid="81472" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0142240">
+  <anime anidbid="1044" tvdbid="81472" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="tt0142240">
     <name>Dragon Ball Z: Kono Yo de Ichiban Tsuyoi Yatsu</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-2;3-2;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;2-2;3-2;</mapping>
     </mapping-list>
     <supplemental-info>
       <studio>Toei Animation</studio>
@@ -4064,22 +4064,22 @@
   <anime anidbid="1068" tvdbid="tv special" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0167006">
     <name>Battle Spirits: Ryuuko no Ken</name>
   </anime>
-  <anime anidbid="1069" tvdbid="81472" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0142238">
+  <anime anidbid="1069" tvdbid="81472" defaulttvdbseason="0" episodeoffset="8" tmdbid="" imdbid="tt0142238">
     <name>Dragon Ball Z: Ginga Girigiri!! Bucchigiri no Sugoi Yatsu</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-9;2-9;3-9;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;2-9;3-9;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="1070" tvdbid="81472" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0285036">
+  <anime anidbid="1070" tvdbid="81472" defaulttvdbseason="0" episodeoffset="9" tmdbid="" imdbid="tt0285036">
     <name>Dragon Ball Z: Kiken na Futari! Super Senshi wa Nemurenai</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-10;2-10;3-10;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;2-10;3-10;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="1071" tvdbid="81472" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0142236">
+  <anime anidbid="1071" tvdbid="81472" defaulttvdbseason="0" episodeoffset="11" tmdbid="" imdbid="tt0142236">
     <name>Dragon Ball Z: Fukkatsu no Fusion!! Gokuu to Vegeta</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-12;2-12;3-12;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;2-12;3-12;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="1072" tvdbid="85301" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -7924,11 +7924,8 @@
   <anime anidbid="2334" tvdbid="72493" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0102928">
     <name>Silent Mobius: The Motion Picture</name>
   </anime>
-  <anime anidbid="2336" tvdbid="81472" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0142245">
+  <anime anidbid="2336" tvdbid="81472" defaulttvdbseason="0" episodeoffset="13" tmdbid="" imdbid="tt0142245">
     <name>Dragon Ball Z Special: Tatta Hitori no Saishuu Kessen - Freezer ni Idonda Z Senshi Son Gokuu no Chichi</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-14;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="2337" tvdbid="84045" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt1569361">
     <name>Captain Tsubasa: Europa Daikessen</name>
@@ -8833,11 +8830,8 @@
   <anime anidbid="2642" tvdbid="120051" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Detatoko Princess</name>
   </anime>
-  <anime anidbid="2643" tvdbid="81472" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt1286785">
+  <anime anidbid="2643" tvdbid="81472" defaulttvdbseason="0" episodeoffset="16" tmdbid="" imdbid="tt1286785">
     <name>Dragon Ball Z Gaiden: Saiya-jin Zetsumetsu Keikaku</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-17;2-18;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="2644" tvdbid="81797" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt1018764">
     <name>One Piece: Omatsuri Danshaku to Himitsu no Shima</name>
@@ -16857,11 +16851,8 @@
   <anime anidbid="6126" tvdbid="80236" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Seto no Hanayome (2008)</name>
   </anime>
-  <anime anidbid="6127" tvdbid="81472" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt1317478">
+  <anime anidbid="6127" tvdbid="81472" defaulttvdbseason="0" episodeoffset="15" tmdbid="" imdbid="tt1317478">
     <name>Dragon Ball: Ossu! Kaette Kita Son Gokuu to Nakama-tachi!!</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-16;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="6128" tvdbid="78812" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Gunslinger Girl: Il Teatrino OVA</name>
@@ -17781,11 +17772,8 @@
   <anime anidbid="6539" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Utsurun Desu.</name>
   </anime>
-  <anime anidbid="6540" tvdbid="81472" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="6540" tvdbid="81472" defaulttvdbseason="0" episodeoffset="19" tmdbid="" imdbid="">
     <name>Dragon Ball Z: Atsumare! Gokuu World</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-20;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="6542" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Shinshuu Sudama Hen</name>
@@ -24415,11 +24403,8 @@
   <anime anidbid="8808" tvdbid="264663" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Date a Live</name>
   </anime>
-  <anime anidbid="8809" tvdbid="81472" defaulttvdbseason="0" episodeoffset="" tmdbid="91787" imdbid="">
+  <anime anidbid="8809" tvdbid="81472" defaulttvdbseason="0" episodeoffset="20" tmdbid="91787" imdbid="">
     <name>Dragon Ball: Episode of Bardock</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-21;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="8810" tvdbid="web" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Go Around</name>
@@ -25794,11 +25779,8 @@
   <anime anidbid="9312" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>JK to Ero Giin-sensei</name>
   </anime>
-  <anime anidbid="9314" tvdbid="81472" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="9314" tvdbid="81472" defaulttvdbseason="0" episodeoffset="22" tmdbid="" imdbid="tt2263944">
     <name>Dragon Ball Z: Kami to Kami</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-22;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="9316" tvdbid="252696" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt2768084">
     <name>Eiga Doraemon: Nobita no Himitsu Dougu Museum</name>
@@ -29478,7 +29460,7 @@
   <anime anidbid="10741" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Kyokugen Dasshutsu ADV: Zennin Shibou Death</name>
   </anime>
-  <anime anidbid="10742" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="10742" tvdbid="81472" defaulttvdbseason="0" episodeoffset="23" tmdbid="" imdbid="tt3819668">
     <name>Dragon Ball Z: Fukkatsu no "F"</name>
   </anime>
   <anime anidbid="10743" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -37424,14 +37406,14 @@
   <anime anidbid="13656" tvdbid="343076" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Tachibana-kan to Lie Angle</name>
   </anime>
-  <anime anidbid="13657" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="13657" tvdbid="295068" defaulttvdbseason="0" episodeoffset="4" tmdbid="" imdbid="tt7961060">
     <name>Dragon Ball Super: Broly</name>
   </anime>
   <anime anidbid="13658" tvdbid="289909" defaulttvdbseason="3" episodeoffset="12" tmdbid="" imdbid="">
     <name>Shokugeki no Souma: San no Sara - Tootsuki Ressha Hen</name>
   </anime>
   <anime anidbid="13659" tvdbid="344980" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
-    <name>Yuragi-sou no Yuuna-san (OAD)</name>
+    <name>Yuragi-sou no Yuuna-san OAD</name>
   </anime>
   <anime anidbid="13660" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Di Ling Qu</name>
@@ -38625,7 +38607,7 @@
     <name>Nani Iro no Nani</name>
   </anime>
   <anime anidbid="14085" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Golden Kamuy (2018 OAD)</name>
+    <name>Golden Kamuy OAD</name>
   </anime>
   <anime anidbid="14086" tvdbid="347734" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Super Dragon Ball Heroes</name>
@@ -39110,9 +39092,6 @@
   <anime anidbid="14250" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Tales of HR</name>
   </anime>
-  <anime anidbid="14251" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Haikyuu!! Quest</name>
-  </anime>
   <anime anidbid="14252" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Soredemo Tsuma o Aishiteru 2</name>
   </anime>
@@ -39561,7 +39540,7 @@
     <name>Otaku ni Koi wa Muzukashii: Youth</name>
   </anime>
   <anime anidbid="14406" tvdbid="281253" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
-    <name>Majimoji Rurumo (2019)</name>
+    <name>Majimoji Rurumo: Kanketsuhen</name>
   </anime>
   <anime anidbid="14407" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Aigan Kaijuu</name>
@@ -39590,7 +39569,7 @@
   <anime anidbid="14415" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Free! (2020)</name>
   </anime>
-  <anime anidbid="14416" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14416" tvdbid="305074" defaulttvdbseason="4" episodeoffset="" tmdbid="" imdbid="">
     <name>Boku no Hero Academia (2019)</name>
   </anime>
   <anime anidbid="14418" tvdbid="346673" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
@@ -39939,7 +39918,7 @@
     <name>Anime Puso Ni Comi</name>
   </anime>
   <anime anidbid="14540" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Shironeko Project</name>
+    <name>Shironeko Project: Zero Chronicle</name>
   </anime>
   <anime anidbid="14541" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Tangguo Shijie Da Maoxian</name>
@@ -40350,7 +40329,7 @@
     <name>Pandora to Akubi</name>
   </anime>
   <anime anidbid="14683" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Sumikko Gurashi</name>
+    <name>Eiga Sumikko Gurashi: Tobidasu Ehon to Himitsu no Ko</name>
   </anime>
   <anime anidbid="14684" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Genji Fantasy: Neko ga Hikaru Genji ni Koi o Shita</name>
@@ -40616,7 +40595,7 @@
   <anime anidbid="14775" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Mang Huang Ji</name>
   </anime>
-  <anime anidbid="14776" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14776" tvdbid="305074" defaulttvdbseason="0" episodeoffset="6" tmdbid="" imdbid="">
     <name>Boku no Hero Academia the Movie: Heroes:Rising</name>
   </anime>
   <anime anidbid="14777" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -40803,7 +40782,7 @@
     <name>La Ta Da Wang Qi Yu Ji</name>
   </anime>
   <anime anidbid="14839" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Sousaku no, Ima!!</name>
+    <name>Baja no Studio: Baja no Mita Umi</name>
   </anime>
   <anime anidbid="14840" tvdbid="330139" defaulttvdbseason="0" episodeoffset="1" tmdbid="610892" imdbid="610892">
     <name>Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou</name>
@@ -41211,7 +41190,7 @@
     <name>ID:Invaded</name>
   </anime>
   <anime anidbid="14988" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Fruits Basket 2nd season</name>
+    <name>Fruits Basket 2nd Season</name>
   </anime>
   <anime anidbid="14989" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Kutsujoku</name>
@@ -41248,5 +41227,38 @@
   </anime>
   <anime anidbid="15001" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Gibiate</name>
+  </anime>
+  <anime anidbid="15002" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Koi to Producer: Evol x Love</name>
+  </anime>
+  <anime anidbid="15003" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Lupin Sansei: The First</name>
+  </anime>
+  <anime anidbid="15004" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Han Hua Ri Ji</name>
+  </anime>
+  <anime anidbid="15005" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Cooking with Valkyries</name>
+  </anime>
+  <anime anidbid="15006" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Honkai Impact 3: Reburn</name>
+  </anime>
+  <anime anidbid="15007" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Tenchi Muyou! Ryououki Dai Go-ki</name>
+  </anime>
+  <anime anidbid="15008" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Odoru Mowai-kun</name>
+  </anime>
+  <anime anidbid="15009" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Ninja Box</name>
+  </anime>
+  <anime anidbid="15010" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Sound and Fury</name>
+  </anime>
+  <anime anidbid="15011" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>NOID</name>
+  </anime>
+  <anime anidbid="15012" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Microphone Soul Spinners: Kotodama Shoujo</name>
   </anime>
 </anime-list>

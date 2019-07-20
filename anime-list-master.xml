@@ -3511,7 +3511,7 @@
   <anime anidbid="906" tvdbid="81472" defaulttvdbseason="0" episodeoffset="10" tmdbid="" imdbid="tt0142234">
     <name>Dragon Ball Z: Super Senshi Gekiha!! Katsu no wa Ore Da</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;;2-11;3-11;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;2-11;3-11;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="907" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">

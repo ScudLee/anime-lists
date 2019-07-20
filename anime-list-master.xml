@@ -3502,16 +3502,16 @@
   <anime anidbid="904" tvdbid="73988" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>The Big O</name>
   </anime>
-  <anime anidbid="905" tvdbid="81472" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0142242">
+  <anime anidbid="905" tvdbid="81472" defaulttvdbseason="0" episodeoffset="7" tmdbid="" imdbid="tt0142242">
     <name>Dragon Ball Z: Moetsukiro!! Nessen, Ressen, Chougekisen</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-8;2-8;3-8;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;2-8;3-8;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="906" tvdbid="81472" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0142234">
+  <anime anidbid="906" tvdbid="81472" defaulttvdbseason="0" episodeoffset="10" tmdbid="" imdbid="tt0142234">
     <name>Dragon Ball Z: Super Senshi Gekiha!! Katsu no wa Ore Da</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-11;2-11;3-11;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;;2-11;3-11;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="907" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -3979,10 +3979,10 @@
       <studio>Toei Animation</studio>
     </supplemental-info>
   </anime>
-  <anime anidbid="1044" tvdbid="81472" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0142240">
+  <anime anidbid="1044" tvdbid="81472" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="tt0142240">
     <name>Dragon Ball Z: Kono Yo de Ichiban Tsuyoi Yatsu</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-2;2-2;3-2;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;2-2;3-2;</mapping>
     </mapping-list>
     <supplemental-info>
       <studio>Toei Animation</studio>
@@ -4064,16 +4064,16 @@
   <anime anidbid="1068" tvdbid="tv special" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0167006">
     <name>Battle Spirits: Ryuuko no Ken</name>
   </anime>
-  <anime anidbid="1069" tvdbid="81472" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0142238">
+  <anime anidbid="1069" tvdbid="81472" defaulttvdbseason="0" episodeoffset="8" tmdbid="" imdbid="tt0142238">
     <name>Dragon Ball Z: Ginga Girigiri!! Bucchigiri no Sugoi Yatsu</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-9;2-9;3-9;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;2-9;3-9;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="1070" tvdbid="81472" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0285036">
+  <anime anidbid="1070" tvdbid="81472" defaulttvdbseason="0" episodeoffset="9" tmdbid="" imdbid="tt0285036">
     <name>Dragon Ball Z: Kiken na Futari! Super Senshi wa Nemurenai</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-10;2-10;3-10;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;2-10;3-10;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="1071" tvdbid="81472" defaulttvdbseason="0" episodeoffset="11" tmdbid="" imdbid="tt0142236">
@@ -8831,7 +8831,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="2644" tvdbid="81797" defaulttvdbseason="0" episodeoffset="12" tmdbid="" imdbid="tt1018764">
-    <name>One Piece: Omatsuri Danshaku to Himitsu no Shima</name>
+    <name>One Piece: Omatsuri Danshaku to Himitsu no Shima</name>		   
   </anime>
   <anime anidbid="2645" tvdbid="72454" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0965649">
     <name>Meitantei Conan: Juuyonbanme no Target</name>

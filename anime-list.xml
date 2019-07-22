@@ -28262,6 +28262,9 @@
   <anime anidbid="13518" tvdbid="341436" defaulttvdbseason="1">
     <name>Major 2nd</name>
   </anime>
+  <anime anidbid="13524" tvdbid="319981" defaulttvdbseason="2">
+    <name>Granblue Fantasy The Animation Season 2</name>
+  </anime>
   <anime anidbid="13527" tvdbid="307375" defaulttvdbseason="0">
     <name>Mob Psycho 100 Reigen: Shirarezaru Kiseki no Reinouryokusha</name>
     <mapping-list>
@@ -29027,6 +29030,12 @@
   <anime anidbid="14399" tvdbid="hentai" defaulttvdbseason="1">
     <name>Rape Gouhouka!!!</name>
   </anime>
+  <anime anidbid="14400" tvdbid="278818" defaulttvdbseason="3">
+    <name>Gochuumon wa Usagi Desuka?? (2020)</name>
+  </anime>
+  <anime anidbid="14401" tvdbid="278818" defaulttvdbseason="0" episodeoffset="1">
+    <name>Gochuumon wa Usagi Desuka?? Sing for You</name>
+  </anime>
   <anime anidbid="14406" tvdbid="281253" defaulttvdbseason="0">
     <name>Majimoji Rurumo (2019)</name>
   </anime>
@@ -29213,6 +29222,9 @@
   <anime anidbid="14603" tvdbid="360502" defaulttvdbseason="1" imdbid="tt10362632">
     <name>Dumbbell Nan Kilo Moteru?</name>
   </anime>
+  <anime anidbid="14623" tvdbid="347215" defaulttvdbseason="2">
+    <name>Jashin-chan Dropkick 2</name>
+  </anime>
   <anime anidbid="14625" tvdbid="hentai" defaulttvdbseason="1">
     <name>Megane no Megami</name>
   </anime>
@@ -29267,6 +29279,9 @@
   <anime anidbid="14733" tvdbid="352327" defaulttvdbseason="2">
     <name>Wei, Kan Jian Er Duo La! (2019)</name>
   </anime>
+  <anime anidbid="14735" tvdbid="262090" defaulttvdbseason="3">
+    <name>Psycho-Pass 3</name>
+  </anime>
   <anime anidbid="14736" tvdbid="ova" defaulttvdbseason="1" tmdbid="587873">
     <name>Totsukuni no Shoujo</name>
   </anime>
@@ -29288,6 +29303,15 @@
   <anime anidbid="14776" tvdbid="305074" defaulttvdbseason="0" episodeoffset="6">
     <name>Boku no Hero Academia the Movie: Heroes:Rising</name>
   </anime>
+  <anime anidbid="14780" tvdbid="346673" defaulttvdbseason="2">
+    <name>High Score Girl II</name>
+  </anime>
+  <anime anidbid="14791" tvdbid="346931" defaulttvdbseason="2">
+    <name>Hataraku Saibou 2</name>
+  </anime>
+  <anime anidbid="14792" tvdbid="305089" defaulttvdbseason="2">
+    <name>Re:Zero kara Hajimeru Isekai Seikatsu 2</name>
+  </anime>
   <anime anidbid="14801" tvdbid="348002" defaulttvdbseason="2">
     <name>Yakusoku no Neverland (2020)</name>
   </anime>
@@ -29308,6 +29332,9 @@
   </anime>
   <anime anidbid="14817" tvdbid="music video" defaulttvdbseason="1">
     <name>Daisuki tte Imi Da yo</name>
+  </anime>
+  <anime anidbid="14819" tvdbid="284131" defaulttvdbseason="3">
+    <name>Nanatsu no Taizai: Kamigami no Gekirin</name>
   </anime>
   <anime anidbid="14840" tvdbid="330139" defaulttvdbseason="0" episodeoffset="1" tmdbid="610892" imdbid="610892">
     <name>Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou</name>
@@ -29333,6 +29360,9 @@
   <anime anidbid="14913" tvdbid="hentai" defaulttvdbseason="1">
     <name>Boku to Sensei to Tomodachi no Mama</name>
   </anime>
+  <anime anidbid="14914" tvdbid="272316" defaulttvdbseason="3">
+    <name>Non Non Biyori 3</name>
+  </anime>
   <anime anidbid="14916" tvdbid="359645" defaulttvdbseason="2">
     <name>Fairy Gone (2019)</name>
   </anime>
@@ -29351,6 +29381,12 @@
   <anime anidbid="14924" tvdbid="hentai" defaulttvdbseason="1">
     <name>Yubisaki kara Honki no Netsujou: Osananajimi wa Shouboushi</name>
   </anime>
+  <anime anidbid="14951" tvdbid="289909" defaulttvdbseason="4">
+    <name>Shokugeki no Souma: Shin no Sara</name>
+  </anime>
+  <anime anidbid="14964" tvdbid="357471" defaulttvdbseason="2">
+    <name>Isekai Quartet 2</name>
+  </anime>
   <anime anidbid="14968" tvdbid="359095" defaulttvdbseason="2">
     <name>Bokutachi wa Benkyou ga Dekinai (2019)</name>
   </anime>
@@ -29366,10 +29402,10 @@
   <anime anidbid="14975" tvdbid="hentai" defaulttvdbseason="1">
     <name>Onii-chan Asa made Zutto Gyutte Shite!</name>
   </anime>
-  <anime anidbid="14977" tvdbid="267440" defaulttvdbseason="4" imdbid="tt2560140">
+  <anime anidbid="14977" tvdbid="267440" defaulttvdbseason="4">
     <name>Shingeki no Kyojin The Final Season</name>
   </anime>
-  <anime anidbid="14978" tvdbid="326270" defaulttvdbseason="2" imdbid="tt6859260">
+  <anime anidbid="14978" tvdbid="326270" defaulttvdbseason="2">
     <name>Quanzhi Gaoshou 2nd Season</name>
   </anime>
   <anime anidbid="14980" tvdbid="movie" defaulttvdbseason="1">
@@ -29377,5 +29413,11 @@
   </anime>
   <anime anidbid="14983" tvdbid="music video" defaulttvdbseason="1">
     <name>Heart Realize</name>
+  </anime>
+  <anime anidbid="14988" tvdbid="357488" defaulttvdbseason="2">
+    <name>Fruits Basket 2nd season</name>
+  </anime>
+  <anime anidbid="14995" tvdbid="338455" defaulttvdbseason="3">
+    <name>Golden Kamuy 3</name>
   </anime>
 </anime-list>

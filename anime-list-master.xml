@@ -67,7 +67,7 @@
   <anime anidbid="13" tvdbid="78947" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Noir</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;2-6;3-7;4-5;101-1;102-2;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="14" tvdbid="72720" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -7924,11 +7924,8 @@
   <anime anidbid="2336" tvdbid="81472" defaulttvdbseason="0" episodeoffset="13" tmdbid="" imdbid="tt0142245">
     <name>Dragon Ball Z Special: Tatta Hitori no Saishuu Kessen - Freezer ni Idonda Z Senshi Son Gokuu no Chichi</name>
   </anime>
-  <anime anidbid="2337" tvdbid="84045" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt1569361">
+  <anime anidbid="2337" tvdbid="84045" defaulttvdbseason="0" episodeoffset="13" tmdbid="" imdbid="tt1569361">
     <name>Captain Tsubasa: Europa Daikessen</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-14;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="2339" tvdbid="84535" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Sweet Valerian</name>
@@ -8833,11 +8830,8 @@
       <mapping anidbseason="1" tvdbseason="0">;401-17;402-18;403-18;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="2644" tvdbid="81797" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt1018764">
-    <name>One Piece: Omatsuri Danshaku to Himitsu no Shima</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-13;</mapping>
-    </mapping-list>
+  <anime anidbid="2644" tvdbid="81797" defaulttvdbseason="0" episodeoffset="12" tmdbid="" imdbid="tt1018764">
+    <name>One Piece: Omatsuri Danshaku to Himitsu no Shima</name>		   
   </anime>
   <anime anidbid="2645" tvdbid="72454" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0965649">
     <name>Meitantei Conan: Juuyonbanme no Target</name>
@@ -17715,7 +17709,7 @@
   <anime anidbid="6517" tvdbid="142601" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Kidou Senshi Gundam Unicorn</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;6-0;7-0;8-0;9-0;10-0;11-0;14-8;15-9;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;6-0;7-0;8-0;9-0;10-0;11-0;12-0;13-0;14-8;15-9;</mapping>
     </mapping-list>
     <supplemental-info>
       <studio>Sunrise</studio>
@@ -31664,7 +31658,7 @@
   <anime anidbid="11543" tvdbid="305100" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Shounen Maid</name>
   </anime>
-  <anime anidbid="11544" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="11544" tvdbid="362791" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Manaria Friends</name>
   </anime>
   <anime anidbid="11545" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -32813,7 +32807,7 @@
   <anime anidbid="11972" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Nuwa Chengzhang Riji</name>
   </anime>
-  <anime anidbid="11974" tvdbid="321670" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="11974" tvdbid="321670" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka Gaiden: Sword Oratoria</name>
   </anime>
   <anime anidbid="11975" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -36374,7 +36368,7 @@
   <anime anidbid="13285" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Imouto Bitch ni Shiboraretai</name>
   </anime>
-  <anime anidbid="13286" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="13286" tvdbid="284131" defaulttvdbseason="0" episodeoffset="8" tmdbid="" imdbid="tt9089294">
     <name>Gekijouban Nanatsu no Taizai: Tenkuu no Torawarebito</name>
   </anime>
   <anime anidbid="13288" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -38114,7 +38108,7 @@
   <anime anidbid="13900" tvdbid="345596" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Seishun Buta Yarou wa Bunny Girl Senpai no Yume o Minai</name>
   </anime>
-  <anime anidbid="13901" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="13901" tvdbid="272129" defaulttvdbseason="0" episodeoffset="10" tmdbid="" imdbid="">
     <name>Strike the Blood III</name>
   </anime>
   <anime anidbid="13902" tvdbid="" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -39041,7 +39035,7 @@
       <studio>Bones</studio>
     </supplemental-info>
   </anime>
-  <anime anidbid="14232" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14232" tvdbid="354298" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Endro~!</name>
   </anime>
   <anime anidbid="14233" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -39866,7 +39860,7 @@
   <anime anidbid="14518" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Kami Machi Sana-chan The Animation</name>
   </anime>
-  <anime anidbid="14519" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14519" tvdbid="360010" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Midara na Ao-chan wa Benkyou ga Dekinai</name>
   </anime>
   <anime anidbid="14520" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -40595,7 +40589,7 @@
   <anime anidbid="14772" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Baki (Dai Ni Ki)</name>
   </anime>
-  <anime anidbid="14773" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14773" tvdbid="web" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Ero Lover</name>
   </anime>
   <anime anidbid="14774" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -40727,7 +40721,7 @@
   <anime anidbid="14816" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Ling Xie Ji</name>
   </anime>
-  <anime anidbid="14817" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14817" tvdbid="music video" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Daisuki tte Imi Da yo</name>
   </anime>
   <anime anidbid="14818" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">

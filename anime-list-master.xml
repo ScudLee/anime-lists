@@ -15725,6 +15725,9 @@
   </anime>
   <anime anidbid="5558" tvdbid="81999" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Toshokan Sensou</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0"></mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="5559" tvdbid="81983" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Wellber no Monogatari: Sisters of Wellber Dai Ni Maku</name>

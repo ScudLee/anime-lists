@@ -21936,7 +21936,7 @@
   <anime anidbid="7955" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Robin-kun to 100 nin no Otomodachi</name>
   </anime>
-  <anime anidbid="7956" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="7956" tvdbid="264533" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Bokura no Live Kimi to no Life</name>
   </anime>
   <anime anidbid="7957" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -22250,7 +22250,7 @@
   <anime anidbid="8070" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Shin-Men</name>
   </anime>
-  <anime anidbid="8071" tvdbid="music video" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="8071" tvdbid="264533" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="">
     <name>Snow Halation</name>
   </anime>
   <anime anidbid="8073" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt1839494">
@@ -23569,7 +23569,7 @@
   <anime anidbid="8517" tvdbid="319976" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Kidou Senshi Gundam: The Origin</name>
   </anime>
-  <anime anidbid="8520" tvdbid="music video" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="8520" tvdbid="264533" defaulttvdbseason="0" episodeoffset="2" tmdbid="" imdbid="">
     <name>Natsu-iro Egao de 1, 2, Jump!</name>
   </anime>
   <anime anidbid="8521" tvdbid="80328" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
@@ -24572,7 +24572,7 @@
   <anime anidbid="8873" tvdbid="260634" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Asa made Jugyou Chu!</name>
   </anime>
-  <anime anidbid="8874" tvdbid="music video" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="8874" tvdbid="264533" defaulttvdbseason="0" episodeoffset="3" tmdbid="" imdbid="">
     <name>Mo Gyutto "Love" de Sekkinchuu!</name>
   </anime>
   <anime anidbid="8875" tvdbid="252467" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
@@ -25653,11 +25653,14 @@
   <anime anidbid="9269" tvdbid="262113" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Ixion Saga: Dimension Transfer</name>
   </anime>
-  <anime anidbid="9270" tvdbid="music video" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="9270" tvdbid="264533" defaulttvdbseason="0" episodeoffset="4" tmdbid="" imdbid="">
     <name>Wonderful Rush</name>
   </anime>
   <anime anidbid="9271" tvdbid="264533" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Love Live! School Idol Project</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-7;3-0;4-0;5-0;6-0;7-0;8-0;9-0;10-0;11-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="9272" tvdbid="257522" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Medaka Box: Abnormal</name>
@@ -27427,6 +27430,9 @@
   </anime>
   <anime anidbid="9927" tvdbid="264533" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Love Live! School Idol Project (2014)</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-13;3-0;4-0;5-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="9928" tvdbid="tv special" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Mogura no Adventure</name>
@@ -28073,11 +28079,8 @@
   <anime anidbid="10174" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>100 Banme no Saru</name>
   </anime>
-  <anime anidbid="10177" tvdbid="264533" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="10177" tvdbid="264533" defaulttvdbseason="0" episodeoffset="5" tmdbid="" imdbid="">
     <name>Love Live! School Idol Project OVA</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-6;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="10178" tvdbid="286856" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Junketsu no Maria</name>
@@ -29397,10 +29400,10 @@
   <anime anidbid="10719" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Agukaru: Agriculture Angel Baraki - Play with Ibaraki Hen</name>
   </anime>
-  <anime anidbid="10720" tvdbid="264533" defaulttvdbseason="0" episodeoffset="7" tmdbid="" imdbid="">
+  <anime anidbid="10720" tvdbid="264533" defaulttvdbseason="0" episodeoffset="7" tmdbid="" imdbid="tt3837248">
     <name>Love Live! The School Idol Movie</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-8;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="10721" tvdbid="278061" defaulttvdbseason="0" episodeoffset="1" tmdbid="267962" imdbid="">
@@ -31916,7 +31919,7 @@
   <anime anidbid="11643" tvdbid="301165" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Rewrite</name>
   </anime>
-  <anime anidbid="11645" tvdbid="music video" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="11645" tvdbid="306407" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Kimi no Kokoro wa Kagayaiterukai?</name>
   </anime>
   <anime anidbid="11646" tvdbid="284131" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
@@ -32554,6 +32557,9 @@
   </anime>
   <anime anidbid="11878" tvdbid="306407" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Love Live! Sunshine!!</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;6-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="11879" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Mikuni no Tame ni</name>
@@ -33158,7 +33164,7 @@
   <anime anidbid="12103" tvdbid="81844" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
     <name>Koneko no Chii: Ponponraa Daibouken</name>
   </anime>
-  <anime anidbid="12104" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12104" tvdbid="306407" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="">
     <name>Koi ni Naritai Aquarium</name>
   </anime>
   <anime anidbid="12105" tvdbid="316334" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -35262,6 +35268,9 @@
   </anime>
   <anime anidbid="12897" tvdbid="306407" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Love Live! Sunshine!! (2017)</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-5;2-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="12898" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Aragne no Mushikago</name>
@@ -35308,7 +35317,7 @@
   <anime anidbid="12912" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>T-sensei</name>
   </anime>
-  <anime anidbid="12915" tvdbid="music video" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12915" tvdbid="306407" defaulttvdbseason="0" episodeoffset="3" tmdbid="" imdbid="">
     <name>Happy Party Train</name>
   </anime>
   <anime anidbid="12916" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -37520,11 +37529,8 @@
   <anime anidbid="13702" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Balala Xiaomoxian: Feiyue Cai Ling Bao 2 Choi Li Gongzhu</name>
   </anime>
-  <anime anidbid="13703" tvdbid="306407" defaulttvdbseason="0" episodeoffset="" tmdbid="529589" imdbid="tt8659948">
+  <anime anidbid="13703" tvdbid="306407" defaulttvdbseason="0" episodeoffset="5" tmdbid="" imdbid="tt8659948">
     <name>Love Live! Sunshine!! The School Idol Movie: Over the Rainbow</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-6;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="13704" tvdbid="275613" defaulttvdbseason="2" episodeoffset="13" tmdbid="" imdbid="">
     <name>Hoozuki no Reitetsu (2018)</name>

@@ -26954,7 +26954,7 @@
   <anime anidbid="10238" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0347996">
     <name>Shengshi Chuanshuo</name>
   </anime>
-  <anime anidbid="10240" tvdbid="movie" defaulttvdbseason="1" tmdbid="347182" imdbid="tt7230298">
+  <anime anidbid="10240" tvdbid="movie" defaulttvdbseason="1" imdbid="tt7230298">
     <name>Gekijouban Meiji Tokyo Renka</name>
   </anime>
   <anime anidbid="10241" tvdbid="278151" defaulttvdbseason="1">
@@ -27912,8 +27912,11 @@
   <anime anidbid="10751" tvdbid="289310" defaulttvdbseason="1">
     <name>Military!</name>
   </anime>
-  <anime anidbid="10755" tvdbid="movie" defaulttvdbseason="1" imdbid="tt4054952">
+  <anime anidbid="10755" tvdbid="278626" defaulttvdbseason="0" imdbid="tt4054952,tt8091892,tt8092118">
     <name>Gekijouban Fate/Stay Night: Heaven's Feel</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-4;2-7;3-8;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="10756" tvdbid="hentai" defaulttvdbseason="1">
     <name>Niku Mesu R30: Nikuyoku ni Ochita Mesu-tachi The Animation</name>
@@ -29935,6 +29938,9 @@
   </anime>
   <anime anidbid="12057" tvdbid="319997" defaulttvdbseason="1">
     <name>Kemono Friends</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-1;3-0;4-0;5-0;6-0;7-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="12058" tvdbid="312664" defaulttvdbseason="0" imdbid="tt6047388">
     <name>Planetarian: Hoshi no Hito</name>
@@ -30266,6 +30272,9 @@
   </anime>
   <anime anidbid="12339" tvdbid="337336" defaulttvdbseason="1">
     <name>Idolish Seven</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="12344" tvdbid="305074" defaulttvdbseason="0">
     <name>Boku no Hero Academia (2016)</name>
@@ -30973,6 +30982,12 @@
   <anime anidbid="13053" tvdbid="339447" defaulttvdbseason="1">
     <name>Ramen Daisuki Koizumi-san</name>
   </anime>
+  <anime anidbid="13055" tvdbid="319997" defaulttvdbseason="2">
+    <name>Kemono Friends 2</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
+  </anime>
   <anime anidbid="13056" tvdbid="321671" defaulttvdbseason="0">
     <name>Busou Shoujo Machiavellianism: Doki! "Goken-darake" no Ian Ryokou</name>
   </anime>
@@ -31325,6 +31340,9 @@
   <anime anidbid="13378" tvdbid="hentai" defaulttvdbseason="1">
     <name>Boku Dake no Hentai Kanojo Motto The Animation</name>
   </anime>
+  <anime anidbid="13380" tvdbid="319997" defaulttvdbseason="0" episodeoffset="1">
+    <name>Uma no Friends</name>
+  </anime>
   <anime anidbid="13383" tvdbid="hentai" defaulttvdbseason="1">
     <name>Ikkyuu Nyuukon</name>
   </anime>
@@ -31354,6 +31372,9 @@
   </anime>
   <anime anidbid="13412" tvdbid="340233" defaulttvdbseason="1">
     <name>Micchiri Neko</name>
+  </anime>
+  <anime anidbid="13413" tvdbid="319997" defaulttvdbseason="0" episodeoffset="2">
+    <name>Kemono Friends x Anisama 2017 "Anisama"</name>
   </anime>
   <anime anidbid="13417" tvdbid="335316" defaulttvdbseason="1">
     <name>Evil or Live</name>
@@ -31457,7 +31478,7 @@
   <anime anidbid="13508" tvdbid="269319" defaulttvdbseason="0" episodeoffset="25">
     <name>Fate/Kaleid Liner Prisma Illya: Prisma Phantasm</name>
   </anime>
-  <anime anidbid="13510" tvdbid="299742" defaulttvdbseason="3" imdbid="tt5086972">
+  <anime anidbid="13510" tvdbid="299742" defaulttvdbseason="3">
     <name>Starmyu (2019)</name>
   </anime>
   <anime anidbid="13511" tvdbid="299742" defaulttvdbseason="0" episodeoffset="3">
@@ -31771,11 +31792,15 @@
   </anime>
   <anime anidbid="13795" tvdbid="354199" defaulttvdbseason="1" tmdbid="83122" imdbid="tt9573902">
     <name>Kemurikusa (2019)</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-8;3-1;4-2;5-3;6-4;7-5;</mapping>
+    </mapping-list>
   </anime>
-  <anime anidbid="13797" tvdbid="354199" defaulttvdbseason="0">
+  <anime anidbid="13797" tvdbid="354199" defaulttvdbseason="0" episodeoffset="5">
     <name>Kemurikusa</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-6;2-7;3-9;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;3-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;6-0;7-0;8-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="13807" tvdbid="275582" defaulttvdbseason="4">
@@ -32174,6 +32199,9 @@
   <anime anidbid="14220" tvdbid="hentai" defaulttvdbseason="1">
     <name>Muchi Muchi Kyousei Seichouchuu!!!</name>
   </anime>
+  <anime anidbid="14223" tvdbid="353624" defaulttvdbseason="1">
+    <name>Youkoso Japari Park</name>
+  </anime>
   <anime anidbid="14229" tvdbid="354171" defaulttvdbseason="1" tmdbid="83104" imdbid="tt8731478">
     <name>Mahou Shoujo Tokushusen Asuka</name>
   </anime>
@@ -32216,7 +32244,7 @@
   <anime anidbid="14255" tvdbid="355971" defaulttvdbseason="1" tmdbid="84664" imdbid="tt7906926">
     <name>Circlet Princess</name>
   </anime>
-  <anime anidbid="14256" tvdbid="360580" defaulttvdbseason="1" tmdbid="tt9883660" imdbid="tt9883660">
+  <anime anidbid="14256" tvdbid="360580" defaulttvdbseason="1" imdbid="tt9883660">
     <name>Namu Amida Butsu! Utena</name>
   </anime>
   <anime anidbid="14258" tvdbid="354194" defaulttvdbseason="1">
@@ -32336,6 +32364,9 @@
   <anime anidbid="14488" tvdbid="355480" defaulttvdbseason="1" imdbid="tt9307686">
     <name>En'en no Shouboutai</name>
   </anime>
+  <anime anidbid="14489" tvdbid="356777" defaulttvdbseason="1">
+    <name>Mini Toji</name>
+  </anime>
   <anime anidbid="14490" tvdbid="357488" defaulttvdbseason="1">
     <name>Fruits Basket 1st Season</name>
   </anime>
@@ -32353,6 +32384,9 @@
   </anime>
   <anime anidbid="14497" tvdbid="web" defaulttvdbseason="1">
     <name>SD Gundam World: Sangoku Souketsuden</name>
+  </anime>
+  <anime anidbid="14498" tvdbid="358154" defaulttvdbseason="1">
+    <name>Fight League: Gear Gadget Generators</name>
   </anime>
   <anime anidbid="14504" tvdbid="273005" defaulttvdbseason="3">
     <name>Dia no Ace: Act II</name>
@@ -32396,6 +32430,9 @@
   <anime anidbid="14534" tvdbid="movie" defaulttvdbseason="1" tmdbid="568160" imdbid="tt9426210">
     <name>Tenki no Ko</name>
   </anime>
+  <anime anidbid="14543" tvdbid="358425" defaulttvdbseason="1">
+    <name>Idolish Seven: Vibrato</name>
+  </anime>
   <anime anidbid="14547" tvdbid="hentai" defaulttvdbseason="1">
     <name>Bitch Gakuen ga Seijun na Hazu ga Nai!!? The Animation</name>
   </anime>
@@ -32404,6 +32441,9 @@
   </anime>
   <anime anidbid="14549" tvdbid="hentai" defaulttvdbseason="1">
     <name>Seikatsu Shuukan The Animation</name>
+  </anime>
+  <anime anidbid="14550" tvdbid="360786" defaulttvdbseason="1">
+    <name>Jimoto ga Japan</name>
   </anime>
   <anime anidbid="14566" tvdbid="unknown" defaulttvdbseason="1">
     <name>Battle Spirits: Saga Brave</name>
@@ -32477,14 +32517,23 @@
   <anime anidbid="14630" tvdbid="363143" defaulttvdbseason="1" tmdbid="88806" imdbid="tt10417572">
     <name>Machikado Mazoku</name>
   </anime>
+  <anime anidbid="14631" tvdbid="345382" defaulttvdbseason="2">
+    <name>Aikatsu Friends! Kagayaki no Jewel</name>
+  </anime>
   <anime anidbid="14632" tvdbid="hentai" defaulttvdbseason="1">
     <name>Aikagi The Animation</name>
+  </anime>
+  <anime anidbid="14639" tvdbid="362432" defaulttvdbseason="1">
+    <name>Ling Jian Zun</name>
   </anime>
   <anime anidbid="14661" tvdbid="361456" defaulttvdbseason="1" imdbid="tt10483250">
     <name>Kanata no Astra</name>
   </anime>
   <anime anidbid="14662" tvdbid="366334" defaulttvdbseason="1" tmdbid="88051" imdbid="tt10431310">
     <name>Katsute Kami Datta Kemono-tachi e</name>
+  </anime>
+  <anime anidbid="14663" tvdbid="358828" defaulttvdbseason="1">
+    <name>Meng Qi Shishen</name>
   </anime>
   <anime anidbid="14664" tvdbid="361752" defaulttvdbseason="1" tmdbid="88063" imdbid="tt10423424">
     <name>Bem</name>
@@ -32584,6 +32633,9 @@
   </anime>
   <anime anidbid="14840" tvdbid="330139" defaulttvdbseason="0" episodeoffset="1" tmdbid="610892" imdbid="610892">
     <name>Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou</name>
+  </anime>
+  <anime anidbid="14857" tvdbid="319997" defaulttvdbseason="0" episodeoffset="4">
+    <name>Chokotto Anime Kemono Friends 3</name>
   </anime>
   <anime anidbid="14875" tvdbid="311607" defaulttvdbseason="2">
     <name>Flowering Heart 2</name>

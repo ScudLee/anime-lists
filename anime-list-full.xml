@@ -26293,6 +26293,10 @@
   </anime>
   <anime anidbid="9930" tvdbid="275582" defaulttvdbseason="1">
     <name>Youkai Watch</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="2" start="77" end="150" offset="-76"/>
+      <mapping anidbseason="1" tvdbseason="3" start="151" end="214" offset="-150"/>
+    </mapping-list>
   </anime>
   <anime anidbid="9931" tvdbid="272045" defaulttvdbseason="1">
     <name>Walkure Romanze</name>
@@ -27458,6 +27462,9 @@
       <mapping anidbseason="1" tvdbseason="0">;1-3;2-4;3-5;</mapping>
     </mapping-list>
   </anime>
+  <anime anidbid="10522" tvdbid="261667" defaulttvdbseason="10">
+    <name>Duel Masters Versus</name>
+  </anime>
   <anime anidbid="10523" tvdbid="133341" defaulttvdbseason="2">
     <name>Durarara!!x2 Shou</name>
     <mapping-list>
@@ -28524,6 +28531,9 @@
   </anime>
   <anime anidbid="11028" tvdbid="291629" defaulttvdbseason="1">
     <name>Denpa Kyoushi (2015)</name>
+  </anime>
+  <anime anidbid="11032" tvdbid="261667" defaulttvdbseason="11">
+    <name>Duel Masters Versus Revolution</name>
   </anime>
   <anime anidbid="11034" tvdbid="hentai" defaulttvdbseason="1">
     <name>Shoujo Kyouiku</name>
@@ -29648,6 +29658,9 @@
       <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
   </anime>
+  <anime anidbid="11891" tvdbid="261667" defaulttvdbseason="12">
+    <name>Duel Masters VSRF</name>
+  </anime>
   <anime anidbid="11892" tvdbid="hentai" defaulttvdbseason="1">
     <name>Shoujo Ramune</name>
   </anime>
@@ -30556,6 +30569,9 @@
   <anime anidbid="12576" tvdbid="327010" defaulttvdbseason="1">
     <name>18 If</name>
   </anime>
+  <anime anidbid="12577" tvdbid="275582" defaulttvdbseason="0" episodeoffset="3" imdbid="tt8929446">
+    <name>Eiga Youkai Watch: Shadow Side - Oni Ou no Fukkatsu</name>
+  </anime>
   <anime anidbid="12578" tvdbid="333239" defaulttvdbseason="1">
     <name>TsukiPro the Animation</name>
   </anime>
@@ -30789,6 +30805,12 @@
   </anime>
   <anime anidbid="12806" tvdbid="hentai" defaulttvdbseason="1">
     <name>Zutto Suki Datta</name>
+  </anime>
+  <anime anidbid="12809" tvdbid="70799" defaulttvdbseason="9">
+    <name>Beyblade Burst God</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="12810" tvdbid="ova" defaulttvdbseason="1">
     <name>Mahou Shoujo Lyrical Nanoha: Lyrical Omocha Hako</name>
@@ -31200,6 +31222,9 @@
   </anime>
   <anime anidbid="13270" tvdbid="337936" defaulttvdbseason="1">
     <name>Karakai Jouzu no Takagi-san</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="13271" tvdbid="329823" defaulttvdbseason="0">
     <name>Vatican Kiseki Chousakan: Majo no Soup</name>
@@ -31784,7 +31809,7 @@
   <anime anidbid="13783" tvdbid="348294" defaulttvdbseason="1">
     <name>Hanebado!</name>
   </anime>
-  <anime anidbid="13791" tvdbid="337483" defaulttvdbseason="3">
+  <anime anidbid="13791" tvdbid="70799" defaulttvdbseason="10">
     <name>Beyblade Burst Chouzetsu</name>
   </anime>
   <anime anidbid="13793" tvdbid="313665" defaulttvdbseason="0" episodeoffset="1" imdbid="tt7735462">
@@ -32136,6 +32161,9 @@
   <anime anidbid="14156" tvdbid="355969" defaulttvdbseason="1">
     <name>Watashi ni Tenshi ga Maiorita!</name>
   </anime>
+  <anime anidbid="14158" tvdbid="movie" defaulttvdbseason="1" imdbid="tt9447676">
+    <name>Eiga Youkai Watch: Forever Friends</name>
+  </anime>
   <anime anidbid="14165" tvdbid="342010" defaulttvdbseason="2">
     <name>3D Kanojo: Real Girl (2019)</name>
   </anime>
@@ -32343,6 +32371,9 @@
   <anime anidbid="14454" tvdbid="362053" defaulttvdbseason="1" tmdbid="88808" imdbid="tt10443344">
     <name>Tsuujou Kougeki ga Zentai Kougeki de Nikai Kougeki no Okaasan wa Suki Desuka?</name>
   </anime>
+  <anime anidbid="14459" tvdbid="357448" defaulttvdbseason="1">
+    <name>Star Twinkle Precure</name>
+  </anime>
   <anime anidbid="14465" tvdbid="movie" defaulttvdbseason="1" tmdbid="530079" imdbid="tt9193612">
     <name>Kimi to, Nami ni Noretara</name>
   </anime>
@@ -32360,6 +32391,9 @@
   </anime>
   <anime anidbid="14480" tvdbid="313185" defaulttvdbseason="0" episodeoffset="1">
     <name>Final Fantasy XV: Episode Ardyn - Prologue</name>
+  </anime>
+  <anime anidbid="14487" tvdbid="357448" defaulttvdbseason="0" episodeoffset="1" imdbid="tt10037700">
+    <name>Eiga Precure Miracle Universe</name>
   </anime>
   <anime anidbid="14488" tvdbid="355480" defaulttvdbseason="1" imdbid="tt9307686">
     <name>En'en no Shouboutai</name>
@@ -32427,11 +32461,14 @@
   <anime anidbid="14530" tvdbid="359836" defaulttvdbseason="1">
     <name>Nobunaga-sensei no Osanazuma</name>
   </anime>
-  <anime anidbid="14534" tvdbid="movie" defaulttvdbseason="1" tmdbid="568160" imdbid="tt9426210">
+  <anime anidbid="14534" tvdbid="movie" defaulttvdbseason="1" imdbid="tt9426210">
     <name>Tenki no Ko</name>
   </anime>
   <anime anidbid="14543" tvdbid="358425" defaulttvdbseason="1">
     <name>Idolish Seven: Vibrato</name>
+  </anime>
+  <anime anidbid="14544" tvdbid="357448" defaulttvdbseason="0">
+    <name>Eiga Star Twinkle Precure: Hoshi no Uta ni Omoi o Komete</name>
   </anime>
   <anime anidbid="14547" tvdbid="hentai" defaulttvdbseason="1">
     <name>Bitch Gakuen ga Seijun na Hazu ga Nai!!? The Animation</name>
@@ -32456,6 +32493,9 @@
   </anime>
   <anime anidbid="14570" tvdbid="335088" defaulttvdbseason="1">
     <name>Nekopara (TV)</name>
+  </anime>
+  <anime anidbid="14571" tvdbid="361351" defaulttvdbseason="1">
+    <name>Miru Tights</name>
   </anime>
   <anime anidbid="14572" tvdbid="328670" defaulttvdbseason="3">
     <name>Quanzhi Fashi 3</name>
@@ -32546,6 +32586,15 @@
   </anime>
   <anime anidbid="14685" tvdbid="movie" defaulttvdbseason="1" tmdbid="592867" imdbid="tt10127562">
     <name>Dragon Quest: Your Story</name>
+  </anime>
+  <anime anidbid="14687" tvdbid="275582" defaulttvdbseason="5">
+    <name>Youkai Watch!</name>
+  </anime>
+  <anime anidbid="14688" tvdbid="70799" defaulttvdbseason="11">
+    <name>Beyblade Burst Gachi</name>
+  </anime>
+  <anime anidbid="14689" tvdbid="348545" defaulttvdbseason="0">
+    <name>Kimetsu no Yaiba: Kyoudai no Kizuna</name>
   </anime>
   <anime anidbid="14691" tvdbid="hentai" defaulttvdbseason="1">
     <name>Shoujo Kyouiku RE</name>

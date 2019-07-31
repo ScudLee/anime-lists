@@ -27439,6 +27439,10 @@
   </anime>
   <anime anidbid="9930" tvdbid="275582" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Youkai Watch</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="2" start="77" end="150" offset="-76"/>
+      <mapping anidbseason="1" tvdbseason="3" start="151" end="214" offset="-150"/>
+    </mapping-list>
   </anime>
   <anime anidbid="9931" tvdbid="272045" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Walkure Romanze</name>
@@ -28868,7 +28872,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-3;2-4;3-5;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="10522" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="10522" tvdbid="261667" defaulttvdbseason="10" episodeoffset="" tmdbid="" imdbid="">
     <name>Duel Masters Versus</name>
   </anime>
   <anime anidbid="10523" tvdbid="133341" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
@@ -30283,7 +30287,7 @@
   <anime anidbid="11031" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Kyoufu Shinbun (2014)</name>
   </anime>
-  <anime anidbid="11032" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="11032" tvdbid="261667" defaulttvdbseason="11" episodeoffset="" tmdbid="" imdbid="">
     <name>Duel Masters Versus Revolution</name>
   </anime>
   <anime anidbid="11033" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -32597,7 +32601,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="11891" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="11891" tvdbid="261667" defaulttvdbseason="12" episodeoffset="" tmdbid="" imdbid="">
     <name>Duel Masters VSRF</name>
   </anime>
   <anime anidbid="11892" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -34360,7 +34364,7 @@
   <anime anidbid="12576" tvdbid="327010" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>18 If</name>
   </anime>
-  <anime anidbid="12577" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12577" tvdbid="275582" defaulttvdbseason="0" episodeoffset="3" tmdbid="" imdbid="tt8929446">
     <name>Eiga Youkai Watch: Shadow Side - Oni Ou no Fukkatsu</name>
   </anime>
   <anime anidbid="12578" tvdbid="333239" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -35032,8 +35036,11 @@
   <anime anidbid="12808" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Biblia Koshodou no Jiken Techou</name>
   </anime>
-  <anime anidbid="12809" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12809" tvdbid="70799" defaulttvdbseason="9" episodeoffset="" tmdbid="" imdbid="">
     <name>Beyblade Burst God</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="12810" tvdbid="ova" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Mahou Shoujo Lyrical Nanoha: Lyrical Omocha Hako</name>
@@ -36342,6 +36349,9 @@
   </anime>
   <anime anidbid="13270" tvdbid="337936" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Karakai Jouzu no Takagi-san</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="13271" tvdbid="329823" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Vatican Kiseki Chousakan: Majo no Soup</name>
@@ -37808,7 +37818,7 @@
   <anime anidbid="13790" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Tenka Touitsu Koi no Ran: Shutsujin! Saika 4-nin Shuu</name>
   </anime>
-  <anime anidbid="13791" tvdbid="337483" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="13791" tvdbid="70799" defaulttvdbseason="10" episodeoffset="" tmdbid="" imdbid="">
     <name>Beyblade Burst Chouzetsu</name>
   </anime>
   <anime anidbid="13792" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -38850,7 +38860,7 @@
   <anime anidbid="14157" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Fushiginokuni e</name>
   </anime>
-  <anime anidbid="14158" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14158" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt9447676">
     <name>Eiga Youkai Watch: Forever Friends</name>
   </anime>
   <anime anidbid="14159" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -39717,7 +39727,7 @@
   <anime anidbid="14458" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Experiment</name>
   </anime>
-  <anime anidbid="14459" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14459" tvdbid="357448" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Star Twinkle Precure</name>
   </anime>
   <anime anidbid="14460" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -39798,7 +39808,7 @@
   <anime anidbid="14486" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Actors: Songs Connection</name>
   </anime>
-  <anime anidbid="14487" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14487" tvdbid="357448" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="tt10037700">
     <name>Eiga Precure Miracle Universe</name>
   </anime>
   <anime anidbid="14488" tvdbid="355480" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt9307686">
@@ -39933,7 +39943,7 @@
   <anime anidbid="14533" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Baby I Love You Daze</name>
   </anime>
-  <anime anidbid="14534" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="568160" imdbid="tt9426210">
+  <anime anidbid="14534" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt9426210">
     <name>Tenki no Ko</name>
   </anime>
   <anime anidbid="14535" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -39957,7 +39967,7 @@
   <anime anidbid="14543" tvdbid="358425" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Idolish Seven: Vibrato</name>
   </anime>
-  <anime anidbid="14544" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14544" tvdbid="357448" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Eiga Star Twinkle Precure: Hoshi no Uta ni Omoi o Komete</name>
   </anime>
   <anime anidbid="14545" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -40035,7 +40045,7 @@
   <anime anidbid="14570" tvdbid="335088" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Nekopara (TV)</name>
   </anime>
-  <anime anidbid="14571" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14571" tvdbid="361351" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Miru Tights</name>
   </anime>
   <anime anidbid="14572" tvdbid="328670" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
@@ -40368,13 +40378,13 @@
   <anime anidbid="14685" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="592867" imdbid="tt10127562">
     <name>Dragon Quest: Your Story</name>
   </anime>
-  <anime anidbid="14687" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14687" tvdbid="275582" defaulttvdbseason="5" episodeoffset="" tmdbid="" imdbid="">
     <name>Youkai Watch!</name>
   </anime>
-  <anime anidbid="14688" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14688" tvdbid="70799" defaulttvdbseason="11" episodeoffset="" tmdbid="" imdbid="">
     <name>Beyblade Burst Gachi</name>
   </anime>
-  <anime anidbid="14689" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14689" tvdbid="348545" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Kimetsu no Yaiba: Kyoudai no Kizuna</name>
   </anime>
   <anime anidbid="14690" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">

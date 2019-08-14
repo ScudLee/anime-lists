@@ -38673,6 +38673,9 @@
   </anime>
   <anime anidbid="14094" tvdbid="354193" defaulttvdbseason="1" episodeoffset="" tmdbid="83116" imdbid="">
     <name>Ueno-san wa Bukiyou</name>
+    <mapping-list>
+       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="14095" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Naengjanggo Nara Cocomong (2011)</name>

@@ -32076,6 +32076,9 @@
   </anime>
   <anime anidbid="14094" tvdbid="354193" defaulttvdbseason="1" tmdbid="83116">
     <name>Ueno-san wa Bukiyou</name>
+    <mapping-list>
+       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="14098" tvdbid="327261" defaulttvdbseason="2">
     <name>Ani ni Tsukeru Kusuri wa Nai! 2</name>

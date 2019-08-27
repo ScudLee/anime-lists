@@ -22522,6 +22522,9 @@
   </anime>
   <anime anidbid="8419" tvdbid="251908" defaulttvdbseason="1">
     <name>Boku wa Tomodachi ga Sukunai</name>
+    <mapping-list>
+	    <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="8420" tvdbid="music video" defaulttvdbseason="1">
     <name>Korekurai de Utau</name>
@@ -24941,6 +24944,9 @@
   </anime>
   <anime anidbid="9342" tvdbid="251908" defaulttvdbseason="2">
     <name>Boku wa Tomodachi ga Sukunai Next</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-4;3-0;4-0;5-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="9344" tvdbid="70900" defaulttvdbseason="5">
     <name>Initial D Fifth Stage</name>

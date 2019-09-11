@@ -22523,7 +22523,7 @@
   <anime anidbid="8419" tvdbid="251908" defaulttvdbseason="1">
     <name>Boku wa Tomodachi ga Sukunai</name>
     <mapping-list>
-	    <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="8420" tvdbid="music video" defaulttvdbseason="1">
@@ -31920,6 +31920,7 @@
   </anime>
   <anime anidbid="13900" tvdbid="345596" defaulttvdbseason="1">
     <name>Seishun Buta Yarou wa Bunny Girl Senpai no Yume o Minai</name>
+    <before>;1-4;2-7;3-9;4-11;5-14;</before>
   </anime>
   <anime anidbid="13901" tvdbid="272129" defaulttvdbseason="0" episodeoffset="10">
     <name>Strike the Blood III</name>

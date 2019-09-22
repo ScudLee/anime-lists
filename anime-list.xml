@@ -904,7 +904,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="202" tvdbid="70350" defaulttvdbseason="0" episodeoffset="1" imdbid="tt0169858">
-    <name>Shinseiki Evangelion Gekijouban: The End of Evangelion</name>
+    <name>Shinseiki Evangelion Gekijouban: Air / Magokoro o, Kimi ni</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
       <mapping anidbseason="1" tvdbseason="0">;2-2;3-2;</mapping>
@@ -1842,7 +1842,7 @@
     <name>Arc the Lad</name>
   </anime>
   <anime anidbid="434" tvdbid="85455" defaulttvdbseason="1">
-    <name>Chuuka Ichiban</name>
+    <name>Chuuka Ichiban!</name>
   </anime>
   <anime anidbid="436" tvdbid="113231" defaulttvdbseason="1">
     <name>Tatakae!! Iczer 1</name>
@@ -2397,7 +2397,7 @@
     <name>Nitabou: Tsugaru Shamisen Shiso Gaibun</name>
   </anime>
   <anime anidbid="588" tvdbid="72436" defaulttvdbseason="1">
-    <name>Virus</name>
+    <name>Virus: Virus Buster Serge</name>
   </anime>
   <anime anidbid="589" tvdbid="160061" defaulttvdbseason="1">
     <name>Melty Lancer</name>
@@ -5110,7 +5110,7 @@
     <name>Mahou no Star Magical Emi</name>
   </anime>
   <anime anidbid="1445" tvdbid="121951" defaulttvdbseason="1">
-    <name>Casshan</name>
+    <name>Casshern</name>
   </anime>
   <anime anidbid="1446" tvdbid="80448" defaulttvdbseason="1">
     <name>Tetsuwan Atom (1980)</name>
@@ -7522,7 +7522,7 @@
     <name>Hashire Melos (1992)</name>
   </anime>
   <anime anidbid="2385" tvdbid="tv special" defaulttvdbseason="1">
-    <name>Hashire Melos</name>
+    <name>Hashire Melos (1981)</name>
   </anime>
   <anime anidbid="2386" tvdbid="75411" defaulttvdbseason="1">
     <name>Rozen Maiden</name>
@@ -8159,7 +8159,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="2644" tvdbid="81797" defaulttvdbseason="0" episodeoffset="12" imdbid="tt1018764">
-    <name>One Piece: Omatsuri Danshaku to Himitsu no Shima</name>		   
+    <name>One Piece: Omatsuri Danshaku to Himitsu no Shima</name>
   </anime>
   <anime anidbid="2645" tvdbid="72454" defaulttvdbseason="0" imdbid="tt0965649">
     <name>Meitantei Conan: Juuyonbanme no Target</name>
@@ -9821,7 +9821,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="3493" tvdbid="76703" defaulttvdbseason="0">
-    <name>Pocket Monsters: Pikachu no Fuyuyasumi (2001)</name>
+    <name>Pichu to Pikachu no Fuyuyasumi (2001)</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-38;2-38;3-38;</mapping>
     </mapping-list>
@@ -16036,7 +16036,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="6803" tvdbid="76703" defaulttvdbseason="0">
-    <name>Pikachuu Koori no Daibouken</name>
+    <name>Pikachu Koori no Daibouken</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-31;</mapping>
     </mapping-list>
@@ -19278,7 +19278,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="8256" tvdbid="259863" defaulttvdbseason="1">
-    <name>Ojiisan no Lamp</name>
+    <name>Ojii-san no Lamp</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="1">;1-2;</mapping>
     </mapping-list>
@@ -22404,7 +22404,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="9565" tvdbid="76703" defaulttvdbseason="0">
-    <name>Pikachuu to Eievui Friends</name>
+    <name>Pikachu to Eievui Friends</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
@@ -23351,7 +23351,7 @@
     <name>Robot Girls Z</name>
   </anime>
   <anime anidbid="10003" tvdbid="hentai" defaulttvdbseason="1">
-    <name>Yokujou Bazooka The Animation</name>
+    <name>Yokujou Bazooka The Animation: Tappuri Koi no Ippatsu de!</name>
   </anime>
   <anime anidbid="10004" tvdbid="hentai" defaulttvdbseason="1">
     <name>Kagachi-sama Onagusame Tatematsurimasu: Netorare Mura Inya Hanashi</name>
@@ -27705,7 +27705,7 @@
     <name>Baka Dakedo Chinchin Shaburu no Dake wa Jouzu na Chii-chan</name>
   </anime>
   <anime anidbid="12934" tvdbid="hentai" defaulttvdbseason="1">
-    <name>Tensei Kendo no Harem Colosseum</name>
+    <name>Tensei Kendo no Harem Colosseo</name>
   </anime>
   <anime anidbid="12942" tvdbid="316842" defaulttvdbseason="1">
     <name>Mahou Tsukai no Yome</name>
@@ -28516,7 +28516,7 @@
     <name>Shokugeki no Souma: San no Sara - Tootsuki Ressha Hen</name>
   </anime>
   <anime anidbid="13659" tvdbid="344980" defaulttvdbseason="0">
-    <name>Yuragi-sou no Yuuna-san (OAD)</name>
+    <name>Yuragi-sou no Yuuna-san OAD</name>
   </anime>
   <anime anidbid="13676" tvdbid="343363" defaulttvdbseason="1">
     <name>Cutie Honey Universe</name>
@@ -28537,7 +28537,7 @@
     <name>Emiya-san Chi no Kyou no Gohan</name>
   </anime>
   <anime anidbid="13717" tvdbid="315500" defaulttvdbseason="0" tmdbid="553839" imdbid="tt9507276">
-    <name>Gekijouban Youjo Senki</name>
+    <name>Youjo Senki (2019)</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-15;</mapping>
     </mapping-list>
@@ -28623,8 +28623,8 @@
   <anime anidbid="13797" tvdbid="354199" defaulttvdbseason="0" episodeoffset="5">
     <name>Kemurikusa</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;3-0;</mapping>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;6-0;7-0;8-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;3-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="13807" tvdbid="275582" defaulttvdbseason="4">
@@ -28877,7 +28877,7 @@
   <anime anidbid="14094" tvdbid="354193" defaulttvdbseason="1" tmdbid="83116">
     <name>Ueno-san wa Bukiyou</name>
     <mapping-list>
-       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="14098" tvdbid="327261" defaulttvdbseason="2">
@@ -29130,7 +29130,7 @@
     <name>Gochuumon wa Usagi Desuka?? Sing for You</name>
   </anime>
   <anime anidbid="14406" tvdbid="281253" defaulttvdbseason="0">
-    <name>Majimoji Rurumo (2019)</name>
+    <name>Majimoji Rurumo: Kanketsuhen</name>
   </anime>
   <anime anidbid="14412" tvdbid="353608" defaulttvdbseason="1">
     <name>Otona no Bouguya-san</name>
@@ -29529,7 +29529,7 @@
     <name>Isekai Quartet 2</name>
   </anime>
   <anime anidbid="14968" tvdbid="359095" defaulttvdbseason="2">
-    <name>Bokutachi wa Benkyou ga Dekinai (2019)</name>
+    <name>Bokutachi wa Benkyou ga Dekinai!</name>
   </anime>
   <anime anidbid="14970" tvdbid="movie" defaulttvdbseason="1">
     <name>Cencoroll 3</name>
@@ -29556,7 +29556,7 @@
     <name>Heart Realize</name>
   </anime>
   <anime anidbid="14988" tvdbid="357488" defaulttvdbseason="2">
-    <name>Fruits Basket 2nd season</name>
+    <name>Fruits Basket 2nd Season</name>
   </anime>
   <anime anidbid="14995" tvdbid="338455" defaulttvdbseason="3">
     <name>Golden Kamuy 3</name>

@@ -25958,6 +25958,10 @@
   </anime>
   <anime anidbid="11500" tvdbid="303073" defaulttvdbseason="1">
     <name>Musaigen no Phantom World</name>
+    <mapping-list>&gt;
+      <mapping anidbseason="0" tvdbseason="0">;1-8;2-1;3-2;4-3;5-4;6-5;7-6;8-7;</mapping>
+    </mapping-list>&gt;
+    <before>;1-14;2-3;3-5;4-7;5-9;6-11;7-13;8-14;</before>
   </anime>
   <anime anidbid="11515" tvdbid="303067" defaulttvdbseason="1">
     <name>Norn 9: Norn + Nonetto</name>

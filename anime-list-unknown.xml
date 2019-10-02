@@ -1188,7 +1188,7 @@
   <anime anidbid="3625" tvdbid="unknown" defaulttvdbseason="1">
     <name>Hajime Ningen Gyatoruz</name>
   </anime>
-  <anime anidbid="3626" tvdbid="unknown">
+  <anime anidbid="3626" tvdbid="unknown" defaulttvdbseason="1">
     <name>Nintama Rantarou</name>
   </anime>
   <anime anidbid="3627" tvdbid="unknown" defaulttvdbseason="1">
@@ -1516,7 +1516,7 @@
     <name>Tokusou Kihei Dorvack</name>
   </anime>
   <anime anidbid="4371" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Zettaizetsumei Dangerous Jii-san</name>
+    <name>Zettaizetsumei Dangerous Jii-san (2004)</name>
   </anime>
   <anime anidbid="4379" tvdbid="unknown" defaulttvdbseason="1">
     <name>Pinky:st</name>
@@ -2782,7 +2782,7 @@
     <name>Be-Bop High School Kaizokuban</name>
   </anime>
   <anime anidbid="7705" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Ore no Sora Keiji Hen</name>
+    <name>Ore no Sora: Keiji Hen</name>
   </anime>
   <anime anidbid="7706" tvdbid="unknown" defaulttvdbseason="1" imdbid="unknown">
     <name>Cynical Hysterie Hour</name>
@@ -3279,7 +3279,37 @@
   <anime anidbid="11757" tvdbid="unknown" defaulttvdbseason="0" imdbid="tt5185564">
     <name>Shimajirou to Ehon no Kuni</name>
   </anime>
-  <anime anidbid="12509" tvdbid="unknown" tmdbid="432128">
-    <name>Eiga Precure Dream Stars!</name>
+  <anime anidbid="13616" tvdbid="unknown" defaulttvdbseason="1">
+    <name>Ningyou Rekishi Spectacle Heike Monogatari</name>
+  </anime>
+  <anime anidbid="13617" tvdbid="unknown" defaulttvdbseason="1">
+    <name>LayereD Stories 0</name>
+  </anime>
+  <anime anidbid="13622" tvdbid="unknown" defaulttvdbseason="1">
+    <name>Wares: Beyond</name>
+  </anime>
+  <anime anidbid="13627" tvdbid="unknown" defaulttvdbseason="1">
+    <name>Mu Wang Zhi Wang: Qi Lin Jue</name>
+  </anime>
+  <anime anidbid="13628" tvdbid="unknown" defaulttvdbseason="1">
+    <name>Mo Mo</name>
+  </anime>
+  <anime anidbid="13631" tvdbid="unknown" defaulttvdbseason="1">
+    <name>Inazma Delivery: Dougyousha Attack Hen</name>
+  </anime>
+  <anime anidbid="13638" tvdbid="unknown" defaulttvdbseason="1">
+    <name>Mentori</name>
+  </anime>
+  <anime anidbid="14566" tvdbid="unknown" defaulttvdbseason="1">
+    <name>Battle Spirits: Saga Brave</name>
+  </anime>
+  <anime anidbid="14598" tvdbid="unknown" defaulttvdbseason="1">
+    <name>Shaonu Qianxian: Renxing Xiao Juchang</name>
+  </anime>
+  <anime anidbid="14716" tvdbid="unknown" defaulttvdbseason="1">
+    <name>Yichang Shengwu Jianwen Lu</name>
+  </anime>
+  <anime anidbid="14973" tvdbid="unknown" defaulttvdbseason="1">
+    <name>Business Fish</name>
   </anime>
 </anime-list>

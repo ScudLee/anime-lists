@@ -26736,7 +26736,7 @@
     <name>Pretty Rhythm: Rainbow Live</name>
   </anime>
   <anime anidbid="9665" tvdbid="272072" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
-    <name>Kikou Shoujo wa Kizutsukanai</name>
+    <name>Machine-Doll wa Kizutsukanai</name>
   </anime>
   <anime anidbid="9666" tvdbid="267439" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Mushibugyou</name>
@@ -31562,9 +31562,9 @@
   </anime>
   <anime anidbid="11500" tvdbid="303073" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Musaigen no Phantom World</name>
-    <mapping-list>>
+    <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-8;2-1;3-2;4-3;5-4;6-5;7-6;8-7;</mapping>
-    </mapping-list>>
+    </mapping-list>
     <before>;1-14;2-3;3-5;4-7;5-9;6-11;7-13;8-14;</before>
   </anime>
   <anime anidbid="11502" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -33219,7 +33219,7 @@
     <name>Arslan Senki (2016)</name>
   </anime>
   <anime anidbid="12114" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Ieiri Leo x Jungle Taitei 'a boy'</name>
+    <name>Ieiri Leo x Jungle Taitei: "A Boy"</name>
   </anime>
   <anime anidbid="12115" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Chobitto Zukan</name>
@@ -38599,7 +38599,7 @@
     <name>Gunjou no Magmell</name>
   </anime>
   <anime anidbid="14064" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Princess Principal (2019)</name>
+    <name>Princess Principal: Crown Handler</name>
   </anime>
   <anime anidbid="14065" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Valley of White Birds</name>
@@ -39562,7 +39562,7 @@
     <name>Kimi Omou Koi</name>
   </anime>
   <anime anidbid="14396" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Azur Lane</name>
+    <name>Azur Lane the Animation</name>
   </anime>
   <anime anidbid="14397" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Seishun Buta Yarou wa Yumemiru Shoujo no Yume o Minai</name>
@@ -39688,7 +39688,7 @@
     <name>Toaru Kagaku no Accelerator</name>
   </anime>
   <anime anidbid="14441" tvdbid="114921" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
-    <name>Toaru Kagaku no Railgun 3</name>
+    <name>Toaru Kagaku no Railgun T</name>
   </anime>
   <anime anidbid="14442" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Ore o Suki na no wa Omae Dake ka yo</name>
@@ -40003,7 +40003,7 @@
     <name>Ryouma! The Prince of Tennis Shinsei Gekijouban Tennis no Ouji-sama</name>
   </anime>
   <anime anidbid="14552" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Haikyuu!! (2020)</name>
+    <name>Haikyuu!! To the Top</name>
   </anime>
   <anime anidbid="14553" tvdbid="358181" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Kono Oto Tomare! (2019)</name>
@@ -41473,7 +41473,7 @@
     <name>Girl X</name>
   </anime>
   <anime anidbid="15067" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Pocket Monsters (TV)</name>
+    <name>Pocket Monsters (2019)</name>
   </anime>
   <anime anidbid="15068" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Kkoma Sinseon Tao</name>
@@ -41569,7 +41569,7 @@
     <name>Natsu no Niwa</name>
   </anime>
   <anime anidbid="15100" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Date a Live (Shin Anime)</name>
+    <name>Date a Bullet</name>
   </anime>
   <anime anidbid="15101" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Taeko no Nichijou</name>
@@ -41579,5 +41579,38 @@
   </anime>
   <anime anidbid="15104" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Eiga Neko Neko Nipponshi: Ryouma no Hachamecha Time Travel ze yo!</name>
+  </anime>
+  <anime anidbid="15105" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Gintama: Monster Strike-hen</name>
+  </anime>
+  <anime anidbid="15106" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Date a Live (Shin Anime)</name>
+  </anime>
+  <anime anidbid="15107" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Peter Grill to Kenja no Jikan</name>
+  </anime>
+  <anime anidbid="15108" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Obsolete</name>
+  </anime>
+  <anime anidbid="15109" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Mono no Kamisama Cocotama</name>
+  </anime>
+  <anime anidbid="15110" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Kengan Ashura 2nd Season</name>
+  </anime>
+  <anime anidbid="15111" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth III</name>
+  </anime>
+  <anime anidbid="15112" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Sylvanian Families: Mini Story - Clover</name>
+  </anime>
+  <anime anidbid="15113" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Gekijouban Kimetsu no Yaiba: Mugen Ressha Hen</name>
+  </anime>
+  <anime anidbid="15114" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Nozoki Kanojo</name>
+  </anime>
+  <anime anidbid="15115" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Boku to Joi no Shinsatsu Nisshi The Animation</name>
   </anime>
 </anime-list>

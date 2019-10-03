@@ -15155,6 +15155,9 @@
   </anime>
   <anime anidbid="6438" tvdbid="105131" defaulttvdbseason="1">
     <name>Princess Lover!</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-3;2-6;3-9;4-13;5-15;6-18;7-2;8-5;9-8;10-11;11-14;12-17;13-1;14-4;15-7;16-10;17-13;18-16;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="6440" tvdbid="208631" defaulttvdbseason="1">
     <name>Hello Kitty no Stump Village</name>
@@ -17890,7 +17893,7 @@
   <anime anidbid="7572" tvdbid="OVA" defaulttvdbseason="1">
     <name>Doc Typhoon</name>
   </anime>
-  <anime anidbid="7577" tvdbid="hentai" defaulttvdbseason="1">
+  <anime anidbid="7577" tvdbid="105131" defaulttvdbseason="0" episodeoffset="18">
     <name>Princess Lover! (2010)</name>
   </anime>
   <anime anidbid="7578" tvdbid="hentai" defaulttvdbseason="1">
@@ -29217,6 +29220,9 @@
   <anime anidbid="14471" tvdbid="361751" defaulttvdbseason="1" imdbid="tt10470444">
     <name>Joshikousei no Mudazukai</name>
   </anime>
+  <anime anidbid="14477" tvdbid="369048" defaulttvdbseason="1">
+    <name>Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru</name>
+  </anime>
   <anime anidbid="14480" tvdbid="313185" defaulttvdbseason="0" episodeoffset="1">
     <name>Final Fantasy XV: Episode Ardyn - Prologue</name>
   </anime>
@@ -29444,6 +29450,9 @@
   </anime>
   <anime anidbid="14717" tvdbid="361704" defaulttvdbseason="1" tmdbid="88038" imdbid="tt10395126">
     <name>Granbelm</name>
+  </anime>
+  <anime anidbid="14727" tvdbid="366263" defaulttvdbseason="1">
+    <name>Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen</name>
   </anime>
   <anime anidbid="14733" tvdbid="352327" defaulttvdbseason="2">
     <name>Wei, Kan Jian Er Duo La! (2019)</name>

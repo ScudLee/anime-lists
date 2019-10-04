@@ -29127,6 +29127,9 @@
   <anime anidbid="14371" tvdbid="336973" defaulttvdbseason="2">
     <name>Pingu in the City (2018)</name>
   </anime>
+  <anime anidbid="14386" tvdbid="366702" defaulttvdbseason="1">
+    <name>Houkago Saikoro Club</name>
+  </anime>
   <anime anidbid="14388" tvdbid="movie" defaulttvdbseason="1">
     <name>Deep Love</name>
   </anime>
@@ -29144,6 +29147,9 @@
   </anime>
   <anime anidbid="14395" tvdbid="hentai" defaulttvdbseason="1">
     <name>Kimi Omou Koi</name>
+  </anime>
+  <anime anidbid="14396" tvdbid="367277" defaulttvdbseason="1">
+    <name>Azur Lane the Animation</name>
   </anime>
   <anime anidbid="14399" tvdbid="hentai" defaulttvdbseason="1">
     <name>Rape Gouhouka!!!</name>
@@ -29469,6 +29475,9 @@
   <anime anidbid="14749" tvdbid="hentai" defaulttvdbseason="1">
     <name>Sakuramiya Shimai no Netorare Kiroku</name>
   </anime>
+  <anime anidbid="14750" tvdbid="369395" defaulttvdbseason="1">
+    <name>Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!</name>
+  </anime>
   <anime anidbid="14751" tvdbid="361754" defaulttvdbseason="1" imdbid="88064">
     <name>Try Knights</name>
   </anime>
@@ -29612,5 +29621,11 @@
   </anime>
   <anime anidbid="14995" tvdbid="338455" defaulttvdbseason="3">
     <name>Golden Kamuy 3</name>
+  </anime>
+  <anime anidbid="15026" tvdbid="347578" defaulttvdbseason="2">
+    <name>Zoids Wild Zero</name>
+  </anime>
+  <anime anidbid="15028" tvdbid="351953" defaulttvdbseason="2">
+    <name>Zombie Land Saga Revenge</name>
   </anime>
 </anime-list>

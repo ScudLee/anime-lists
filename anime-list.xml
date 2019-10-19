@@ -29414,6 +29414,9 @@
   </anime>
   <anime anidbid="14579" tvdbid="353666" defaulttvdbseason="0" episodeoffset="3">
     <name>Manga de Wakaru! Fate/Grand Order</name>
+	<mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-4;2-4;3-4;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="14580" tvdbid="357492" defaulttvdbseason="1" tmdbid="85368" imdbid="tt9573854">
     <name>Lord El-Melloi II-sei no Jikenbo: Rail Zeppelin Grace Note</name>

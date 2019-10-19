@@ -27303,7 +27303,7 @@
   <anime anidbid="12512" tvdbid="hentai" defaulttvdbseason="1">
     <name>Saimin Class: Joshi Zen'in, Shiranai Uchi ni Ninshin Shitemashita</name>
   </anime>
-  <anime anidbid="12519" tvdbid="278626" defaulttvdbseason="0" episodeoffset="2" imdbid="tt6213810">
+  <anime anidbid="12519" tvdbid="353666" defaulttvdbseason="0" imdbid="tt6213810">
     <name>Fate/Grand Order: First Order</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
@@ -28504,10 +28504,10 @@
   <anime anidbid="13641" tvdbid="movie" defaulttvdbseason="1" tmdbid="466980" imdbid="tt7146054">
     <name>Dahufa</name>
   </anime>
-  <anime anidbid="13643" tvdbid="278626" defaulttvdbseason="0" episodeoffset="4">
+  <anime anidbid="13643" tvdbid="353666" defaulttvdbseason="0" episodeoffset="1" tmdbid="495907">
     <name>Fate/Grand Order: Moonlight/Lostroom</name>
   </anime>
-  <anime anidbid="13644" tvdbid="278626" defaulttvdbseason="0" episodeoffset="5">
+  <anime anidbid="13644" tvdbid="353666" defaulttvdbseason="0" episodeoffset="2" tmdbid="496432">
     <name>Fate/Grand Order x Himuro no Tenchi: 7-nin no Saikyou Ijin Hen</name>
   </anime>
   <anime anidbid="13649" tvdbid="76703" defaulttvdbseason="0" imdbid="tt8108230">
@@ -29099,6 +29099,12 @@
   </anime>
   <anime anidbid="14238" tvdbid="353666" defaulttvdbseason="1" imdbid="tt9525238">
     <name>Fate/Grand Order: Zettai Majuu Sensen Babylonia</name>
+	<mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-4;</mapping>
+    </mapping-list>
+  </anime>
+  <anime anidbid="14239" tvdbid="353666" defaulttvdbseason="0" episodeoffset="5" tmdbid="637202, 637462">
+    <name>Gekijouban Fate/Grand Order: Shinsei Entaku Ryouiki Camelot</name>
   </anime>
   <anime anidbid="14241" tvdbid="353244" defaulttvdbseason="1">
     <name>Okoshiyasu, Chitose-chan</name>
@@ -29406,11 +29412,8 @@
   <anime anidbid="14574" tvdbid="361491" defaulttvdbseason="1" tmdbid="88050" imdbid="tt10347516">
     <name>Cop Craft</name>
   </anime>
-  <anime anidbid="14579" tvdbid="278626" defaulttvdbseason="0">
+  <anime anidbid="14579" tvdbid="353666" defaulttvdbseason="0" episodeoffset="3">
     <name>Manga de Wakaru! Fate/Grand Order</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-9;2-9;3-9;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="14580" tvdbid="357492" defaulttvdbseason="1" tmdbid="85368" imdbid="tt9573854">
     <name>Lord El-Melloi II-sei no Jikenbo: Rail Zeppelin Grace Note</name>

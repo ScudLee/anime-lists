@@ -34206,7 +34206,7 @@
   <anime anidbid="12518" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Shimajirou to Niji no Oasis</name>
   </anime>
-  <anime anidbid="12519" tvdbid="278626" defaulttvdbseason="0" episodeoffset="2" tmdbid="" imdbid="tt6213810">
+  <anime anidbid="12519" tvdbid="353666" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt6213810">
     <name>Fate/Grand Order: First Order</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
@@ -37420,10 +37420,10 @@
   <anime anidbid="13642" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Shi Wan Ge Leng Xiaohua 2</name>
   </anime>
-  <anime anidbid="13643" tvdbid="278626" defaulttvdbseason="0" episodeoffset="4" tmdbid="" imdbid="">
+  <anime anidbid="13643" tvdbid="353666" defaulttvdbseason="0" episodeoffset="1" tmdbid="495907" imdbid="">
     <name>Fate/Grand Order: Moonlight/Lostroom</name>
   </anime>
-  <anime anidbid="13644" tvdbid="278626" defaulttvdbseason="0" episodeoffset="5" tmdbid="" imdbid="">
+  <anime anidbid="13644" tvdbid="353666" defaulttvdbseason="0" episodeoffset="2" tmdbid="496432" imdbid="">
     <name>Fate/Grand Order x Himuro no Tenchi: 7-nin no Saikyou Ijin Hen</name>
   </anime>
   <anime anidbid="13645" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -39107,8 +39107,11 @@
   </anime>
   <anime anidbid="14238" tvdbid="353666" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt9525238">
     <name>Fate/Grand Order: Zettai Majuu Sensen Babylonia</name>
+	<mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-4;</mapping>
+    </mapping-list>
   </anime>
-  <anime anidbid="14239" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14239" tvdbid="353666" defaulttvdbseason="0" episodeoffset="5" tmdbid="637202, 637462" imdbid="">
     <name>Gekijouban Fate/Grand Order: Shinsei Entaku Ryouiki Camelot</name>
   </anime>
   <anime anidbid="14240" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -40080,11 +40083,8 @@
   <anime anidbid="14578" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Affordance</name>
   </anime>
-  <anime anidbid="14579" tvdbid="278626" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14579" tvdbid="353666" defaulttvdbseason="0" episodeoffset="3" tmdbid="" imdbid="">
     <name>Manga de Wakaru! Fate/Grand Order</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-9;2-9;3-9;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="14580" tvdbid="357492" defaulttvdbseason="1" episodeoffset="" tmdbid="85368" imdbid="tt9573854">
     <name>Lord El-Melloi II-sei no Jikenbo: Rail Zeppelin Grace Note</name>

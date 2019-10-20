@@ -8659,7 +8659,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="2582" tvdbid="hentai" defaulttvdbseason="1">
-    <name>Soukan Rensa</name>
+    <name>Soukan Rensa: Suna no Yakata / Ibitsu Ashi</name>
   </anime>
   <anime anidbid="2583" tvdbid="83763" defaulttvdbseason="1">
     <name>Majokko Tsukune-chan</name>
@@ -31992,9 +31992,6 @@
   <anime anidbid="13939" tvdbid="307375" defaulttvdbseason="2">
     <name>Mob Psycho 100 II</name>
   </anime>
-  <anime anidbid="13940" tvdbid="web" defaulttvdbseason="1">
-    <name>BOY's LOVE Nitro+CHiRAL</name>
-  </anime>
   <anime anidbid="13941" tvdbid="326109" defaulttvdbseason="0" tmdbid="526426,526429" imdbid="tt10068158,tt10068544">
     <name>Gekijouban Soushuuhen Made in Abyss</name>
   </anime>
@@ -32309,7 +32306,7 @@
   </anime>
   <anime anidbid="14238" tvdbid="353666" defaulttvdbseason="1" imdbid="tt9525238">
     <name>Fate/Grand Order: Zettai Majuu Sensen Babylonia</name>
-	<mapping-list>
+    <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-4;</mapping>
     </mapping-list>
   </anime>
@@ -32627,7 +32624,7 @@
   </anime>
   <anime anidbid="14579" tvdbid="353666" defaulttvdbseason="0" episodeoffset="3">
     <name>Manga de Wakaru! Fate/Grand Order</name>
-	<mapping-list>
+    <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-4;2-4;3-4;</mapping>
     </mapping-list>
   </anime>

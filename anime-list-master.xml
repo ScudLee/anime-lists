@@ -36999,6 +36999,9 @@
   </anime>
   <anime anidbid="13493" tvdbid="259640" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
     <name>Sword Art Online: Alicization</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-24;2-25;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="13494" tvdbid="335815" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Sword Art Online Alternative: Gun Gale Online</name>

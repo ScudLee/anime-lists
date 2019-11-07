@@ -30416,8 +30416,9 @@
   <anime anidbid="12430" tvdbid="293088" defaulttvdbseason="2">
     <name>One Punch Man (2019)</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-8;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" offset="7"/>
     </mapping-list>
+    <before>;1-1;2-3;</before>
   </anime>
   <anime anidbid="12433" tvdbid="320003" defaulttvdbseason="1">
     <name>Nyanko Days</name>

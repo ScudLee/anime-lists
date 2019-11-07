@@ -131,6 +131,7 @@
     <name>Heppoko Jikken Animation Excel Saga</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="1">;1-26;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;</mapping>
     </mapping-list>
     <before>;1-26;</before>
   </anime>

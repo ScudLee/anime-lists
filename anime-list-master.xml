@@ -804,6 +804,9 @@
   </anime>
   <anime anidbid="179" tvdbid="71742" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Boogiepop wa Warawanai: Boogiepop Phantom</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+    </mapping-list> 
   </anime>
   <anime anidbid="180" tvdbid="71313" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Kidou Senkan Nadesico</name>

@@ -137,6 +137,9 @@
   </anime>
   <anime anidbid="26" tvdbid="74125" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>Juuni Kokuki</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;</mapping>
+    </mapping-list>    
   </anime>
   <anime anidbid="27" tvdbid="78920" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Aa! Megami-sama!</name>

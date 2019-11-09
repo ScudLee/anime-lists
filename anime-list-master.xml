@@ -176,6 +176,9 @@
   </anime>
   <anime anidbid="34" tvdbid="78900" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Fruits Basket</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+    </mapping-list> 
   </anime>
   <anime anidbid="35" tvdbid="70861" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Love Hina</name>

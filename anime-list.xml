@@ -10932,7 +10932,7 @@
     <name>Lemon Angel</name>
   </anime>
   <anime anidbid="4212" tvdbid="hentai" defaulttvdbseason="1">
-    <name>Lemon Angel (1988/II)</name>
+    <name>Lemon Angel (1988)</name>
   </anime>
   <anime anidbid="4213" tvdbid="hentai" defaulttvdbseason="1">
     <name>Ayatsuri Ningyou</name>
@@ -27227,7 +27227,7 @@
   <anime anidbid="12430" tvdbid="293088" defaulttvdbseason="2">
     <name>One Punch Man (2019)</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0" offset="7"/>
+      <mapping anidbseason="0" tvdbseason="0">;1-8;2-9;3-10;</mapping>
     </mapping-list>
     <before>;1-1;2-3;</before>
   </anime>
@@ -29399,7 +29399,7 @@
     <name>Kochouki: Wakaki Nobunaga</name>
   </anime>
   <anime anidbid="14570" tvdbid="335088" defaulttvdbseason="1">
-    <name>Nekopara (TV)</name>
+    <name>Nekopara (2020)</name>
   </anime>
   <anime anidbid="14571" tvdbid="361351" defaulttvdbseason="1">
     <name>Miru Tights</name>
@@ -29564,7 +29564,7 @@
     <name>Sakuramiya Shimai no Netorare Kiroku</name>
   </anime>
   <anime anidbid="14750" tvdbid="369395" defaulttvdbseason="1">
-    <name>Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!</name>
+    <name>Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku You Desu!</name>
   </anime>
   <anime anidbid="14751" tvdbid="361754" defaulttvdbseason="1" imdbid="88064">
     <name>Try Knights</name>

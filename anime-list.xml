@@ -131,11 +131,15 @@
     <name>Heppoko Jikken Animation Excel Saga</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="1">;1-26;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;</mapping>
     </mapping-list>
     <before>;1-26;</before>
   </anime>
   <anime anidbid="26" tvdbid="74125" defaulttvdbseason="a">
     <name>Juuni Kokuki</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;</mapping>
+    </mapping-list>    
   </anime>
   <anime anidbid="27" tvdbid="78920" defaulttvdbseason="0">
     <name>Aa! Megami-sama!</name>
@@ -172,6 +176,9 @@
   </anime>
   <anime anidbid="34" tvdbid="78900" defaulttvdbseason="1">
     <name>Fruits Basket</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+    </mapping-list> 
   </anime>
   <anime anidbid="35" tvdbid="70861" defaulttvdbseason="1">
     <name>Love Hina</name>
@@ -797,6 +804,9 @@
   </anime>
   <anime anidbid="179" tvdbid="71742" defaulttvdbseason="1">
     <name>Boogiepop wa Warawanai: Boogiepop Phantom</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+    </mapping-list> 
   </anime>
   <anime anidbid="180" tvdbid="71313" defaulttvdbseason="1">
     <name>Kidou Senkan Nadesico</name>
@@ -816,7 +826,7 @@
   <anime anidbid="184" tvdbid="77248" defaulttvdbseason="1">
     <name>Tenkuu no Escaflowne</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0" start="1" end="7" offset="2"/>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="7" offset="2">;10-0;11-0;12-0;</mapping>
     </mapping-list>
     <supplemental-info>
       <studio>Sunrise</studio>
@@ -1173,6 +1183,9 @@
   </anime>
   <anime anidbid="269" tvdbid="117871" defaulttvdbseason="1">
     <name>Sister Princess</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
     <supplemental-info>
       <studio>Zexcs</studio>
     </supplemental-info>
@@ -1547,7 +1560,7 @@
   <anime anidbid="369" tvdbid="71313" defaulttvdbseason="0" imdbid="tt0407924">
     <name>Kidou Senkan Nadesico: The Prince of Darkness</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;2-1;3-1;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-2;3-2;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="370" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0206013">
@@ -28513,6 +28526,9 @@
   </anime>
   <anime anidbid="13644" tvdbid="353666" defaulttvdbseason="0" episodeoffset="2" tmdbid="496432">
     <name>Fate/Grand Order x Himuro no Tenchi: 7-nin no Saikyou Ijin Hen</name>
+  </anime>
+  <anime anidbid="13645" tvdbid="342601">
+    <name>It's My Life</name>
   </anime>
   <anime anidbid="13649" tvdbid="76703" defaulttvdbseason="0" imdbid="tt8108230">
     <name>Gekijouban Pocket Monsters: Minna no Monogatari</name>

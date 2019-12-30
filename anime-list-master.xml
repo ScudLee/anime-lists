@@ -130,8 +130,8 @@
   <anime anidbid="25" tvdbid="72462" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Heppoko Jikken Animation Excel Saga</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="1">;1-26;</mapping>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="1">;1-26;</mapping>
     </mapping-list>
     <before>;1-26;</before>
   </anime>
@@ -139,7 +139,7 @@
     <name>Juuni Kokuki</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;</mapping>
-    </mapping-list>    
+    </mapping-list>
   </anime>
   <anime anidbid="27" tvdbid="78920" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Aa! Megami-sama!</name>
@@ -178,7 +178,7 @@
     <name>Fruits Basket</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
-    </mapping-list> 
+    </mapping-list>
   </anime>
   <anime anidbid="35" tvdbid="70861" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Love Hina</name>
@@ -806,7 +806,7 @@
     <name>Boogiepop wa Warawanai: Boogiepop Phantom</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
-    </mapping-list> 
+    </mapping-list>
   </anime>
   <anime anidbid="180" tvdbid="71313" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Kidou Senkan Nadesico</name>
@@ -36093,7 +36093,7 @@
     <name>Mirai no Mirai</name>
   </anime>
   <anime anidbid="13175" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Entotsu Machi no Poupelle</name>
+    <name>Eiga Entotsu Machi no Poupelle</name>
   </anime>
   <anime anidbid="13176" tvdbid="261862" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt6915208">
     <name>Eiga Chuunibyou demo Koi ga Shitai! Take on Me</name>
@@ -38018,7 +38018,7 @@
     <name>Souten no Ken: Regenesis (2018)</name>
   </anime>
   <anime anidbid="13844" tvdbid="368861" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt10882992">
-    <name>Watashi, Nouryoku wa Heikinchi dette Itta yo ne!</name>
+    <name>Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!</name>
   </anime>
   <anime anidbid="13845" tvdbid="347578" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Zoids Wild</name>
@@ -39018,7 +39018,7 @@
     <name>Kumo Desu ga, Nanika?</name>
   </anime>
   <anime anidbid="14202" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Idolish Seven 2</name>
+    <name>Idolish Seven: Second Beat!</name>
   </anime>
   <anime anidbid="14203" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Dai 501 Tougou Sentou Koukuu Dan Strike Witches: Road to Berlin</name>
@@ -41214,7 +41214,7 @@
     <name>Omoide o Hakobu Uta</name>
   </anime>
   <anime anidbid="14980" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
-    <name>Ometeotl</name>
+    <name>Ometeotl Hero</name>
   </anime>
   <anime anidbid="14981" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Rebecca</name>
@@ -41253,7 +41253,7 @@
     <name>Akira (Shin Anime)</name>
   </anime>
   <anime anidbid="14993" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Gekijouban Pocket Monsters</name>
+    <name>Gekijouban Pocket Monsters 2020</name>
   </anime>
   <anime anidbid="14994" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Deca-Dence</name>
@@ -41307,7 +41307,7 @@
     <name>Noid</name>
   </anime>
   <anime anidbid="15012" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Microphone Soul Spinners: Kotodama Shoujo</name>
+    <name>Kotodama Shoujo the Animation: Microphone Soul Spinners</name>
   </anime>
   <anime anidbid="15013" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Arte</name>
@@ -41322,7 +41322,7 @@
     <name>Oda Shinamon Nobunaga</name>
   </anime>
   <anime anidbid="15017" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Yuu Gi Ou (2020)</name>
+    <name>Yuu Gi Ou: Sevens</name>
   </anime>
   <anime anidbid="15018" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Gusha no Parade</name>
@@ -41703,7 +41703,7 @@
     <name>Sword Art Online: Alicization - War of Underworld (2020)</name>
   </anime>
   <anime anidbid="15147" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Dou Po Cang Qiong 3</name>
+    <name>Dou Po Cangqiong Di San Ji</name>
   </anime>
   <anime anidbid="15148" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Dou Long Zhanshi</name>
@@ -42036,7 +42036,7 @@
     <name>Jewelpet: Attack Travel!</name>
   </anime>
   <anime anidbid="15291" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Kukuriraige: Sanxingdui Denki</name>
+    <name>Kukuriraige: Sanseitai Denki</name>
   </anime>
   <anime anidbid="15292" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Dajiao Niu Meng Gongchang</name>
@@ -42052,5 +42052,137 @@
   </anime>
   <anime anidbid="15296" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Sui Cheng Li Xin: Gui Yu Zhou Yuan Pian</name>
+  </anime>
+  <anime anidbid="15297" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Inu to Neko Docchi mo Katteru to Mainichi Tanoshii</name>
+  </anime>
+  <anime anidbid="15298" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Ousama Ranking</name>
+  </anime>
+  <anime anidbid="15299" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Kanojo, Okarishimasu</name>
+  </anime>
+  <anime anidbid="15300" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen OVA</name>
+  </anime>
+  <anime anidbid="15301" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Idoly Pride</name>
+  </anime>
+  <anime anidbid="15302" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Marudase Kintarou</name>
+  </anime>
+  <anime anidbid="15303" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Fastening Days 4</name>
+  </anime>
+  <anime anidbid="15304" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Hajimete no Hitozuma</name>
+  </anime>
+  <anime anidbid="15305" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Dr. Stone: Stone Wars</name>
+  </anime>
+  <anime anidbid="15306" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Stand By Me Doraemon 2</name>
+  </anime>
+  <anime anidbid="15307" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Bang Dream! Garupa Pico: Oomori</name>
+  </anime>
+  <anime anidbid="15308" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Psycho-Pass 3: First Inspector</name>
+  </anime>
+  <anime anidbid="15309" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Hakumei no Tsubasa</name>
+  </anime>
+  <anime anidbid="15310" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Eiga Oshiri Tantei</name>
+  </anime>
+  <anime anidbid="15311" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Dongfang Shaonian Zhi Ji Dou Zhan Che</name>
+  </anime>
+  <anime anidbid="15312" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>SSSS.Dynazenon</name>
+  </anime>
+  <anime anidbid="15313" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Love Live! Nijigasaki Gakuen School Idol Doukoukai</name>
+  </anime>
+  <anime anidbid="15314" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Xiao Hua Xian 4</name>
+  </anime>
+  <anime anidbid="15315" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Xiao Hua Xian 5 - Si Shi Huayu Chun Xia Part 1 Chun</name>
+  </anime>
+  <anime anidbid="15316" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Komatta Jii-san</name>
+  </anime>
+  <anime anidbid="15317" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Marumaru Manul</name>
+  </anime>
+  <anime anidbid="15318" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Toji no Miko: Kizamishi Issen no Tomoshibi</name>
+  </anime>
+  <anime anidbid="15319" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Shokugeki no Souma: Gou no Sara</name>
+  </anime>
+  <anime anidbid="15320" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Bokutachi no Remake</name>
+  </anime>
+  <anime anidbid="15321" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Dragon Quest: Dai no Daibouken (2020)</name>
+  </anime>
+  <anime anidbid="15322" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>World Trigger 2</name>
+  </anime>
+  <anime anidbid="15323" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Kemono Jihen</name>
+  </anime>
+  <anime anidbid="15324" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Yuukoku no Moriarty</name>
+  </anime>
+  <anime anidbid="15326" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Inmou</name>
+  </anime>
+  <anime anidbid="15327" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Azur Lane: Bisoku Zenshin!</name>
+  </anime>
+  <anime anidbid="15328" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Bungou to Alchemist: Shinpan no Haguruma</name>
+  </anime>
+  <anime anidbid="15329" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Ore o Suki na no wa Omae Dake ka yo: Oretachi no Game Set</name>
+  </anime>
+  <anime anidbid="15330" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Beastars 2</name>
+  </anime>
+  <anime anidbid="15331" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Sexfriend Gakuen</name>
+  </anime>
+  <anime anidbid="15332" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Hige o Soru. Soshite Joshikousei o Hirou.</name>
+  </anime>
+  <anime anidbid="15333" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Gundam Build Divers Re:Rise (2020)</name>
+  </anime>
+  <anime anidbid="15334" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Lalalacoco</name>
+  </anime>
+  <anime anidbid="15335" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>En'en no Shouboutai (2020)</name>
+  </anime>
+  <anime anidbid="15336" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Shin Chuuka Ichiban! 2</name>
+  </anime>
+  <anime anidbid="15337" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Jitaku Keibiin 2</name>
+  </anime>
+  <anime anidbid="15338" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Rail Romanesque</name>
+  </anime>
+  <anime anidbid="15339" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Cheat Kusushi no Slow Life</name>
+  </anime>
+  <anime anidbid="15340" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Hortensia Saga</name>
+  </anime>
+  <anime anidbid="15341" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Back Arrow</name>
   </anime>
 </anime-list>

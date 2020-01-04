@@ -130,8 +130,8 @@
   <anime anidbid="25" tvdbid="72462" defaulttvdbseason="1">
     <name>Heppoko Jikken Animation Excel Saga</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="1">;1-26;</mapping>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="1">;1-26;</mapping>
     </mapping-list>
     <before>;1-26;</before>
   </anime>
@@ -139,7 +139,7 @@
     <name>Juuni Kokuki</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;</mapping>
-    </mapping-list>    
+    </mapping-list>
   </anime>
   <anime anidbid="27" tvdbid="78920" defaulttvdbseason="0">
     <name>Aa! Megami-sama!</name>
@@ -178,7 +178,7 @@
     <name>Fruits Basket</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
-    </mapping-list> 
+    </mapping-list>
   </anime>
   <anime anidbid="35" tvdbid="70861" defaulttvdbseason="1">
     <name>Love Hina</name>
@@ -806,7 +806,7 @@
     <name>Boogiepop wa Warawanai: Boogiepop Phantom</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
-    </mapping-list> 
+    </mapping-list>
   </anime>
   <anime anidbid="180" tvdbid="71313" defaulttvdbseason="1">
     <name>Kidou Senkan Nadesico</name>
@@ -28706,7 +28706,7 @@
     <name>Souten no Ken: Regenesis (2018)</name>
   </anime>
   <anime anidbid="13844" tvdbid="368861" defaulttvdbseason="1" imdbid="tt10882992">
-    <name>Watashi, Nouryoku wa Heikinchi dette Itta yo ne!</name>
+    <name>Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!</name>
   </anime>
   <anime anidbid="13845" tvdbid="347578" defaulttvdbseason="1">
     <name>Zoids Wild</name>
@@ -29790,7 +29790,7 @@
     <name>Quanzhi Gaoshou 2nd Season</name>
   </anime>
   <anime anidbid="14980" tvdbid="movie" defaulttvdbseason="1">
-    <name>Ometeotl</name>
+    <name>Ometeotl Hero</name>
   </anime>
   <anime anidbid="14983" tvdbid="music video" defaulttvdbseason="1">
     <name>Heart Realize</name>
@@ -29837,6 +29837,9 @@
   <anime anidbid="15036" tvdbid="313676" defaulttvdbseason="2" tmdbid="94190">
     <name>Bananya: Fushigi na Nakama-tachi</name>
   </anime>
+  <anime anidbid="15038" tvdbid="373276" defaulttvdbseason="1">
+    <name>Housekishou Richard-shi no Nazo Kantei</name>
+  </anime>
   <anime anidbid="15044" tvdbid="hentai" defaulttvdbseason="1">
     <name>XL Joushi.</name>
   </anime>
@@ -29855,6 +29858,12 @@
   <anime anidbid="15067" tvdbid="76703" defaulttvdbseason="19">
     <name>Pocket Monsters (2019)</name>
   </anime>
+  <anime anidbid="15070" tvdbid="353712" defaulttvdbseason="2">
+    <name>Tate no Yuusha no Nariagari 2</name>
+  </anime>
+  <anime anidbid="15071" tvdbid="353712" defaulttvdbseason="3">
+    <name>Tate no Yuusha no Nariagari 3</name>
+  </anime>
   <anime anidbid="15093" tvdbid="hentai" defaulttvdbseason="1">
     <name>Valkyrie Hazard</name>
   </anime>
@@ -29869,5 +29878,26 @@
   </anime>
   <anime anidbid="15115" tvdbid="hentai" defaulttvdbseason="1">
     <name>Boku to Joi no Shinsatsu Nisshi The Animation</name>
+  </anime>
+  <anime anidbid="15135" tvdbid="357019" defaulttvdbseason="2">
+    <name>Arifureta Shokugyou de Sekai Saikyou 2</name>
+  </anime>
+  <anime anidbid="15271" tvdbid="341437" defaulttvdbseason="2">
+    <name>Megalo Box 2</name>
+  </anime>
+  <anime anidbid="15305" tvdbid="355774" defaulttvdbseason="2">
+    <name>Dr. Stone: Stone Wars</name>
+  </anime>
+  <anime anidbid="15319" tvdbid="289909" defaulttvdbseason="5">
+    <name>Shokugeki no Souma: Gou no Sara</name>
+  </anime>
+  <anime anidbid="15322" tvdbid="283934" defaulttvdbseason="3">
+    <name>World Trigger 2</name>
+  </anime>
+  <anime anidbid="15330" tvdbid="361013" defaulttvdbseason="2">
+    <name>Beastars 2</name>
+  </anime>
+  <anime anidbid="15335" tvdbid="355480" defaulttvdbseason="2">
+    <name>En'en no Shouboutai (2020)</name>
   </anime>
 </anime-list>

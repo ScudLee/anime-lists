@@ -24977,7 +24977,7 @@
     <name>Hishoka Drop The Animation</name>
   </anime>
   <anime anidbid="9012" tvdbid="unknown" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
-    <name>Onegai my Melody: Yuu &amp; Ai</name>
+    <name>Onegai My Melody: Yuu &amp; Ai</name>
   </anime>
   <anime anidbid="9013" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Kyoufu no Kyou-chan</name>
@@ -40714,9 +40714,9 @@
   </anime>
   <anime anidbid="14797" tvdbid="313435" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Saiki Kusuo no Sainan: Saishidou Hen</name>
-     <mapping-list>
-     <mapping anidbseason="1" tvdbseason="0">;1-98;2-99;3-100;4-101;5-102;6-103</mapping>
-      </mapping-list>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-98;2-99;3-100;4-101;5-102;6-103</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="14798" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Ochikobore Fruit Tart</name>
@@ -42205,5 +42205,11 @@
   </anime>
   <anime anidbid="15347" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Mukashi Keiba Nashi</name>
+  </anime>
+  <anime anidbid="15348" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Hentatsu (2020)</name>
+  </anime>
+  <anime anidbid="15349" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Ane Naru Mono</name>
   </anime>
 </anime-list>

@@ -37548,8 +37548,11 @@
   <anime anidbid="13689" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>JoJo no Kimyou na Bouken: The Real 4-D Dio World</name>
   </anime>
-  <anime anidbid="13691" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="13691" tvdbid="" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Zoku Owarimonogatari</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-33;2-33;3-34;4-35;5-36;6-37;7-38;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="13692" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Watakushi-tachi no Hounen-sama</name>
@@ -39692,7 +39695,7 @@
   <anime anidbid="14438" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Eiga Yuru Camp</name>
   </anime>
-  <anime anidbid="14439" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14439" tvdbid="" defaulttvdbseason="0" episodeoffset="4" tmdbid="" imdbid="">
     <name>Heya Camp</name>
   </anime>
   <anime anidbid="14440" tvdbid="360438" defaulttvdbseason="1" episodeoffset="" tmdbid="90546" imdbid="tt10256918">
@@ -39932,7 +39935,7 @@
   <anime anidbid="14522" tvdbid="360011" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Senryuu Shoujo</name>
   </anime>
-  <anime anidbid="14523" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14523" tvdbid="373679" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.</name>
   </anime>
   <anime anidbid="14524" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -40490,7 +40493,7 @@
   <anime anidbid="14721" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Gleipnir</name>
   </anime>
-  <anime anidbid="14722" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14722" tvdbid="374769" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Breakers</name>
   </anime>
   <anime anidbid="14723" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -40685,7 +40688,7 @@
   <anime anidbid="14787" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="tt10622220">
     <name>Human Lost</name>
   </anime>
-  <anime anidbid="14788" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14788" tvdbid="373676" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Number 24</name>
   </anime>
   <anime anidbid="14789" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">

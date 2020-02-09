@@ -31016,6 +31016,9 @@
   <anime anidbid="13036" tvdbid="333233" defaulttvdbseason="1">
     <name>Sengoku Night Blood</name>
   </anime>
+  <anime anidbid="13037" tvdbid="372129" defaulttvdbseason="1">
+    <name>Hatena Illusion</name>
+  </anime>
   <anime anidbid="13038" tvdbid="336385" defaulttvdbseason="1">
     <name>Itsudatte Bokura no Koi wa 10 Centi Datta.</name>
   </anime>
@@ -31301,6 +31304,9 @@
   </anime>
   <anime anidbid="13296" tvdbid="346948" defaulttvdbseason="1">
     <name>Harukana Receive</name>
+  </anime>
+  <anime anidbid="13299" tvdbid="372084" defaulttvdbseason="1">
+    <name>22/7</name>
   </anime>
   <anime anidbid="13300" tvdbid="339401" defaulttvdbseason="1">
     <name>Dame x Prince Anime Caravan</name>
@@ -32150,6 +32156,9 @@
   <anime anidbid="14086" tvdbid="347734" defaulttvdbseason="1">
     <name>Super Dragon Ball Heroes</name>
   </anime>
+  <anime anidbid="14087" tvdbid="371193" defaulttvdbseason="1">
+    <name>Oshi ga Budoukan Itte Kuretara Shinu</name>
+  </anime>
   <anime anidbid="14094" tvdbid="354193" defaulttvdbseason="1" tmdbid="83116">
     <name>Ueno-san wa Bukiyou</name>
     <mapping-list>
@@ -32378,6 +32387,9 @@
   <anime anidbid="14290" tvdbid="350052" defaulttvdbseason="2">
     <name>Seizei Ganbare! Mahou Shoujo Kurumi (2018)</name>
   </anime>
+  <anime anidbid="14292" tvdbid="374768" defaulttvdbseason="1">
+    <name>ARP Backstage Pass</name>
+  </anime>
   <anime anidbid="14308" tvdbid="360593" defaulttvdbseason="1">
     <name>Chou Kadou Girl 1/6</name>
   </anime>
@@ -32389,6 +32401,9 @@
   </anime>
   <anime anidbid="14349" tvdbid="353246" defaulttvdbseason="1">
     <name>Hashiri Tsuzukete Yokattatte.</name>
+  </anime>
+  <anime anidbid="14360" tvdbid="370931" defaulttvdbseason="1">
+    <name>Magia Record: Mahou Shoujo Madoka Magica Gaiden</name>
   </anime>
   <anime anidbid="14371" tvdbid="336973" defaulttvdbseason="2">
     <name>Pingu in the City (2018)</name>
@@ -32512,6 +32527,9 @@
   </anime>
   <anime anidbid="14477" tvdbid="369048" defaulttvdbseason="1">
     <name>Shinchou Yuusha: Kono Yuusha ga Ore Tsueee Kuse ni Shinchou Sugiru</name>
+  </anime>
+  <anime anidbid="14479" tvdbid="375688" defaulttvdbseason="1">
+    <name>Mushikago no Cagaster</name>
   </anime>
   <anime anidbid="14480" tvdbid="313185" defaulttvdbseason="0" episodeoffset="1">
     <name>Final Fantasy XV: Episode Ardyn - Prologue</name>
@@ -32735,6 +32753,9 @@
   <anime anidbid="14648" tvdbid="370951" defaulttvdbseason="1" imdbid="tt9845246">
     <name>Super Shiro</name>
   </anime>
+  <anime anidbid="14655" tvdbid="372853" defaulttvdbseason="1">
+    <name>A3! Season Spring &amp; Summer</name>
+  </anime>
   <anime anidbid="14658" tvdbid="370891" defaulttvdbseason="1" tmdbid="94500">
     <name>Shin Chuuka Ichiban!</name>
   </anime>
@@ -32795,6 +32816,9 @@
   <anime anidbid="14706" tvdbid="358331" defaulttvdbseason="0" episodeoffset="1">
     <name>Mayonaka no Occult Koumuin: Fukurokouji to Anoko to Ore to</name>
   </anime>
+  <anime anidbid="14707" tvdbid="371444" defaulttvdbseason="1">
+    <name>Koi Suru Asteroid</name>
+  </anime>
   <anime anidbid="14708" tvdbid="hentai" defaulttvdbseason="1">
     <name>Master Piece The Animation</name>
   </anime>
@@ -32836,6 +32860,9 @@
   </anime>
   <anime anidbid="14752" tvdbid="hentai" defaulttvdbseason="1">
     <name>Ecchi na Onee-chan ni Shiboraretai</name>
+  </anime>
+  <anime anidbid="14755" tvdbid="361017" defaulttvdbseason="1">
+    <name>Kuutei Dragons</name>
   </anime>
   <anime anidbid="14756" tvdbid="361218" defaulttvdbseason="1" tmdbid="88040" imdbid="tt10479420">
     <name>Given</name>
@@ -32996,8 +33023,14 @@
   <anime anidbid="14951" tvdbid="289909" defaulttvdbseason="4">
     <name>Shokugeki no Souma: Shin no Sara</name>
   </anime>
+  <anime anidbid="14952" tvdbid="374491" defaulttvdbseason="1">
+    <name>Uchi Tama?! Uchi no Tama Shirimasenka?</name>
+  </anime>
   <anime anidbid="14956" tvdbid="327261" defaulttvdbseason="3">
     <name>Ani ni Tsukeru Kusuri wa Nai! 3</name>
+  </anime>
+  <anime anidbid="14957" tvdbid="360553" defaulttvdbseason="2">
+    <name>Yatogame-chan Kansatsu Nikki Nisatsume</name>
   </anime>
   <anime anidbid="14964" tvdbid="357471" defaulttvdbseason="2">
     <name>Isekai Quartet 2</name>
@@ -33007,6 +33040,9 @@
   </anime>
   <anime anidbid="14968" tvdbid="359095" defaulttvdbseason="2">
     <name>Bokutachi wa Benkyou ga Dekinai!</name>
+  </anime>
+  <anime anidbid="14969" tvdbid="371662" defaulttvdbseason="1">
+    <name>Ishuzoku Reviewers</name>
   </anime>
   <anime anidbid="14970" tvdbid="movie" defaulttvdbseason="1">
     <name>Cencoroll 3</name>
@@ -33055,6 +33091,12 @@
   </anime>
   <anime anidbid="15010" tvdbid="web" defaulttvdbseason="1" imdbid="tt10682000">
     <name>Sound &amp; Fury</name>
+  </anime>
+  <anime anidbid="15014" tvdbid="374471" defaulttvdbseason="1">
+    <name>Rebirth</name>
+  </anime>
+  <anime anidbid="15016" tvdbid="374472" defaulttvdbseason="1">
+    <name>Oda Shinamon Nobunaga</name>
   </anime>
   <anime anidbid="15022" tvdbid="hentai" defaulttvdbseason="1">
     <name>Naedoko Demon's Ground</name>
@@ -33125,6 +33167,9 @@
   <anime anidbid="15094" tvdbid="hentai" defaulttvdbseason="1">
     <name>Hitozuma, Mitsu to Niku</name>
   </anime>
+  <anime anidbid="15096" tvdbid="369719" defaulttvdbseason="1">
+    <name>Runway de Waratte</name>
+  </anime>
   <anime anidbid="15101" tvdbid="370501" defaulttvdbseason="1" tmdbid="94299">
     <name>Taeko no Nichijou</name>
   </anime>
@@ -33149,6 +33194,9 @@
   <anime anidbid="15117" tvdbid="unknown" defaulttvdbseason="1">
     <name>Miki no Mikoto</name>
   </anime>
+  <anime anidbid="15121" tvdbid="373680" defaulttvdbseason="1">
+    <name>Murenase! Seton Gakuen</name>
+  </anime>
   <anime anidbid="15133" tvdbid="341436" defaulttvdbseason="2">
     <name>Major 2nd (2020)</name>
   </anime>
@@ -33164,14 +33212,32 @@
   <anime anidbid="15198" tvdbid="71863" defaulttvdbseason="0" episodeoffset="44">
     <name>Lupin Sansei: Prison of the Past</name>
   </anime>
+  <anime anidbid="15231" tvdbid="373345" defaulttvdbseason="1">
+    <name>Healin' Good Precure</name>
+  </anime>
   <anime anidbid="15259" tvdbid="259635" defaulttvdbseason="3">
     <name>Kingdom (2020)</name>
+  </anime>
+  <anime anidbid="15268" tvdbid="374493" defaulttvdbseason="1">
+    <name>Youkai Watch Jam: Youkai Gakuen Y - N to no Souguu</name>
   </anime>
   <anime anidbid="15271" tvdbid="341437" defaulttvdbseason="2">
     <name>Megalo Box 2</name>
   </anime>
+  <anime anidbid="15272" tvdbid="373701" defaulttvdbseason="1">
+    <name>Natsunagu!</name>
+  </anime>
+  <anime anidbid="15280" tvdbid="374495" defaulttvdbseason="1">
+    <name>Hulaing Babies Petit</name>
+  </anime>
+  <anime anidbid="15281" tvdbid="372753" defaulttvdbseason="1">
+    <name>Show by Rock!! Mashumairesh!!</name>
+  </anime>
   <anime anidbid="15305" tvdbid="355774" defaulttvdbseason="2">
     <name>Dr. Stone: Stone Wars</name>
+  </anime>
+  <anime anidbid="15309" tvdbid="373770" defaulttvdbseason="1">
+    <name>Hakumei no Tsubasa</name>
   </anime>
   <anime anidbid="15319" tvdbid="289909" defaulttvdbseason="5">
     <name>Shokugeki no Souma: Gou no Sara</name>
@@ -33185,7 +33251,13 @@
   <anime anidbid="15335" tvdbid="355480" defaulttvdbseason="2">
     <name>En'en no Shouboutai (2020)</name>
   </anime>
+  <anime anidbid="15348" tvdbid="358890" defaulttvdbseason="2">
+    <name>Hentatsu (2020)</name>
+  </anime>
   <anime anidbid="15363" tvdbid="272128" defaulttvdbseason="3">
     <name>Log Horizon: Entaku Houkai</name>
+  </anime>
+  <anime anidbid="15371" tvdbid="358890" defaulttvdbseason="0" episodeoffset="1">
+    <name>Hentatsu (2019)</name>
   </anime>
 </anime-list>

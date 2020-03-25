@@ -29423,6 +29423,9 @@
   <anime anidbid="14534" tvdbid="movie" defaulttvdbseason="1" imdbid="tt9426210">
     <name>Tenki no Ko</name>
   </anime>
+  <anime anidbid="14535" tvdbid="374787" defaulttvdbseason="1">
+    <name>Hachi-nan tte, Sore wa Nai deshou!</name>
+  </anime>
   <anime anidbid="14536" tvdbid="hentai" defaulttvdbseason="1">
     <name>Yue ni Hitozuma wa Netorareta.</name>
   </anime>
@@ -29618,6 +29621,9 @@
   <anime anidbid="14717" tvdbid="361704" defaulttvdbseason="1" tmdbid="88038" imdbid="tt10395126">
     <name>Granbelm</name>
   </anime>
+  <anime anidbid="14721" tvdbid="374198" defaulttvdbseason="1">
+    <name>Gleipnir</name>
+  </anime>
   <anime anidbid="14722" tvdbid="374769" defaulttvdbseason="1">
     <name>Breakers</name>
   </anime>
@@ -29690,6 +29696,9 @@
   <anime anidbid="14788" tvdbid="373676" defaulttvdbseason="1">
     <name>Number 24</name>
   </anime>
+  <anime anidbid="14789" tvdbid="372238" defaulttvdbseason="1">
+    <name>Kitsutsuki Tanteidokoro</name>
+  </anime>
   <anime anidbid="14791" tvdbid="346931" defaulttvdbseason="2">
     <name>Hataraku Saibou!!</name>
   </anime>
@@ -29734,6 +29743,9 @@
   </anime>
   <anime anidbid="14819" tvdbid="284131" defaulttvdbseason="3">
     <name>Nanatsu no Taizai: Kamigami no Gekirin</name>
+  </anime>
+  <anime anidbid="14822" tvdbid="372534" defaulttvdbseason="1">
+    <name>Yesterday o Utatte</name>
   </anime>
   <anime anidbid="14840" tvdbid="330139" defaulttvdbseason="0" episodeoffset="1" tmdbid="610892" imdbid="610892">
     <name>Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou</name>
@@ -29966,6 +29978,9 @@
   <anime anidbid="15135" tvdbid="357019" defaulttvdbseason="2">
     <name>Arifureta Shokugyou de Sekai Saikyou 2</name>
   </anime>
+  <anime anidbid="15136" tvdbid="371040" defaulttvdbseason="1">
+    <name>Nami yo Kiite Kure</name>
+  </anime>
   <anime anidbid="15143" tvdbid="367067" defaulttvdbseason="1" episodeoffset="12">
     <name>No Guns Life (2020)</name>
   </anime>
@@ -29980,6 +29995,9 @@
   </anime>
   <anime anidbid="15259" tvdbid="259635" defaulttvdbseason="3">
     <name>Kingdom (2020)</name>
+  </anime>
+  <anime anidbid="15267" tvdbid="372833" defaulttvdbseason="1">
+    <name>Kakushigoto</name>
   </anime>
   <anime anidbid="15268" tvdbid="374493" defaulttvdbseason="1">
     <name>Youkai Watch Jam: Youkai Gakuen Y - N to no Souguu</name>
@@ -30020,7 +30038,16 @@
   <anime anidbid="15363" tvdbid="272128" defaulttvdbseason="3">
     <name>Log Horizon: Entaku Houkai</name>
   </anime>
+  <anime anidbid="15364" tvdbid="376211" defaulttvdbseason="1">
+    <name>Fugou Keiji: Balance:Unlimited</name>
+  </anime>
   <anime anidbid="15371" tvdbid="358890" defaulttvdbseason="0" episodeoffset="1">
     <name>Hentatsu (2019)</name>
+  </anime>
+  <anime anidbid="15391" tvdbid="376729" defaulttvdbseason="1">
+    <name>Kami no Tou</name>
+  </anime>
+  <anime anidbid="15459" tvdbid="284131" defaulttvdbseason="4">
+    <name>Nanatsu no Taizai: Fundo no Shinpan</name>
   </anime>
 </anime-list>

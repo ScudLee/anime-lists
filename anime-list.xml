@@ -8502,7 +8502,7 @@
   <anime anidbid="2771" tvdbid="OVA" defaulttvdbseason="1" imdbid="unknown">
     <name>Netrun-mon The Movie 1: Net no Sumi de Blog to Sakebu</name>
   </anime>
-  <anime anidbid="2773" tvdbid="123601" defaulttvdbseason="1">
+  <anime anidbid="2773" tvdbid="354231" defaulttvdbseason="1">
     <name>6 Angels</name>
   </anime>
   <anime anidbid="2775" tvdbid="81477" defaulttvdbseason="3">
@@ -10345,7 +10345,7 @@
   <anime anidbid="3975" tvdbid="238691" defaulttvdbseason="1">
     <name>Spectral Force</name>
   </anime>
-  <anime anidbid="3978" tvdbid="OVA" defaulttvdbseason="1" imdbid="tt0331810">
+  <anime anidbid="3978" tvdbid="162041" defaulttvdbseason="1" imdbid="tt0331810">
     <name>1+2=Paradise</name>
   </anime>
   <anime anidbid="3982" tvdbid="hentai" defaulttvdbseason="1">
@@ -29375,7 +29375,7 @@
   <anime anidbid="14504" tvdbid="273005" defaulttvdbseason="3">
     <name>Dia no Ace: Act II</name>
   </anime>
-  <anime anidbid="14507" tvdbid="366417" defaulttvdbseason="1" tmdbid="85940" imdbid="tt9348718">
+  <anime anidbid="14507" tvdbid="356032" defaulttvdbseason="1" tmdbid="85940" imdbid="tt9348718">
     <name>7 Seeds</name>
   </anime>
   <anime anidbid="14512" tvdbid="361705" defaulttvdbseason="1" imdbid="tt10417586">
@@ -29989,6 +29989,9 @@
   </anime>
   <anime anidbid="15198" tvdbid="71863" defaulttvdbseason="0" episodeoffset="44">
     <name>Lupin Sansei: Prison of the Past</name>
+  </anime>
+  <anime anidbid="15229" tvdbid="356032" defaulttvdbseason="1" episodeoffset="12">
+    <name>7 Seeds (2020)</name>
   </anime>
   <anime anidbid="15231" tvdbid="373345" defaulttvdbseason="1">
     <name>Healin' Good Precure</name>

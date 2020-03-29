@@ -33284,6 +33284,12 @@
   <anime anidbid="15305" tvdbid="355774" defaulttvdbseason="2">
     <name>Dr. Stone: Stone Wars</name>
   </anime>
+  <anime anidbid="15308" tvdbid="0">
+    <name>Psycho-Pass 3: First Inspector</name>
+      <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-16;2-17;3-18;</mapping>
+    </mapping-list>
+  </anime>
   <anime anidbid="15309" tvdbid="373770" defaulttvdbseason="1">
     <name>Hakumei no Tsubasa</name>
   </anime>

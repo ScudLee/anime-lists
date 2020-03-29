@@ -40622,7 +40622,7 @@
   <anime anidbid="14763" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="630027" imdbid="">
     <name>Fragtime</name>
   </anime>
-  <anime anidbid="14764" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14764" tvdbid="267435" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
     <name>Yahari Ore no Seishun LoveCome wa Machigatte Iru. Kan</name>
   </anime>
   <anime anidbid="14765" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -41165,7 +41165,7 @@
   <anime anidbid="14959" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Huang Li Shi</name>
   </anime>
-  <anime anidbid="14960" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14960" tvdbid="376037" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Tamayomi</name>
   </anime>
   <anime anidbid="14961" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -41273,7 +41273,7 @@
   <anime anidbid="14996" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Maesetsu!</name>
   </anime>
-  <anime anidbid="14997" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14997" tvdbid="366460" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>BNA</name>
   </anime>
   <anime anidbid="14998" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -41315,7 +41315,7 @@
   <anime anidbid="15012" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Kotodama Shoujo the Animation: Microphone Soul Spinners</name>
   </anime>
-  <anime anidbid="15013" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="15013" tvdbid="372660" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Arte</name>
   </anime>
   <anime anidbid="15014" tvdbid="374471" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -42091,6 +42091,9 @@
   </anime>
   <anime anidbid="15308" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Psycho-Pass 3: First Inspector</name>
+      <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-16;2-17;3-18;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="15309" tvdbid="373770" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Hakumei no Tsubasa</name>
@@ -42515,7 +42518,7 @@
   <anime anidbid="15455" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>100-nichi Go ni Shinu Wani</name>
   </anime>
-  <anime anidbid="15456" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="15456" tvdbid="352408" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Tensei Shitara Slime Datta Ken (2021)</name>
   </anime>
   <anime anidbid="15457" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">

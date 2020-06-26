@@ -27626,7 +27626,7 @@
   <anime anidbid="10583" tvdbid="267440" defaulttvdbseason="0" imdbid="tt3646944,tt3646946">
     <name>Gekijouban Shingeki no Kyojin</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-14;2-15;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-19;2-20;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="10584" tvdbid="OVA" defaulttvdbseason="1">
@@ -31235,7 +31235,7 @@
   <anime anidbid="13257" tvdbid="337623" defaulttvdbseason="1">
     <name>Sora yori mo Tooi Basho</name>
   </anime>
-  <anime anidbid="13258" tvdbid="movie" defaulttvdbseason="0" imdbid="tt7112162">
+  <anime anidbid="13258" tvdbid="78878" defaulttvdbseason="3">
     <name>Furi Kuri Alternative</name>
   </anime>
   <anime anidbid="13259" tvdbid="337017" defaulttvdbseason="1">
@@ -33412,5 +33412,11 @@
   </anime>
   <anime anidbid="15484" tvdbid="305074" defaulttvdbseason="5">
     <name>Boku no Hero Academia 5</name>
+  </anime>
+  <anime anidbid="15593" tvdbid="305089" defaulttvdbseason="2" episodeoffset="12">
+    <name>Re:Zero kara Hajimeru Isekai Seikatsu (2021)</name>
+  </anime>
+  <anime anidbid="15604" tvdbid="371437" defaulttvdbseason="2">
+    <name>Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei Shiteshimatta... (2021)</name>
   </anime>
 </anime-list>

@@ -32867,6 +32867,15 @@
   <anime anidbid="14727" tvdbid="366263" defaulttvdbseason="1">
     <name>Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen</name>
   </anime>
+  <anime anidbid="14728" tvdbid="321532" defaulttvdbseason="2">
+    <name>Tsugu Tsugumomo</name>
+  </anime>
+  <anime anidbid="14729" tvdbid="321532" defaulttvdbseason="0">
+    <name>Tsugumomo (2020)</name>
+     <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-1;</mapping>
+    </mapping-list>
+  </anime>
   <anime anidbid="14733" tvdbid="352327" defaulttvdbseason="2">
     <name>Wei, Kan Jian Er Duo La! (2019)</name>
   </anime>

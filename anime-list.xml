@@ -29348,6 +29348,9 @@
   <anime anidbid="14484" tvdbid="hentai" defaulttvdbseason="1">
     <name>Wagaya no Liliana-san The Animation</name>
   </anime>
+  <anime anidbid="14485" tvdbid="313534" defaulttvdbseason="2">
+    <name>Tsukiuta. The Animation 2</name>
+  </anime>
   <anime anidbid="14486" tvdbid="369801" defaulttvdbseason="1" tmdbid="93819">
     <name>Actors: Songs Connection</name>
   </anime>
@@ -29747,6 +29750,9 @@
       <mapping anidbseason="1" tvdbseason="0">;1-98;2-99;3-100;4-101;5-102;6-103</mapping>
     </mapping-list>
   </anime>
+  <anime anidbid="14798" tvdbid="372959" defaulttvdbseason="1">
+    <name>Ochikobore Fruit Tart</name>
+  </anime>
   <anime anidbid="14801" tvdbid="348002" defaulttvdbseason="2">
     <name>Yakusoku no Neverland (2021)</name>
   </anime>
@@ -29927,11 +29933,17 @@
   <anime anidbid="14995" tvdbid="338455" defaulttvdbseason="3">
     <name>Golden Kamuy (2020)</name>
   </anime>
+  <anime anidbid="14996" tvdbid="371667" defaulttvdbseason="1">
+    <name>Maesetsu!</name>
+  </anime>
   <anime anidbid="14997" tvdbid="366460" defaulttvdbseason="1">
     <name>BNA</name>
   </anime>
   <anime anidbid="15001" tvdbid="373082" defaulttvdbseason="1">
     <name>Gibiate</name>
+  </anime>
+  <anime anidbid="15002" tvdbid="384017" defaulttvdbseason="1">
+    <name>Koi to Producer: Evol x Love</name>
   </anime>
   <anime anidbid="15003" tvdbid="movie" defaulttvdbseason="1" imdbid="tt10621032">
     <name>Lupin Sansei: The First</name>
@@ -30053,6 +30065,9 @@
   <anime anidbid="15146" tvdbid="259640" defaulttvdbseason="4" episodeoffset="12">
     <name>Sword Art Online: Alicization - War of Underworld (2020)</name>
   </anime>
+  <anime anidbid="15156" tvdbid="371097" defaulttvdbseason="1">
+    <name>Assault Lily: Bouquet</name>
+  </anime>
   <anime anidbid="15198" tvdbid="71863" defaulttvdbseason="0" episodeoffset="44">
     <name>Lupin Sansei: Prison of the Past</name>
   </anime>
@@ -30097,6 +30112,9 @@
   </anime>
   <anime anidbid="15283" tvdbid="278157" defaulttvdbseason="4" episodeoffset="13">
     <name>Haikyuu!! To the Top (202X)</name>
+  </anime>
+  <anime anidbid="15286" tvdbid="373131" defaulttvdbseason="1">
+    <name>Skate Leading Stars</name>
   </anime>
   <anime anidbid="15293" tvdbid="366263" defaulttvdbseason="1" episodeoffset="14">
     <name>Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen (2020)</name>
@@ -30181,6 +30199,9 @@
   </anime>
   <anime anidbid="15593" tvdbid="305089" defaulttvdbseason="2" episodeoffset="12">
     <name>Re:Zero kara Hajimeru Isekai Seikatsu (2021)</name>
+  </anime>
+  <anime anidbid="15603" tvdbid="384424">
+    <name>Ninja Collection</name>
   </anime>
   <anime anidbid="15604" tvdbid="371437" defaulttvdbseason="2">
     <name>Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei Shiteshimatta... (2021)</name>

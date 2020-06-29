@@ -28563,6 +28563,12 @@
   <anime anidbid="13676" tvdbid="343363" defaulttvdbseason="1">
     <name>Cutie Honey Universe</name>
   </anime>
+  <anime anidbid="13691" tvdbid="102261" defaulttvdbseason="0">
+    <name>Zoku Owarimonogatari</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-33;2-33;3-34;4-35;5-36;6-37;7-38;</mapping>
+    </mapping-list>
+  </anime>
   <anime anidbid="13695" tvdbid="340280" defaulttvdbseason="1">
     <name>Hinomaru Zumou</name>
   </anime>

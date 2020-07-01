@@ -3440,10 +3440,10 @@
   <anime anidbid="892" tvdbid="71459" defaulttvdbseason="0" episodeoffset="3">
     <name>Ai Tenshi Densetsu Wedding Peach DX</name>
   </anime>
-  <anime anidbid="893" tvdbid="81797" defaulttvdbseason="0" episodeoffset="3" imdbid="tt0832449">
+  <anime anidbid="893" tvdbid="81797" defaulttvdbseason="0" imdbid="tt0832449">
     <name>One Piece: Nejimakijima no Bouken</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-5;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-4;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="894" tvdbid="82319" defaulttvdbseason="1">
@@ -4545,10 +4545,10 @@
   <anime anidbid="1252" tvdbid="207111" defaulttvdbseason="1">
     <name>Kingdom of Chaos: Born to Kill</name>
   </anime>
-  <anime anidbid="1253" tvdbid="81797" defaulttvdbseason="0" episodeoffset="5" imdbid="tt0997084">
+  <anime anidbid="1253" tvdbid="81797" defaulttvdbseason="0" imdbid="tt0997084">
     <name>One Piece: Chinjuujima no Chopper Oukoku</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-7;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-6;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="1254" tvdbid="81797" defaulttvdbseason="0" imdbid="tt1006926">
@@ -8168,8 +8168,11 @@
       <mapping anidbseason="1" tvdbseason="0">;401-17;402-18;403-18;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="2644" tvdbid="81797" defaulttvdbseason="0" episodeoffset="12" imdbid="tt1018764">
+  <anime anidbid="2644" tvdbid="81797" defaulttvdbseason="0" imdbid="tt1018764">
     <name>One Piece: Omatsuri Danshaku to Himitsu no Shima</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-13;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="2645" tvdbid="72454" defaulttvdbseason="0" imdbid="tt0965649">
     <name>Meitantei Conan: Juuyonbanme no Target</name>
@@ -21019,10 +21022,10 @@
   <anime anidbid="8939" tvdbid="255904" defaulttvdbseason="0" episodeoffset="1" tmdbid="179883">
     <name>Eiga Smile Precure! Ehon no Naka wa Minna Chiguhagu!</name>
   </anime>
-  <anime anidbid="8940" tvdbid="81797" defaulttvdbseason="0" episodeoffset="26" imdbid="tt2375379">
+  <anime anidbid="8940" tvdbid="81797" defaulttvdbseason="0" imdbid="tt2375379">
     <name>One Piece Film: Z</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-26;2-26;3-26;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-27;2-27;3-27;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="8941" tvdbid="73988" defaulttvdbseason="2">
@@ -25991,10 +25994,10 @@
   <anime anidbid="11527" tvdbid="Movie" defaulttvdbseason="1" tmdbid="372762">
     <name>Gekijouban Tantei Opera Milky Holmes: Gyakushuu no Milky Holmes</name>
   </anime>
-  <anime anidbid="11529" tvdbid="81797" defaulttvdbseason="0" episodeoffset="33" imdbid="tt5251328">
+  <anime anidbid="11529" tvdbid="81797" defaulttvdbseason="0" imdbid="tt5251328">
     <name>One Piece Film: Gold</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-36;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-34;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="11530" tvdbid="OVA" defaulttvdbseason="1">
@@ -29200,6 +29203,12 @@
   </anime>
   <anime anidbid="14308" tvdbid="360593" defaulttvdbseason="1">
     <name>Chou Kadou Girl 1/6</name>
+  </anime>
+  <anime anidbid="14318" tvdbid="81797" defaulttvdbseason="0" tmdbid="568012" imdbid="tt9430698">
+    <name>Gekijouban One Piece: Stampede</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-39;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="14327" tvdbid="352192" defaulttvdbseason="1">
     <name>Inazuma Eleven: Orion no Kokuin</name>

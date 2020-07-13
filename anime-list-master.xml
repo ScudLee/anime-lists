@@ -36828,8 +36828,12 @@
   <anime anidbid="13429" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Lan Mo De Hua</name>
   </anime>
-  <anime anidbid="13430" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="13430" tvdbid="305089" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Re:Zero kara Hajimeru Isekai Seikatsu (2018)</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-27;2-29;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-26;2-28;</mapping>
+     </mapping-list>
   </anime>
   <anime anidbid="13431" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Glamorous Heroes</name>
@@ -37040,6 +37044,9 @@
   </anime>
   <anime anidbid="13500" tvdbid="337020" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Beatless</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-1;2-2;3-4;4-5;5-3;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="13501" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Kiniitta Chitsu ni Ikinari Nakadashi OK na Resort-tou</name>

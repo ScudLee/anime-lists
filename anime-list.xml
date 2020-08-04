@@ -28287,6 +28287,12 @@
   <anime anidbid="13426" tvdbid="344222" defaulttvdbseason="1">
     <name>Uchuu Senkan Tiramisu</name>
   </anime>
+  <anime anidbid="13430" tvdbid="305089" defaulttvdbseason="0">
+    <name>Re:Zero kara Hajimeru Isekai Seikatsu (2018)</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-26;2-28;</mapping>
+    </mapping-list>
+  </anime>
   <anime anidbid="13434" tvdbid="340011" defaulttvdbseason="1">
     <name>Hinamatsuri (2018)</name>
   </anime>
@@ -29266,6 +29272,12 @@
   </anime>
   <anime anidbid="14396" tvdbid="367277" defaulttvdbseason="1">
     <name>Azur Lane the Animation</name>
+  </anime>
+  <anime anidbid="15397" tvdbid="345596" defaulttvdbseason="0" imdbid="tt10472884">
+    <name>Seishun Buta Yarou wa Yumemiru Shoujo no Yume o Minai</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-6;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="14398" tvdbid="361439" defaulttvdbseason="1" tmdbid="93818">
     <name>Stand My Heroes: Piece of Truth</name>

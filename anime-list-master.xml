@@ -32255,8 +32255,11 @@
   <anime anidbid="11752" tvdbid="music video" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Leopard Eyes</name>
   </anime>
-  <anime anidbid="11753" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="11753" tvdbid="72454" defaulttvdbseason="0" imdbid="tt4954660">
     <name>Meitantei Conan: Junkoku no Nightmare</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-66;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="11754" tvdbid="312293" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Hakuouki: Otogisoushi</name>
@@ -34355,8 +34358,11 @@
   <anime anidbid="12563" tvdbid="325198" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Frame Arms Girl</name>
   </anime>
-  <anime anidbid="12564" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12564" tvdbid="72454" defaulttvdbseason="0" imdbid="tt5692622">
     <name>Meitantei Conan: Kara Kurenai no Love Letter</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-68;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="12565" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Balala Xiaomoxian: Qiji Wubu</name>
@@ -37332,8 +37338,11 @@
   <anime anidbid="13604" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Kitsune Tsuki</name>
   </anime>
-  <anime anidbid="13605" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt7880466">
+  <anime anidbid="13605" tvdbid="72454" defaulttvdbseason="0" imdbid="tt7880466">
     <name>Meitantei Conan: Zero no Shikkounin</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-69;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="13606" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Eiga Tomica Hyper Rescue Drive Head: Kidou Kyuukyuu Keisatsu</name>
@@ -39935,8 +39944,11 @@
   <anime anidbid="14519" tvdbid="360010" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Midara na Ao-chan wa Benkyou ga Dekinai</name>
   </anime>
-  <anime anidbid="14520" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14520" tvdbid="72454" defaulttvdbseason="0" imdbid="tt9501310">
     <name>Meitantei Conan: Konjou no Fist</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-70;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="14521" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Ikebukuro</name>

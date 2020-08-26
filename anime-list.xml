@@ -28275,6 +28275,13 @@
   <anime anidbid="13426" tvdbid="344222" defaulttvdbseason="1">
     <name>Uchuu Senkan Tiramisu</name>
   </anime>
+  <anime anidbid="13430" tvdbid="305089">
+    <name>Re:Zero kara Hajimeru Isekai Seikatsu (2018)</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-27;2-29;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-26;2-28;</mapping>
+    </mapping-list>
+  </anime>
   <anime anidbid="13434" tvdbid="340011" defaulttvdbseason="1">
     <name>Hinamatsuri (2018)</name>
   </anime>
@@ -28346,6 +28353,9 @@
   </anime>
   <anime anidbid="13500" tvdbid="337020" defaulttvdbseason="1">
     <name>Beatless</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-1;2-2;3-4;4-5;5-3;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="13501" tvdbid="hentai" defaulttvdbseason="1">
     <name>Kiniitta Chitsu ni Ikinari Nakadashi OK na Resort-tou</name>
@@ -29132,7 +29142,7 @@
   <anime anidbid="14223" tvdbid="353624" defaulttvdbseason="1">
     <name>Youkoso Japari Park</name>
   </anime>
-  <anime anidbid="14229" tvdbid="354171" defaulttvdbseason="1" tmdbid="83104" imdbid="tt8731478">
+  <anime anidbid="14229" tvdbid="354171" defaulttvdbseason="1" imdbid="tt8731478">
     <name>Mahou Shoujo Tokushusen Asuka</name>
   </anime>
   <anime anidbid="14230" tvdbid="305075" defaulttvdbseason="2">
@@ -29594,7 +29604,7 @@
   <anime anidbid="14661" tvdbid="361456" defaulttvdbseason="1" imdbid="tt10483250">
     <name>Kanata no Astra</name>
   </anime>
-  <anime anidbid="14662" tvdbid="366334" defaulttvdbseason="1" tmdbid="88051" imdbid="tt10431310">
+  <anime anidbid="14662" tvdbid="361714" defaulttvdbseason="1" imdbid="tt10431310">
     <name>Katsute Kami Datta Kemono-tachi e</name>
   </anime>
   <anime anidbid="14663" tvdbid="358828" defaulttvdbseason="1">
@@ -30132,7 +30142,7 @@
     <name>Show by Rock!! Mashumairesh!!</name>
   </anime>
   <anime anidbid="15283" tvdbid="278157" defaulttvdbseason="4" episodeoffset="13">
-    <name>Haikyuu!! To the Top (202X)</name>
+    <name>Haikyuu!! To the Top (2020)</name>
   </anime>
   <anime anidbid="15286" tvdbid="373131" defaulttvdbseason="1">
     <name>Skate Leading Stars</name>

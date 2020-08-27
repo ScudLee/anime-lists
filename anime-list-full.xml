@@ -30442,7 +30442,7 @@
   <anime anidbid="12439" tvdbid="294002" defaulttvdbseason="0">
     <name>Gekijouban Soushuuhen Overlord</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-12;2-13;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-12;2-13;3-14;4-15;</mapping>
       <mapping anidbseason="1" tvdbseason="0">;1-10;2-11;</mapping>
     </mapping-list>
   </anime>
@@ -32130,7 +32130,7 @@
   <anime anidbid="14008" tvdbid="294002" defaulttvdbseason="3">
     <name>Overlord III</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0" start="1" end="13" offset="26"/>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="13" offset="28"/>
     </mapping-list>
   </anime>
   <anime anidbid="14025" tvdbid="352681" defaulttvdbseason="1">
@@ -32607,7 +32607,7 @@
   <anime anidbid="14493" tvdbid="360445" defaulttvdbseason="1">
     <name>RobiHachi</name>
   </anime>
-  <anime anidbid="14494" tvdbid="294002" defaulttvdbseason="0" episodeoffset="39">
+  <anime anidbid="14494" tvdbid="294002" defaulttvdbseason="0" episodeoffset="41">
     <name>Ple Ple Pleiades: Clementine Toubou Hen</name>
   </anime>
   <anime anidbid="14495" tvdbid="369139" defaulttvdbseason="1" imdbid="tt11100658">

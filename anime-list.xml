@@ -28278,7 +28278,7 @@
   <anime anidbid="13426" tvdbid="344222" defaulttvdbseason="1">
     <name>Uchuu Senkan Tiramisu</name>
   </anime>
-  <anime anidbid="13430" tvdbid="305089">
+  <anime anidbid="13430" tvdbid="305089" defaulttvdbseason="0">
     <name>Re:Zero kara Hajimeru Isekai Seikatsu (2018)</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-27;2-29;</mapping>

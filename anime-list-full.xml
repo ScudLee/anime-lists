@@ -3415,7 +3415,7 @@
   <anime anidbid="880" tvdbid="79237" defaulttvdbseason="2">
     <name>Grappler Baki: Saidai Tournament Hen</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="2">;1-24;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-3;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="881" tvdbid="109001" defaulttvdbseason="1">
@@ -23163,7 +23163,7 @@
   <anime anidbid="8655" tvdbid="244061" defaulttvdbseason="0" tmdbid="83380">
     <name>Steins;Gate: Fuka Ryouiki no Deja vu</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-2;2-0;3-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-8;2-0;3-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="8656" tvdbid="unknown" defaulttvdbseason="3">
@@ -30321,7 +30321,7 @@
   <anime anidbid="12344" tvdbid="305074" defaulttvdbseason="0">
     <name>Boku no Hero Academia (2016)</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;2-3;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;2-3;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="12349" tvdbid="321695" defaulttvdbseason="1">
@@ -31362,6 +31362,9 @@
   <anime anidbid="13332" tvdbid="278157" defaulttvdbseason="0" episodeoffset="4">
     <name>Haikyuu!! Karasuno Koukou vs Shiratorizawa Gakuen Koukou: Tokushuu! Haru Kou Volley ni Kaketa Seishun</name>
   </anime>
+  <anime anidbid="13334" tvdbid="321285" defaulttvdbseason="0" episodeoffset="2">
+    <name>Boruto Narutimate Storm Ver.</name>
+  </anime>
   <anime anidbid="13335" tvdbid="332981" defaulttvdbseason="1">
     <name>Ousama Game: The Animation</name>
   </anime>
@@ -31903,6 +31906,12 @@
   </anime>
   <anime anidbid="13807" tvdbid="275582" defaulttvdbseason="4">
     <name>Youkai Watch: Shadow Side</name>
+  </anime>
+  <anime anidbid="13812" tvdbid="262954" defaulttvdbseason="0">
+    <name>Kishibe Rohan wa Ugokanai</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-1;2-2;3-6;4-7;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="13813" tvdbid="344200" defaulttvdbseason="1">
     <name>Chuukan Kanriroku Tonegawa</name>
@@ -32969,6 +32978,9 @@
   </anime>
   <anime anidbid="14780" tvdbid="346673" defaulttvdbseason="2">
     <name>High Score Girl II</name>
+  </anime>
+  <anime anidbid="14782" tvdbid="350166" defaulttvdbseason="0" episodeoffset="1">
+    <name>Goblin Slayer: Goblin's Crown</name>
   </anime>
   <anime anidbid="14785" tvdbid="372921" defaulttvdbseason="1">
     <name>Somali to Mori no Kamisama</name>

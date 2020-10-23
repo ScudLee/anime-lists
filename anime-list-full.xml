@@ -33276,7 +33276,7 @@
   <anime anidbid="15071" tvdbid="353712" defaulttvdbseason="3">
     <name>Tate no Yuusha no Nariagari Season 3</name>
   </anime>
-  <anime anidbid="15073" tvdbid="82348" defaulttvdbseason="1">
+  <anime anidbid="15073" tvdbid="381769" defaulttvdbseason="1">
     <name>Ikebukuro West Gate Park</name>
   </anime>
   <anime anidbid="15075" tvdbid="unknown" defaulttvdbseason="1">
@@ -33294,6 +33294,9 @@
   <anime anidbid="15094" tvdbid="hentai" defaulttvdbseason="1">
     <name>Hitozuma, Mitsu to Niku</name>
   </anime>
+  <anime anidbid="15095" tvdbid="387840" defaulttvdbseason="1">
+    <name>Maou-jou de Oyasumi</name>
+  </anime>
   <anime anidbid="15096" tvdbid="369719" defaulttvdbseason="1">
     <name>Runway de Waratte</name>
   </anime>
@@ -33306,8 +33309,17 @@
   <anime anidbid="15110" tvdbid="354179" defaulttvdbseason="2">
     <name>Kengan Ashura 2nd Season</name>
   </anime>
+  <anime anidbid="15111" tvdbid="289882" defaulttvdbseason="3">
+    <name>Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth III</name>
+  </anime>
   <anime anidbid="15112" tvdbid="unknown">
     <name>Sylvanian Families: Mini Story - Clover</name>
+  </anime>
+  <anime anidbid="15113" tvdbid="348545" defaulttvdbseason="0">
+    <name>Gekijouban Kimetsu no Yaiba: Mugen Ressha Hen</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="15114" tvdbid="hentai" defaulttvdbseason="1">
     <name>Nozoki Kanojo</name>
@@ -33326,6 +33338,9 @@
   </anime>
   <anime anidbid="15131" tvdbid="375927" defaulttvdbseason="1">
     <name>Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei Shite Shison-tachi no Gakkou e Kayou</name>
+  </anime>
+  <anime anidbid="15132" tvdbid="178329" defaulttvdbseason="2">
+    <name>Mahouka Koukou no Rettousei: Raihousha Hen</name>
   </anime>
   <anime anidbid="15133" tvdbid="341436" defaulttvdbseason="2">
     <name>Major 2nd (2020)</name>
@@ -33351,8 +33366,14 @@
   <anime anidbid="15198" tvdbid="71863" defaulttvdbseason="0" episodeoffset="44">
     <name>Lupin Sansei: Prison of the Past</name>
   </anime>
+  <anime anidbid="15202" tvdbid="371436" defaulttvdbseason="1">
+    <name>Majo no Tabitabi</name>
+  </anime>
   <anime anidbid="15207" tvdbid="354198" defaulttvdbseason="2">
     <name>Kaguya-sama wa Kokurasetai? Tensai-tachi no Ren'ai Zunousen</name>
+  </anime>
+  <anime anidbid="15216" tvdbid="387027" defaulttvdbseason="1">
+    <name>Kimi to Boku no Saigo no Senjou, Arui wa Sekai ga Hajimaru Seisen</name>
   </anime>
   <anime anidbid="15229" tvdbid="356032" defaulttvdbseason="1" episodeoffset="12">
     <name>7 Seeds (2020)</name>
@@ -33429,6 +33450,9 @@
   <anime anidbid="15322" tvdbid="283934" defaulttvdbseason="3">
     <name>World Trigger 2</name>
   </anime>
+  <anime anidbid="15324" tvdbid="385542" defaulttvdbseason="1">
+    <name>Yuukoku no Moriarty</name>
+  </anime>
   <anime anidbid="15329" tvdbid="368862" defaulttvdbseason="0" episodeoffset="1">
     <name>Ore o Suki na no wa Omae dake ka yo: Oretachi no Game Set</name>
   </anime>
@@ -33465,14 +33489,23 @@
   <anime anidbid="15408" tvdbid="378556" defaulttvdbseason="1">
     <name>The God of High School</name>
   </anime>
+  <anime anidbid="15409" tvdbid="386818" defaulttvdbseason="1">
+    <name>Noblesse</name>
+  </anime>
   <anime anidbid="15413" tvdbid="381768" defaulttvdbseason="1">
     <name>Sen'yoku no Sigrdrifa</name>
   </anime>
   <anime anidbid="15415" tvdbid="383518" defaulttvdbseason="1">
     <name>100-man no Inochi no Ue ni Ore wa Tatte Iru</name>
   </anime>
+  <anime anidbid="15421" tvdbid="385077" defaulttvdbseason="1">
+    <name>Tonikaku Kawaii</name>
+  </anime>
   <anime anidbid="15437" tvdbid="378879" defaulttvdbseason="1">
     <name>Akudama Drive</name>
+  </anime>
+  <anime anidbid="15448" tvdbid="389459" defaulttvdbseason="1">
+    <name>Burn the Witch</name>
   </anime>
   <anime anidbid="15456" tvdbid="352408">
     <name>Tensei Shitara Slime Datta Ken (2021)</name>
@@ -33483,8 +33516,17 @@
   <anime anidbid="15484" tvdbid="305074" defaulttvdbseason="5">
     <name>Boku no Hero Academia 5</name>
   </anime>
+  <anime anidbid="15519" tvdbid="386191" defaulttvdbseason="1">
+    <name>Iwa Kakeru! Sport Climbing Girls</name>
+  </anime>
+  <anime anidbid="15530" tvdbid="387510" defaulttvdbseason="1">
+    <name>King's Raid: Ishi o Tsugu Mono-tachi</name>
+  </anime>
   <anime anidbid="15546" tvdbid="384485" defaulttvdbseason="1">
     <name>Han'you no Yashahime: Sengoku Otogizoushi</name>
+  </anime>
+  <anime anidbid="15559" tvdbid="384757" defaulttvdbseason="1">
+    <name>Kamisama ni Natta Hi</name>
   </anime>
   <anime anidbid="15593" tvdbid="305089" defaulttvdbseason="2" episodeoffset="12">
     <name>Re:Zero kara Hajimeru Isekai Seikatsu (2021)</name>

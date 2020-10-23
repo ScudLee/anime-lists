@@ -41505,7 +41505,7 @@
   <anime anidbid="15072" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Gal to Kyouryuu</name>
   </anime>
-  <anime anidbid="15073" tvdbid="82348" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="15073" tvdbid="381769" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Ikebukuro West Gate Park</name>
   </anime>
   <anime anidbid="15074" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -41568,7 +41568,7 @@
   <anime anidbid="15094" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Hitozuma, Mitsu to Niku</name>
   </anime>
-  <anime anidbid="15095" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="15095" tvdbid="387840" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Maou-jou de Oyasumi</name>
   </anime>
   <anime anidbid="15096" tvdbid="369719" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -41610,14 +41610,17 @@
   <anime anidbid="15110" tvdbid="354179" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Kengan Ashura 2nd Season</name>
   </anime>
-  <anime anidbid="15111" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="15111" tvdbid="289882" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
     <name>Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth III</name>
   </anime>
   <anime anidbid="15112" tvdbid="unknown" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Sylvanian Families: Mini Story - Clover</name>
   </anime>
-  <anime anidbid="15113" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="15113" tvdbid="348545" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Gekijouban Kimetsu no Yaiba: Mugen Ressha Hen</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="15114" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Nozoki Kanojo</name>
@@ -41673,7 +41676,7 @@
   <anime anidbid="15131" tvdbid="375927" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei Shite Shison-tachi no Gakkou e Kayou</name>
   </anime>
-  <anime anidbid="15132" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="15132" tvdbid="178329" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Mahouka Koukou no Rettousei: Raihousha Hen</name>
   </anime>
   <anime anidbid="15133" tvdbid="341436" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
@@ -41781,7 +41784,7 @@
   <anime anidbid="15201" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita</name>
   </anime>
-  <anime anidbid="15202" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="15202" tvdbid="371436" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Majo no Tabitabi</name>
   </anime>
   <anime anidbid="15203" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -41823,7 +41826,7 @@
   <anime anidbid="15215" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari</name>
   </anime>
-  <anime anidbid="15216" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="15216" tvdbid="387027" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Kimi to Boku no Saigo no Senjou, Arui wa Sekai ga Hajimaru Seisen</name>
   </anime>
   <anime anidbid="15217" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -42141,7 +42144,7 @@
   <anime anidbid="15323" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Kemono Jihen</name>
   </anime>
-  <anime anidbid="15324" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="15324" tvdbid="385542" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Yuukoku no Moriarty</name>
   </anime>
   <anime anidbid="15326" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -42384,7 +42387,7 @@
   <anime anidbid="15408" tvdbid="378556" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>The God of High School</name>
   </anime>
-  <anime anidbid="15409" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="15409" tvdbid="386818" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Noblesse</name>
   </anime>
   <anime anidbid="15411" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -42414,7 +42417,7 @@
   <anime anidbid="15419" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Obake Zukan</name>
   </anime>
-  <anime anidbid="15421" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="15421" tvdbid="385077" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Tonikaku Kawaii</name>
   </anime>
   <anime anidbid="15422" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -42486,7 +42489,7 @@
   <anime anidbid="15447" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Kyojin-zoku no Hanayome</name>
   </anime>
-  <anime anidbid="15448" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="15448" tvdbid="389459" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Burn the Witch</name>
   </anime>
   <anime anidbid="15449" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -42690,7 +42693,7 @@
   <anime anidbid="15518" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Natsu ga Owaru made The Animation</name>
   </anime>
-  <anime anidbid="15519" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="15519" tvdbid="386191" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Iwa Kakeru! Sport Climbing Girls</name>
   </anime>
   <anime anidbid="15520" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -42720,7 +42723,7 @@
   <anime anidbid="15529" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Tottoko Hamtarou: Hiragana Tanken</name>
   </anime>
-  <anime anidbid="15530" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="15530" tvdbid="387510" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>King's Raid: Ishi o Tsugu Mono-tachi</name>
   </anime>
   <anime anidbid="15531" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -42783,7 +42786,7 @@
   <anime anidbid="15557" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Ore dake Haireru Kakushi Dungeon</name>
   </anime>
-  <anime anidbid="15559" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="15559" tvdbid="384757" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Kamisama ni Natta Hi</name>
   </anime>
   <anime anidbid="15560" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">

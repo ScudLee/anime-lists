@@ -31907,6 +31907,12 @@
   <anime anidbid="13807" tvdbid="275582" defaulttvdbseason="4">
     <name>Youkai Watch: Shadow Side</name>
   </anime>
+  <anime anidbid="13812" tvdbid="262954" defaulttvdbseason="0">
+    <name>Kishibe Rohan wa Ugokanai</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-1;2-2;3-6;4-7;</mapping>
+    </mapping-list>
+  </anime>
   <anime anidbid="13813" tvdbid="344200" defaulttvdbseason="1">
     <name>Chuukan Kanriroku Tonegawa</name>
   </anime>

@@ -29297,6 +29297,12 @@
   <anime anidbid="14396" tvdbid="367277" defaulttvdbseason="1">
     <name>Azur Lane the Animation</name>
   </anime>
+  <anime anidbid="14397" tvdbid="345596" defaulttvdbseason="0" imdbid="tt10472884">
+    <name>Seishun Buta Yarou wa Yumemiru Shoujo no Yume o Minai</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-6;</mapping>
+    </mapping-list>
+  </anime>
   <anime anidbid="14398" tvdbid="361439" defaulttvdbseason="1" tmdbid="93818">
     <name>Stand My Heroes: Piece of Truth</name>
   </anime>

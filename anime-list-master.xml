@@ -28637,8 +28637,8 @@
     <name>Amagi Brilliant Park</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-13;</mapping>
-      <mapping anidbseason="0" tvdbseason="0" start="2" end="8" offset="4"/>
-      <mapping anidbseason="0" tvdbseason="0" start="101" end="105" offset="-100"/>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="1" offset="7"/>
+      <mapping anidbseason="0" tvdbseason="0" start="2" end="8" offset="-1"/>
     </mapping-list>
   </anime>
   <anime anidbid="10400" tvdbid="277464" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">

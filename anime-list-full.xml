@@ -918,7 +918,7 @@
       <mapping anidbseason="0" tvdbseason="0" start="1" end="2" offset="1">;3-0;4-0;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="202" tvdbid="70350" defaulttvdbseason="0" episodeoffset="1" imdbid="tt0169858">
+  <anime anidbid="202" tvdbid="70350" defaulttvdbseason="0" episodeoffset="2" imdbid="tt0169858">
     <name>Shinseiki Evangelion Gekijouban: Air / Magokoro o, Kimi ni</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
@@ -13926,7 +13926,7 @@
   <anime anidbid="4845" tvdbid="258961" defaulttvdbseason="1">
     <name>Nanako SOS</name>
   </anime>
-  <anime anidbid="4847" tvdbid="70350" defaulttvdbseason="0" episodeoffset="2" imdbid="tt0923811">
+  <anime anidbid="4847" tvdbid="70350" defaulttvdbseason="0" episodeoffset="3" imdbid="tt0923811">
     <name>Evangelion Shin Gekijouban: Jo</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
@@ -16842,7 +16842,7 @@
       <mapping anidbseason="0" tvdbseason="0">;1-2;2-3;3-0;4-0;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="6171" tvdbid="70350" defaulttvdbseason="0" episodeoffset="3" imdbid="tt0860906">
+  <anime anidbid="6171" tvdbid="70350" defaulttvdbseason="0" episodeoffset="4" imdbid="tt0860906">
     <name>Evangelion Shin Gekijouban: Ha</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;</mapping>
@@ -20515,7 +20515,7 @@
   <anime anidbid="7564" tvdbid="164741" defaulttvdbseason="0" imdbid="unknown">
     <name>Ninja Hattori-kun: Nin Nin Ninpo Enikki no Maki</name>
   </anime>
-  <anime anidbid="7565" tvdbid="70350" defaulttvdbseason="0" episodeoffset="4" imdbid="tt0860907">
+  <anime anidbid="7565" tvdbid="70350" defaulttvdbseason="0" episodeoffset="5" imdbid="tt0860907">
     <name>Evangelion Shin Gekijouban: Q</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;</mapping>
@@ -28348,7 +28348,7 @@
   <anime anidbid="10936" tvdbid="289903" defaulttvdbseason="1">
     <name>Kyoukai no Rinne</name>
   </anime>
-  <anime anidbid="10937" tvdbid="328719" defaulttvdbseason="1" imdbid="tt5323662">
+  <anime anidbid="10937" tvdbid="movie" defaulttvdbseason="1" imdbid="tt5323662">
     <name>Eiga Koe no Katachi</name>
   </anime>
   <anime anidbid="10938" tvdbid="295243" defaulttvdbseason="1">
@@ -31426,6 +31426,9 @@
   </anime>
   <anime anidbid="13362" tvdbid="339276" defaulttvdbseason="1">
     <name>Hakumei to Mikochi</name>
+  </anime>
+  <anime anidbid="13363" tvdbid="movie" defaulttvdbseason="1" imdbid="tt7236034">
+    <name>Kimi no Suizou o Tabetai</name>
   </anime>
   <anime anidbid="13376" tvdbid="337015" defaulttvdbseason="1">
     <name>Takunomi.</name>

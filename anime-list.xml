@@ -30062,9 +30062,6 @@
   <anime anidbid="15033" tvdbid="370373" defaulttvdbseason="1" tmdbid="94214">
     <name>Urashimasakatasen no Nichijou</name>
   </anime>
-  <anime anidbid="15333" tvdbid="369139" defaulttvdbseason="2">
-    <name>Quanzhi Gaoshou: Dianfeng Rongyao</name>
-  </anime>
   <anime anidbid="15036" tvdbid="313676" defaulttvdbseason="2" tmdbid="94190">
     <name>Bananya: Fushigi na Nakama-tachi</name>
   </anime>
@@ -30352,5 +30349,23 @@
   </anime>
   <anime anidbid="15627" tvdbid="300989" defaulttvdbseason="3">
     <name>Osomatsu-san (2020)</name>
+  </anime>
+  <anime anidbid="15689" tvdbid="386981" defaulttvdbseason="1">
+    <name>Taisou Zamurai</name>
+  </anime>
+  <anime anidbid="15727" tvdbid="389235" defaulttvdbseason="1">
+    <name>Sore dake ga Neck</name>
+  </anime>
+  <anime anidbid="15738" tvdbid="357488" defaulttvdbseason="3">
+    <name>Fruits Basket the Final</name>
+  </anime>
+  <anime anidbid="15774" tvdbid="385542" defaulttvdbseason="1" episodeoffset="12">
+    <name>Yuukoku no Moriarty (2021)</name>
+  </anime>
+  <anime anidbid="15806" tvdbid="354198" defaulttvdbseason="3">
+    <name>Kaguya-sama wa Kokurasetai: Tensai-tachi no Ren'ai Zunousen 3</name>
+  </anime>
+  <anime anidbid="15807" tvdbid="354198" defaulttvdbseason="0">
+    <name>Kaguya-sama wa Kokurasetai: Tensai-tachi no Ren'ai Zunousen (2021)</name>
   </anime>
 </anime-list>

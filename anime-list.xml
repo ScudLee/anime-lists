@@ -30338,6 +30338,12 @@
   <anime anidbid="15559" tvdbid="384757" defaulttvdbseason="1">
     <name>Kamisama ni Natta Hi</name>
   </anime>
+  <anime anidbid="15582" tvdbid="267440" defaulttvdbseason="0">
+    <name>Shingeki no Kyojin: Chronicle</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-24;</mapping>
+    </mapping-list>
+  </anime>
   <anime anidbid="15593" tvdbid="305089" defaulttvdbseason="2" episodeoffset="12">
     <name>Re:Zero kara Hajimeru Isekai Seikatsu (2021)</name>
   </anime>

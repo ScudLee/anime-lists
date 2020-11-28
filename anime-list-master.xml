@@ -28347,11 +28347,8 @@
   <anime anidbid="10273" tvdbid="278819" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Isshuukan Friends.</name>
   </anime>
-  <anime anidbid="10274" tvdbid="79214" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="10274" tvdbid="79214" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="">
     <name>Mushishi Tokubetsu Hen: Hihamu Kage</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="10276" tvdbid="276346" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Double Circle</name>

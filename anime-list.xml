@@ -5419,6 +5419,9 @@
   </anime>
   <anime anidbid="1544" tvdbid="75941" defaulttvdbseason="1">
     <name>Elfen Lied</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-4;4-2;5-3;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="1545" tvdbid="181851" defaulttvdbseason="1" episodeoffset="1">
     <name>Midnight Eye Gokuu II</name>
@@ -11343,7 +11346,7 @@
   <anime anidbid="4401" tvdbid="movie" defaulttvdbseason="1" imdbid="tt1343712">
     <name>First Squad: The Moment of Truth</name>
   </anime>
-  <anime anidbid="4402" tvdbid="80644" defaulttvdbseason="0" imdbid="tt0997274">
+  <anime anidbid="4402" tvdbid="80644" defaulttvdbseason="0" episodeoffset="3" imdbid="tt0997274">
     <name>Gekijouban Clannad</name>
     <supplemental-info>
       <studio>Toei Animation</studio>
@@ -12754,9 +12757,8 @@
   <anime anidbid="5101" tvdbid="80644" defaulttvdbseason="1">
     <name>Clannad</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="1">;1-23;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-1;2-2;</mapping>
     </mapping-list>
-    <before>;1-23;</before>
   </anime>
   <anime anidbid="5104" tvdbid="79156" defaulttvdbseason="0" imdbid="tt1135522">
     <name>Shin Kyuuseishu Densetsu Hokuto no Ken Raou-den Gekitou no Shou</name>
@@ -14006,6 +14008,7 @@
   <anime anidbid="5841" tvdbid="80644" defaulttvdbseason="2">
     <name>Clannad: After Story</name>
     <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;3-3;</mapping>
       <mapping anidbseason="0" tvdbseason="2">;1-23;2-24;</mapping>
     </mapping-list>
   </anime>
@@ -18888,7 +18891,7 @@
   <anime anidbid="8090" tvdbid="85249" defaulttvdbseason="0" tmdbid="80518">
     <name>Hagane no Renkinjutsushi: Milos no Seinaru Hoshi</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-5;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-21;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="8091" tvdbid="tv special" defaulttvdbseason="1" imdbid="unknown">
@@ -23877,7 +23880,7 @@
   <anime anidbid="10273" tvdbid="278819" defaulttvdbseason="1">
     <name>Isshuukan Friends.</name>
   </anime>
-  <anime anidbid="10274" tvdbid="79214" defaulttvdbseason="0">
+  <anime anidbid="10274" tvdbid="79214" defaulttvdbseason="0" episodeoffset="1">
     <name>Mushishi Tokubetsu Hen: Hihamu Kage</name>
   </anime>
   <anime anidbid="10276" tvdbid="276346" defaulttvdbseason="1">
@@ -24060,8 +24063,7 @@
   <anime anidbid="10384" tvdbid="79214" defaulttvdbseason="2">
     <name>Mushishi Zoku Shou</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-2;2-3;</mapping>
-      <mapping anidbseason="1" tvdbseason="0">;11-4+5;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;11-3+4;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="10385" tvdbid="279554" defaulttvdbseason="1">
@@ -25322,7 +25324,7 @@
   <anime anidbid="10991" tvdbid="79214" defaulttvdbseason="0">
     <name>Mushishi Zoku Shou: Suzu no Shizuku</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-6;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-5;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="10992" tvdbid="81831" defaulttvdbseason="4">
@@ -30062,6 +30064,9 @@
   <anime anidbid="15033" tvdbid="370373" defaulttvdbseason="1" tmdbid="94214">
     <name>Urashimasakatasen no Nichijou</name>
   </anime>
+  <anime anidbid="15035" tvdbid="326270" defaulttvdbseason="0" episodeoffset="3">
+    <name>Quanzhi Gaoshou: Dianfeng Rongyao</name>
+  </anime>
   <anime anidbid="15036" tvdbid="313676" defaulttvdbseason="2" tmdbid="94190">
     <name>Bananya: Fushigi na Nakama-tachi</name>
   </anime>
@@ -30349,6 +30354,9 @@
   </anime>
   <anime anidbid="15627" tvdbid="300989" defaulttvdbseason="3">
     <name>Osomatsu-san (2020)</name>
+  </anime>
+  <anime anidbid="15672" tvdbid="305074" defaulttvdbseason="0" episodeoffset="7">
+    <name>Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren</name>
   </anime>
   <anime anidbid="15689" tvdbid="386981" defaulttvdbseason="1">
     <name>Taisou Zamurai</name>

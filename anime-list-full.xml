@@ -30455,7 +30455,7 @@
   <anime anidbid="12430" tvdbid="293088" defaulttvdbseason="2">
     <name>One Punch Man (2019)</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-8;2-9;3-10;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-8;2-9;3-10;4-11;5-12;6-13;7-14</mapping>
     </mapping-list>
     <before>;1-1;2-3;</before>
   </anime>
@@ -31960,14 +31960,11 @@
   <anime anidbid="13829" tvdbid="289882" defaulttvdbseason="2">
     <name>Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth II</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-3;2-4;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;2-3;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="13830" tvdbid="289882" defaulttvdbseason="0" episodeoffset="1" imdbid="tt9526152">
+  <anime anidbid="13830" tvdbid="289882" defaulttvdbseason="0" episodeoffset="3" imdbid="tt9526152">
     <name>Gekijouban Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Orion no Ya</name>
-    <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="13831" tvdbid="350166" defaulttvdbseason="1">
     <name>Goblin Slayer</name>

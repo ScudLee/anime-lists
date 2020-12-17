@@ -7023,7 +7023,7 @@
   <anime anidbid="2185" tvdbid="movie" defaulttvdbseason="1" imdbid="tt1121794">
     <name>Stranger: Mukou Hadan</name>
   </anime>
-  <anime anidbid="2186" tvdbid="254931" defaulttvdbseason="2">
+  <anime anidbid="2186" tvdbid="74890" defaulttvdbseason="1">
     <name>Kidou Senshi Gundam SEED Destiny</name>
     <supplemental-info>
       <studio>Sunrise</studio>
@@ -20042,7 +20042,7 @@
       <mapping anidbseason="0" tvdbseason="0">;2-3;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="8557" tvdbid="movie" defaulttvdbseason="1" imdbid="tt2261471">
+  <anime anidbid="8557" tvdbid="movie" defaulttvdbseason="1" imdbid="tt1709652">
     <name>Dragon Age: Blood Mage no Seisen</name>
   </anime>
   <anime anidbid="8560" tvdbid="247933" defaulttvdbseason="0">
@@ -26428,6 +26428,9 @@
   <anime anidbid="11841" tvdbid="music video" defaulttvdbseason="1">
     <name>Yes! Bang Dream!</name>
   </anime>
+  <anime anidbid="11842" tvdbid="movie" imdbid="tt5889204">
+    <name>Pokemon The Movie XY&amp;Z: Volcanion to Karakuri no Magiana</name>
+  </anime>
   <anime anidbid="11843" tvdbid="312723" defaulttvdbseason="2">
     <name>Bonobono (2016)</name>
   </anime>
@@ -26802,6 +26805,9 @@
   </anime>
   <anime anidbid="12048" tvdbid="299497" defaulttvdbseason="2">
     <name>Kidou Senshi Gundam: Tekketsu no Orphans (2016)</name>
+  </anime>
+  <anime anidbid="12054" tvdbid="movie" imdbid="tt5595168">
+    <name>Kingsglaive: Final Fantasy XV</name>
   </anime>
   <anime anidbid="12057" tvdbid="319997" defaulttvdbseason="1">
     <name>Kemono Friends</name>
@@ -30286,6 +30292,9 @@
   </anime>
   <anime anidbid="15351" tvdbid="375271" defaulttvdbseason="1">
     <name>Fumetsu no Anata e</name>
+  </anime>
+  <anime anidbid="15358" tvdbid="376003">
+    <name>Digimon Adventure:</name>
   </anime>
   <anime anidbid="15363" tvdbid="272128" defaulttvdbseason="3">
     <name>Log Horizon: Entaku Houkai</name>

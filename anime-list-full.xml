@@ -27952,11 +27952,8 @@
   <anime anidbid="10751" tvdbid="289310" defaulttvdbseason="1">
     <name>Military!</name>
   </anime>
-  <anime anidbid="10755" tvdbid="278626" defaulttvdbseason="0" imdbid="tt4054952,tt8091892,tt8092118">
+  <anime anidbid="10755" tvdbid="movie" imdbid="tt4054952,tt8091892,tt8092118">
     <name>Gekijouban Fate/Stay Night: Heaven's Feel</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-4;2-7;3-8;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="10756" tvdbid="hentai" defaulttvdbseason="1">
     <name>Niku Mesu R30: Nikuyoku ni Ochita Mesu-tachi The Animation</name>

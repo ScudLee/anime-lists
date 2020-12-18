@@ -1,0 +1,27 @@
+name: Update anime-lists
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: 0 1 * * SUN
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  update-list:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install xsltproc
+        run: sudo apt-get install xsltproc
+      - name: Update
+        run: |
+          curl -A Scudlee/anime-lists --compressed https://anidb.net/api/anime-titles.xml.gz | gzip -dc > animetitles.xml
+          xsltproc -o animetitles.xml transforms/sort-animetitles.xsl animetitles.xml
+          xsltproc -o anime-list-master.xml transforms/update-anime-list-master.xsl animetitles.xml
+          ./generate-lists.sh
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update anime-lists
+          commit_author: Github Actions <actions@github.com>

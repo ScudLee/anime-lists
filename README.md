@@ -67,7 +67,7 @@ Each entry consists of an **anime** node with the following attributes:
 
 *   **tmdbid**/**imdbid** - themoviedb.org/imdb.com id.  Only used for one-off titles, unless there's definitely a themoviedb.org entry.
     Only one will be filled, with preference going to the imdb.com id, but the imdb.com entry must correspond exactly with AniDb.net.
-    May be marked as "unknown" for movies (other types are inconsistent on usage).
+    **[Do not use tmdbid for series.](https://github.com/ScudLee/anime-lists/issues/342)**
 
 Within the anime node are any of the following nodes
 

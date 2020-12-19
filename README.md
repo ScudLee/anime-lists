@@ -174,10 +174,8 @@ They require the following programs to work:
 
 curl and xsltproc (and dependencies) should either be in the folder or added somewhere in the Windows PATH.
 
-(PRs for equivalent scripts and instructions for Mac and GNU/Linux are welcome.)
-
 ### update.bat ###
-Downloads the latest animetitles.xml, sorts it, updates anime-list-master.xml, calls generate-lists.bat, and commits the changed files.
+Downloads the latest animetitles.xml, sorts it, updates anime-list-master.xml, and calls generate-lists.bat.
 
 ### update.sh ###
 Same as `update.bat` but for POSIX platforms.
@@ -195,22 +193,19 @@ Contributing
 ------------
 There are a couple of ways to contribute updates:
 
-The simplest way is to just post the details of the update, either in the [XBMC forum thread](http://forum.kodi.tv/showthread.php?tid=142835) or as an [Issue](https://github.com/ScudLee/anime-lists/issues) on GitHub, and they will be dealt with when noticed.
+The simplest way is to just post the details of the update, either in the [XBMC forum thread](http://forum.kodi.tv/showthread.php?tid=142835) or as an [Issue](https://github.com/Anime-Lists/anime-lists/issues) on GitHub, and they will be dealt with when noticed.
 
-Or you can post a [Pull Request](https://github.com/ScudLee/anime-lists/pulls):
+Or you can post a [Pull Request](https://github.com/Anime-Lists/anime-lists/pulls):
 
-1.   Fork the [repo](https://github.com/ScudLee/anime-lists)
+1.   [Fork the repo](https://github.com/Anime-Lists/anime-lists/fork)
 2.   Create a new branch (`git checkout -b new_branch`)
 3.   Edit either the **anime-list-master.xml** or **anime-movieset-list.xml** (or both)
-  *   Run **generate-lists.bat** (optional)   
 4.   Commit your changes (`git commit -am "Added some titles"`)
 5.   Push to the branch (`git push origin new_branch`)
 6.   Submit the Pull Request
 7.   ???
 8.   Profit
 
-**Do not edit any other lists** as they are automatically generated, either use **generate-lists.bat** or leave them to be updated after the Pull Request has been pulled.
+**Do not edit any other lists** as they are automatically generated after your Pull Request was merged.
 
 Likewise, the anime names and the sort order in anime-movieset-list.xml will be automatically fixed based on the **anidbid**s, so don't be overly concerned about getting them exactly right (but obviously do get the **title** nodes right).
-
-Also, **do not run update.bat or update.sh in a Pull Request.**  If you need animetitles.xml updated, just ask.

@@ -1,5 +1,7 @@
 name: Generate lists
-on: [push, pull_request, pull_request_target]
+on:
+  push:
+    branches: master
 jobs:
   generate-lists:
     runs-on: ubuntu-latest

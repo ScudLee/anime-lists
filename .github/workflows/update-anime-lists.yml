@@ -5,6 +5,8 @@ on:
     - cron: 0 1 * * SUN
 jobs:
   update-list:
+    #only update in the main repository
+    if: ${{ github.repository_owner == 'Anime-Lists' }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2

@@ -25270,7 +25270,7 @@
     <name>Majokko Shimai no Yoyo to Nene</name>
   </anime>
   <anime anidbid="9465" tvdbid="254667" defaulttvdbseason="2">
-    <name>Senki Zesshou Symphogear G: In the Distance, That Day, When the Star Became Music...</name>
+    <name>Senki Zesshou Symphogear G</name>
   </anime>
   <anime anidbid="9466" tvdbid="267441" defaulttvdbseason="1">
     <name>Hataraku Maou-sama!</name>
@@ -27156,7 +27156,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="10321" tvdbid="254667" defaulttvdbseason="3">
-    <name>Senki Zesshou Symphogear GX: Believe in Justice and Hold a Determination to Fist.</name>
+    <name>Senki Zesshou Symphogear GX</name>
   </anime>
   <anime anidbid="10323" tvdbid="283924" defaulttvdbseason="1">
     <name>Ore, Twintail ni Narimasu.</name>
@@ -33768,5 +33768,11 @@
   </anime>
   <anime anidbid="15902" tvdbid="79895" defaulttvdbseason="0" episodeoffset="17">
     <name>Gintama: The Semi-Final</name>
+  </anime>
+  <anime anidbid="15934" tvdbid="283934" defaulttvdbseason="3">
+    <name>World Trigger 3</name>
+  </anime>
+  <anime anidbid="15936" tvdbid="393742" defaulttvdbseason="1">
+    <name>Platinum End</name>
   </anime>
 </anime-list>

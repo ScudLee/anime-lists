@@ -32595,6 +32595,9 @@
   </anime>
   <anime anidbid="14439" tvdbid="330692" defaulttvdbseason="0" episodeoffset="4">
     <name>Heya Camp</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-17;2-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="14440" tvdbid="360438" defaulttvdbseason="1" tmdbid="90546" imdbid="tt10256918">
     <name>Toaru Kagaku no Accelerator</name>

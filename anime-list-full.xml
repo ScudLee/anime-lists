@@ -32386,6 +32386,9 @@
   <anime anidbid="14198" tvdbid="351953" defaulttvdbseason="1">
     <name>Zombie Land Saga</name>
   </anime>
+  <anime anidbid="14199" tvdbid="346744" defaulttvdbseason="2">
+    <name>Aggressive Retsuko (2019)</name>
+  </anime>
   <anime anidbid="14200" tvdbid="369141" defaulttvdbseason="1">
     <name>Hoshiai no Sora</name>
   </anime>
@@ -32751,6 +32754,9 @@
   </anime>
   <anime anidbid="14530" tvdbid="359836" defaulttvdbseason="1">
     <name>Nobunaga-sensei no Osanazuma</name>
+  </anime>
+  <anime anidbid="14531" tvdbid="346744" defaulttvdbseason="0">
+    <name>Aggressive Retsuko: We Wish You a Metal Christmas</name>
   </anime>
   <anime anidbid="14532" tvdbid="movie" defaulttvdbseason="1" imdbid="tt9418812">
     <name>Hello World</name>
@@ -33328,6 +33334,9 @@
   <anime anidbid="15033" tvdbid="370373" defaulttvdbseason="1" tmdbid="94214">
     <name>Urashimasakatasen no Nichijou</name>
   </anime>
+  <anime anidbid="15034" tvdbid="346744" defaulttvdbseason="3">
+    <name>Aggressive Retsuko (2020)</name>
+  </anime>
   <anime anidbid="15035" tvdbid="326270" defaulttvdbseason="0" episodeoffset="3">
     <name>Quanzhi Gaoshou: Dianfeng Rongyao</name>
   </anime>
@@ -33777,5 +33786,11 @@
   </anime>
   <anime anidbid="15936" tvdbid="393742" defaulttvdbseason="1">
     <name>Platinum End</name>
+  </anime>
+  <anime anidbid="15945" tvdbid="386572" defaulttvdbseason="2">
+    <name>Kuma Kuma Kuma Bear 2</name>
+  </anime>
+  <anime anidbid="15949" tvdbid="346744" defaulttvdbseason="4">
+    <name>Aggressive Retsuko 4</name>
   </anime>
 </anime-list>

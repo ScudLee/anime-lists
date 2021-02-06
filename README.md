@@ -108,6 +108,8 @@ The mapping-list node consists of one or more **mapping** nodes with the followi
     The offset and/or episodeoffset will be ignored in favour of an individual mapping.
 
     Episodes on AniDb.net that don't match anything on theTVDB.com are mapped to 0 (or 99) if and only if there's a conflict.
+    
+    For mapping specials other than AniDb.net S-Specials, the OP/ED specials start from episode 101, the T-specials start from 201, the P-specials (parody/fandub) starts from 301 and the O-specials start from 401.
 
 #### supplemental-info ####
 The supplemental-info node may contain an optional attribute of **replace="true"**, in which case the information will replace that supplied by AniDb.net, otherwise it is just added to (and prioritised over) the AniDb.net information.
